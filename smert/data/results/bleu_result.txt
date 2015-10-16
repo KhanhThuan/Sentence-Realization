@@ -1,0 +1,17 @@
+train:499 sentences
+=> Optimizing Lambda: [0.1,0.2,-0.1]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 12819 / 12819 = 1.0000
+BLEU_precision(2) = 10029 / 12293 = 0.8158
+BLEU_precision(3) = 8494 / 11768 = 0.7218
+BLEU_precision(4) = 7190 / 11244 = 0.6395
+BLEU_precision = 0.7833
+Length of candidate corpus = 12819
+Effective length of reference corpus = 12819
+BLEU_BP = 1.0000
+  => BLEU = 0.7833
+
+ 
+	========================================================

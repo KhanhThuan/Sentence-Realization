@@ -1,0 +1,9533 @@
+*	2	NULL	thắng
+* tên	2	NULL	thắng
+* tên các	1	NULL
+* tên nạn	1	thắng
+-	8	4	chấn	hà	năm	thanh	thắng	tuổi	xóm
+- bạn	1	thanh
+- bạn chung	1	thanh
+- hải	1	thắng
+- hải hiếuôtô	1	thắng
+- nghi	1	tuổi
+- nghi can	1	tuổi
+- người	1	chấn
+- người bị	1	chấn
+- việt	1	hà
+- việt dũng	1	hà
+- đi	1	xóm
+- đi chung	1	xóm
+- đã	1	năm
+- đã hoàn	1	năm
+- đồng	1	4
+- đồng phạm	1	4
+000	1	NULL
+000 usd	1	NULL
+000 usd nữa	1	NULL
+000 đồng	1	NULL
+000 đồng NULL	1	NULL
+1	1	hiện
+1 NULL	1	hiện
+10	5	năm	phòng	sau	suốt	trong
+10 năm	3	sau	suốt	trong
+10 năm -	1	suốt
+10 năm bị	1	sau
+10 năm ngồi	1	trong
+10 tháng	1	sau
+10 tháng thương	1	sau
+10 tuổi	1	năm
+10 tuổi cha	1	năm
+10 vksnd	1	phòng
+10 vksnd tỉnh	1	phòng
+100	3	giá	gần	hơn
+100 NULL	1	giá
+100 mộ	1	hơn
+100 mộ liệt	1	hơn
+100 triệu	1	hơn
+100 triệu đồng	1	hơn
+100 vụ	1	gần
+100 vụ việc	1	gần
+105	2	cộng	dựng
+105 mộ	2	cộng	dựng
+105 mộ liệt	2	cộng	dựng
+11	1	với
+11 người	1	với
+11 người liên	1	với
+11 người tham	1	với
+12	1	gái
+12 tuổi	1	gái
+12 tuổi NULL	1	gái
+13/10	1	ngày
+13/10 nam	1	ngày
+13/10 nam sinh	1	ngày
+13/10 sang	1	ngày
+13/10 sang quyết	1	ngày
+14	1	xong
+14 vụ	1	xong
+14 vụ việc	1	xong
+15	1	NULL
+15 phút	1	NULL
+15 phút sau	1	NULL
+15/10	3	ngày	trưa	tối
+15/10 công	2	ngày	tối
+15/10 công an	2	ngày	tối
+15/10 ra	1	ngày
+15/10 ra tay	1	ngày
+15/10 sau	1	trưa
+15/10 sau khi	1	trưa
+15/4/2014	1	ngày
+15/4/2014 hà	1	ngày
+15/4/2014 hà chị	1	ngày
+15/8	1	ngày
+15/8 bao	1	ngày
+15/8 bao gồm	1	ngày
+15/9	1	trưa
+15/9 hai	1	trưa
+15/9 hai nữ	1	trưa
+16	1	hơn
+16 tỷ	1	hơn
+16 tỷ đồng	1	hơn
+16/10	2	ngày	sáng
+16/10 công	2	ngày	sáng
+16/10 công an	2	ngày	sáng
+16/10 tand	1	ngày
+16/10 tand quảng	1	ngày
+17	1	năm
+17 tuổi	1	năm
+17 tuổi lan	1	năm
+18	4	cùng	quỳnh	sang	thanh
+18 tuổi	4	cùng	quỳnh	sang	thanh
+18 tuổi -	1	sang
+18 tuổi ngụ	1	thanh
+18 tuổi đã	1	sang
+18 tuổi để	1	cùng
+18 tuổi ở	1	quỳnh
+2	6	axit	cướp	như	sau	trong	độ
+2 bình	1	như
+2 bình axit	1	như
+2 chiếc	1	cướp
+2 chiếc nhẫn	1	cướp
+2 ngày	2	sau	trong
+2 ngày NULL	1	trong
+2 ngày chờ	1	sau
+2 nữ	1	axit
+2 nữ sinh	1	axit
+2 tỉnh	1	độ
+2 tỉnh táo	1	độ
+2/2014	1	tháng
+2/2014 một	1	tháng
+2/2014 một người	1	tháng
+2/9…	1	dịp
+2/9… bẵng	1	dịp
+2/9… bẵng đi	1	dịp
+20/8	1	ngày
+20/8 người	1	ngày
+20/8 người của	1	ngày
+2008	1	năm
+2008 thúy	1	năm
+2008 thúy và	1	năm
+2010-2013	1	năm
+2010-2013 họ	1	năm
+2010-2013 họ lừa	1	năm
+2012	1	năm
+2012 lan	1	năm
+2012 lan lại	1	năm
+2012 đến	1	năm
+2012 đến giữa	1	năm
+2013	1	giữa
+2013 nhóm	1	giữa
+2013 nhóm này	1	giữa
+2015	1	năm
+2015 có	1	năm
+2015 có gần	1	năm
+21	4	cảnh	hưng	lý	quyền
+21 tuổi	3	cảnh	hưng	quyền
+21 tuổi cầm	1	quyền
+21 tuổi ngồi	1	hưng
+21 tuổi ngụ	1	cảnh
+21 vụ	1	lý
+21 vụ kiện	1	lý
+22/8	1	tối
+22/8 bị	1	tối
+22/8 bị can	1	tối
+26	2	hơn	ngân
+26 tuổi	1	ngân
+26 tuổi thành	1	ngân
+26 tỷ	1	hơn
+26 tỷ đồng	1	hơn
+28	1	sơn
+28 tuổi	1	sơn
+28 tuổi và	1	sơn
+3	6	còn	có	cấp	mua	tháng	thêm
+3 NULL	1	thêm
+3 bình	1	còn
+3 bình axit	1	còn
+3 can	1	mua
+3 can nhựa	1	mua
+3 với	1	cấp
+3 với quỳnh	1	cấp
+3 vừa	1	tháng
+3 vừa qua	1	tháng
+3 đại	1	có
+3 đại diện	1	có
+30	1	thuế
+30 triệu	1	thuế
+30 triệu đồng	1	thuế
+32	1	duyên
+32 tuổi	1	duyên
+32 tuổi NULL	1	duyên
+37	1	duyên
+37 tuổi	1	duyên
+37 tuổi nguyễn	1	duyên
+4	6	iphone	kéo	qua	quận	tiếp	từ
+4 -	1	quận
+4 - đồng	1	quận
+4 cũ	1	iphone
+4 cũ NULL	1	iphone
+4 giá	1	iphone
+4 giá 100	1	iphone
+4 người	1	kéo
+4 người thân	1	kéo
+4 nhát	1	tiếp
+4 nhát vào	1	tiếp
+4 năm	1	từ
+4 năm nay	1	từ
+4 đã	1	iphone
+4 đã bị	1	iphone
+4 đợt	1	qua
+4 đợt cất	1	qua
+4/10	1	ngày
+4/10 nữ	1	ngày
+4/10 nữ quái	1	ngày
+4/11/2013	1	ngày
+4/11/2013 ông	1	ngày
+4/11/2013 ông chấn	1	ngày
+4/2014	1	tháng
+4/2014 donald	1	tháng
+4/2014 donald jack	1	tháng
+40	1	hơn
+40 vụ	1	hơn
+40 vụ đã	1	hơn
+5	3	kèm	quận	tháng
+5 NULL	1	kèm
+5 mua	1	quận
+5 mua 3	1	quận
+5 sau	1	tháng
+5 sau 10	1	tháng
+500	1	NULL
+500 bảng	1	NULL
+500 bảng anh	1	NULL
+53	1	thúy
+53 tuổi	1	thúy
+53 tuổi mẫn	1	thúy
+550	3	chuyển	phí	ứng
+550 usd	3	chuyển	phí	ứng
+550 usd cho	1	phí
+550 usd rồi	1	ứng
+550 usd vào	1	chuyển
+56	1	thủy
+56 tuổi	1	thủy
+56 tuổi cầm	1	thủy
+59	1	cùng
+59 NULL	1	cùng
+6	3	của	này	thêm
+6 người	1	này
+6 người bị	1	này
+6 nạn	2	của	thêm
+6 nạn nhân	2	của	thêm
+63	1	liên
+63 tuổi	1	liên
+63 tuổi ở	1	liên
+65	1	chiêm
+65 tuổi	1	chiêm
+65 tuổi cựu	1	chiêm
+69	1	chung
+69 tuổi	1	chung
+69 tuổi quản	1	chung
+6s	1	iphone
+6s laptop	1	iphone
+6s laptop và	1	iphone
+7	2	tới	xử
+7 người	1	xử
+7 người liên	1	xử
+7 tỷ	1	tới
+7 tỷ đồng	1	tới
+7,2	3	cấp	thường	định
+7,2 tỷ	3	cấp	thường	định
+7,2 tỷ đồng	3	cấp	thường	định
+7,5	1	cầm
+7,5 triệu	1	cầm
+7,5 triệu đồng	1	cầm
+7/2013	1	tháng
+7/2013 trong	1	tháng
+7/2013 trong đơn	1	tháng
+700	1	đến
+700 triệu	1	đến
+700 triệu đồng	1	đến
+8	3	lừa	tháng	đưa
+8 chân	1	tháng
+8 chân dung	1	tháng
+8 người	1	lừa
+8 người đi	1	lừa
+8 triệu	1	đưa
+8 triệu đồng	1	đưa
+8/2003	1	tháng
+8/2003 khi	1	tháng
+8/2003 khi công	1	tháng
+800	2	NULL	giá
+800 chai	1	NULL
+800 chai rượu	1	NULL
+800 triệu	1	giá
+800 triệu đồng	1	giá
+9	1	quận
+9 NULL	1	quận
+9 sang	1	quận
+9 sang đổ	1	quận
+9 tp	1	quận
+9 tp hcm	1	quận
+9 xác	1	quận
+9 xác định	1	quận
+9 đang	1	quận
+9 đang điều	1	quận
+9,3	1	khoảng
+9,3 tỷ	1	khoảng
+9,3 tỷ đồng	1	khoảng
+NULL	151	1	100	3	5	59	9	anh	axit	biết	bài	bên	bạc	bắc	bắt	bọn	campuchia	chung	chuyện	cháy	chấn	cuộc	công	cũ	cười	cầu	cốt	cứu	danh	doạ	dạ	gia	gian	giả	giữ	gộc	hay	hcm	huỷ	hà	hơn	hưng	hương	hại	hầm	hận	hệ	khanh”	khoác	khác	không	kiếm	kể	kịp	lan	làm	lái	lạc	lại	lịch	lớn	lừa	mình	mạng	mặt	mức	n	nam	ngoài	ngày	ngân	người	nhau	nhiệm	nhà	nhân	nhỏ	nhựa	nuôi	nào	này	nặng	nỉ	nội	nở	online	pháp	phương	phạm	quyết	quỳnh	ra	rẫy	rẻ	rệt	sang	sóng	sĩ	sản	sức	tay	theo	thoát	thoại	thuẫn	thuốc	thành	thân	thù	thường	thấy	thắng	thể	thời	thủ	tin	tiền	tra	trường	trị	trọng	tuổi	tình	tình”	tích	tòa	tất	tập	tệ	tốt	từ	tự	vi	việc	viện	vào	về	xe	xưa	yên	án	đi	đoạt	đây	đó	đương	đường	đảo	đầu	đồng	đổi	đội
+NULL *	1	NULL
+NULL * tên	1	NULL
+NULL 000	1	NULL
+NULL 000 usd	1	NULL
+NULL 000 đồng	1	NULL
+NULL 15	1	NULL
+NULL 15 phút	1	NULL
+NULL 500	1	NULL
+NULL 500 bảng	1	NULL
+NULL 800	1	NULL
+NULL 800 chai	1	NULL
+NULL NULL *	1	NULL
+NULL NULL 000	1	NULL
+NULL NULL 15	1	NULL
+NULL NULL 500	1	NULL
+NULL NULL 800	1	NULL
+NULL NULL ai	1	NULL
+NULL NULL alfred	1	NULL
+NULL NULL anh	1	NULL
+NULL NULL biết	1	NULL
+NULL NULL bà	1	NULL
+NULL NULL bác	1	NULL
+NULL NULL bước	1	NULL
+NULL NULL bạn	1	NULL
+NULL NULL bảo	1	NULL
+NULL NULL bất	1	NULL
+NULL NULL bị	1	NULL
+NULL NULL chánh	1	NULL
+NULL NULL chúng	1	NULL
+NULL NULL chỉ	1	NULL
+NULL NULL chị	1	NULL
+NULL NULL chờ	1	NULL
+NULL NULL cuối	1	NULL
+NULL NULL các	1	NULL
+NULL NULL cáo	1	NULL
+NULL NULL còn	1	NULL
+NULL NULL có	1	NULL
+NULL NULL cô	1	NULL
+NULL NULL công	1	NULL
+NULL NULL cùng	1	NULL
+NULL NULL cảnh	1	NULL
+NULL NULL cầm	1	NULL
+NULL NULL cục	1	NULL
+NULL NULL do	1	NULL
+NULL NULL em	1	NULL
+NULL NULL facebook	1	NULL
+NULL NULL gia	1	NULL
+NULL NULL hai	1	NULL
+NULL NULL hoàng	1	NULL
+NULL NULL hà	1	NULL
+NULL NULL hàng	1	NULL
+NULL NULL hôm	1	NULL
+NULL NULL hơn	1	NULL
+NULL NULL hồng	1	NULL
+NULL NULL khi	1	NULL
+NULL NULL khoảng	1	NULL
+NULL NULL không	1	NULL
+NULL NULL kiểm	1	NULL
+NULL NULL liên	1	NULL
+NULL NULL luống	1	NULL
+NULL NULL lân	1	NULL
+NULL NULL lê	1	NULL
+NULL NULL lúc	1	NULL
+NULL NULL lần	1	NULL
+NULL NULL lệnh	1	NULL
+NULL NULL lực	1	NULL
+NULL NULL mang	1	NULL
+NULL NULL mong	1	NULL
+NULL NULL mỗi	1	NULL
+NULL NULL một	1	NULL
+NULL NULL mới	1	NULL
+NULL NULL nam	1	NULL
+NULL NULL ngay	1	NULL
+NULL NULL ngoài	1	NULL
+NULL NULL nguyên	1	NULL
+NULL NULL nguyễn	1	NULL
+NULL NULL ngày	1	NULL
+NULL NULL người	1	NULL
+NULL NULL nhanh	1	NULL
+NULL NULL nhiều	1	NULL
+NULL NULL nhóm	1	NULL
+NULL NULL níu	1	NULL
+NULL NULL nó	1	NULL
+NULL NULL năm	1	NULL
+NULL NULL nạn	1	NULL
+NULL NULL nếu	1	NULL
+NULL NULL nữ	1	NULL
+NULL NULL phía	1	NULL
+NULL NULL phòng	1	NULL
+NULL NULL qua	1	NULL
+NULL NULL quá	1	NULL
+NULL NULL quốc	1	NULL
+NULL NULL quỳnh	1	NULL
+NULL NULL riêng	1	NULL
+NULL NULL sang	1	NULL
+NULL NULL sau	1	NULL
+NULL NULL siêu	1	NULL
+NULL NULL suốt	1	NULL
+NULL NULL sáng	1	NULL
+NULL NULL sợ	1	NULL
+NULL NULL sức	1	NULL
+NULL NULL thanh	1	NULL
+NULL NULL theo	1	NULL
+NULL NULL tháng	1	NULL
+NULL NULL thắc	1	NULL
+NULL NULL thế	1	NULL
+NULL NULL trong	1	NULL
+NULL NULL trên	1	NULL
+NULL NULL trưa	1	NULL
+NULL NULL trước	1	NULL
+NULL NULL trả	1	NULL
+NULL NULL tuy	1	NULL
+NULL NULL tôi	1	NULL
+NULL NULL tại	1	NULL
+NULL NULL tối	1	NULL
+NULL NULL tổng	1	NULL
+NULL NULL từ	1	NULL
+NULL NULL v	1	NULL
+NULL NULL và	1	NULL
+NULL NULL vài	1	NULL
+NULL NULL vì	1	NULL
+NULL NULL với	1	NULL
+NULL NULL vụ	1	NULL
+NULL NULL vừa	1	NULL
+NULL NULL xem	1	NULL
+NULL NULL xưng	1	NULL
+NULL NULL  	1	NULL
+NULL NULL  cảnh	1	NULL
+NULL NULL  nữ	1	NULL
+NULL NULL  thấy	1	NULL
+NULL NULL  trưa	1	NULL
+NULL NULL   giúp	1	NULL
+NULL NULL  đến	1	NULL
+NULL NULL  ảnh	1	NULL
+NULL NULL ông	1	NULL
+NULL NULL đang	1	NULL
+NULL NULL điểm	1	NULL
+NULL NULL đúng	1	NULL
+NULL NULL được	1	NULL
+NULL NULL đặc	1	NULL
+NULL NULL đến	1	NULL
+NULL NULL đồng	1	NULL
+NULL NULL đội	1	NULL
+NULL NULL ảnh	1	NULL
+NULL ai	1	NULL
+NULL ai phải	1	NULL
+NULL alfred	1	NULL
+NULL alfred bailey	1	NULL
+NULL anh	1	NULL
+NULL anh ta	1	NULL
+NULL anh ta đến	1	NULL
+NULL biết	1	NULL
+NULL biết nữ	1	NULL
+NULL bà	1	NULL
+NULL bà liên	1	NULL
+NULL bà nguyễn	1	NULL
+NULL bà ta	1	NULL
+NULL bác	1	NULL
+NULL bác sĩ	1	NULL
+NULL bước	1	NULL
+NULL bước đầu	1	NULL
+NULL bạn	1	NULL
+NULL bạn đồng	1	NULL
+NULL bảo	1	NULL
+NULL bảo hà	1	NULL
+NULL bất	1	NULL
+NULL bất ngờ	1	NULL
+NULL bị	1	NULL
+NULL bị chồng	1	NULL
+NULL bị cáo	1	NULL
+NULL bị người	1	NULL
+NULL chánh	1	NULL
+NULL chánh văn	1	NULL
+NULL chúng	1	NULL
+NULL chúng tôi	1	NULL
+NULL chỉ	1	NULL
+NULL chỉ đến	1	NULL
+NULL chị	1	NULL
+NULL chị đã	1	NULL
+NULL chờ	1	NULL
+NULL chờ đến	1	NULL
+NULL cuối	1	NULL
+NULL cuối tháng	1	NULL
+NULL các	1	NULL
+NULL các bị	1	NULL
+NULL các cô	1	NULL
+NULL cáo	1	NULL
+NULL cáo trạng	1	NULL
+NULL còn	1	NULL
+NULL còn thanh	1	NULL
+NULL có	1	NULL
+NULL có lần	1	NULL
+NULL cô	1	NULL
+NULL cô bạn	1	NULL
+NULL công	1	NULL
+NULL công an	1	NULL
+NULL cùng	1	NULL
+NULL cùng cảnh	1	NULL
+NULL cùng với	1	NULL
+NULL cảnh	1	NULL
+NULL cảnh sát	1	NULL
+NULL cảnh đâm	1	NULL
+NULL cầm	1	NULL
+NULL cầm 7,5	1	NULL
+NULL cục	1	NULL
+NULL cục bồi	1	NULL
+NULL cục trưởng	1	NULL
+NULL do	1	NULL
+NULL do nghi	1	NULL
+NULL do sang	1	NULL
+NULL do đó	1	NULL
+NULL em	1	NULL
+NULL em không	1	NULL
+NULL facebook	1	NULL
+NULL facebook của	1	NULL
+NULL gia	1	NULL
+NULL gia đình	1	NULL
+NULL hai	1	NULL
+NULL hai hôm	1	NULL
+NULL hai nữ	1	NULL
+NULL hoàng	1	NULL
+NULL hoàng táobịa	1	NULL
+NULL hoàng việtkiều	1	NULL
+NULL hà	1	NULL
+NULL hà cũng	1	NULL
+NULL hà kể	1	NULL
+NULL hàng	1	NULL
+NULL hàng loạt	1	NULL
+NULL hôm	1	NULL
+NULL hôm đó	1	NULL
+NULL hơn	1	NULL
+NULL hơn tháng	1	NULL
+NULL hồng	1	NULL
+NULL hồng nguyên	1	NULL
+NULL khi	1	NULL
+NULL khi có	1	NULL
+NULL khi cả	1	NULL
+NULL khi hai	1	NULL
+NULL khoảng	1	NULL
+NULL khoảng một	1	NULL
+NULL không	1	NULL
+NULL không thể	1	NULL
+NULL kiểm	1	NULL
+NULL kiểm tra	1	NULL
+NULL liên	1	NULL
+NULL liên quan	1	NULL
+NULL luống	1	NULL
+NULL luống cuống	1	NULL
+NULL lân	1	NULL
+NULL lân la	1	NULL
+NULL lê	1	NULL
+NULL lê huânkẻ	1	NULL
+NULL lúc	1	NULL
+NULL lúc cả	1	NULL
+NULL lúc mấy	1	NULL
+NULL lúc này	1	NULL
+NULL lần	1	NULL
+NULL lần này	1	NULL
+NULL lệnh	1	NULL
+NULL lệnh truy	1	NULL
+NULL lực	1	NULL
+NULL lực lượng	1	NULL
+NULL mang	1	NULL
+NULL mang hận	1	NULL
+NULL mong	1	NULL
+NULL mong được	1	NULL
+NULL mỗi	1	NULL
+NULL mỗi người	1	NULL
+NULL một	1	NULL
+NULL một ngày	1	NULL
+NULL một nạn	1	NULL
+NULL một tháng	1	NULL
+NULL một thời	1	NULL
+NULL mới	1	NULL
+NULL mới đây	1	NULL
+NULL nam	1	NULL
+NULL nam sinh	1	NULL
+NULL nam thanh	1	NULL
+NULL ngay	1	NULL
+NULL ngay chiều	1	NULL
+NULL ngay sau	1	NULL
+NULL ngoài	1	NULL
+NULL ngoài ra	1	NULL
+NULL ngoài truy	1	NULL
+NULL nguyên	1	NULL
+NULL nguyên nhân	1	NULL
+NULL nguyễn	1	NULL
+NULL nguyễn văn	1	NULL
+NULL ngày	1	NULL
+NULL ngày 13/10	1	NULL
+NULL ngày 15/10	1	NULL
+NULL ngày 16/10	1	NULL
+NULL ngày 4/11/2013	1	NULL
+NULL người	1	NULL
+NULL người nhà	1	NULL
+NULL người này	1	NULL
+NULL người đàn	1	NULL
+NULL nhanh	1	NULL
+NULL nhanh chóng	1	NULL
+NULL nhiều	1	NULL
+NULL nhiều cựu	1	NULL
+NULL nhóm	1	NULL
+NULL nhóm này	1	NULL
+NULL níu	1	NULL
+NULL níu kéo	1	NULL
+NULL nó	1	NULL
+NULL nó nói	1	NULL
+NULL năm	1	NULL
+NULL năm 10	1	NULL
+NULL năm 17	1	NULL
+NULL năm 2012	1	NULL
+NULL nạn	1	NULL
+NULL nạn nhân	1	NULL
+NULL nếu	1	NULL
+NULL nếu xảy	1	NULL
+NULL nữ	1	NULL
+NULL nữ sinh	1	NULL
+NULL phía	1	NULL
+NULL phía ngoài	1	NULL
+NULL phòng	1	NULL
+NULL phòng pc46	1	NULL
+NULL qua	1	NULL
+NULL qua các	1	NULL
+NULL quá	1	NULL
+NULL quá trình	1	NULL
+NULL quốc	1	NULL
+NULL quốc thắng	1	NULL
+NULL quỳnh	1	NULL
+NULL quỳnh ôm	1	NULL
+NULL riêng	1	NULL
+NULL riêng quyền	1	NULL
+NULL riêng vũ	1	NULL
+NULL sang	1	NULL
+NULL sang hay	1	NULL
+NULL sang thừa	1	NULL
+NULL sang trái	1	NULL
+NULL sang và	1	NULL
+NULL sau	1	NULL
+NULL sau 2	1	NULL
+NULL sau cuộc	1	NULL
+NULL sau hỗn	1	NULL
+NULL sau đó	1	NULL
+NULL siêu	1	NULL
+NULL siêu lừa	1	NULL
+NULL suốt	1	NULL
+NULL suốt nhiều	1	NULL
+NULL sáng	1	NULL
+NULL sáng nay	1	NULL
+NULL sợ	1	NULL
+NULL sợ có	1	NULL
+NULL sức	1	NULL
+NULL sức khỏe	1	NULL
+NULL thanh	1	NULL
+NULL thanh khai	1	NULL
+NULL theo	1	NULL
+NULL theo cơ	1	NULL
+NULL theo ngân	1	NULL
+NULL theo nội	1	NULL
+NULL theo ông	1	NULL
+NULL theo điều	1	NULL
+NULL tháng	1	NULL
+NULL tháng 2/2014	1	NULL
+NULL tháng 3	1	NULL
+NULL tháng 4/2014	1	NULL
+NULL tháng 7/2013	1	NULL
+NULL thắc	1	NULL
+NULL thắc mắc	1	NULL
+NULL thế	1	NULL
+NULL thế nhưng	1	NULL
+NULL trong	1	NULL
+NULL trong 10	1	NULL
+NULL trong khi	1	NULL
+NULL trong nhà	1	NULL
+NULL trong sáng	1	NULL
+NULL trong số	1	NULL
+NULL trên	1	NULL
+NULL trên đường	1	NULL
+NULL trưa	1	NULL
+NULL trưa 15/10	1	NULL
+NULL trưa nay	1	NULL
+NULL trước	1	NULL
+NULL trước việc	1	NULL
+NULL trước đó	1	NULL
+NULL trả	1	NULL
+NULL trả lời	1	NULL
+NULL tuy	1	NULL
+NULL tuy nhiên	1	NULL
+NULL tôi	1	NULL
+NULL tôi rất	1	NULL
+NULL tại	1	NULL
+NULL tại cơ	1	NULL
+NULL tại phiên	1	NULL
+NULL tối	1	NULL
+NULL tối 15/10	1	NULL
+NULL tối 22/8	1	NULL
+NULL tổng	1	NULL
+NULL tổng tiền	1	NULL
+NULL từ	1	NULL
+NULL từ cuối	1	NULL
+NULL v	1	NULL
+NULL v trưa	1	NULL
+NULL và	1	NULL
+NULL và rồi	1	NULL
+NULL vài	1	NULL
+NULL vài phút	1	NULL
+NULL vì	1	NULL
+NULL vì sao	1	NULL
+NULL vì thế	1	NULL
+NULL với	1	NULL
+NULL với những	1	NULL
+NULL vụ	1	NULL
+NULL vụ việc	1	NULL
+NULL vụ án	1	NULL
+NULL vừa	1	NULL
+NULL vừa năn	1	NULL
+NULL xem	1	NULL
+NULL xem xét	1	NULL
+NULL xưng	1	NULL
+NULL xưng danh	1	NULL
+NULL  	1	NULL
+NULL   chúng	1	NULL
+NULL   hiện	1	NULL
+NULL   theo	1	NULL
+NULL  cảnh	1	NULL
+NULL  cảnh sát	1	NULL
+NULL  nữ	1	NULL
+NULL  nữ sinh	1	NULL
+NULL  thấy	1	NULL
+NULL  thấy chị	1	NULL
+NULL  trưa	1	NULL
+NULL  trưa nay	1	NULL
+NULL   giúp	1	NULL
+NULL   giúp bạn	1	NULL
+NULL  đến	1	NULL
+NULL  đến gần	1	NULL
+NULL  ảnh	1	NULL
+NULL  ảnh n	1	NULL
+NULL ông	1	NULL
+NULL ông chấn	1	NULL
+NULL ông phạm	1	NULL
+NULL đang	1	NULL
+NULL đang hồi	1	NULL
+NULL điểm	1	NULL
+NULL điểm chung	1	NULL
+NULL đúng	1	NULL
+NULL đúng ngày	1	NULL
+NULL được	1	NULL
+NULL được đưa	1	NULL
+NULL đặc	1	NULL
+NULL đặc biệt	1	NULL
+NULL đến	1	NULL
+NULL đến cuối	1	NULL
+NULL đến gần	1	NULL
+NULL đến ngày	1	NULL
+NULL đến đường	1	NULL
+NULL đồng	1	NULL
+NULL đồng thời	1	NULL
+NULL đội	1	NULL
+NULL đội ngũ	1	NULL
+NULL ảnh	1	NULL
+NULL ảnh cắt	1	NULL
+NULL ảnh hoàng	1	NULL
+NULL ảnh quốc	1	NULL
+a	1	phú
+a cả	1	phú
+a cả hai	1	phú
+a hai	1	phú
+a hai nữ	1	phú
+ai	2	NULL	có
+ai phải	1	NULL
+ai phải chịu	1	NULL
+ai đứng	1	có
+ai đứng gần	1	có
+alfred	5	NULL	facebook	tuần	tên	từ
+alfred bailey	5	NULL	facebook	tuần	tên	từ
+alfred bailey chủ	1	facebook
+alfred bailey cũng	1	NULL
+alfred bailey gửi	1	từ
+alfred bailey lại	1	tuần
+alfred bailey nói	1	tên
+an	3	camera	công	vệ
+an huyện	1	công
+an huyện việt	1	công
+an ninh	2	camera	vệ
+an ninh bệnh	1	camera
+an ninh và	1	vệ
+an quận	1	công
+an quận 9	1	công
+an quận hoàn	1	công
+an thành	1	công
+an thành phố	1	công
+an tp	1	công
+an tp đà	1	công
+an tỉnh	1	công
+an tỉnh bình	1	công
+an đà	1	công
+an đà nẵng	1	công
+an đà nẵng…	1	công
+anh	6	NULL	bảng	lần	nay	nguyễn	tiếng
+anh NULL	1	bảng
+anh chiều	1	nguyễn
+anh chiều con	1	nguyễn
+anh hà	1	tiếng
+anh hà mượn	1	tiếng
+anh này	1	nay
+anh này gọi	1	nay
+anh ta	2	NULL	lần
+anh ta khai	1	NULL
+anh ta rủ	1	NULL
+anh ta uy	1	lần
+anh ta đến	1	NULL
+anh ta đến giường	1	NULL
+atm	1	thẻ
+atm của	1	thẻ
+atm của chủ	1	thẻ
+axit	9	bình	bởi	ca	dùng	là	nhựa	tạt	đổ	đựng
+axit 2	1	tạt
+axit 2 nữ	1	tạt
+axit NULL	1	tạt
+axit bạn	1	tạt
+axit bạn gái	1	tạt
+axit bắn	1	bởi
+axit bắn vào	1	bởi
+axit chưa	1	bình
+axit chưa sử	1	bình
+axit dùng	1	bình
+axit dùng để	1	bình
+axit hai	1	tạt
+axit hai nữ	1	tạt
+axit khi	1	đựng
+axit khi gây	1	đựng
+axit khiến	1	tạt
+axit khiến họ	1	tạt
+axit kẻ	1	tạt
+axit kẻ thù	1	tạt
+axit nhập	1	tạt
+axit nhập viện	1	tạt
+axit thanh	1	là
+axit thanh kể	1	là
+axit trên	1	tạt
+axit trên đường	1	tạt
+axit tình	1	tạt
+axit tình cũ	1	tạt
+axit từ	1	đổ
+axit từ bình	1	đổ
+axit vào	2	ca	tạt
+axit vào mặt	2	ca	tạt
+axit để	1	dùng
+axit để trả	1	dùng
+axit đổ	1	nhựa
+axit đổ vào	1	nhựa
+bailey	1	alfred
+bailey chủ	1	alfred
+bailey chủ động	1	alfred
+bailey cũng	1	alfred
+bailey cũng không	1	alfred
+bailey gửi	1	alfred
+bailey gửi cho	1	alfred
+bailey lại	1	alfred
+bailey lại nhắn	1	alfred
+bailey nói	1	alfred
+bailey nói đang	1	alfred
+ban	2	này	tra
+ban ngày	1	này
+ban ngày đi	1	này
+ban đầu	1	tra
+ban đầu tra	1	tra
+bao	1	15/8
+bao gồm	1	15/8
+bao gồm nước	1	15/8
+bay	1	sân
+bay họ	1	sân
+bay họ phát	1	sân
+bay malaysia	1	sân
+bay malaysia kiện	1	sân
+bi	1	như
+bi đông	1	như
+bi đông dép	1	như
+binh	1	cựu
+binh mang	1	cựu
+binh mang theo	1	cựu
+biên	3	kim	qua	vượt
+biên giới	2	qua	vượt
+biên giới campuchia	1	qua
+biên giới dắt	1	vượt
+biên quận	1	kim
+biên quận 5	1	kim
+biên sang	2	kim	vượt
+biên sang lên	1	kim
+biên sang mỹ	1	vượt
+biết	4	NULL	cho	không	mới
+biết NULL	1	cho
+biết bị	2	cho	mới
+biết bị lừa	1	mới
+biết bị một	1	cho
+biết gì	1	không
+biết gì về	1	không
+biết nữ	2	NULL	cho
+biết nữ sinh	2	NULL	cho
+biết qua	1	cho
+biết qua trích	1	cho
+biết sẽ	1	cho
+biết sẽ qua	1	cho
+biết trước	1	cho
+biết trước đây	1	cho
+biết và	1	không
+biết và chưa	1	không
+biết đang	1	cho
+biết đang chuyển	1	cho
+biệt	1	đặc
+biệt khó	1	đặc
+biệt khó khăn	1	đặc
+biệt thông	1	đặc
+biệt thông tin	1	đặc
+biệt trên	1	đặc
+biệt trên toàn	1	đặc
+biệt đã	1	đặc
+biệt đã được	1	đặc
+buồn	1	kết
+buồn của	1	kết
+buồn của chuyện	1	kết
+buồng	1	các
+buồng bệnh	1	các
+buồng bệnh ở	1	các
+buộc	1	tuyên
+buộc ông	1	tuyên
+buộc ông phải	1	tuyên
+bà	5	NULL	cao	nhân	sau	đồng
+bà cho	1	cao
+bà cho hay	1	cao
+bà liên	3	NULL	nhân	đồng
+bà liên bỏ	1	đồng
+bà liên khai	1	NULL
+bà liên khoe	2	NULL	nhân
+bà nguyễn	1	NULL
+bà nguyễn thị	1	NULL
+bà nội	1	sau
+bà nội và	1	sau
+bà ta	2	NULL	sau
+bà ta bỏ	1	NULL
+bà ta quay	1	sau
+bài	2	nội	sòng
+bài NULL	1	sòng
+bài hà	1	nội
+bài hà nội	1	nội
+bàng…	1	bẽ
+bàng… thêm	1	bẽ
+bàng… thêm một	1	bẽ
+bày	1	động
+bày tỏ	1	động
+bày tỏ tình	1	động
+bác	4	NULL	gặp	quen	thẩm
+bác sĩ	3	NULL	gặp	quen
+bác sĩ có	1	quen
+bác sĩ nên	1	quen
+bác sĩ phạm	1	NULL
+bác sĩ để	2	gặp	quen
+bác đơn	1	thẩm
+bác đơn kêu	1	thẩm
+bám	2	chúng	sang
+bám theo	2	chúng	sang
+bám theo NULL	2	chúng	sang
+bán	4	cách	hứa	sẽ	việc
+bán cho	2	hứa	sẽ
+bán cho cậu	1	hứa
+bán cho em	1	sẽ
+bán hàng	1	việc
+bán hàng online	1	việc
+bán rẻ	1	cách
+bán rẻ điện	1	cách
+báo	5	cảnh	họp	khai	theo	thông
+báo cáo	1	theo
+báo cáo thì	1	theo
+báo món	1	thông
+báo món quà	1	thông
+báo quanh	1	khai
+báo quanh co	1	khai
+báo sáng	1	họp
+báo sáng nay	1	họp
+báo về	1	thông
+báo về câu	1	thông
+báo về kế	1	thông
+báo đến	1	cảnh
+báo đến gia	1	cảnh
+bè	1	bạn
+bè các	1	bạn
+bè các nữ	1	bạn
+bên	5	hai	kế	mắt	mặc	mặt
+bên NULL	1	kế
+bên gia	1	hai
+bên gia đình	1	hai
+bên ngoài	1	mặc
+bên ngoài đeo	1	mặc
+bên trái	2	mắt	mặt
+bên trái phỏng	1	mặt
+bên trái độ	1	mắt
+bình	9	2	3	khoa	ra	tại	tỉnh	từ	vào	đổ
+bình axit	2	2	3
+bình axit chưa	1	2
+bình axit dùng	1	3
+bình dương	1	tỉnh
+bình dương phát	1	tỉnh
+bình phước	1	tại
+bình phước đăk	1	tại
+bình ra	1	từ
+bình ra ca	1	từ
+bình thuận	2	khoa	tỉnh
+bình thuận cho	1	tỉnh
+bình thuận cảnh	1	khoa
+bình thuận và	1	khoa
+bình thuận đã	1	tỉnh
+bình thản	1	ra
+bình thản sang	1	ra
+bình xe	1	vào
+bình xe máy	1	vào
+bình ắc	1	đổ
+bình ắc qui	1	đổ
+bước	2	NULL	niên
+bước nhanh	1	niên
+bước nhanh vào	1	niên
+bước đầu	1	NULL
+bước đầu xác	1	NULL
+bạc	3	con	phụ	đánh
+bạc NULL	1	đánh
+bạc cho	1	con
+bạc cho các	1	con
+bạc tôi	1	phụ
+bạc tôi lại	1	phụ
+bạn	17	-	NULL	axit	bảo	chở	cô	cậu	của	kết	là	nước	quỳnh	theo	thấy	từ	với	  giúp
+bạn bè	1	theo
+bạn bè các	1	theo
+bạn cho	1	nước
+bạn cho trích	1	nước
+bạn chung	1	-
+bạn chung xóm	1	-
+bạn chở	1	bảo
+bạn chở vượt	1	bảo
+bạn giao	1	kết
+bạn giao lưu	1	kết
+bạn gái	3	axit	chở	thấy
+bạn gái cùng	1	chở
+bạn gái cũ	1	axit
+bạn gái của	1	thấy
+bạn gái hứa	1	axit
+bạn gần	1	cậu
+bạn gần nhà	1	cậu
+bạn học	3	cậu	là	quỳnh
+bạn học chung	1	cậu
+bạn học cấp	1	là
+bạn học thời	1	quỳnh
+bạn mặc	1	của
+bạn mặc bên	1	của
+bạn ngồi	1	cô
+bạn ngồi sau	1	cô
+bạn rời	1	cô
+bạn rời cổng	1	cô
+bạn thân	1	cậu
+bạn thân NULL	1	cậu
+bạn thì	1	với
+bạn thì bị	1	với
+bạn trai	1	từ
+bạn trai người	1	từ
+bạn trên	1	kết
+bạn trên facebook…	1	kết
+bạn tạt	1	  giúp
+bạn tạt axit	1	  giúp
+bạn từ	1	chở
+bạn từ trường	1	chở
+bạn đồng	1	NULL
+bạn đồng ý	1	NULL
+bản	1	hai
+bản án	1	hai
+bản án dân	1	hai
+bản án kết	1	hai
+bảng	1	500
+bảng anh	1	500
+bảng anh NULL	1	500
+bảo	5	NULL	cha	sang	tác	và
+bảo bạn	1	sang
+bảo bạn chở	1	sang
+bảo gia	1	và
+bảo gia đình	1	và
+bảo hà	1	NULL
+bảo hà -	1	NULL
+bảo lãnh	1	cha
+bảo lãnh sang	1	cha
+bảo vệ	2	tác	và
+bảo vệ an	1	tác
+bảo vệ bệnh	1	và
+bất	3	NULL	này	sinh
+bất ngờ	3	NULL	này	sinh
+bất ngờ bị	1	sinh
+bất ngờ khi	1	NULL
+bất ngờ rút	1	này
+bẫy	1	mắc
+bẫy quà	1	mắc
+bẫy quà hàng	1	mắc
+bắc	3	thuận	tỉnh	yên
+bắc NULL	1	thuận
+bắc giang	2	tỉnh	yên
+bắc giang cho	1	yên
+bắc giang và	1	yên
+bắc giang để	1	tỉnh
+bắn	1	axit
+bắn vào	1	axit
+bắn vào mặt	1	axit
+bắt	6	bị	duyên	nắm	truy	tố	đã
+bắt NULL	1	bị
+bắt cơ	1	nắm
+bắt cơ hội	1	nắm
+bắt giữ	1	bị
+bắt giữ NULL	1	bị
+bắt kẻ	1	truy
+bắt kẻ đâm	1	truy
+bắt một	1	truy
+bắt một cán	1	truy
+bắt nam	1	truy
+bắt nam thanh	1	truy
+bắt phạm	1	đã
+bắt phạm hoàng	1	đã
+bắt tạm	1	tố
+bắt tạm giam	1	tố
+bắt đầu	1	duyên
+bắt đầu hành	1	duyên
+bằng	3	công	sống	tình
+bằng chiếc	1	công
+bằng chiếc iphone	1	công
+bằng cách	2	công	tình
+bằng cách bán	1	công
+bằng cách tạt	1	tình
+bằng nghề	1	sống
+bằng nghề lên	1	sống
+bẵng	1	2/9…
+bẵng đi	1	2/9…
+bẵng đi gần	1	2/9…
+bẽ	1	thật
+bẽ bàng…	1	thật
+bẽ bàng… thêm	1	thật
+bệnh	21	buồng	camera	của	cứu	giúp	hoặc	lên	lừa	nghị	người	nhà	ninh	sóc	trong	tại	vào	vệ	xạ	đâm	đình	ở
+bệnh nhân	8	giúp	hoặc	lừa	nhà	sóc	xạ	đâm	đình
+bệnh nhân NULL	2	lừa	nhà
+bệnh nhân bà	1	sóc
+bệnh nhân hoặc	1	nhà
+bệnh nhân trong	2	xạ	đâm
+bệnh nhân với	1	hoặc
+bệnh nhân đang	1	đình
+bệnh nhân được	1	giúp
+bệnh viện	11	camera	của	cứu	lên	nghị	ninh	trong	tại	vào	vệ	ở
+bệnh viện NULL	3	của	trong	tại
+bệnh viện chợ	2	cứu	lên
+bệnh viện gần	1	vào
+bệnh viện theo	1	camera
+bệnh viện truy	1	vào
+bệnh viện tăng	1	nghị
+bệnh viện việt	2	tại	ở
+bệnh viện đa	2	cứu	ninh
+bệnh viện ập	1	vệ
+bệnh đưa	1	người
+bệnh đưa 8	1	người
+bệnh ở	1	buồng
+bệnh ở bệnh	1	buồng
+bị	35	22/8	NULL	biết	chuẩn	các	cũng	cư	của	diện	gòn	hai	hoành	hàng	lái	lại	người	ngờ	nhân	này	năm	nữ	quyền	rằng	sang	sau	sinh	thanh	thì	tiền	tum	tố	tục	vì	đang	đã
+bị bắt	6	cũng	gòn	năm	sinh	thanh	đã
+bị bắt NULL	4	cũng	gòn	năm	sinh
+bị bắt giữ	2	thanh	đã
+bị bỏng	1	sinh
+bị bỏng giác	1	sinh
+bị can	2	22/8	tố
+bị can này	1	22/8
+bị can tạm	1	tố
+bị chiếm	1	tiền
+bị chiếm đoạt	1	tiền
+bị cháy	1	cư
+bị cháy NULL	1	cư
+bị chúng	1	chuẩn
+bị chúng đến	1	chuẩn
+bị chồng	1	NULL
+bị chồng hờ	1	NULL
+bị cáo	2	NULL	các
+bị cáo chủ	1	NULL
+bị cáo tại	1	các
+bị giam	1	người
+bị giam ở	1	người
+bị hai	1	hai
+bị hai nam	1	hai
+bị hại	3	các	của	diện
+bị hại NULL	1	của
+bị hại nhiều	1	diện
+bị hại yêu	1	các
+bị hải	1	lại
+bị hải quan	1	lại
+bị khoá	1	đã
+bị khoá mạng	1	đã
+bị kết	1	người
+bị kết án	1	người
+bị lừa	4	biết	nhân	nữ	đã
+bị lừa NULL	2	biết	đã
+bị lừa nhiều	1	nhân
+bị lừa quà	1	nữ
+bị một	1	biết
+bị một người	1	biết
+bị người	1	NULL
+bị người yêu	1	NULL
+bị nhóm	2	rằng	thì
+bị nhóm kia	1	rằng
+bị nhóm nguyễn	1	thì
+bị nhẹ	1	sau
+bị nhẹ hơn	1	sau
+bị nạn	1	này
+bị nạn nhân	1	này
+bị nặng	1	lái
+bị nặng được chuyển	1	lái
+bị nữ	1	vì
+bị nữ sinh	1	vì
+bị sang	1	sinh
+bị sang tạt	1	sinh
+bị sang đi	1	sinh
+bị thiệt	1	người
+bị thiệt hại	1	người
+bị thương	2	cũng	quyền
+bị thương bởi	1	cũng
+bị thương nặng	1	quyền
+bị trai	1	tố
+bị trai tây	1	tố
+bị triệu	1	sang
+bị triệu tập	1	sang
+bị truy	3	hoành	người	tum
+bị truy tố	3	hoành	người	tum
+bị trả	2	hàng	nhân
+bị trả lại	1	hàng
+bị trả thù	1	nhân
+bị trục	1	tục
+bị trục trặc	1	tục
+bị tạm	1	đang
+bị tạm giữ	1	đang
+bị tạt	1	sinh
+bị tạt axit	1	sinh
+bị vạ	1	cũng
+bị vạ lây	1	cũng
+bị ách	1	đã
+bị ách lại	1	đã
+bị điều	1	cũng
+bị điều tra	1	cũng
+bị đôi	1	ngờ
+bị đôi thanh	1	ngờ
+bọn	1	đồng
+bọn NULL	1	đồng
+bỏ	5	chịu	lan	liên	ta	đã
+bỏ lại	1	lan
+bỏ lại vợ	1	lan
+bỏ trốn	2	liên	đã
+bỏ trốn khỏi	1	đã
+bỏ trốn theo	1	liên
+bỏ đi	2	chịu	ta
+bỏ đi NULL	1	chịu
+bỏ đi với	1	ta
+bỏng	1	bị
+bỏng giác	1	bị
+bỏng giác mạc	1	bị
+bốc	1	cất
+bốc hài	1	cất
+bốc hài cốt	1	cất
+bốn	2	trưởng	văn
+bốn cho	2	trưởng	văn
+bốn cho hay	2	trưởng	văn
+bốn xác	1	văn
+bốn xác nhận	1	văn
+bồi	13	cầuai	cục	nhiệm	quyết	thuận	tiền	trưởng	trả	việc	về	đòi	được	đồng
+bồi thường	13	cầuai	cục	nhiệm	quyết	thuận	tiền	trưởng	trả	việc	về	đòi	được	đồng
+bồi thường 7,2	2	thuận	tiền
+bồi thường NULL	1	trả
+bồi thường cho	2	tiền	trả
+bồi thường có	1	quyết
+bồi thường cấp	1	nhiệm
+bồi thường hơn	1	tiền
+bồi thường không	1	quyết
+bồi thường nhà	3	cục	trưởng	về
+bồi thường oan	1	đồng
+bồi thường rất	2	việc	đòi
+bồi thường thiệt	1	cầuai
+bồi thường tiền	1	được
+bồi thường toàn	1	được
+bồi thường được	1	việc
+bộ	14	chấn	cán	mặc	nhà	nước	phòng	số	thì	tin	toàn	trong	tại	áo	được
+bộ dạng	1	trong
+bộ dạng gầy	1	trong
+bộ hành	1	toàn
+bộ hành vi	1	toàn
+bộ hải	1	cán
+bộ hải quan	1	cán
+bộ phận	1	số
+bộ phận công	1	số
+bộ quần	1	mặc
+bộ quần áo	1	mặc
+bộ thiệt	1	toàn
+bộ thiệt hại	1	toàn
+bộ tài	3	thì	tin	được
+bộ tài chính	3	thì	tin	được
+bộ tư	4	chấn	nước	phòng	tại
+bộ tư pháp	4	chấn	nước	phòng	tại
+bộ điều	1	cán
+bộ điều tra	1	cán
+bộ đôi	1	nhà
+bộ đôi mai	1	nhà
+bộ đội	1	áo
+bộ đội NULL	1	áo
+bởi	1	thương
+bởi axit	1	thương
+bởi axit bắn	1	thương
+ca	3	cả	ném	ra
+ca axit	1	cả
+ca axit vào	1	cả
+ca nhựa	1	ra
+ca nhựa NULL	1	ra
+ca đựng	1	ném
+ca đựng axit	1	ném
+camera	2	từ	xuất
+camera an	1	xuất
+camera an ninh	1	xuất
+camera bệnh	1	từ
+camera bệnh viện	1	từ
+camera để	1	xuất
+camera để ra	1	xuất
+campuchia	2	giới	tận
+campuchia NULL	1	tận
+campuchia đánh	1	giới
+campuchia đánh bạc	1	giới
+can	4	3	bị	nghi	người
+can chính	1	nghi
+can chính lê	1	nghi
+can lừa	1	nghi
+can lừa đảo	1	nghi
+can ngăn	1	người
+can ngăn kịp	1	người
+can nhựa	1	3
+can nhựa axit	1	3
+can này	2	bị	nghi
+can này làm	1	bị
+can này đã	1	nghi
+can tạm	1	bị
+can tạm giam	1	bị
+can tạt	1	nghi
+can tạt axit	1	nghi
+can đâm	1	nghi
+can đâm bệnh	1	nghi
+can đâm loạn	1	nghi
+cao	6	cư	cả	dép	nghệ	trường	tối
+cao bà	1	tối
+cao bà cho	1	tối
+cao chủ	1	tối
+cao chủ tọa	1	tối
+cao cấp	1	cư
+cao cấp nhưng	1	cư
+cao mới	1	nghệ
+cao mới hình	1	nghệ
+cao su	1	dép
+cao su ngôi	1	dép
+cao trong	1	tối
+cao trong phiên	1	tối
+cao đã	1	tối
+cao đã phê	1	tối
+cao đã vào	1	tối
+cao đạt	1	tối
+cao đạt được	1	tối
+cao đẳng	2	cả	trường
+cao đẳng thì	1	trường
+cao đẳng đi	1	trường
+cao đẳng ở	1	cả
+cha	3	khi	tuổi	được
+cha bảo	1	được
+cha bảo lãnh	1	được
+cha lan	1	tuổi
+cha lan bỏ	1	tuổi
+cha mẹ	1	khi
+cha mẹ cô	1	khi
+chai	1	800
+chai rượu	1	800
+chai rượu ngoại	1	800
+che	1	để
+che giấu	1	để
+che giấu hành	1	để
+chi	4	hoạch	nước	tục	để
+chi trả	4	hoạch	nước	tục	để
+chi trả bồi	2	hoạch	để
+chi trả tiền	1	tục
+chi trả trong	1	nước
+chia	5	lời	sinh	vừa	yêu	động
+chia tay	5	lời	sinh	vừa	yêu	động
+chia tay NULL	1	động
+chia tay mặc	1	lời
+chia tay sang	2	sinh	yêu
+chia tay với	1	vừa
+chiêm	1	tuấn
+chiêm 65	1	tuấn
+chiêm 65 tuổi	1	tuấn
+chiếc	6	2	bằng	mượn	ngoài	này	vì
+chiếc iphone	2	bằng	vì
+chiếc iphone 4	1	bằng
+chiếc iphone giá	1	vì
+chiếc nhẫn	1	2
+chiếc nhẫn cùng	1	2
+chiếc xe	1	ngoài
+chiếc xe mượn	1	ngoài
+chiếc áo	1	mượn
+chiếc áo khoác	1	mượn
+chiếc điện	1	này
+chiếc điện thoại	1	này
+chiếm	3	bị	sĩ	đảo
+chiếm đoạt	3	bị	sĩ	đảo
+chiếm đoạt NULL	1	bị
+chiếm đoạt hơn	1	sĩ
+chiếm đoạt tài	1	đảo
+chiến	2	hỗn	thị
+chiến hưng	1	hỗn
+chiến hưng và	1	hỗn
+chiến trước	1	hỗn
+chiến trước đó	1	hỗn
+chiến vợ	1	thị
+chiến vợ ông	1	thị
+chiếu	1	đối
+chiếu với	1	đối
+chiếu với ảnh	1	đối
+chiều	3	anh	kiến	ngay
+chiều con	1	anh
+chiều con rể	1	anh
+chiều hôm	1	ngay
+chiều hôm đó	1	ngay
+chiều nay	1	kiến
+chiều nay hđxx	1	kiến
+cho	32	bà	bán	bạc	bạn	bốn	cấp	dưỡng	facebook	giang	gọi	gửi	hà	jack	khoản	lại	ngoại	ngãi	niên	này	oan	pc46	rẫy	sai	thuận	thân	thù	thường	tra	usd	đưa	được	đồng
+cho biết	7	jack	ngãi	niên	này	rẫy	thuận	tra
+cho biết NULL	1	tra
+cho biết bị	1	ngãi
+cho biết nữ	1	rẫy
+cho biết qua	1	thuận
+cho biết sẽ	1	jack
+cho biết trước	1	niên
+cho biết đang	1	này
+cho con	1	dưỡng
+cho con chị	1	dưỡng
+cho các	2	bạc	cấp
+cho các nạn	1	cấp
+cho các sòng	1	bạc
+cho cán	1	khoản
+cho cán bộ	1	khoản
+cho cậu	1	bán
+cho cậu này	1	bán
+cho donald	1	gọi
+cho donald để	1	gọi
+cho em	1	bán
+cho em cái	1	bán
+cho hay	7	bà	bốn	hà	này	pc46	thân	tra
+cho hay NULL	1	tra
+cho hay có	1	này
+cho hay gia	1	thân
+cho hay những	1	hà
+cho hay số	1	bốn
+cho hay theo	1	bốn
+cho hay trong	1	pc46
+cho hay đã	1	bà
+cho hà	1	ngoại
+cho hà NULL	1	ngoại
+cho hải	1	usd
+cho hải quan	1	usd
+cho là	1	được
+cho là leo	1	được
+cho ngân	2	facebook	gửi
+cho ngân NULL	1	gửi
+cho ngân thông	1	facebook
+cho người	1	thường
+cho người bị	1	thường
+cho rằng	2	giang	lại
+cho rằng không	1	lại
+cho rằng ông	1	giang
+cho thanh	1	đưa
+cho thanh và	1	đưa
+cho thấy	1	khoản
+cho thấy người	1	khoản
+cho trích	1	bạn
+cho trích xuất	1	bạn
+cho tòa	1	thường
+cho tòa án	1	thường
+cho ông	3	oan	sai	đồng
+cho ông chấn	1	oan
+cho ông nguyễn	2	sai	đồng
+cho đồng	1	thù
+cho đồng bọn	1	thù
+choạng	1	loạng
+choạng làm	1	loạng
+choạng làm ngã	1	loạng
+choạng ngã	1	loạng
+choạng ngã xuống	1	loạng
+chung	11	bạn	học	khi	nguyễn	sống	tù	đi	điểm	đập	đức	ở
+chung 69	1	đức
+chung 69 tuổi	1	đức
+chung NULL	2	nguyễn	đập
+chung cư	2	khi	ở
+chung cư bị	1	khi
+chung cư cao	1	ở
+chung của	1	điểm
+chung của tất	1	điểm
+chung hứa	1	đi
+chung hứa bán	1	đi
+chung không	1	sống
+chung không hôn	1	sống
+chung ra	1	nguyễn
+chung ra đầu	1	nguyễn
+chung thân	1	tù
+chung thân NULL	1	tù
+chung trường	1	học
+chung trường NULL	1	học
+chung xóm	1	bạn
+chung xóm -	1	bạn
+chuyên	1	người
+chuyên trách	1	người
+chuyên trách chủ	1	người
+chuyển	7	lay	phải	rồi	sang	đang	đi	được
+chuyển 550	1	đi
+chuyển 550 usd	1	đi
+chuyển lên	1	được
+chuyển lên tp	1	được
+chuyển món	1	đang
+chuyển món quà	1	đang
+chuyển tiếp	1	rồi
+chuyển tiếp lên	1	rồi
+chuyển từ	1	sang
+chuyển từ yêu	1	sang
+chuyển vào	1	phải
+chuyển vào tài	1	phải
+chuyển được	1	lay
+chuyển được nữ	1	lay
+chuyển đến	1	được
+chuyển đến ngày	1	được
+chuyện	4	của	nói	trò	táobịa
+chuyện NULL	1	nói
+chuyện liên	1	nói
+chuyện liên đã	1	nói
+chuyện người	1	trò
+chuyện người đàn	1	trò
+chuyện quen	1	táobịa
+chuyện quen bác	1	táobịa
+chuyện trên	1	trò
+chuyện trên facebook	1	trò
+chuyện tình	1	của
+chuyện tình yêu	1	của
+chuyện và	1	nói
+chuyện và liên	1	nói
+chuẩn	2	khi	phê
+chuẩn bị	1	khi
+chuẩn bị chúng	1	khi
+chuẩn quyết	1	phê
+chuẩn quyết định	1	phê
+chuộc	1	sang
+chuộc điện	1	sang
+chuộc điện thoại	1	sang
+chánh	1	NULL
+chánh văn	1	NULL
+chánh văn phòng	1	NULL
+cháy	2	bị	ra
+cháy NULL	1	bị
+cháy lớn	1	ra
+cháy lớn và	1	ra
+chân	2	8	nhanh
+chân dung	1	8
+chân dung lan	1	8
+chân tẩu	1	nhanh
+chân tẩu thoát	1	nhanh
+chính	5	can	chấn	hàng	trong	tài
+chính cấp	1	tài
+chính cấp 7,2	1	tài
+chính cấp để	1	tài
+chính lê	1	can
+chính lê thanh	1	can
+chính lời	1	trong
+chính lời khai	1	trong
+chính sách	1	hàng
+chính sách xã	1	hàng
+chính thức	1	chấn
+chính thức “sạch	1	chấn
+chính đã	1	tài
+chính đã cấp	1	tài
+chóng	1	nhanh
+chóng tỏ	1	nhanh
+chóng tỏ ra	1	nhanh
+chúng	7	NULL	bị	hàng	qua	sĩ	thì	 
+chúng bám	1	qua
+chúng bám theo	1	qua
+chúng cung	1	hàng
+chúng cung cấp	1	hàng
+chúng nhận	1	sĩ
+chúng nhận giúp	1	sĩ
+chúng tôi	3	NULL	thì	 
+chúng tôi có	1	thì
+chúng tôi đang	2	NULL	 
+chúng đến	1	bị
+chúng đến trước	1	bị
+chăm	3	tỉnh	đang	được
+chăm sóc	3	tỉnh	đang	được
+chăm sóc bệnh	1	tỉnh
+chăm sóc em	1	đang
+chăm sóc tốt	1	được
+chưa	7	axit	hệ	họ	tiền	tình	và	định
+chưa nhận	1	họ
+chưa nhận được	1	họ
+chưa quan	1	định
+chưa quan tâm	1	định
+chưa sử	1	axit
+chưa sử dụng	1	axit
+chưa từng	2	tình	và
+chưa từng gặp	1	tình
+chưa từng nhìn	1	và
+chưa đi	1	hệ
+chưa đi quá	1	hệ
+chưa đến	1	tiền
+chưa đến tay	1	tiền
+chạy	1	vội
+chạy đi	1	vội
+chạy đi chuyển	1	vội
+chấn	2	thanh	ông
+chấn -	1	thanh
+chấn - người	1	thanh
+chấn NULL	2	thanh	ông
+chấn bộ	1	ông
+chấn bộ tư	1	ông
+chấn chính	1	ông
+chấn chính thức	1	ông
+chấn cũng	1	ông
+chấn cũng bị	1	ông
+chấn giết	1	ông
+chấn giết người	1	ông
+chấn tố	1	ông
+chấn tố cáo	1	ông
+chấn và	1	ông
+chấn và người	1	ông
+chấn vướng	1	ông
+chấn vướng lao	1	ông
+chấn được	1	ông
+chấn được tạm	1	ông
+chấp	1	không
+chấp nhận	1	không
+chấp nhận nối	1	không
+chất	1	tính
+chất một	1	tính
+chất một số	1	tính
+chặn	1	đã
+chặn truy	1	đã
+chặn truy cập	1	đã
+chế	2	ở	ức
+chế sang	1	ức
+chế sang doạ	1	ức
+chế độ	1	ở
+chế độ mở	1	ở
+chỉ	6	NULL	ngân	nói	tra	đã	địa
+chỉ có	1	tra
+chỉ có manh	1	tra
+chỉ một	1	địa
+chỉ một nơi	1	địa
+chỉ sau	1	ngân
+chỉ sau vài	1	ngân
+chỉ đạo	2	nói	đã
+chỉ đạo tạo	1	đã
+chỉ đạo đồng	1	nói
+chỉ đến	1	NULL
+chỉ đến khi	1	NULL
+chị	9	NULL	chờ	con	giết	hà	kể	với	 thấy	đợi
+chị hoan	2	con	giết
+chị hoan được	1	con
+chị hoan để	1	giết
+chị hà	1	với
+chị hà chị	1	với
+chị là	1	kể
+chị là tiểu	1	kể
+chị lê	1	hà
+chị lê thị	1	hà
+chị ngân	1	đợi
+chị ngân lại	1	đợi
+chị nhận	1	hà
+chị nhận được	1	hà
+chị quỳnh	2	chờ	 thấy
+chị quỳnh NULL	1	chờ
+chị quỳnh cùng	1	 thấy
+chị đã	1	NULL
+chị đã tạm	1	NULL
+chịu	2	mới	phải
+chịu bỏ	1	mới
+chịu bỏ đi	1	mới
+chịu trách	1	phải
+chịu trách nhiệm	1	phải
+chồng	4	bị	của	lấy	người
+chồng hờ	1	bị
+chồng hờ ruồng	1	bị
+chồng phụ	1	người
+chồng phụ bạc	1	người
+chồng sắp	1	của
+chồng sắp cưới	1	của
+chồng tây	1	lấy
+chồng tây để	1	lấy
+chờ	5	NULL	hộp	ngày	nhân	trường
+chờ chị	1	trường
+chờ chị quỳnh	1	trường
+chờ nhiều	1	nhân
+chờ nhiều tiếng	1	nhân
+chờ quà	1	hộp
+chờ quà của	1	hộp
+chờ đến	1	NULL
+chờ đến đoạn	1	NULL
+chờ đợi	1	ngày
+chờ đợi chị	1	ngày
+chở	6	bạn	hiếuôtô	sẽ	thanh	đang	đường
+chở bạn	2	sẽ	đang
+chở bạn gái	1	đang
+chở bạn từ	1	sẽ
+chở nhau	1	đường
+chở nhau về	1	đường
+chở rượu	1	hiếuôtô
+chở rượu lậu	1	hiếuôtô
+chở sang	1	thanh
+chở sang bám	1	thanh
+chở vượt	1	bạn
+chở vượt lên	1	bạn
+chợ	3	viện	đến	ở
+chợ kim	2	đến	ở
+chợ kim biên	2	đến	ở
+chợ rẫy	1	viện
+chợ rẫy NULL	1	viện
+chợ rẫy cho	1	viện
+chợ rẫy người	1	viện
+chục	1	cả
+chục triệu	1	cả
+chục triệu đồng	1	cả
+chủ	8	bailey	cao	cáo	của	nhân	quỳnh	trách	vì
+chủ mưu	2	cáo	vì
+chủ mưu làm	1	vì
+chủ mưu thúy	1	cáo
+chủ quan	1	nhân
+chủ quan do	1	nhân
+chủ tài	1	của
+chủ tài khoản	1	của
+chủ tọa	1	cao
+chủ tọa phiên	1	cao
+chủ yếu	1	trách
+chủ yếu kiêm	1	trách
+chủ động	2	bailey	quỳnh
+chủ động bày	1	bailey
+chủ động chia	1	quỳnh
+chứ	1	trường
+chứ không	1	trường
+chứ không trực	1	trường
+chức	3	công	quan	và
+chức lãnh	1	công
+chức lãnh đạo	1	công
+chức năng, trong	1	quan
+chức năng, trong thời	1	quan
+chức tham	1	công
+chức tham mưu	1	công
+chức vụ	1	và
+chức vụ công	1	và
+chứng	3	nhân	vật	đơn
+chứng của	1	vật
+chứng của vụ	1	vật
+chứng từ	1	đơn
+chứng từ NULL	1	đơn
+chứng vắng	1	nhân
+chứng vắng mặt	1	nhân
+clip	1	tung
+clip hai	1	tung
+clip hai người	1	tung
+co	1	quanh
+co nhiều	1	quanh
+co nhiều lúc	1	quanh
+con	7	chiều	cho	cùng	mối	phòng	sinh	vợ
+con bạc	1	mối
+con bạc cho	1	mối
+con chị	1	cho
+con chị hoan	1	cho
+con gái	1	cùng
+con gái 12	1	cùng
+con rể	1	chiều
+con rể duyên	1	chiều
+con trai	1	phòng
+con trai đang	1	phòng
+con vượt	1	vợ
+con vượt biên	1	vợ
+con để	1	sinh
+con để mưu	1	sinh
+csđt	1	quan
+csđt ở	1	quan
+csđt ở hà	1	quan
+cung	3	chúng	hà	ép
+cung cấp	2	chúng	hà
+cung cấp cho	1	chúng
+cung cấp cơ	1	hà
+cung dùng	1	ép
+cung dùng nhục	1	ép
+cuối	4	NULL	mình	từ	đến
+cuối cùng	1	mình
+cuối cùng nam	1	mình
+cuối năm	1	từ
+cuối năm 2012	1	từ
+cuối tháng	2	NULL	đến
+cuối tháng 5	1	NULL
+cuối tháng 8	1	đến
+cuống	1	luống
+cuống xuống	1	luống
+cuống xuống xe	1	luống
+cuộc	5	sau	trong	trước	vào	được
+cuộc NULL	1	vào
+cuộc gặp	1	trước
+cuộc gặp gỡ	1	trước
+cuộc gọi	1	được
+cuộc gọi của	1	được
+cuộc họp	1	trong
+cuộc họp báo	1	trong
+cuộc nói	1	sau
+cuộc nói chuyện	1	sau
+các	18	NULL	bè	cho	cửa	dỗ	gia	giữ	nay	nhận	qua	sát	tand	tiền	trong	tên	tại	về	được
+các buồng	1	cửa
+các buồng bệnh	1	cửa
+các bị	2	NULL	nay
+các bị cáo	1	NULL
+các bị hại	1	nay
+các cô	1	NULL
+các cô gái	1	NULL
+các cấp	2	qua	tand
+các cấp xét	1	qua
+các cấp đã	1	tand
+các lần	1	qua
+các lần trò	1	qua
+các nghĩa	1	tại
+các nghĩa trang	1	tại
+các nạn	4	cho	dỗ	sát	tên
+các nạn nhân	4	cho	dỗ	sát	tên
+các nữ	1	bè
+các nữ sinh	1	bè
+các phi	1	gia
+các phi vụ	1	gia
+các phạm	1	được
+các phạm nhân	1	được
+các quyết	1	trong
+các quyết định	1	trong
+các quý	1	tiền
+các quý cô	1	tiền
+các sòng	1	cho
+các sòng bài	1	cho
+các thủ	1	nhận
+các thủ tục	1	nhận
+các tội	1	về
+các tội lừa	1	về
+các vật	1	giữ
+các vật chứng	1	giữ
+cách	2	bằng	tìm
+cách bán	1	bằng
+cách bán rẻ	1	bằng
+cách quyên	1	tìm
+cách quyên sinh	1	tìm
+cách tạt	1	bằng
+cách tạt axit	1	bằng
+cái	2	em	về
+cái kết	1	về
+cái kết buồn	1	về
+cái điện	1	em
+cái điện thoại	1	em
+cán	5	cho	của	một	nhóm	nữ
+cán bộ	5	cho	của	một	nhóm	nữ
+cán bộ hải	3	cho	của	nữ
+cán bộ điều	2	một	nhóm
+cáo	5	NULL	báo	bị	khuyến	tố
+cáo chủ	1	bị
+cáo chủ mưu	1	bị
+cáo nhóm	1	tố
+cáo nhóm cán	1	tố
+cáo thì	1	báo
+cáo thì bộ	1	báo
+cáo trai	1	tố
+cáo trai tây	1	tố
+cáo trạng	1	NULL
+cáo trạng xác	1	NULL
+cáo tại	1	bị
+cáo tại phiên	1	bị
+cáo đây	1	khuyến
+cáo đây là	1	khuyến
+câu	1	về
+câu trả	1	về
+câu trả lời	1	về
+còn	7	NULL	lúc	nhà	nhưng	này	năng	xem
+còn 3	1	nhà
+còn 3 bình	1	nhà
+còn dư	1	nhưng
+còn dư nên	1	nhưng
+còn một	1	năng
+còn một phụ	1	năng
+còn thanh	1	NULL
+còn thanh khai	1	NULL
+còn tình	1	lúc
+còn tình cảm	1	lúc
+còn tỏ	1	này
+còn tỏ ra	1	này
+còn vướng	1	xem
+còn vướng mắc	1	xem
+có	23	2015	NULL	chỉ	hay	hiện	hàng	khi	không	mới	người	nhìn	phải	quan	sĩ	sợ	thường	tôi	và	xử	án	ông	đây	được
+có 3	1	xử
+có 3 đại	1	xử
+có ai	1	không
+có ai đứng	1	không
+có cảnh	1	và
+có cảnh báo	1	và
+có giá	1	hàng
+có giá trị	1	hàng
+có gần	1	2015
+có gần 100	1	2015
+có hiệu	1	thường
+có hiệu lực	1	thường
+có hóa	1	không
+có hóa đơn	1	không
+có lúc	1	và
+có lúc tìm	1	và
+có lần	1	NULL
+có lần anh	1	NULL
+có lần ức	1	NULL
+có manh	1	chỉ
+có manh mối	1	chỉ
+có người	3	khi	không	sợ
+có người chuyên	1	không
+có người cần	1	khi
+có người nhận	1	sợ
+có nick	1	ông
+có nick name	1	ông
+có niềm	1	được
+có niềm vui	1	được
+có quan	1	đây
+có quan hệ	1	đây
+có số	1	người
+có số tài	1	người
+có sở	1	nhìn
+có sở thích	1	nhìn
+có thu	1	hay
+có thu nhập	1	hay
+có thông	1	mới
+có thông tin	1	mới
+có thể	2	sĩ	án
+có thể do	1	án
+có thể giúp	1	sĩ
+có tiền	1	hiện
+có tiền trong	1	hiện
+có trách	2	phải	quan
+có trách nhiệm	2	phải	quan
+có được	1	tôi
+có được bồi	1	tôi
+cô	14	NULL	các	cùng	giết	hai	khiến	mấy	mẹ	người	nhưng	này	quý	trước	đó
+cô bạn	2	NULL	cùng
+cô bạn ngồi	1	NULL
+cô bạn rời	1	cùng
+cô gái	6	các	hai	khiến	mấy	mẹ	nhưng
+cô gái cảm	1	khiến
+cô gái hết	1	mẹ
+cô gái không	1	nhưng
+cô gái ngã	1	mấy
+cô gái đau	1	các
+cô gái đi	1	hai
+cô hàng	1	giết
+cô hàng xóm	1	giết
+cô nhẹ	1	quý
+cô nhẹ dạ	1	quý
+cô nói	1	trước
+cô nói lời	1	trước
+cô phải	1	đó
+cô phải đóng	1	đó
+cô ruột	1	người
+cô ruột nhận	1	người
+cô ta	1	này
+cô ta kiếm	1	này
+cô đi	1	người
+cô đi NULL	1	người
+công	17	15/10	16/10	NULL	cường	của	cứu	khi	là	ngũ	phó	phạm	phận	quan	trả	tấn	vụ	ỏi
+công NULL	1	tấn
+công an	9	15/10	16/10	NULL	của	cứu	khi	phó	vụ	ỏi
+công an huyện	2	khi	phó
+công an quận	4	15/10	16/10	NULL	ỏi
+công an thành	1	NULL
+công an tp	1	vụ
+công an tỉnh	1	15/10
+công an đà	3	NULL	của	cứu
+công bằng	1	trả
+công bằng chiếc	1	trả
+công bằng cách	1	trả
+công chức	2	ngũ	phận
+công chức lãnh	1	phận
+công chức tham	1	ngũ
+công nghệ	1	phạm
+công nghệ cao	1	phạm
+công quyền	1	quan
+công quyền kêu	1	quan
+công ty	1	của
+công ty giao	1	của
+công ty làm	1	của
+công tác	1	cường
+công tác bảo	1	cường
+công đoàn	1	là
+công đoàn ngân	1	là
+cô…	1	người
+cô… và	1	người
+cô… và nơi	1	người
+cùng	10	NULL	cuối	gái	hai	nhẫn	quỳnh	sáng	thanh	đi	ở
+cùng 18	1	thanh
+cùng 18 tuổi	1	thanh
+cùng 59	1	nhẫn
+cùng 59 NULL	1	nhẫn
+cùng con	1	ở
+cùng con gái	1	ở
+cùng cô	1	quỳnh
+cùng cô bạn	1	quỳnh
+cùng cảnh	1	NULL
+cùng cảnh ngộ	1	NULL
+cùng cảnh đứt	1	NULL
+cùng nam	1	cuối
+cùng nam sinh	1	cuối
+cùng ngày	1	sáng
+cùng ngày cảnh	1	sáng
+cùng tuổi	1	gái
+cùng tuổi trên	1	gái
+cùng vào	1	hai
+cùng vào trường	1	hai
+cùng với	1	NULL
+cùng với việc	1	NULL
+cùng xe	1	đi
+cùng xe một	1	đi
+căn	2	trong	về
+căn hộ	1	trong
+căn hộ ôtô	1	trong
+căn phòng	1	về
+căn phòng con	1	về
+cũ	4	4	gái	tình	yêu
+cũ NULL	2	4	yêu
+cũ hứa	1	gái
+cũ hứa sẽ	1	gái
+cũ trong	1	tình
+cũ trong 2	1	tình
+cũ tên	1	gái
+cũ tên quỳnh	1	gái
+cũng	10	bailey	chấn	dũng	dọa	hà	nữa	sau	ta	thanh	ông
+cũng bị	3	chấn	sau	thanh
+cũng bị bắt	1	thanh
+cũng bị thương	1	sau
+cũng bị vạ	1	sau
+cũng bị điều	1	chấn
+cũng không	2	bailey	dọa
+cũng không lay	1	dọa
+cũng không quên	1	bailey
+cũng muốn	1	hà
+cũng muốn nhân	1	hà
+cũng ròng	1	ông
+cũng ròng rã	1	ông
+cũng tham	1	nữa
+cũng tham gia	1	nữa
+cũng xác	1	dũng
+cũng xác nhận	1	dũng
+cũng đã	1	ta
+cũng đã chặn	1	ta
+cơ	8	bắt	cấp	của	lại	nhiều	theo	tại	động
+cơ hội	1	bắt
+cơ hội thỏa	1	bắt
+cơ quan	6	cấp	của	lại	nhiều	theo	tại
+cơ quan chức	1	theo
+cơ quan csđt	1	cấp
+cơ quan có	1	của
+cơ quan công	1	nhiều
+cơ quan điều	2	lại	tại
+cơ vụ	1	động
+cơ vụ án	1	động
+cư	3	chung	nhưng	định
+cư bị	1	chung
+cư bị cháy	1	chung
+cư cao	1	chung
+cư cao cấp	1	chung
+cư trú	1	nhưng
+cư trú tại	1	nhưng
+cư tại	1	định
+cư tại đây	1	định
+cưới	1	sắp
+cưới ngày	1	sắp
+cưới ngày 15/4/2014	1	sắp
+cướp	1	để
+cướp 2	1	để
+cướp 2 chiếc	1	để
+cười	1	môi
+cười NULL	1	môi
+cường	1	tăng
+cường công	1	tăng
+cường công tác	1	tăng
+cả	9	a	dạ	khi	lúc	tạt	tất	và	án	đảo
+cả ca	1	tạt
+cả ca axit	1	tạt
+cả cao	1	và
+cả cao đẳng	1	và
+cả chục	1	đảo
+cả chục triệu	1	đảo
+cả hai	4	a	khi	lúc	án
+cả hai bị	1	a
+cả hai cùng	1	khi
+cả hai đang	1	lúc
+cả hai đeo	1	án
+cả nạn	1	tất
+cả nạn nhân	1	tất
+cả tin	1	dạ
+cả tin NULL	1	dạ
+cảm	3	gái	ngoại	tình
+cảm cậu	1	ngoại
+cảm cậu thủy	1	ngoại
+cảm không	1	tình
+cảm không được	1	tình
+cảm không được, sang	1	tình
+cảm lên	1	tình
+cảm lên mạng	1	tình
+cảm thấy	1	gái
+cảm thấy không	1	gái
+cảm và	1	tình
+cảm và mong	1	tình
+cảm yêu	1	tình
+cảm yêu đương	1	tình
+cảng	1	viên
+cảng hàng	1	viên
+cảng hàng không	1	viên
+cảnh	14	NULL	có	cùng	cứu	nghi	ngày	nhập	phòng	theo	thuận	việc	và	văn	với
+cảnh 21	1	văn
+cảnh 21 tuổi	1	văn
+cảnh báo	1	có
+cảnh báo đến	1	có
+cảnh khu	1	nhập
+cảnh khu vực	1	nhập
+cảnh ngộ	1	cùng
+cảnh ngộ với	1	cùng
+cảnh sát	9	NULL	cứu	nghi	ngày	phòng	theo	việc	và	với
+cảnh sát các	1	với
+cảnh sát nước	1	và
+cảnh sát toàn	1	theo
+cảnh sát tỉnh	2	cứu	nghi
+cảnh sát đang	1	NULL
+cảnh sát điều	1	phòng
+cảnh sát đã	1	việc
+cảnh sát đưa	1	ngày
+cảnh vào	1	việc
+cảnh vào bệnh	1	việc
+cảnh đi	1	thuận
+cảnh đi vào	1	thuận
+cảnh đâm	1	NULL
+cảnh đâm loạn	1	NULL
+cảnh đứt	1	cùng
+cảnh đứt gánh	1	cùng
+cấp	13	cao	chính	cung	các	học	khoa	phòng	thường	vào	đã	đó	được	ở phòng
+cấp 3	1	học
+cấp 3 với	1	học
+cấp 7,2	1	chính
+cấp 7,2 tỷ	1	chính
+cấp cho	1	cung
+cấp cho các	1	cung
+cấp cơ	1	cung
+cấp cơ quan	1	cung
+cấp cứu	6	khoa	phòng	vào	đó	được	ở phòng
+cấp cứu NULL	3	phòng	đó	được
+cấp cứu bệnh	2	khoa	ở phòng
+cấp cứu cảnh	1	phòng
+cấp cứu rồi	1	vào
+cấp cứu là bùi	1	phòng
+cấp cứu là bùi văn	1	phòng
+cấp dưỡng	1	thường
+cấp dưỡng cho	1	thường
+cấp nhưng	1	cao
+cấp nhưng đã	1	cao
+cấp tiền	1	đã
+cấp tiền NULL	1	đã
+cấp tiền bồi	1	đã
+cấp xét	1	các
+cấp xét xử	1	các
+cấp đã	1	các
+cấp đã thụ	1	các
+cấp để	1	chính
+cấp để chi	1	chính
+cất	1	đợt
+cất bốc	1	đợt
+cất bốc hài	1	đợt
+cầm	5	NULL	sang	sinh	tuổi	đang
+cầm 7,5	1	NULL
+cầm 7,5 triệu	1	NULL
+cầm hung	1	tuổi
+cầm hung khí	1	tuổi
+cầm lái	2	sinh	đang
+cầm lái NULL	1	đang
+cầm lái bị	1	sinh
+cầm túi	1	sang
+cầm túi quần	1	sang
+cầm đầu	1	tuổi
+cầm đầu NULL	1	tuổi
+cần	1	người
+cần tìm	1	người
+cần tìm hài	1	người
+cầu	3	gần	yêu	đơn
+cầu NULL	1	yêu
+cầu cứu	1	đơn
+cầu cứu công	1	đơn
+cầu phải	1	yêu
+cầu phải ra	1	yêu
+cầu tăng	1	gần
+cầu tăng long	1	gần
+cầu được	1	yêu
+cầu được bồi	1	yêu
+cầuai	1	toàn
+cầuai bồi	1	toàn
+cầuai bồi thường	1	toàn
+cập	1	truy
+cập từ	1	truy
+cập từ hà	1	truy
+cậu	7	cho	cảm	của	dũng	rủ	tức	với
+cậu bạn	3	của	rủ	với
+cậu bạn gần	1	rủ
+cậu bạn học	1	với
+cậu bạn thân	1	của
+cậu này	1	cho
+cậu này chiếc	1	cho
+cậu thủy	3	cảm	dũng	tức
+cậu thủy 56	1	tức
+cậu thủy hầu	1	dũng
+cậu thủy đã	1	cảm
+cắp	1	trộm
+cắp tài	1	trộm
+cắp tài sản	1	trộm
+cắt	1	ảnh
+cắt từ	1	ảnh
+cắt từ camera	1	ảnh
+cặp	1	lại
+cặp với	1	lại
+cặp với một	1	lại
+cố	1	vi
+cố ý	1	vi
+cố ý gây	1	vi
+cố ý làm	1	vi
+cối	1	mũ
+cối áo	1	mũ
+cối áo bộ	1	mũ
+cốt	1	hài
+cốt NULL	1	hài
+cốt gồm	1	hài
+cốt gồm thúy	1	hài
+cốt liệt	1	hài
+cốt liệt sĩ	1	hài
+cốt thân	1	hài
+cốt thân nhân	1	hài
+cốt tại	1	hài
+cốt tại bình	1	hài
+cốt tại mộ	1	hài
+cốt và	1	hài
+cốt và làm	1	hài
+cổ	2	lưng	vào
+cổ hưng	1	lưng
+cổ hưng NULL	1	lưng
+cổ nữ	1	vào
+cổ nữ sinh	1	vào
+cổng	2	rời	trước
+cổng trường	2	rời	trước
+cổng trường chờ	1	trước
+cổng trường thanh	1	rời
+cổ…	1	tay
+cổ… khai	1	tay
+cổ… khai với	1	tay
+cộng	1	tổng
+cộng 105	1	tổng
+cộng 105 mộ	1	tổng
+cụ	1	tin
+cụ thể	1	tin
+cụ thể NULL	1	tin
+cục	7	NULL	nay	này	trưởng	từ	vnexpress	đơn
+cục bồi	2	NULL	trưởng
+cục bồi thường	2	NULL	trưởng
+cục quản	1	từ
+cục quản lý	1	từ
+cục trưởng	4	NULL	nay	này	vnexpress
+cục trưởng bốn	1	vnexpress
+cục trưởng bồi	1	nay
+cục trưởng cục	1	NULL
+cục trưởng nguyễn	1	này
+cục điều	1	đơn
+cục điều tra	1	đơn
+của	36	atm	buồn	chung	chứng	dẫn	facebook	gái	gọi	hiệu	hàng	hợp	khai	khoản	khuẩn	khỏe	lừa	mượn	mỹ	ngoại	người	oan	phục	quyết	quà	quốc	sau	thoại	thức	trai	tình	viên	xe	đen	đơn	đồng	ảnh
+của 6	1	lừa
+của 6 nạn	1	lừa
+của bạn	1	đen
+của bạn mặc	1	đen
+của bệnh	2	khuẩn	sau
+của bệnh viện	2	khuẩn	sau
+của bị	1	đồng
+của bị hại	1	đồng
+của chuyện	1	buồn
+của chuyện tình	1	buồn
+của chồng	1	quà
+của chồng sắp	1	quà
+của chủ	1	atm
+của chủ tài	1	atm
+của cán	1	khoản
+của cán bộ	1	khoản
+của công	3	người	quốc	viên
+của công an	1	quốc
+của công ty	2	người	viên
+của cơ	1	quyết
+của cơ quan	1	quyết
+của cậu	1	tình
+của cậu bạn	1	tình
+của donald	1	thoại
+của donald jack	1	thoại
+của em	1	hàng
+của em đã	1	hàng
+của hàng	1	đơn
+của hàng loạt	1	đơn
+của hương	1	dẫn
+của hương NULL	1	dẫn
+của lan	2	trai	ảnh
+của lan lấy	1	ảnh
+của lan được	1	trai
+của mình	2	khai	ngoại
+của mình NULL	1	ngoại
+của mình cuối	1	khai
+của một	2	gọi	thức
+của một phụ	1	gọi
+của một số	1	thức
+của ngân	2	hàng	hợp
+của ngân hàng	1	hợp
+của ngân đã	1	hàng
+của người	4	hiệu	mượn	mỹ	xe
+của người cô	1	xe
+của người cô…	1	mượn
+của người tình	2	hiệu	mỹ
+của những	1	khai
+của những người	1	khai
+của nạn	1	khỏe
+của nạn nhân	1	khỏe
+của sang	2	gái	thoại
+của sang NULL	2	gái	thoại
+của trường	1	phục
+của trường NULL	1	phục
+của tất	1	chung
+của tất cả	1	chung
+của vụ	1	chứng
+của vụ án	1	chứng
+của ông	2	facebook	oan
+của ông chấn	1	oan
+của ông ta	1	facebook
+cứu	2	cấp	cầu
+cứu NULL	1	cấp
+cứu bệnh	1	cấp
+cứu bệnh viện	1	cấp
+cứu công	1	cầu
+cứu công an	1	cầu
+cứu cảnh	1	cấp
+cứu cảnh sát	1	cấp
+cứu rồi	1	cấp
+cứu rồi chuyển	1	cấp
+cứu là bùi	1	cấp
+cứu là bùi văn	1	cấp
+cứu là bùi văn cảnh	1	cấp
+cử	1	đình
+cử hành	1	đình
+cử hành hôn	1	đình
+cửa	3	gõ	trước	đường
+cửa các	1	trước
+cửa các buồng	1	trước
+cửa nhiều	1	gõ
+cửa nhiều cơ	1	gõ
+cửa sau	1	đường
+cửa sau của	1	đường
+cựu	2	nhiều	tuổi
+cựu binh	1	nhiều
+cựu binh mang	1	nhiều
+cựu thẩm	1	tuổi
+cựu thẩm phán	1	tuổi
+danh	2	vô	xưng
+danh NULL	1	vô
+danh nhà	1	xưng
+danh nhà ngoại	1	xưng
+danh nhân	1	xưng
+danh nhân viên	1	xưng
+dao	2	kề	rút
+dao vào	1	kề
+dao vào cổ	1	kề
+dao đâm	1	rút
+dao đâm liên	1	rút
+di	3	giả	theo	thoại
+di vật	1	giả
+di vật như	1	giả
+di động	1	thoại
+di động iphone	1	thoại
+di ảnh	1	theo
+di ảnh đồng	1	theo
+diện	3	hiện	nhận	đại
+diện bị	1	đại
+diện bị hại	1	đại
+diện khi	1	nhận
+diện khi gây	1	nhận
+diện rõ	1	hiện
+diện rõ rệt	1	hiện
+do	7	NULL	nhiên	nước	quan	rẫy	sĩ	thể
+do mối	1	nhiên
+do mối quan	1	nhiên
+do nghi	1	NULL
+do nghi can	1	NULL
+do nguyễn	1	sĩ
+do nguyễn văn	1	sĩ
+do người	1	nước
+do người bị	1	nước
+do nhận	1	quan
+do nhận thức	1	quan
+do sang	1	NULL
+do sang hay	1	NULL
+do sinh	1	rẫy
+do sinh con	1	rẫy
+do đó	1	NULL
+do đó cô	1	NULL
+do “trả	1	thể
+do “trả thù	1	thể
+donald	7	4/2014	cho	của	thời	tây	tên	và
+donald jack	4	4/2014	của	tên	và
+donald jack cho	1	4/2014
+donald jack dường	1	và
+donald jack giới	1	tên
+donald jack và	1	của
+donald jack đã	1	tên
+donald muốn	1	thời
+donald muốn gửi	1	thời
+donald và	1	tây
+donald và người	1	tây
+donald để	1	cho
+donald để xác	1	cho
+doạ	3	hăm	sang	tin
+doạ NULL	1	hăm
+doạ sẽ	1	sang
+doạ sẽ tung	1	sang
+doạ trả	1	tin
+doạ trả thù	1	tin
+dung	2	chân	nội
+dung lan	1	chân
+dung lan mới	1	chân
+dung trao	1	nội
+dung trao đổi	1	nội
+duy	1	mối
+duy nhất	1	mối
+duy nhất là	1	mối
+duyên	4	ruột	rể	thị	và
+duyên 32	1	rể
+duyên 32 tuổi	1	rể
+duyên 37	1	ruột
+duyên 37 tuổi	1	ruột
+duyên bắt	1	và
+duyên bắt đầu	1	và
+duyên vợ	1	thị
+duyên vợ thúy	1	thị
+dài	1	kéo
+dài suốt	1	kéo
+dài suốt hơn	1	kéo
+dán	1	xuống
+dán đôi	1	xuống
+dán đôi mắt	1	xuống
+dân	3	kiện	người	án
+dân sự	2	kiện	án
+dân sự tuyên	1	án
+dân sự về	1	kiện
+dân đưa	1	người
+dân đưa vào	1	người
+dây	1	đường
+dây làm	1	đường
+dây làm giả	1	đường
+dép	1	đông
+dép cao	1	đông
+dép cao su	1	đông
+dò	1	đi
+dò la	1	đi
+dò la tại	1	đi
+dù	1	hơn
+dù đầu	1	hơn
+dù đầu việc	1	hơn
+dùng	3	axit	cung	định
+dùng axit	1	định
+dùng axit để	1	định
+dùng nhục	1	cung
+dùng nhục hình	1	cung
+dùng để	1	axit
+dùng để đổ	1	axit
+dũng	3	tiến	việt	ông
+dũng cũng	1	tiến
+dũng cũng xác	1	tiến
+dũng cậu	1	việt
+dũng cậu thủy	1	việt
+dũng năm	1	ông
+dũng năm 2015	1	ông
+dư	1	còn
+dư nên	1	còn
+dư nên để	1	còn
+dương	1	bình
+dương phát	1	bình
+dương phát hiện	1	bình
+dưới	1	gửi
+dưới tầng	1	gửi
+dưới tầng hầm	1	gửi
+dường	1	jack
+dường như	1	jack
+dường như đã	1	jack
+dưỡng	1	cấp
+dưỡng cho	1	cấp
+dưỡng cho con	1	cấp
+dạ	1	nhẹ
+dạ NULL	1	nhẹ
+dạ cả	1	nhẹ
+dạ cả tin	1	nhẹ
+dạng	1	bộ
+dạng gầy	1	bộ
+dạng gầy gộc	1	bộ
+dẫn	2	hướng	đó
+dẫn của	1	hướng
+dẫn của hương	1	hướng
+dẫn đến	1	đó
+dẫn đến việc	1	đó
+dắt	1	giới
+dắt mối	1	giới
+dắt mối con	1	giới
+dịch	2	giao	làm
+dịch mang	1	giao
+dịch mang về	1	giao
+dịch vụ	1	làm
+dịch vụ hàng	1	làm
+dịch ở	1	giao
+dịch ở tận	1	giao
+dịp	1	đúng
+dịp 2/9…	1	đúng
+dịp 2/9… bẵng	1	đúng
+dọa	1	hăm
+dọa cũng	1	hăm
+dọa cũng không	1	hăm
+dỗ	1	dụ
+dỗ các	1	dụ
+dỗ các nạn	1	dụ
+dụ	1	nghề
+dụ dỗ	1	nghề
+dụ dỗ các	1	nghề
+dụng	1	sử
+dụng này	1	sử
+dụng này đã	1	sử
+dụng áo	1	sử
+dụng áo khoác	1	sử
+dự	2	tham	táo
+dự kiến	1	táo
+dự kiến chiều	1	táo
+dự phiên	1	tham
+dự phiên xử	1	tham
+dựng	1	tạo
+dựng 105	1	tạo
+dựng 105 mộ	1	tạo
+dựng mộ	1	tạo
+dựng mộ giả	1	tạo
+dựng tổng	1	tạo
+dựng tổng cộng	1	tạo
+em	11	NULL	cho	của	ngân	này	phương	rủ	sóc	và	với	xuống
+em cái	1	cho
+em cái điện	1	cho
+em không	1	NULL
+em không biết	1	NULL
+em nghe	1	xuống
+em nghe họ	1	xuống
+em phải	2	ngân	này
+em phải thanh	1	này
+em phải để	1	ngân
+em ruột	1	phương
+em ruột duyên	1	phương
+em rằng	1	với
+em rằng bị	1	với
+em trai	2	sóc	và
+em trai của	1	và
+em trai điều	1	sóc
+em đi	1	rủ
+em đi đánh	1	rủ
+em đã	1	của
+em đã về	1	của
+facebook	5	NULL	hội	mượn	mạng	trên
+facebook alfred	1	trên
+facebook alfred bailey	1	trên
+facebook cho	1	trên
+facebook cho ngân	1	trên
+facebook của	1	NULL
+facebook của ông	1	NULL
+facebook khoe	1	hội
+facebook khoe ảnh	1	hội
+facebook lừa	1	mạng
+facebook lừa đảo	1	mạng
+facebook tự	1	mạng
+facebook tự tên	1	mạng
+facebook võ	1	trên
+facebook võ thị	1	trên
+facebook vừa	1	mượn
+facebook vừa để	1	mượn
+facebook…	1	trên
+facebook… rất	1	trên
+facebook… rất xấu	1	trên
+file	1	ra
+file hình	1	ra
+file hình người	1	ra
+ghen	1	hay
+ghen và	1	hay
+ghen và quản	1	hay
+gia	6	NULL	bên	bảo	hay	tham	đến
+gia NULL	1	tham
+gia các	1	tham
+gia các phi	1	tham
+gia hỗn	1	tham
+gia hỗn chiến	1	tham
+gia đình	5	NULL	bên	bảo	hay	đến
+gia đình bệnh	1	đến
+gia đình cử	1	bên
+gia đình họ	1	hay
+gia đình người	1	bảo
+gia đình tôi	1	NULL
+giam	2	bị	tạm
+giam phạm	1	tạm
+giam phạm thị	1	tạm
+giam ông	1	tạm
+giam ông trần	1	tạm
+giam ở	1	bị
+giam ở một	1	bị
+gian	1	thời
+gian NULL	1	thời
+gian sau	1	thời
+gian sau bà	1	thời
+gian vừa	1	thời
+gian vừa qua	1	thời
+giang	1	bắc
+giang cho	1	bắc
+giang cho rằng	1	bắc
+giang và	1	bắc
+giang và ông	1	bắc
+giang để	1	bắc
+giang để điều	1	bắc
+giao	4	bạn	hiện	người	ty
+giao dịch	2	hiện	người
+giao dịch mang	1	người
+giao dịch ở	1	hiện
+giao hàng	1	ty
+giao hàng sẽ	1	ty
+giao lưu	1	bạn
+giao lưu và	1	bạn
+giá	7	4	có	iphone	quà	sản	trị	với
+giá 100	3	4	iphone	với
+giá 100 NULL	3	4	iphone	với
+giá 800	1	trị
+giá 800 triệu	1	trị
+giá rẻ	1	iphone
+giá rẻ NULL	1	iphone
+giá trị	3	có	quà	sản
+giá trị lớn	1	có
+giá trị trước	1	quà
+giá trị để	1	sản
+giác	2	bỏng	mắt
+giác mạc	2	bỏng	mắt
+giác mạc mắt	1	mắt
+giác mạc và	1	bỏng
+giúp	3	nhận	thanh	thể
+giúp bệnh	1	thể
+giúp bệnh nhân	1	thể
+giúp sức	1	thanh
+giúp sức NULL	1	thanh
+giúp đỡ	1	nhận
+giúp đỡ rồi	1	nhận
+giường	1	ta đến
+giường hưng	1	ta đến
+giường hưng rồi	1	ta đến
+giả	3	làm	mộ	sĩ
+giả NULL	1	mộ
+giả di	1	làm
+giả di vật	1	làm
+giả hiện	1	làm
+giả hiện trường	1	làm
+giả hài	1	làm
+giả hài cốt	1	làm
+giả hơn	1	làm
+giả hơn 100	1	làm
+giả để	1	sĩ
+giả để lừa	1	sĩ
+giải	7	lý	mưu	thích	việc	đã	được	định
+giải quyết	5	mưu	việc	đã	được	định
+giải quyết NULL	1	được
+giải quyết bồi	2	mưu	định
+giải quyết của	1	định
+giải quyết thương	1	việc
+giải quyết xong	1	đã
+giải quyết được	1	việc
+giải trí	1	thích
+giải trí trên	1	thích
+giải được	1	lý
+giải được những	1	lý
+giấu	2	che	thể
+giấu hành	1	che
+giấu hành vi	1	che
+giấu sự	1	thể
+giấu sự uất	1	thể
+giết	4	chấn	phạm	tội	đã
+giết chị	1	đã
+giết chị hoan	1	đã
+giết cô	1	phạm
+giết cô hàng	1	phạm
+giết người	2	chấn	tội
+giết người NULL	1	chấn
+giết người tuyên	1	tội
+giới	3	biên	jack	quá
+giới campuchia	1	biên
+giới campuchia đánh	1	biên
+giới dắt	1	biên
+giới dắt mối	1	biên
+giới hạn	1	quá
+giới hạn nên	1	quá
+giới thiệu	1	jack
+giới thiệu làm	1	jack
+giờ	2	nhiều	rồi
+giờ hải	1	rồi
+giờ hải quan	1	rồi
+giờ sang	1	nhiều
+giờ sang vẫn	1	nhiều
+giữ	4	bắt	nam	thu	tạm
+giữ NULL	2	bắt	tạm
+giữ các	1	thu
+giữ các vật	1	thu
+giữ hình	1	tạm
+giữ hình sự	1	tạm
+giữ lê	1	tạm
+giữ lê thanh	1	tạm
+giữ lại	1	nam
+giữ lại vì	1	nam
+giữa	2	gánh	đến
+giữa 2013	1	đến
+giữa 2013 nhóm	1	đến
+giữa đường	1	gánh
+giữa đường hà	1	gánh
+gái	3	bạn	con	cô
+gái 12	1	con
+gái 12 tuổi	1	con
+gái cùng	1	bạn
+gái cùng tuổi	1	bạn
+gái cũ	1	bạn
+gái cũ hứa	1	bạn
+gái cũ tên	1	bạn
+gái cảm	1	cô
+gái cảm thấy	1	cô
+gái của	1	bạn
+gái của sang	1	bạn
+gái hết	1	cô
+gái hết mực	1	cô
+gái hứa	1	bạn
+gái hứa trả	1	bạn
+gái không	1	cô
+gái không nghe	1	cô
+gái ngã	1	cô
+gái ngã xuống	1	cô
+gái đau	1	cô
+gái đau đớn	1	cô
+gái đi	1	cô
+gái đi qua	1	cô
+gánh	1	đứt
+gánh giữa	1	đứt
+gánh giữa đường	1	đứt
+gánh với	1	đứt
+gánh với người	1	đứt
+gây	3	khi	nhiệm	ý
+gây hậu	1	nhiệm
+gây hậu quả	1	nhiệm
+gây thương	1	ý
+gây thương tích	1	ý
+gây án	1	khi
+gây án NULL	1	khi
+gây án cả	1	khi
+gây án thanh	1	khi
+gã	2	một	và
+gã đàn	2	một	và
+gã đàn ông	2	một	và
+gì	2	biết	làm
+gì thì	1	làm
+gì thì làm	1	làm
+gì về	1	biết
+gì về kế	1	biết
+gòn	1	sài
+gòn bị	1	sài
+gòn bị bắt	1	sài
+gõ	1	rã
+gõ cửa	1	rã
+gõ cửa nhiều	1	rã
+gạt	1	đảo
+gạt tình	1	đảo
+gạt tình lừa	1	đảo
+gạt tình tiền	1	đảo
+gấp…	1	toán
+gấp… sau	1	toán
+gấp… sau khi	1	toán
+gần	9	bạn	có	nẵng	sinh	viện	 đến	đi	đến	đứng
+gần 100	1	có
+gần 100 vụ	1	có
+gần cầu	2	 đến	đến
+gần cầu tăng	2	 đến	đến
+gần một	1	đi
+gần một tuần	1	đi
+gần nhà	1	bạn
+gần nhà tạt	1	bạn
+gần tên	1	đứng
+gần tên này	1	đứng
+gần đây	2	nẵng	sinh
+gần đây một	1	sinh
+gần đây tiếp	1	nẵng
+gần đó	1	viện
+gần đó cấp	1	viện
+gầy	1	dạng
+gầy gộc	1	dạng
+gầy gộc NULL	1	dạng
+gặp	7	cuộc	la	nam	sẽ	tra	tôi	từng
+gặp bác	1	sẽ
+gặp bác sĩ	1	sẽ
+gặp gỡ	1	cuộc
+gặp gỡ định	1	cuộc
+gặp mặt	2	nam	từng
+gặp mặt NULL	1	từng
+gặp mặt hai	1	nam
+gặp người	1	la
+gặp người ngoại	1	la
+gặp phải	1	tôi
+gặp phải sở	1	tôi
+gặp rất	1	tra
+gặp rất nhiều	1	tra
+gọi	4	cuộc	hà	này	nữ
+gọi cho	1	hà
+gọi cho donald	1	hà
+gọi của	1	cuộc
+gọi của một	1	cuộc
+gọi nhưng	1	này
+gọi nhưng cô	1	này
+gọi tới	1	nữ
+gọi tới xưng	1	nữ
+gồm	2	bao	cốt
+gồm nước	1	bao
+gồm nước hoa	1	bao
+gồm thúy	1	cốt
+gồm thúy mẫn	1	cốt
+gộc	1	gầy
+gộc NULL	1	gầy
+gỡ	1	gặp
+gỡ định	1	gặp
+gỡ định mệnh	1	gặp
+gửi	7	bailey	hiệu	khi	muốn	và	ôtô	đơn
+gửi cho	1	bailey
+gửi cho ngân	1	bailey
+gửi dưới	1	ôtô
+gửi dưới tầng	1	ôtô
+gửi hàng	1	khi
+gửi hàng từ	1	khi
+gửi kèm	1	và
+gửi kèm 5	1	và
+gửi quà	1	muốn
+gửi quà từ	1	muốn
+gửi từ	1	hiệu
+gửi từ mỹ	1	hiệu
+gửi vksnd	1	đơn
+gửi vksnd tối	1	đơn
+hai	13	15/9	NULL	a	axit	bị	clip	cả	hủy	khi	mặt	trong	về	đã
+hai bên	1	mặt
+hai bên gia	1	mặt
+hai bản	2	hủy	khi
+hai bản án	2	hủy	khi
+hai bị	1	cả
+hai bị hai	1	cả
+hai cô	1	khi
+hai cô gái	1	khi
+hai cùng	1	cả
+hai cùng vào	1	cả
+hai hôm	1	NULL
+hai hôm sau	1	NULL
+hai lần	1	đã
+hai lần xảy	1	đã
+hai nam	1	bị
+hai nam thanh	1	bị
+hai người	1	clip
+hai người lúc	1	clip
+hai nạn	1	trong
+hai nạn nhân	1	trong
+hai nữ	5	15/9	NULL	a	axit	về
+hai nữ sinh	5	15/9	NULL	a	axit	về
+hai đang	1	cả
+hai đang ở phòng	1	cả
+hai đeo	1	cả
+hai đeo khẩu	1	cả
+ham	1	thân
+ham lấy	1	thân
+ham lấy chồng	1	thân
+ham xuất	1	thân
+ham xuất ngoại	1	thân
+hay	3	cho	sang	tiền
+hay NULL	1	cho
+hay có	1	cho
+hay có thu	1	cho
+hay ghen	1	sang
+hay ghen và	1	sang
+hay gia	1	cho
+hay gia đình	1	cho
+hay những	1	cho
+hay những tưởng	1	cho
+hay số	1	cho
+hay số vụ	1	cho
+hay theo	1	cho
+hay theo báo	1	cho
+hay thông	1	tiền
+hay thông báo	1	tiền
+hay trong	1	cho
+hay trong lúc	1	cho
+hay đã	1	cho
+hay đã tự	1	cho
+hcm	1	tp
+hcm NULL	1	tp
+hcm tiếp	1	tp
+hcm tiếp tục	1	tp
+hcm tạm	1	tp
+hcm tạm giữ	1	tp
+hcm đã	1	tp
+hcm đã bắt	1	tp
+hcm đồng	1	tp
+hcm đồng tháp…	1	tp
+hiếp	1	uy
+hiếp nữ	1	uy
+hiếp nữ sinh	1	uy
+hiếuôtô	1	hải
+hiếuôtô chở	1	hải
+hiếuôtô chở rượu	1	hải
+hiện	5	giả	mới	phát	thực	 
+hiện 1	1	phát
+hiện 1 NULL	1	phát
+hiện có	1	phát
+hiện có tiền	1	phát
+hiện diện	1	mới
+hiện diện rõ	1	mới
+hiện giao	1	thực
+hiện giao dịch	1	thực
+hiện kịp	1	phát
+hiện kịp thời	1	phát
+hiện loanh	1	phát
+hiện loanh quanh	1	phát
+hiện nghi	1	 
+hiện nghi can	1	 
+hiện trường	1	giả
+hiện trường chứ	1	giả
+hiệu	2	có	hàng
+hiệu của	1	hàng
+hiệu của người	1	hàng
+hiệu gửi	1	hàng
+hiệu gửi từ	1	hàng
+hiệu lực	1	có
+hiệu lực pháp	1	có
+hoa	1	nước
+hoa điện	1	nước
+hoa điện thoại	1	nước
+hoan	2	chị	thị
+hoan tại	1	thị
+hoan tại thôn	1	thị
+hoan được	1	chị
+hoan được huỷ	1	chị
+hoan để	1	chị
+hoan để cướp	1	chị
+hoe	1	đỏ
+hoe về	1	đỏ
+hoe về căn	1	đỏ
+hoàn	2	quận	đã
+hoàn kiếm	1	quận
+hoàn kiếm hà	1	quận
+hoàn tất	1	đã
+hoàn tất NULL	1	đã
+hoàng	3	NULL	phạm	ảnh
+hoàng thanh	1	phạm
+hoàng thanh 18	1	phạm
+hoàng thanh cùng	1	phạm
+hoàng táo	1	ảnh
+hoàng táo dự	1	ảnh
+hoàng táo tham	1	ảnh
+hoàng táo từ	1	ảnh
+hoàng táobịa	1	NULL
+hoàng táobịa chuyện	1	NULL
+hoàng việtkiều	1	NULL
+hoàng việtkiều nữ	1	NULL
+hoành	1	văn
+hoành bị	1	văn
+hoành bị truy	1	văn
+hoạch	1	kế
+hoạch chi	1	kế
+hoạch chi trả	1	kế
+hoạch trả	1	kế
+hoạch trả thù	1	kế
+hoạch tạt	1	kế
+hoạch tạt axit	1	kế
+hoạch tạt vào	1	kế
+hoạn	1	hỏa
+hoạn nhỏ	1	hỏa
+hoạn nhỏ NULL	1	hỏa
+hoảng	2	mới	sinh
+hoảng hốt	1	mới
+hoảng hốt nhận	1	mới
+hoảng loạn	1	sinh
+hoảng loạn kêu	1	sinh
+hoặc	1	nhân
+hoặc bệnh	1	nhân
+hoặc bệnh nhân	1	nhân
+hung	3	cầm	nhưng	được
+hung khí	1	cầm
+hung khí lao	1	cầm
+hung thủ	2	nhưng	được
+hung thủ NULL	1	được
+hung thủ nhanh	1	nhưng
+huyện	4	an	lâm	sĩ	trung
+huyện hàm	1	lâm
+huyện hàm thuận	1	lâm
+huyện việt	2	an	trung
+huyện việt yên	2	an	trung
+huyện đắk	1	sĩ
+huyện đắk tô	1	sĩ
+huânkẻ	1	lê
+huânkẻ tạt	1	lê
+huânkẻ tạt axit	1	lê
+huỷ	1	được
+huỷ NULL	1	được
+hà	18	15/4/2014	NULL	anh	bài	bảo	cho	chị	hàng	kiếm	nhân	này	phí	tiền	tên	từ	với	đường	ở
+hà -	1	bảo
+hà - việt	1	bảo
+hà NULL	3	cho	từ	với
+hà cho	1	tên
+hà cho hay	1	tên
+hà chị	2	15/4/2014	chị
+hà chị lê	1	chị
+hà chị nhận	1	15/4/2014
+hà cung	1	nhân
+hà cung cấp	1	nhân
+hà cũng	1	NULL
+hà cũng muốn	1	NULL
+hà gọi	1	phí
+hà gọi cho	1	phí
+hà kể	1	NULL
+hà kể chị	1	NULL
+hà mượn	1	anh
+hà mượn facebook	1	anh
+hà mới	1	này
+hà mới hoảng	1	này
+hà nội	3	bài	kiếm	ở
+hà nội NULL	1	bài
+hà nội tp	1	ở
+hà nội đã	1	kiếm
+hà phải	2	hàng	tiền
+hà phải chuyển	1	tiền
+hà phải đóng	1	hàng
+hà và	1	đường
+hà và donald	1	đường
+hài	7	bốc	giả	kiếm	mả	phạm	trộm	tìm
+hài cốt	7	bốc	giả	kiếm	mả	phạm	trộm	tìm
+hài cốt NULL	1	phạm
+hài cốt gồm	1	mả
+hài cốt liệt	2	giả	kiếm
+hài cốt thân	1	tìm
+hài cốt tại	2	bốc	trộm
+hài cốt và	1	trộm
+hàm	1	huyện
+hàm thuận	1	huyện
+hàm thuận bắc	1	huyện
+hàng	16	NULL	bán	cô	cảng	của	giao	gửi	kiện	muốn	ngân	nhận	quà	thoại	thùng	vì	vụ
+hàng bị	1	muốn
+hàng bị trả	1	muốn
+hàng chính	1	ngân
+hàng chính sách	1	ngân
+hàng chúng	1	ngân
+hàng chúng cung	1	ngân
+hàng có	1	vì
+hàng có giá	1	vì
+hàng của	2	kiện	thoại
+hàng của em	1	thoại
+hàng của ngân	1	kiện
+hàng hiệu	1	quà
+hàng hiệu của	1	quà
+hàng hiệu gửi	1	quà
+hàng hà	1	thùng
+hàng hà phải	1	thùng
+hàng không	1	cảng
+hàng không nội	1	cảng
+hàng loạt	2	NULL	của
+hàng loạt phụ	2	NULL	của
+hàng online	1	bán
+hàng online NULL	1	bán
+hàng sẽ	1	giao
+hàng sẽ liên	1	giao
+hàng sớm	1	nhận
+hàng sớm ngân	1	nhận
+hàng theo	1	ngân
+hàng theo hướng	1	ngân
+hàng từ	1	gửi
+hàng từ nước	1	gửi
+hàng và	1	ngân
+hàng và cảnh	1	ngân
+hàng xách	1	vụ
+hàng xách tay	1	vụ
+hàng xóm	1	cô
+hàng xóm nguyễn	1	cô
+hành	8	bộ	cử	giấu	nhận	tra	về	ông	đầu
+hành hôn	1	cử
+hành hôn lễ	1	cử
+hành nghề	2	ông	đầu
+hành nghề dụ	1	ông
+hành nghề tìm	1	đầu
+hành vi	5	bộ	giấu	nhận	tra	về
+hành vi NULL	1	nhận
+hành vi cố	2	tra	về
+hành vi lừa	1	về
+hành vi nói	1	bộ
+hành vi sang	1	giấu
+hào	1	ra
+hào phóng	1	ra
+hào phóng muốn	1	ra
+hét	1	la
+hét đau	1	la
+hét đau đớn	1	la
+hình	6	file	giữ	loại	mới	ngoại	nhục
+hình người	1	file
+hình người giao	1	file
+hình sự	1	giữ
+hình sự lê	1	giữ
+hình thành	1	mới
+hình thành NULL	1	mới
+hình tội	1	loại
+hình tội phạm	1	loại
+hình vksnd	1	nhục
+hình vksnd tối	1	nhục
+hình ưa	1	ngoại
+hình ưa nhìn	1	ngoại
+hóa	2	có	thanh
+hóa đang	1	thanh
+hóa đang chăm	1	thanh
+hóa đơn	1	có
+hóa đơn chứng	1	có
+hôm	5	NULL	chiều	hai	ngay	xử
+hôm nay	1	xử
+hôm nay các	1	xử
+hôm sau	2	hai	ngay
+hôm sau sang	1	ngay
+hôm sau tand	1	hai
+hôm đó	2	NULL	chiều
+hôm đó sang	1	chiều
+hôm đó để	1	NULL
+hôn	2	hành	không
+hôn lễ	1	hành
+hôn lễ và	1	hành
+hôn thú	1	không
+hôn thú với	1	không
+hăm	2	từng	vừa
+hăm doạ	1	từng
+hăm doạ NULL	1	từng
+hăm dọa	1	vừa
+hăm dọa cũng	1	vừa
+hđxx	1	nay
+hđxx sẽ	1	nay
+hđxx sẽ tuyên	1	nay
+hơn	12	NULL	giả	khăn	là	nhẹ	này	suốt	thường	thấp	tốt	tới	đoạt
+hơn 100	2	giả	tới
+hơn 100 mộ	1	giả
+hơn 100 triệu	1	tới
+hơn 16	1	là
+hơn 16 tỷ	1	là
+hơn 26	1	thường
+hơn 26 tỷ	1	thường
+hơn 40	1	này
+hơn 40 vụ	1	này
+hơn NULL	2	nhẹ	tốt
+hơn dù	1	thấp
+hơn dù đầu	1	thấp
+hơn khi	1	khăn
+hơn khi người	1	khăn
+hơn một	2	suốt	đoạt
+hơn một năm	1	suốt
+hơn một tỷ	1	đoạt
+hơn tháng	1	NULL
+hơn tháng trước	1	NULL
+hư	1	sản
+hư hỏng	1	sản
+hư hỏng hết	1	sản
+hưng	4	chiến	cổ	giường	văn
+hưng 21	1	văn
+hưng 21 tuổi	1	văn
+hưng NULL	1	cổ
+hưng rồi	1	giường
+hưng rồi sang	1	giường
+hưng và	1	chiến
+hưng và quyền	1	chiến
+hương	1	của
+hương NULL	1	của
+hướng	1	theo
+hướng dẫn	1	theo
+hướng dẫn của	1	theo
+hướng nạn	1	theo
+hướng nạn nhân	1	theo
+hại	2	bị	thiệt
+hại NULL	1	bị
+hại khi	1	thiệt
+hại khi chung	1	thiệt
+hại không	1	thiệt
+hại không NULL	1	thiệt
+hại không đồng	1	thiệt
+hại nhiều	1	bị
+hại nhiều người	1	bị
+hại yêu	1	bị
+hại yêu cầu	1	bị
+hạn	1	giới
+hạn nên	1	giới
+hạn nên quỳnh	1	giới
+hải	6	-	bị	bộ	cho	giờ	trặc
+hải hiếuôtô	1	-
+hải hiếuôtô chở	1	-
+hải quan	5	bị	bộ	cho	giờ	trặc
+hải quan malaysia	1	cho
+hải quan mang	1	bộ
+hải quan mà	1	trặc
+hải quan tới	1	bộ
+hải quan việt	1	bị
+hải quan đòi	1	giờ
+hải quan đều	1	bộ
+hầm	1	tầng
+hầm NULL	1	tầng
+hầu	2	nên	thủy
+hầu như	1	nên
+hầu như ảo	1	nên
+hầu tòa	1	thủy
+hầu tòa vì	1	thủy
+hận	2	mang	sang
+hận NULL	1	sang
+hận vì	1	mang
+hận vì bị	1	mang
+hậu	1	gây
+hậu quả	1	gây
+hậu quả nghiêm	1	gây
+hẹn	2	ngày	và
+hẹn ngày	1	và
+hẹn ngày 15/10	1	và
+hẹn ngân	1	ngày
+hẹn ngân được	1	ngày
+hết	3	gái	hỏng	xệch
+hết mực	1	gái
+hết mực khuyên	1	gái
+hết thì	1	hỏng
+hết thì chúng	1	hỏng
+hết đứng	1	xệch
+hết đứng lên	1	xệch
+hệ	2	liên	quan
+hệ NULL	1	quan
+hệ chưa	1	quan
+hệ chưa đi	1	quan
+hệ mua	1	liên
+hệ mua thuốc	1	liên
+hệ yêu	1	quan
+hệ yêu đương	1	quan
+họ	5	2010-2013	bay	khiến	nghe	đình
+họ chưa	1	đình
+họ chưa nhận	1	đình
+họ kêu	1	nghe
+họ kêu la	1	nghe
+họ la	1	khiến
+họ la hét	1	khiến
+họ lừa	1	2010-2013
+họ lừa 8	1	2010-2013
+họ phát	1	bay
+họ phát hiện	1	bay
+học	2	bạn	đi
+học chung	1	bạn
+học chung trường	1	bạn
+học cấp	1	bạn
+học cấp 3	1	bạn
+học thời	1	bạn
+học thời phổ	1	bạn
+học về	1	đi
+học về NULL	1	đi
+họp	1	cuộc
+họp báo	1	cuộc
+họp báo sáng	1	cuộc
+hỏa	1	ra
+hỏa hoạn	1	ra
+hỏa hoạn nhỏ	1	ra
+hỏi	2	sang	đớn
+hỏi thì	1	đớn
+hỏi thì sang	1	đớn
+hỏi thăm	1	sang
+hỏi thăm quyền	1	sang
+hỏng	1	hư
+hỏng hết	1	hư
+hỏng hết thì	1	hư
+hốt	1	hoảng
+hốt nhận	1	hoảng
+hốt nhận ra	1	hoảng
+hồ	1	lệch
+hồ sơ	1	lệch
+hồ sơ vụ	1	lệch
+hồi	1	đang
+hồi hộp	1	đang
+hồi hộp chờ	1	đang
+hồng	1	NULL
+hồng nguyên	1	NULL
+hồng nguyên luật	1	NULL
+hổ	1	xấu
+hổ nhưng	1	xấu
+hổ nhưng không	1	xấu
+hỗn	3	gia	sau	vụ
+hỗn chiến	3	gia	sau	vụ
+hỗn chiến hưng	1	sau
+hỗn chiến trước	2	gia	vụ
+hộ	1	căn
+hộ ôtô	1	căn
+hộ ôtô gửi	1	căn
+hội	2	cơ	xã
+hội facebook	1	xã
+hội facebook khoe	1	xã
+hội nên	1	xã
+hội nên hầu	1	xã
+hội thỏa	1	cơ
+hội thỏa mơ	1	cơ
+hội việt	1	xã
+hội việt nam	1	xã
+hộp	1	hồi
+hộp chờ	1	hồi
+hộp chờ quà	1	hồi
+hờ	1	chồng
+hờ ruồng	1	chồng
+hờ ruồng rẫy	1	chồng
+hợp	1	phối
+hợp của	1	phối
+hợp của ngân	1	phối
+hủy	1	đã
+hủy hai	1	đã
+hủy hai bản	1	đã
+hứa	5	chung	cũ	gái	lời	thù
+hứa bán	1	chung
+hứa bán cho	1	chung
+hứa sẽ	2	cũ	lời
+hứa sẽ gặp	1	lời
+hứa sẽ trả	1	cũ
+hứa trả	2	gái	thù
+hứa trả công	2	gái	thù
+iphone	3	chiếc	thoại	động
+iphone 4	3	chiếc	thoại	động
+iphone 4 cũ	1	chiếc
+iphone 4 giá	1	động
+iphone 4 đã	1	thoại
+iphone 6s	1	thoại
+iphone 6s laptop	1	thoại
+iphone giá	2	chiếc	thoại
+iphone giá 100	1	thoại
+iphone giá rẻ	1	chiếc
+jack	1	donald
+jack cho	1	donald
+jack cho biết	1	donald
+jack dường	1	donald
+jack dường như	1	donald
+jack giới	1	donald
+jack giới thiệu	1	donald
+jack và	1	donald
+jack và nữ	1	donald
+jack đã	1	donald
+jack đã lừa	1	donald
+khai	6	cổ…	liên	lời	sang	ta	thanh
+khai báo	1	ta
+khai báo quanh	1	ta
+khai của	1	lời
+khai của mình	1	lời
+khai của những	1	lời
+khai là	1	sang
+khai là bạn	1	sang
+khai nhận	1	thanh
+khai nhận được	1	thanh
+khai thường	1	liên
+khai thường xuyên	1	liên
+khai với	1	cổ…
+khai với cảnh	1	cổ…
+khai được	1	thanh
+khai được sang	1	thanh
+khanh”	1	sở
+khanh” NULL	1	sở
+khi	14	8/2003	NULL	axit	diện	hơn	hại	ngờ	nhiên	sau	trong	trước	tội”	đến	định
+khi cha	1	đến
+khi cha mẹ	1	đến
+khi chung	1	hại
+khi chung cư	1	hại
+khi chuẩn	1	sau
+khi chuẩn bị	1	sau
+khi có	1	NULL
+khi có người	1	NULL
+khi công	1	8/2003
+khi công an	1	8/2003
+khi cả	1	NULL
+khi cả hai	1	NULL
+khi gây	3	axit	diện	trước
+khi gây án	3	axit	diện	trước
+khi gửi	1	định
+khi gửi hàng	1	định
+khi hai	2	NULL	tội”
+khi hai bản	1	tội”
+khi hai cô	1	NULL
+khi liên	1	sau
+khi liên tục	1	sau
+khi người	1	hơn
+khi người tình	1	hơn
+khi nữ	1	sau
+khi nữ sinh	1	sau
+khi đó	1	trong
+khi đó nạn	1	trong
+khi được	1	ngờ
+khi được thông	1	ngờ
+khi đến	1	nhiên
+khi đến sân	1	nhiên
+khiêm	1	văn
+khiêm phó	1	văn
+khiêm phó khoa	1	văn
+khiến	2	axit	sao
+khiến cô	1	sao
+khiến cô gái	1	sao
+khiến họ	1	axit
+khiến họ la	1	axit
+khoa	3	phó	tại	đa
+khoa bình	1	đa
+khoa bình thuận	1	đa
+khoa cấp	1	phó
+khoa cấp cứu	1	phó
+khoa nhiễm	1	tại
+khoa nhiễm khuẩn	1	tại
+khoe	2	facebook	liên
+khoe quen	1	liên
+khoe quen bác	1	liên
+khoe thân	1	liên
+khoe thân quen	1	liên
+khoe ảnh	1	facebook
+khoe ảnh tự	1	facebook
+khoá	1	bị
+khoá mạng	1	bị
+khoá mạng với	1	bị
+khoác	1	áo
+khoác NULL	1	áo
+khoác ngoài	1	áo
+khoác ngoài chiếc	1	áo
+khoác đen	1	áo
+khoác đen của	1	áo
+khoản	1	tài
+khoản cho	1	tài
+khoản cho cán	1	tài
+khoản cho thấy	1	tài
+khoản của	1	tài
+khoản của cán	1	tài
+khoản mang	1	tài
+khoản mang tên	1	tài
+khoản ngân	1	tài
+khoản ngân hàng	1	tài
+khoảng	2	NULL	trong
+khoảng 9,3	1	trong
+khoảng 9,3 tỷ	1	trong
+khoảng một	1	NULL
+khoảng một tuần	1	NULL
+khu	1	cảnh
+khu vực	1	cảnh
+khu vực phía	1	cảnh
+khuyên	1	mực
+khuyên nhủ	1	mực
+khuyên nhủ sang	1	mực
+khuyến	1	nẵng
+khuyến cáo	1	nẵng
+khuyến cáo đây	1	nẵng
+khuẩn	1	nhiễm
+khuẩn của	1	nhiễm
+khuẩn của bệnh	1	nhiễm
+khác	3	người	nhân	nơi
+khác NULL	1	nơi
+khác nhau	1	nơi
+khác nhau NULL	1	nơi
+khác phát	1	nhân
+khác phát hiện	1	nhân
+khác và	1	người
+khác và nhân	1	người
+khâu	1	ở
+khâu nào	1	ở
+khâu nào NULL	1	ở
+khí	1	hung
+khí lao	1	hung
+khí lao vào	1	hung
+khó	2	biệt	nhiều
+khó khăn	2	biệt	nhiều
+khó khăn hơn	1	biệt
+khó khăn phải	1	nhiều
+không	20	NULL	chung	chứ	cũng	cảm	em	gái	hàng	hại	mà	ngoại	nhân	nhưng	nếu	rằng	sinh	thì	thường	thấy	tiếng
+không NULL	1	hại
+không biết	2	em	rằng
+không biết gì	1	rằng
+không biết và	1	em
+không chấp	1	sinh
+không chấp nhận	1	sinh
+không có	3	ngoại	thường	thấy
+không có ai	1	thấy
+không có hóa	1	ngoại
+không có người	1	thường
+không hôn	1	chung
+không hôn thú	1	chung
+không lay	1	cũng
+không lay chuyển	1	cũng
+không muốn	1	nếu
+không muốn hàng	1	nếu
+không nghe	1	gái
+không nghe máy	1	gái
+không nhận	1	mà
+không nhận được	1	mà
+không nội	1	hàng
+không nội bài	1	hàng
+không quên	1	cũng
+không quên nhắn	1	cũng
+không thoải	1	thấy
+không thoải mái	1	thấy
+không thấy	2	thì	tiếng
+không thấy NULL	1	thì
+không thấy tung	1	tiếng
+không thể	2	NULL	nhưng
+không thể giấu	1	nhưng
+không thể lý	1	NULL
+không trực	1	chứ
+không trực tiếp	1	chứ
+không xác	1	nhân
+không xác định	1	nhân
+không được	1	cảm
+không được nên	1	cảm
+không được sang	1	cảm
+không được, sang	1	cảm
+không được, sang nhiều	1	cảm
+không đồng	1	hại
+không đồng ý	1	hại
+khăn	1	khó
+khăn hơn	1	khó
+khăn hơn khi	1	khó
+khăn phải	1	khó
+khăn phải kéo	1	khó
+khả	2	nhiều	tải
+khả nghi	1	tải
+khả nghi cảnh	1	tải
+khả năng	1	nhiều
+khả năng còn	1	nhiều
+khẩu	1	đeo
+khẩu trang	1	đeo
+khẩu trang và	1	đeo
+khẩu trang y	1	đeo
+khẳng	1	nước
+khẳng định	1	nước
+khẳng định 7,2	1	nước
+khỏe	1	sức
+khỏe của	1	sức
+khỏe của nạn	1	sức
+khỏi	1	trốn
+khỏi địa	1	trốn
+khỏi địa phương	1	trốn
+khởi	2	đã	định
+khởi tố	2	đã	định
+khởi tố bắt	1	định
+khởi tố bị	1	đã
+kia	1	nhóm
+kia đánh	1	nhóm
+kia đánh rủ	1	nhóm
+kim	1	chợ
+kim biên	1	chợ
+kim biên quận	1	chợ
+kim biên sang	1	chợ
+kinh	1	về
+kinh tế	1	về
+kinh tế và	1	về
+kiêm	1	yếu
+kiêm nhiệm	1	yếu
+kiêm nhiệm NULL	1	yếu
+kiếm	3	hoàn	ta	tìm
+kiếm NULL	1	tìm
+kiếm hà	1	hoàn
+kiếm hà nội	1	hoàn
+kiếm hài	1	tìm
+kiếm hài cốt	1	tìm
+kiếm sống	1	ta
+kiếm sống bằng	1	ta
+kiến	1	dự
+kiến chiều	1	dự
+kiến chiều nay	1	dự
+kiểm	2	NULL	qua
+kiểm tra	2	NULL	qua
+kiểm tra nếu	1	qua
+kiểm tra scan	1	qua
+kiểm tra ôtô	1	NULL
+kiện	2	malaysia	vụ
+kiện dân	1	vụ
+kiện dân sự	1	vụ
+kiện hàng	1	malaysia
+kiện hàng của	1	malaysia
+kon	1	tô
+kon tum	1	tô
+kon tum bị	1	tô
+kèm	1	gửi
+kèm 5	1	gửi
+kèm 5 NULL	1	gửi
+kéo	3	lôi	níu	phải
+kéo 4	1	lôi
+kéo 4 người	1	lôi
+kéo dài	1	phải
+kéo dài suốt	1	phải
+kéo tình	1	níu
+kéo tình cảm	1	níu
+kéo và	1	níu
+kéo và từng	1	níu
+kêu	5	họ	loạn	quyền	tục	đơn
+kêu la	1	họ
+kêu la đau	1	họ
+kêu oan	3	quyền	tục	đơn
+kêu oan cho	1	quyền
+kêu oan của	1	đơn
+kêu oan và	1	tục
+kêu thét	1	loạn
+kêu thét loạng	1	loạn
+ký	1	đăng
+ký địa	1	đăng
+ký địa chỉ	1	đăng
+kẻ	2	axit	bắt
+kẻ thù	1	axit
+kẻ thù hứa	1	axit
+kẻ đâm	1	bắt
+kẻ đâm loạn	1	bắt
+kế	3	lên	nằm	về
+kế bên	1	nằm
+kế bên NULL	1	nằm
+kế hoạch	2	lên	về
+kế hoạch chi	1	về
+kế hoạch trả	1	về
+kế hoạch tạt	1	lên
+kết	5	bị	cái	qua	án	để
+kết buồn	1	cái
+kết buồn của	1	cái
+kết bạn	2	qua	để
+kết bạn giao	1	để
+kết bạn trên	1	qua
+kết tội	1	án
+kết tội ông	1	án
+kết án	1	bị
+kết án oan	1	bị
+kề	1	quỳnh
+kề dao	1	quỳnh
+kề dao vào	1	quỳnh
+kể	2	hà	thanh
+kể NULL	1	thanh
+kể chị	1	hà
+kể chị là	1	hà
+kịp	2	hiện	ngăn
+kịp NULL	1	ngăn
+kịp thời	1	hiện
+kịp thời NULL	1	hiện
+kỹ	1	làm
+kỹ sư	1	làm
+kỹ sư ở	1	làm
+la	4	dò	họ	kêu	lân
+la gặp	1	lân
+la gặp người	1	lân
+la hét	1	họ
+la hét đau	1	họ
+la tại	1	dò
+la tại các	1	dò
+la đau	1	kêu
+la đau đớn	1	kêu
+lai	1	thân
+lai lịch	1	thân
+lai lịch NULL	1	thân
+lan	11	2012	cha	của	dung	mỹ	sinh	tiền	tuổi	tên	tìm	xuân
+lan NULL	1	xuân
+lan bỏ	1	cha
+lan bỏ lại	1	cha
+lan lại	2	2012	tên
+lan lại cặp	1	2012
+lan lại đăng	1	tên
+lan lấy	1	của
+lan lấy từ	1	của
+lan lừa	1	xuân
+lan lừa đảo	1	xuân
+lan mới	1	dung
+lan mới hiện	1	dung
+lan sống	1	tuổi
+lan sống chung	1	tuổi
+lan tiếp	1	sinh
+lan tiếp tục	1	sinh
+lan và	2	tiền	tìm
+lan và gã	1	tiền
+lan và nhận	1	tìm
+lan được	1	của
+lan được cha	1	của
+lan ở	1	mỹ
+lan ở lại	1	mỹ
+lao	2	khí	vướng
+lao lý	1	vướng
+lao lý từ	1	vướng
+lao vào	1	khí
+lao vào tấn	1	khí
+laptop	1	6s
+laptop và	1	6s
+laptop và gửi	1	6s
+lay	1	không
+lay chuyển	1	không
+lay chuyển được	1	không
+leo	1	là
+leo rào	1	là
+leo rào vào	1	là
+liên	11	NULL	bà	chuyện	khi	người	sẽ	thị	tạp	và	ông	đâm
+liên 63	1	thị
+liên 63 tuổi	1	thị
+liên bỏ	1	bà
+liên bỏ trốn	1	bà
+liên hệ	1	và
+liên hệ mua	1	và
+liên khai	1	bà
+liên khai thường	1	bà
+liên khoe	1	bà
+liên khoe quen	1	bà
+liên khoe thân	1	bà
+liên lạc	1	sẽ
+liên lạc NULL	1	sẽ
+liên quan	3	NULL	người	tạp
+liên quan nhiều	1	tạp
+liên quan vụ	1	người
+liên quan đã	1	người
+liên quan đường	1	người
+liên quan đến	1	NULL
+liên tiếp	1	đâm
+liên tiếp 4	1	đâm
+liên tục	2	khi	ông
+liên tục bị	1	khi
+liên tục kêu	1	ông
+liên đã	1	chuyện
+liên đã tạo	1	chuyện
+liệt	5	cốt	là	mộ	nhân	trang
+liệt sĩ	5	cốt	là	mộ	nhân	trang
+liệt sĩ NULL	1	mộ
+liệt sĩ chiếm	1	là
+liệt sĩ chúng	1	nhân
+liệt sĩ do	1	cốt
+liệt sĩ giả	1	mộ
+liệt sĩ huyện	1	trang
+liệt sĩ lôi	1	cốt
+liệt sĩ đêm	1	trang
+lo	1	rất
+lo lắng	1	rất
+lo lắng vì	1	rất
+loanh	1	hiện
+loanh quanh	1	hiện
+loanh quanh trong	1	hiện
+long	2	phường	tăng
+long phường	1	tăng
+long phường tăng	1	tăng
+long trường	1	phường
+long trường quận	1	phường
+loại	1	là
+loại hình	1	là
+loại hình tội	1	là
+loạn	2	hoảng	đâm
+loạn kêu	1	hoảng
+loạn kêu thét	1	hoảng
+loạn xạ	1	đâm
+loạn xạ bệnh	1	đâm
+loạng	2	mặt	thét
+loạng choạng	2	mặt	thét
+loạng choạng làm	1	thét
+loạng choạng ngã	1	mặt
+loạt	1	hàng
+loạt phụ	1	hàng
+loạt phụ nữ	1	hàng
+luôn	1	thoại
+luôn ở	1	thoại
+luôn ở chế	1	thoại
+luật	3	nguyên	nhật	pháp
+luật là	1	pháp
+luật là hơn	1	pháp
+luật nguyên	1	nhật
+luật nguyên thượng	1	nhật
+luật sư	1	nguyên
+luật sư trả	1	nguyên
+luống	1	NULL
+luống cuống	1	NULL
+luống cuống xuống	1	NULL
+là	14	cho	chị	khai	luật	nam	nhân	nhất	nữa	phạm	sang	xưng	ông	đây	đó
+là axit	1	đó
+là axit thanh	1	đó
+là bạn	2	khai	sang
+là bạn học	2	khai	sang
+là công	1	nhất
+là công đoàn	1	nhất
+là hơn	1	luật
+là hơn 16	1	luật
+là leo	1	cho
+là leo rào	1	cho
+là liệt	1	nhân
+là liệt sĩ	1	nhân
+là loại	1	đây
+là loại hình	1	đây
+là lý	1	phạm
+là lý nguyễn	1	phạm
+là một	1	nam
+là một thùng	1	nam
+là nhân	1	xưng
+là nhân viên	1	xưng
+là quy	1	đây
+là quy định	1	đây
+là thủ	1	ông
+là thủ phạm	1	ông
+là tiểu	1	chị
+là tiểu thương	1	chị
+là tài	1	nhất
+là tài khoản	1	nhất
+là tính	1	nữa
+là tính chất	1	nữa
+là độc	1	nhân
+là độc thân	1	nhân
+làm	18	choạng	dây	muốn	mưu	mỹ	này	phòng	phải	quỳnh	thiệu	thì	tiếp	ty	việc	và	ý	đã	để
+làm NULL	2	thì	tiếp
+làm dịch	1	ty
+làm dịch vụ	1	ty
+làm giả	4	dây	mưu	việc	và
+làm giả di	1	việc
+làm giả hiện	1	và
+làm giả hài	1	dây
+làm giả hơn	1	mưu
+làm gì	1	muốn
+làm gì thì	1	muốn
+làm kỹ	1	thiệu
+làm kỹ sư	1	thiệu
+làm ngã	1	choạng
+làm ngã xe	1	choạng
+làm ngơ	1	quỳnh
+làm ngơ để	1	quỳnh
+làm quen	3	mỹ	này	để
+làm quen với	3	mỹ	này	để
+làm sai	1	ý
+làm sai lệch	1	ý
+làm thủ	1	và
+làm thủ tục	1	và
+làm việc	3	phòng	và	đã
+làm việc NULL	1	phòng
+làm việc tại	1	và
+làm việc với	1	đã
+làm đơn	1	phải
+làm đơn cầu	1	phải
+lái	1	cầm
+lái NULL	1	cầm
+lái bị	1	cầm
+lái bị nặng	1	cầm
+lâm	1	ma
+lâm huyện	1	ma
+lâm huyện hàm	1	ma
+lân	1	NULL
+lân la	1	NULL
+lân la gặp	1	NULL
+lây	1	vạ
+lây thương	1	vạ
+lây thương tích	1	vạ
+lã	1	đường
+lã xuân	1	đường
+lã xuân oai	1	đường
+lãnh	2	bảo	chức
+lãnh sang	1	bảo
+lãnh sang mỹ	1	bảo
+lãnh đạo	1	chức
+lãnh đạo trung	1	chức
+lê	5	NULL	chính	chị	giữ	sự
+lê huânkẻ	1	NULL
+lê huânkẻ tạt	1	NULL
+lê thanh	3	chính	giữ	sự
+lê thanh sang	3	chính	giữ	sự
+lê thị	1	chị
+lê thị ngân	1	chị
+lên	11	chuyển	cảm	nghề	nhân	sang	sinh	tiếp	vượt	đã	được chuyển	đứng
+lên bệnh	2	tiếp	được chuyển
+lên bệnh viện	2	tiếp	được chuyển
+lên kế	3	sang	sinh	đã
+lên kế hoạch	3	sang	sinh	đã
+lên lại	1	đứng
+lên lại ngồi	1	đứng
+lên mạng	2	cảm	nghề
+lên mạng NULL	1	cảm
+lên mạng facebook	1	nghề
+lên tp	1	chuyển
+lên tp hcm	1	chuyển
+lên tạt	1	vượt
+lên tạt axit	1	vượt
+lên tạt cả	1	vượt
+lên đến	1	nhân
+lên đến 700	1	nhân
+lòng	1	được
+lòng tin	1	được
+lòng tin với	1	được
+lôi	1	sĩ
+lôi kéo	1	sĩ
+lôi kéo 4	1	sĩ
+lúc	5	NULL	có	người	nhiều	trong
+lúc còn	1	người
+lúc còn tình	1	người
+lúc cả	1	NULL
+lúc cả hai	1	NULL
+lúc mâu	1	nhiều
+lúc mâu thuẫn	1	nhiều
+lúc mấy	1	NULL
+lúc mấy cô	1	NULL
+lúc này	1	NULL
+lúc này hà	1	NULL
+lúc tìm	1	có
+lúc tìm cách	1	có
+lúc xác	1	trong
+lúc xác minh	1	trong
+lý	7	lao	là	quản	thể	thụ	vô	đó
+lý 21	1	thụ
+lý 21 vụ	1	thụ
+lý giải	1	thể
+lý giải được	1	thể
+lý nguyễn	2	là	đó
+lý nguyễn chung	2	là	đó
+lý sát	1	quản
+lý sát sao	1	quản
+lý trong	2	thụ	vô
+lý trong chính	1	vô
+lý trong số	1	thụ
+lý từ	1	lao
+lý từ tháng	1	lao
+lý xuất	1	quản
+lý xuất nhập	1	quản
+lăk	1	đăk
+lăk và	1	đăk
+lăk và quảng	1	đăk
+lưng	1	vào
+lưng cổ	1	vào
+lưng cổ hưng	1	vào
+lưu	1	giao
+lưu và	1	giao
+lưu và mở	1	giao
+lượng	2	lực	thương
+lượng tand	1	thương
+lượng tand tối	1	thương
+lượng truy	1	lực
+lượng truy bắt	1	lực
+lượng xác	1	thương
+lượng xác minh	1	thương
+lượng điều	1	lực
+lượng điều tra	1	lực
+lạc	1	liên
+lạc NULL	1	liên
+lại	18	bailey	bỏ	giữ	lan	lên	ngân	này	nối	quay	thanh	thoảng	tra	trả	tôi	về	ách	đánh	ở
+lại NULL	2	tra	trả
+lại bị	1	này
+lại bị hải	1	này
+lại cho	1	thanh
+lại cho rằng	1	thanh
+lại cơ	1	về
+lại cơ quan	1	về
+lại cặp	1	lan
+lại cặp với	1	lan
+lại ngồi	1	lên
+lại ngồi xuống	1	lên
+lại nhận	1	ngân
+lại nhận được	1	ngân
+lại nhắn	1	bailey
+lại nhắn tin	1	bailey
+lại nhếch	1	thoảng
+lại nhếch môi	1	thoảng
+lại sẽ	1	đánh
+lại sẽ bán	1	đánh
+lại tình	1	nối
+lại tình xưa	1	nối
+lại việt	1	ở
+lại việt nam	1	ở
+lại và	1	quay
+lại và bảo	1	quay
+lại vì	2	giữ	ách
+lại vì hàng	1	ách
+lại vì qua	1	giữ
+lại vợ	1	bỏ
+lại vợ con	1	bỏ
+lại đăng	1	lan
+lại đăng ký	1	lan
+lại được	1	tôi
+lại được có	1	tôi
+lảng	1	xuyên
+lảng vảng	1	xuyên
+lảng vảng trước	1	xuyên
+lấy	4	ham	lan	và	đến
+lấy chồng	1	ham
+lấy chồng tây	1	ham
+lấy trộm	1	đến
+lấy trộm hài	1	đến
+lấy từ	1	lan
+lấy từ cục	1	lan
+lấy xe	1	và
+lấy xe của	1	và
+lần	8	NULL	các	có	hai	một	nhiều	nhưng	vài
+lần anh	1	có
+lần anh ta	1	có
+lần nhắn	1	nhiều
+lần nhắn tin	1	nhiều
+lần này	2	NULL	nhưng
+lần này cô	1	NULL
+lần này lại	1	nhưng
+lần níu	1	nhiều
+lần níu kéo	1	nhiều
+lần nữa	1	một
+lần nữa tôi	1	một
+lần trò	2	các	vài
+lần trò chuyện	2	các	vài
+lần xuống	1	nhiều
+lần xuống nước	1	nhiều
+lần xảy	1	hai
+lần xảy ra	1	hai
+lần đứt	1	một
+lần đứt gánh	1	một
+lần ức	1	có
+lần ức chế	1	có
+lậu	1	rượu
+lậu tiền	1	rượu
+lậu tiền tỷ	1	rượu
+lắng	1	lo
+lắng vì	1	lo
+lắng vì nhiều	1	lo
+lễ	1	hôn
+lễ và	1	hôn
+lễ và làm	1	hôn
+lệch	1	sai
+lệch hồ	1	sai
+lệch hồ sơ	1	sai
+lệnh	2	NULL	phát
+lệnh truy	2	NULL	phát
+lệnh truy nã	2	NULL	phát
+lịch	1	lai
+lịch NULL	1	lai
+lọt	1	để
+lọt qua	1	để
+lọt qua kiểm	1	để
+lớn	3	cháy	rất	trị
+lớn NULL	2	rất	trị
+lớn và	1	cháy
+lớn và tài	1	cháy
+lời	5	chính	nói	trả	và	với
+lời chia	1	nói
+lời chia tay	1	nói
+lời hứa	1	với
+lời hứa sẽ	1	với
+lời khai	2	chính	và
+lời khai của	2	chính	và
+lời này	1	trả
+lời này cục	1	trả
+lời vnexpress	1	trả
+lời vnexpress cục	1	trả
+lời xác	1	trả
+lời xác định	1	trả
+lừa	15	bị	can	facebook	họ	lan	này	scotland	siêu	tây	tình	tội	vi	vụ	đã	để
+lừa 8	1	họ
+lừa 8 người	1	họ
+lừa NULL	1	bị
+lừa bệnh	1	để
+lừa bệnh nhân	1	để
+lừa của	1	đã
+lừa của 6	1	đã
+lừa ngân	1	này
+lừa ngân hàng	1	này
+lừa nhiều	1	bị
+lừa nhiều tiền	1	bị
+lừa quà	1	bị
+lừa quà hàng	1	bị
+lừa tiền	2	tình	để
+lừa tiền các	1	tình
+lừa tiền những	1	để
+lừa tình	2	siêu	tây
+lừa tình tiền	1	tây
+lừa tình trên	1	siêu
+lừa đảo	8	can	facebook	lan	scotland	tội	vi	vụ	để
+lừa đảo NULL	1	scotland
+lừa đảo chiếm	2	tội	vi
+lừa đảo cả	1	để
+lừa đảo gạt	2	facebook	lan
+lừa đảo người	1	vụ
+lừa đảo trên	1	can
+lực	3	NULL	hiệu	tung
+lực lượng	2	NULL	tung
+lực lượng truy	1	tung
+lực lượng điều	1	NULL
+lực pháp	1	hiệu
+lực pháp luật	1	hiệu
+ma	1	trấn
+ma lâm	1	trấn
+ma lâm huyện	1	trấn
+mai	1	đôi
+mai phục	1	đôi
+mai phục trên	1	đôi
+malaysia	2	bay	quan
+malaysia kiện	1	bay
+malaysia kiện hàng	1	bay
+malaysia để	1	quan
+malaysia để lọt	1	quan
+mang	7	NULL	binh	dịch	khoản	nghi	quan	rồi
+mang hận	1	NULL
+mang hận vì	1	NULL
+mang thai	1	rồi
+mang thai và	1	rồi
+mang theo	1	binh
+mang theo di	1	binh
+mang tên	3	khoản	nghi	quan
+mang tên lan	1	nghi
+mang tên võ	2	khoản	quan
+mang về	1	dịch
+mang về đối	1	dịch
+manh	1	có
+manh mối	1	có
+manh mối duy	1	có
+me	1	thôn
+me xã	1	thôn
+me xã nghĩa	1	thôn
+mi	1	phỏng
+mi mắt	1	phỏng
+mi mắt giác	1	phỏng
+minh	1	xác
+minh mất	1	xác
+minh mất nhiều	1	xác
+minh theo	1	xác
+minh theo thông	1	xác
+minh thì	1	xác
+minh thì được	1	xác
+minh từ	1	xác
+minh từ thẻ	1	xác
+minh được	1	xác
+minh được thủ	1	xác
+mong	2	NULL	và
+mong muốn	1	và
+mong muốn tiến	1	và
+mong được	1	NULL
+mong được nhận	1	NULL
+mua	4	5	hệ	máy	để
+mua 3	1	5
+mua 3 can	1	5
+mua thuốc	2	hệ	để
+mua thuốc NULL	1	hệ
+mua thuốc đặc	1	để
+mua từ	1	máy
+mua từ tháng	1	máy
+muốn	7	cũng	donald	không	mong	phóng	sang	đổi
+muốn gửi	1	donald
+muốn gửi quà	1	donald
+muốn hàng	1	không
+muốn hàng bị	1	không
+muốn làm	1	sang
+muốn làm gì	1	sang
+muốn nhân	1	cũng
+muốn nhân đây	1	cũng
+muốn nhận	1	đổi
+muốn nhận thùng	1	đổi
+muốn tiến	1	mong
+muốn tiến triển	1	mong
+muốn tặng	1	phóng
+muốn tặng ngân	1	phóng
+mà	1	quan
+mà không	1	quan
+mà không nhận	1	quan
+mái	1	thoải
+mái mâu	1	thoải
+mái mâu thuẫn	1	thoải
+máy	3	nghe	scan	xe
+máy mua	1	xe
+máy mua từ	1	xe
+máy nhưng	1	xe
+máy nhưng còn	1	xe
+máy sau	1	nghe
+máy sau đó	1	nghe
+máy trên	1	xe
+máy trên đường	1	xe
+máy về	1	xe
+máy về nhà	1	xe
+máy ở	1	scan
+máy ở sân	1	scan
+mâu	2	lúc	mái
+mâu thuẫn	2	lúc	mái
+mâu thuẫn NULL	1	lúc
+mâu thuẫn thường	1	mái
+mình	1	của
+mình NULL	1	của
+mình cuối	1	của
+mình cuối cùng	1	của
+món	3	báo	chuyển	một
+món quà	3	báo	chuyển	một
+món quà giá	1	một
+món quà trị	1	chuyển
+món quà đặc	1	báo
+môi	1	nhếch
+môi cười	1	nhếch
+môi cười NULL	1	nhếch
+mũ	1	vàng
+mũ cối	1	vàng
+mũ cối áo	1	vàng
+mơ	1	thỏa
+mơ ước	1	thỏa
+mơ ước được	1	thỏa
+mưu	3	chủ	tham	để
+mưu giải	1	tham
+mưu giải quyết	1	tham
+mưu làm	1	chủ
+mưu làm giả	1	chủ
+mưu sinh	1	để
+mưu sinh lan	1	để
+mưu thúy	1	chủ
+mưu thúy thừa	1	chủ
+mượn	3	hà	sang	xe
+mượn chiếc	1	sang
+mượn chiếc áo	1	sang
+mượn của	1	xe
+mượn của người	1	xe
+mượn facebook	1	hà
+mượn facebook vừa	1	hà
+mạc	1	giác
+mạc mắt	1	giác
+mạc mắt bên	1	giác
+mạc và	1	giác
+mạc và nhiều	1	giác
+mạng	3	khoá	lên	trên
+mạng NULL	1	lên
+mạng facebook	2	lên	trên
+mạng facebook lừa	1	lên
+mạng facebook tự	1	trên
+mạng với	1	khoá
+mạng với giá	1	khoá
+mạng xã	1	trên
+mạng xã hội	1	trên
+mả	1	mồ
+mả hài	1	mồ
+mả hài cốt	1	mồ
+mất	1	minh
+mất nhiều	1	minh
+mất nhiều thời	1	minh
+mấy	1	lúc
+mấy cô	1	lúc
+mấy cô gái	1	lúc
+mẫn	2	thúy	tuổi
+mẫn thị	1	thúy
+mẫn thị duyên	1	thúy
+mẫn đức	1	tuổi
+mẫn đức phương	1	tuổi
+mắc	3	thắc	vướng	đã
+mắc bẫy	1	đã
+mắc bẫy quà	1	đã
+mắc về	1	thắc
+mắc về tiền	1	thắc
+mắc ở	1	vướng
+mắc ở khâu	1	vướng
+mắt	3	mi	mạc	đôi
+mắt bên	1	mạc
+mắt bên trái	1	mạc
+mắt giác	1	mi
+mắt giác mạc	1	mi
+mắt đỏ	1	đôi
+mắt đỏ hoe	1	đôi
+mặc	5	bạn	sang	tay	vẫn	để
+mặc bên	1	bạn
+mặc bên ngoài	1	bạn
+mặc bộ	1	vẫn
+mặc bộ quần	1	vẫn
+mặc sang	2	tay	để
+mặc sang muốn	1	để
+mặc sang nhiều	1	tay
+mặc thêm	1	sang
+mặc thêm áo	1	sang
+mặt	6	gặp	phỏng	vào	vắng	ôm	đầu
+mặt NULL	3	gặp	vào	vắng
+mặt bên	1	phỏng
+mặt bên trái	1	phỏng
+mặt hai	1	gặp
+mặt hai bên	1	gặp
+mặt loạng	1	ôm
+mặt loạng choạng	1	ôm
+mặt quỳnh	1	vào
+mặt quỳnh NULL	1	vào
+mặt quỳnh đang	1	vào
+mặt rồi	1	vào
+mặt rồi tẩu	1	vào
+mặt tay	2	vào	đầu
+mặt tay NULL	1	đầu
+mặt tay cổ…	1	vào
+mẹ	2	cha	ngoài
+mẹ cô	1	cha
+mẹ cô gái	1	cha
+mẹ sang	1	ngoài
+mẹ sang cầm	1	ngoài
+mệnh	1	định
+mệnh tại	1	định
+mệnh tại đà	1	định
+mọi	1	được
+mọi người	1	được
+mọi người can	1	được
+mối	4	do	dắt	manh	triển
+mối con	1	dắt
+mối con bạc	1	dắt
+mối duy	1	manh
+mối duy nhất	1	manh
+mối quan	2	do	triển
+mối quan hệ	2	do	triển
+mồ	1	phạm
+mồ mả	1	phạm
+mồ mả hài	1	phạm
+mỗi	1	NULL
+mỗi người	1	NULL
+mỗi người bị	1	NULL
+mộ	4	100	105	dựng	tại
+mộ giả	1	dựng
+mộ giả NULL	1	dựng
+mộ liệt	2	100	105
+mộ liệt sĩ	2	100	105
+mộ vô	1	tại
+mộ vô danh	1	tại
+một	24	2/2014	NULL	bắt	bị	chất	chỉ	còn	của	gần	hơn	khoảng	là	ngân	nhất	ra	sau	thêm	tây	tình	với	xe	đây	được	ở
+một cán	2	bắt	tình
+một cán bộ	2	bắt	tình
+một gã	1	với
+một gã đàn	1	với
+một lần	2	sau	thêm
+một lần nữa	1	thêm
+một lần đứt	1	sau
+một món	1	ngân
+một món quà	1	ngân
+một nam	1	xe
+một nam thanh	1	xe
+một ngày	1	NULL
+một ngày trước	1	NULL
+một người	4	2/2014	bị	với	được
+một người cô	1	được
+một người xưng	1	2/2014
+một người đàn	2	bị	với
+một năm	1	hơn
+một năm trời	1	hơn
+một nơi	2	chỉ	ở
+một nơi khác	1	ở
+một nơi nhưng	1	chỉ
+một nạn	2	NULL	tây
+một nạn nhân	2	NULL	tây
+một phụ	3	còn	của	được
+một phụ nữ	3	còn	của	được
+một số	3	chất	của	ra
+một số bộ	1	của
+một số vụ	2	chất	ra
+một tháng	1	NULL
+một tháng trước	1	NULL
+một thùng	1	là
+một thùng mỹ	1	là
+một thời	1	NULL
+một thời gian	1	NULL
+một trong	1	đây
+một trong hai	1	đây
+một trường	1	nhất
+một trường cao	1	nhất
+một tuần	2	gần	khoảng
+một tuần alfred	1	gần
+một tuần trước	1	khoảng
+một tỷ	1	hơn
+một tỷ đồng	1	hơn
+mới	9	NULL	cao	hà	lan	phương	sang	trời	vui	đâu
+mới biết	1	đâu
+mới biết bị	1	đâu
+mới chịu	1	sang
+mới chịu bỏ	1	sang
+mới có	1	trời
+mới có thông	1	trời
+mới hiện	1	lan
+mới hiện diện	1	lan
+mới hoảng	1	hà
+mới hoảng hốt	1	hà
+mới hình	1	cao
+mới hình thành	1	cao
+mới nói	1	sang
+mới nói đó	1	sang
+mới từ	1	vui
+mới từ bạn	1	vui
+mới đây	1	NULL
+mới đây quỳnh	1	NULL
+mới ở	1	phương
+mới ở mức	1	phương
+mở	3	trị	và	độ
+mở phiên	1	trị
+mở phiên sơ	1	trị
+mở rộng	1	và
+mở rộng việc	1	và
+mở để	1	độ
+mở để vào	1	độ
+mức	2	đúng	ở
+mức NULL	1	đúng
+mức độ	1	ở
+mức độ nhất	1	ở
+mực	1	hết
+mực khuyên	1	hết
+mực khuyên nhủ	1	hết
+mỹ	5	sang	thùng	tại	từ	ở
+mỹ của	1	từ
+mỹ của người	1	từ
+mỹ lan	1	sang
+mỹ lan ở	1	sang
+mỹ làm	1	ở
+mỹ làm quen	1	ở
+mỹ phẩm	1	thùng
+mỹ phẩm áo	1	thùng
+mỹ và	1	sang
+mỹ và định	1	sang
+mỹ về	2	tại	từ
+mỹ về việt	2	tại	từ
+n	1	 ảnh
+n NULL	1	 ảnh
+nam	9	13/10	NULL	bắt	cùng	hai	một	phía	việt	xe
+nam NULL	1	việt
+nam giữ	1	việt
+nam giữ lại	1	việt
+nam gặp	1	việt
+nam gặp mặt	1	việt
+nam là	1	việt
+nam là một	1	việt
+nam nhưng	1	việt
+nam nhưng lần	1	việt
+nam qua	1	việt
+nam qua 4	1	việt
+nam sinh	4	13/10	NULL	cùng	việt
+nam sinh lên	1	NULL
+nam sinh này	1	NULL
+nam sinh nở	1	việt
+nam sinh rủ	1	13/10
+nam sinh đã	1	cùng
+nam thanh	5	NULL	bắt	hai	một	xe
+nam thanh niên	5	NULL	bắt	hai	một	xe
+nam và	1	việt
+nam và được	1	việt
+nam với	1	việt
+nam với số	1	việt
+nam đóng	1	phía
+nam đóng tại	1	phía
+name	1	nick
+name tên	1	nick
+name tên donald	1	nick
+nay	6	chiều	hôm	năm	sáng	trưa	 trưa
+nay anh	1	 trưa
+nay anh này	1	 trưa
+nay các	1	hôm
+nay các bị	1	hôm
+nay cục	1	sáng
+nay cục trưởng	1	sáng
+nay hđxx	1	chiều
+nay hđxx sẽ	1	chiều
+nay quỳnh	1	trưa
+nay quỳnh đang	1	trưa
+nay so	1	năm
+nay so với	1	năm
+nay tại	1	sáng
+nay tại bộ	1	sáng
+nay đang	1	năm
+nay đang ở	1	năm
+ngang	1	việc
+ngang nhau	1	việc
+ngang nhau NULL	1	việc
+ngay	2	NULL	ý
+ngay chiều	1	NULL
+ngay chiều hôm	1	NULL
+ngay hôm	1	ý
+ngay hôm sau	1	ý
+ngay sau	1	NULL
+ngay sau đó	1	NULL
+nghe	2	em	không
+nghe họ	1	em
+nghe họ kêu	1	em
+nghe máy	1	không
+nghe máy sau	1	không
+nghi	7	-	do	hiện	khả	tình	đó	định
+nghi can	5	-	do	hiện	đó	định
+nghi can chính	1	đó
+nghi can lừa	1	do
+nghi can này	1	hiện
+nghi can tạt	1	-
+nghi can đâm	1	định
+nghi cảnh	1	khả
+nghi cảnh sát	1	khả
+nghi mang	1	tình
+nghi mang tên	1	tình
+nghiêm	1	quả
+nghiêm trọng	1	quả
+nghiêm trọng NULL	1	quả
+nghĩa	3	các	tại	xã
+nghĩa trang	2	các	tại
+nghĩa trang liệt	2	các	tại
+nghĩa trung	1	xã
+nghĩa trung huyện	1	xã
+nghề	2	bằng	hành
+nghề dụ	1	hành
+nghề dụ dỗ	1	hành
+nghề lên	1	bằng
+nghề lên mạng	1	bằng
+nghề tìm	1	hành
+nghề tìm kiếm	1	hành
+nghệ	1	công
+nghệ cao	1	công
+nghệ cao mới	1	công
+nghị	1	đề
+nghị bệnh	1	đề
+nghị bệnh viện	1	đề
+ngoài	7	NULL	bên	khoác	nước	phía	ra	đều
+ngoài NULL	1	nước
+ngoài chiếc	1	khoác
+ngoài chiếc xe	1	khoác
+ngoài mẹ	1	phía
+ngoài mẹ sang	1	phía
+ngoài nói	1	ra
+ngoài nói chuyện	1	ra
+ngoài ra	1	NULL
+ngoài ra tand	1	NULL
+ngoài truy	1	NULL
+ngoài truy bắt	1	NULL
+ngoài vùng	1	đều
+ngoài vùng phủ	1	đều
+ngoài đeo	1	bên
+ngoài đeo khẩu	1	bên
+ngoái	1	năm
+ngoái thấp	1	năm
+ngoái thấp hơn	1	năm
+ngoại	7	người	nhà	rượu	thương	trang	xuất	ông
+ngoại cho	1	xuất
+ngoại cho hà	1	xuất
+ngoại cảm	1	nhà
+ngoại cảm cậu	1	nhà
+ngoại của	1	xuất
+ngoại của mình	1	xuất
+ngoại hình	1	thương
+ngoại hình ưa	1	thương
+ngoại không	1	rượu
+ngoại không có	1	rượu
+ngoại quốc	1	ông
+ngoại quốc rồi	1	ông
+ngoại tệ	1	trang
+ngoại tệ NULL	1	trang
+ngoại tỉnh	1	người
+ngoại tỉnh chăm	1	người
+ngoại và	1	xuất
+ngoại và nhẹ	1	xuất
+ngoại đã	1	xuất
+ngoại đã mắc	1	xuất
+nguyên	4	NULL	hồng	luật	vinh
+nguyên luật	1	hồng
+nguyên luật sư	1	hồng
+nguyên nhân	1	NULL
+nguyên nhân chủ	1	NULL
+nguyên nhân nữa	1	NULL
+nguyên thượng	1	luật
+nguyên thượng tá	1	luật
+nguyên trưởng	1	vinh
+nguyên trưởng phòng	1	vinh
+nguyễn	12	NULL	bà	do	lý	nhóm	oan	pháp	trưởng	tuổi	và	xóm	ông
+nguyễn anh	1	và
+nguyễn anh chiều	1	và
+nguyễn chung	1	lý
+nguyễn chung NULL	1	lý
+nguyễn chung ra	1	lý
+nguyễn thanh	2	oan	ông
+nguyễn thanh chấn	2	oan	ông
+nguyễn thị	2	bà	xóm
+nguyễn thị chiến	1	bà
+nguyễn thị hoan	1	xóm
+nguyễn trường	1	tuổi
+nguyễn trường sơn	1	tuổi
+nguyễn văn	5	NULL	do	nhóm	pháp	trưởng
+nguyễn văn bốn	2	pháp	trưởng
+nguyễn văn hoành	1	NULL
+nguyễn văn quyền	1	nhóm
+nguyễn văn thúy	2	NULL	do
+ngành	1	này
+ngành tòa	1	này
+ngành tòa án	1	này
+ngày	10	2	NULL	ban	cùng	cưới	hẹn	một	vào	đúng	đến
+ngày 13/10	1	NULL
+ngày 13/10 nam	1	NULL
+ngày 13/10 sang	1	NULL
+ngày 15/10	2	NULL	hẹn
+ngày 15/10 công	1	NULL
+ngày 15/10 ra	1	hẹn
+ngày 15/4/2014	1	cưới
+ngày 15/4/2014 hà	1	cưới
+ngày 15/8	1	đến
+ngày 15/8 bao	1	đến
+ngày 16/10	1	NULL
+ngày 16/10 công	1	NULL
+ngày 16/10 tand	1	NULL
+ngày 20/8	1	vào
+ngày 20/8 người	1	vào
+ngày 4/10	1	đến
+ngày 4/10 nữ	1	đến
+ngày 4/11/2013	1	NULL
+ngày 4/11/2013 ông	1	NULL
+ngày NULL	1	2
+ngày chờ	1	2
+ngày chờ đợi	1	2
+ngày cảnh	1	cùng
+ngày cảnh sát	1	cùng
+ngày hẹn	1	đúng
+ngày hẹn ngân	1	đúng
+ngày trước	1	một
+ngày trước khi	1	một
+ngày đi	1	ban
+ngày đi dò	1	ban
+ngân	13	cho	chị	của	hẹn	khoản	lừa	quà	sớm	theo	thị	tặng	với	đoàn
+ngân 26	1	thị
+ngân 26 tuổi	1	thị
+ngân NULL	1	cho
+ngân chỉ	1	theo
+ngân chỉ sau	1	theo
+ngân em	1	với
+ngân em phải	1	với
+ngân hàng	4	của	khoản	lừa	đoàn
+ngân hàng chính	2	lừa	đoàn
+ngân hàng chúng	1	khoản
+ngân hàng theo	1	khoản
+ngân hàng và	1	của
+ngân lại	1	chị
+ngân lại nhận	1	chị
+ngân một	1	tặng
+ngân một món	1	tặng
+ngân răm	1	sớm
+ngân răm rắp	1	sớm
+ngân thông	1	cho
+ngân thông báo	1	cho
+ngân đã	2	của	quà
+ngân đã bị	1	của
+ngân đã phải	1	quà
+ngân được	1	hẹn
+ngân được một	1	hẹn
+ngã	4	choạng	gái	làm	đớn
+ngã xe	1	làm
+ngã xe NULL	1	làm
+ngã xuống	3	choạng	gái	đớn
+ngã xuống em	1	gái
+ngã xuống đường	2	choạng	đớn
+ngãi	1	quảng
+ngãi cho	1	quảng
+ngãi cho biết	1	quảng
+ngôi	1	su
+ngôi sao	1	su
+ngôi sao vàng	1	su
+ngăn	1	can
+ngăn kịp	1	can
+ngăn kịp NULL	1	can
+ngũ	1	đội
+ngũ công	1	đội
+ngũ công chức	1	đội
+ngơ	1	làm
+ngơ để	1	làm
+ngơ để mặc	1	làm
+người	33	-	11	20/8	4	6	7	8	NULL	bị	cho	chuyện	có	của	do	giết	gặp	hai	hình	khi	mọi	mỗi	một	nhiều	những	rẫy	thấy	trai	và	vắng	với	đình	được	đảo
+người NULL	1	giết
+người bệnh	1	đình
+người bệnh đưa	1	đình
+người bị	5	-	6	cho	do	mỗi
+người bị giam	1	mỗi
+người bị kết	2	-	cho
+người bị thiệt	1	do
+người bị truy	1	6
+người can	1	mọi
+người can ngăn	1	mọi
+người chuyên	1	có
+người chuyên trách	1	có
+người chồng	1	với
+người chồng phụ	1	với
+người có	1	và
+người có số	1	và
+người cô	2	của	một
+người cô ruột	1	một
+người cô đi	1	của
+người cô…	1	của
+người cô… và	1	của
+người cần	1	có
+người cần tìm	1	có
+người của	1	20/8
+người của công	1	20/8
+người dân	1	được
+người dân đưa	1	được
+người giao	1	hình
+người giao dịch	1	hình
+người khác	1	nhiều
+người khác và	1	nhiều
+người liên	3	11	7	những
+người liên quan	3	11	7	những
+người lúc	1	hai
+người lúc còn	1	hai
+người ngoại	1	gặp
+người ngoại tỉnh	1	gặp
+người ngồi	1	rẫy
+người ngồi sau	1	rẫy
+người nhà	3	NULL	với	đảo
+người nhà bệnh	2	với	đảo
+người nhà nạn	1	NULL
+người nhận	1	có
+người nhận diện	1	có
+người này	1	NULL
+người này cho	1	NULL
+người nước	1	trai
+người nước ngoài	1	trai
+người sang	1	vắng
+người sang bảo	1	vắng
+người sử	1	thấy
+người sử dụng	1	thấy
+người tham	1	11
+người tham gia	1	11
+người thân	2	4	và
+người thân cho	1	và
+người thân tham	1	4
+người tuyên	1	giết
+người tuyên án	1	giết
+người tình	2	của	khi
+người tình NULL	1	của
+người tình chưa	1	của
+người tình nghi	1	khi
+người xưng	1	một
+người xưng tên	1	một
+người yêu	2	bị	với
+người yêu chia	1	bị
+người yêu cũ	1	với
+người đi	2	8	những
+người đi tìm	2	8	những
+người đàn	4	NULL	chuyện	một	với
+người đàn ông	4	NULL	chuyện	một	với
+ngồi	5	bạn	lại	người	năm	tuổi
+ngồi nhậu	1	tuổi
+ngồi nhậu với	1	tuổi
+ngồi sau	2	bạn	người
+ngồi sau bị	1	người
+ngồi sau cũng	1	bạn
+ngồi tù	1	năm
+ngồi tù ông	1	năm
+ngồi xuống	1	lại
+ngồi xuống dán	1	lại
+ngộ	1	cảnh
+ngộ với	1	cảnh
+ngộ với chị	1	cảnh
+ngờ	1	bất
+ngờ bị	1	bất
+ngờ bị đôi	1	bất
+ngờ khi	1	bất
+ngờ khi được	1	bất
+ngờ rút	1	bất
+ngờ rút dao	1	bất
+ngụ	1	tuổi
+ngụ quận	1	tuổi
+ngụ quận 4	1	tuổi
+ngụ thị	1	tuổi
+ngụ thị trấn	1	tuổi
+nhanh	3	NULL	bước	thủ
+nhanh chân	1	thủ
+nhanh chân tẩu	1	thủ
+nhanh chóng	1	NULL
+nhanh chóng tỏ	1	NULL
+nhanh vào	1	bước
+nhanh vào phòng	1	bước
+nhau	3	chở	khác	ngang
+nhau NULL	2	khác	ngang
+nhau về	1	chở
+nhau về hai	1	chở
+nhiên	1	tuy
+nhiên do	1	tuy
+nhiên do mối	1	tuy
+nhiên khi	1	tuy
+nhiên khi đến	1	tuy
+nhiên thanh	1	tuy
+nhiên thanh lại	1	tuy
+nhiên trao	1	tuy
+nhiên trao đổi	1	tuy
+nhiều	16	NULL	chờ	co	cửa	hại	lừa	mất	này	quan	rất	sang	suốt	và	vì	được, sang	định
+nhiều cơ	1	cửa
+nhiều cơ quan	1	cửa
+nhiều cựu	1	NULL
+nhiều cựu binh	1	NULL
+nhiều giờ	1	suốt
+nhiều giờ sang	1	suốt
+nhiều khó	1	rất
+nhiều khó khăn	1	rất
+nhiều khả	1	định
+nhiều khả năng	1	định
+nhiều lúc	1	co
+nhiều lúc mâu	1	co
+nhiều lần	3	này	sang	được, sang
+nhiều lần nhắn	2	sang	được, sang
+nhiều lần níu	2	này	sang
+nhiều lần xuống	1	sang
+nhiều người	1	hại
+nhiều người khác	1	hại
+nhiều thời	1	mất
+nhiều thời gian	1	mất
+nhiều tiếng	1	chờ
+nhiều tiếng không	1	chờ
+nhiều tiền	1	lừa
+nhiều tiền nhất	1	lừa
+nhiều tài	1	vì
+nhiều tài sản	1	vì
+nhiều tư	1	và
+nhiều tư trang	1	và
+nhiều vùng	1	và
+nhiều vùng ở	1	và
+nhiều đơn	1	quan
+nhiều đơn vị	1	quan
+nhiễm	1	khoa
+nhiễm khuẩn	1	khoa
+nhiễm khuẩn của	1	khoa
+nhiệm	2	kiêm	trách
+nhiệm NULL	2	kiêm	trách
+nhiệm bồi	1	trách
+nhiệm bồi thường	1	trách
+nhiệm gây	1	trách
+nhiệm gây hậu	1	trách
+nhà	8	danh	gần	người	thường	tiền	trong	vào	về
+nhà NULL	1	trong
+nhà bệnh	1	người
+nhà bệnh nhân	1	người
+nhà bộ	1	về
+nhà bộ đôi	1	về
+nhà còn	1	trong
+nhà còn 3	1	trong
+nhà ngoại	1	danh
+nhà ngoại cảm	1	danh
+nhà nước	2	thường	tiền
+nhà nước bộ	1	thường
+nhà nước chi	1	tiền
+nhà nước do	1	thường
+nhà nước khẳng	1	thường
+nhà nước nói	1	thường
+nhà nạn	1	người
+nhà nạn nhân	1	người
+nhà quỳnh	1	vào
+nhà quỳnh kề	1	vào
+nhà sau	1	về
+nhà sau 10	1	về
+nhà tạt	1	gần
+nhà tạt axit	1	gần
+nhà ở	1	về
+nhà ở phường	1	về
+nhát	1	4
+nhát vào	1	4
+nhát vào lưng	1	4
+nhân	11	bệnh	danh	là	muốn	nguyên	nạn	phạm	thân	và	về	ân
+nhân NULL	2	bệnh	nạn
+nhân bà	1	bệnh
+nhân bà liên	1	bệnh
+nhân bị	1	nạn
+nhân bị lừa	1	nạn
+nhân bị trả	1	nạn
+nhân chờ	1	nạn
+nhân chờ nhiều	1	nạn
+nhân chủ	1	nguyên
+nhân chủ quan	1	nguyên
+nhân chứng	1	và
+nhân chứng vắng	1	và
+nhân hoặc	1	bệnh
+nhân hoặc bệnh	1	bệnh
+nhân hà	1	nạn
+nhân hà cung	1	nạn
+nhân khác	1	phạm
+nhân khác phát	1	phạm
+nhân không	1	nạn
+nhân không xác	1	nạn
+nhân liệt	1	thân
+nhân liệt sĩ	1	thân
+nhân là	2	nạn	thân
+nhân là liệt	1	thân
+nhân là độc	1	nạn
+nhân lên	1	nạn
+nhân lên đến	1	nạn
+nhân nữa	1	nguyên
+nhân nữa là	1	nguyên
+nhân phát	1	nạn
+nhân phát hiện	1	nạn
+nhân qua	1	nạn
+nhân qua biên	1	nạn
+nhân thân	1	về
+nhân thân lai	1	về
+nhân trong	1	bệnh
+nhân trong phòng	1	bệnh
+nhân tên	1	nạn
+nhân tên hà	1	nạn
+nhân tố	1	nạn
+nhân tố cáo	1	nạn
+nhân viên	2	danh	là
+nhân viên cảng	1	là
+nhân viên của	1	danh
+nhân và	1	nạn
+nhân và bảo	1	nạn
+nhân với	1	bệnh
+nhân với thủ	1	bệnh
+nhân vừa	1	nạn
+nhân vừa chia	1	nạn
+nhân đang	2	bệnh	nạn
+nhân đang tiến	1	nạn
+nhân đang điều	1	bệnh
+nhân đang được	1	nạn
+nhân đâu	1	ân
+nhân đâu mới	1	ân
+nhân đây	1	muốn
+nhân đây nắm	1	muốn
+nhân đã	1	nạn
+nhân đã thay	1	nạn
+nhân được	2	bệnh	nạn
+nhân được chăm	1	bệnh
+nhân được thay	1	nạn
+nhìn	2	từng	ưa
+nhìn có	1	ưa
+nhìn có sở	1	ưa
+nhìn thấy	1	từng
+nhìn thấy bạn	1	từng
+nhóm	4	2013	NULL	bị	cáo
+nhóm cán	1	cáo
+nhóm cán bộ	1	cáo
+nhóm kia	1	bị
+nhóm kia đánh	1	bị
+nhóm nguyễn	1	bị
+nhóm nguyễn văn	1	bị
+nhóm này	2	2013	NULL
+nhóm này ban	1	NULL
+nhóm này lừa	1	2013
+nhóm này đã	1	NULL
+nhơn	1	tăng
+nhơn phú	1	tăng
+nhơn phú a	1	tăng
+như	4	dường	hầu	vật	án
+như 2	1	án
+như 2 bình	1	án
+như bi	1	vật
+như bi đông	1	vật
+như đã	1	dường
+như đã tìm	1	dường
+như ảo	1	hầu
+như ảo về	1	hầu
+nhưng	11	cấp	gọi	hổ	máy	nam	này	nơi	sinh	thế	đến	đồng
+nhưng còn	1	máy
+nhưng còn dư	1	máy
+nhưng cô	1	gọi
+nhưng cô gái	1	gọi
+nhưng cư	1	nơi
+nhưng cư trú	1	nơi
+nhưng hung	1	đến
+nhưng hung thủ	1	đến
+nhưng không	1	hổ
+nhưng không thể	1	hổ
+nhưng lần	1	nam
+nhưng lần này	1	nam
+nhưng quà	1	đồng
+nhưng quà thì	1	đồng
+nhưng thật	1	thế
+nhưng thật bẽ	1	thế
+nhưng đã	1	cấp
+nhưng đã hai	1	cấp
+nhưng được	2	này	sinh
+nhưng được các	1	sinh
+nhưng được mọi	1	này
+nhất	4	duy	năm	tiền	độ
+nhất là	2	duy	tiền
+nhất là công	1	tiền
+nhất là tài	1	duy
+nhất một	1	năm
+nhất một trường	1	năm
+nhất định	1	độ
+nhất định chưa	1	độ
+nhẫn	1	chiếc
+nhẫn cùng	1	chiếc
+nhẫn cùng 59	1	chiếc
+nhận	20	chúng	chưa	chấp	chị	do	hốt	khai	không	lại	muốn	người	phủ	ruột	thú	thừa	tiếp	và	xác	đã	được
+nhận các	1	xác
+nhận các thủ	1	xác
+nhận diện	1	người
+nhận diện khi	1	người
+nhận giúp	1	chúng
+nhận giúp đỡ	1	chúng
+nhận hàng	1	được
+nhận hàng sớm	1	được
+nhận hành	1	thừa
+nhận hành vi	1	thừa
+nhận nuôi	1	ruột
+nhận nuôi NULL	1	ruột
+nhận nối	1	chấp
+nhận nối lại	1	chấp
+nhận ra	1	hốt
+nhận ra đã	1	hốt
+nhận thêm	1	tiếp
+nhận thêm 6	1	tiếp
+nhận thông	1	xác
+nhận thông tin	1	xác
+nhận thùng	1	muốn
+nhận thùng hàng	1	muốn
+nhận thức	1	do
+nhận thức của	1	do
+nhận toàn	1	thừa
+nhận toàn bộ	1	thừa
+nhận điện	1	đã
+nhận điện thoại	1	đã
+nhận đã	3	phủ	thú	thừa
+nhận đã giết	1	thú
+nhận đã lên	1	thừa
+nhận đã ra	1	phủ
+nhận đơn	1	tiếp
+nhận đơn của	1	tiếp
+nhận được	5	chưa	chị	khai	không	lại
+nhận được cuộc	1	chị
+nhận được quà	1	không
+nhận được sang	1	khai
+nhận được tiền	1	chưa
+nhận được điện	1	lại
+nhận định	1	và
+nhận định nhiều	1	và
+nhập	3	axit	thu	xuất
+nhập cảnh	1	xuất
+nhập cảnh khu	1	xuất
+nhập viện	1	axit
+nhập viện trong	1	axit
+nhập ổn	1	thu
+nhập ổn định	1	thu
+nhật	1	trần
+nhật luật	1	trần
+nhật luật nguyên	1	trần
+nhậu	1	ngồi
+nhậu với	1	ngồi
+nhậu với bạn	1	ngồi
+nhắn	3	lại	lần	quên
+nhắn nhủ	1	quên
+nhắn nhủ với	1	quên
+nhắn tin	2	lại	lần
+nhắn tin doạ	1	lần
+nhắn tin trên	1	lại
+nhẹ	4	bị	cô	tích	và
+nhẹ dạ	2	cô	và
+nhẹ dạ NULL	1	cô
+nhẹ dạ cả	1	và
+nhẹ hơn	2	bị	tích
+nhẹ hơn NULL	2	bị	tích
+nhếch	1	lại
+nhếch môi	1	lại
+nhếch môi cười	1	lại
+nhịp	1	thấy
+nhịp đập	1	thấy
+nhịp đập chung	1	thấy
+nhỏ	1	hoạn
+nhỏ NULL	1	hoạn
+nhờ	2	phải	sang
+nhờ tạt	1	sang
+nhờ tạt axit	1	sang
+nhờ đến	1	phải
+nhờ đến sự	1	phải
+nhục	1	dùng
+nhục hình	1	dùng
+nhục hình vksnd	1	dùng
+nhủ	2	khuyên	nhắn
+nhủ sang	1	khuyên
+nhủ sang mới	1	khuyên
+nhủ với	1	nhắn
+nhủ với ngân	1	nhắn
+những	5	của	hay	tiền	với	được
+những người	2	của	tiền
+những người liên	1	của
+những người đi	1	tiền
+những thông	1	với
+những thông tin	1	với
+những tưởng	1	hay
+những tưởng sau	1	hay
+những vô	1	được
+những vô lý	1	được
+nhựa	2	ca	can
+nhựa NULL	1	ca
+nhựa axit	1	can
+nhựa axit đổ	1	can
+nick	1	có
+nick name	1	có
+nick name tên	1	có
+ninh	1	an
+ninh bệnh	1	an
+ninh bệnh viện	1	an
+ninh và	1	an
+ninh và có	1	an
+niên	2	thanh	trung
+niên bước	1	thanh
+niên bước nhanh	1	thanh
+niên cho	1	thanh
+niên cho biết	1	thanh
+niên quê	1	trung
+niên quê thanh	1	trung
+niên vượt	1	thanh
+niên vượt lên	1	thanh
+niên đi	1	thanh
+niên đi xe	1	thanh
+niên đồng	1	thanh
+niên đồng phạm	1	thanh
+niềm	1	có
+niềm vui	1	có
+niềm vui mới	1	có
+nuôi	1	nhận
+nuôi NULL	1	nhận
+nào	1	khâu
+nào NULL	1	khâu
+này	16	anh	can	cậu	dụng	lúc	lần	lời	người	nhóm	quái	sinh	số	tiền	tên	vụ	ông
+này 6	1	số
+này 6 người	1	số
+này NULL	2	vụ	ông
+này ban	1	nhóm
+này ban ngày	1	nhóm
+này bất	1	tên
+này bất ngờ	1	tên
+này bị	1	quái
+này bị nạn	1	quái
+này chiếc	1	cậu
+này chiếc điện	1	cậu
+này cho	2	người	ông
+này cho biết	1	người
+này cho hay	1	ông
+này còn	1	ông
+này còn tỏ	1	ông
+này cô	1	lần
+này cô ta	1	lần
+này cục	1	lời
+này cục trưởng	1	lời
+này em	1	tiền
+này em phải	1	tiền
+này gọi	1	anh
+này gọi nhưng	1	anh
+này hà	1	lúc
+này hà mới	1	lúc
+này hơn	1	số
+này hơn 40	1	số
+này làm	1	can
+này làm quen	1	can
+này lại	1	lần
+này lại bị	1	lần
+này lừa	1	nhóm
+này lừa ngân	1	nhóm
+này ngành	1	số
+này ngành tòa	1	số
+này nhiều	1	sinh
+này nhiều lần	1	sinh
+này nhưng	1	sinh
+này nhưng được	1	sinh
+này ném	1	tên
+này ném ca	1	tên
+này đã	3	can	dụng	nhóm
+này đã bỏ	1	can
+này đã thực	1	dụng
+này đã tạo	1	nhóm
+nã	1	truy
+nã đặc	1	truy
+nã đặc biệt	1	truy
+ném	1	này
+ném ca	1	này
+ném ca đựng	1	này
+nên	5	dư	hạn	hội	sĩ	được
+nên hầu	1	hội
+nên hầu như	1	hội
+nên quyết	1	được
+nên quyết định	1	được
+nên quỳnh	1	hạn
+nên quỳnh làm	1	hạn
+nên sẽ	1	sĩ
+nên sẽ được	1	sĩ
+nên để	1	dư
+nên để trong	1	dư
+níu	2	NULL	lần
+níu kéo	2	NULL	lần
+níu kéo tình	2	NULL	lần
+níu kéo và	1	lần
+nó	1	NULL
+nó nói	1	NULL
+nó nói với	1	NULL
+nói	9	bailey	cuộc	cô	mới	ngoài	nó	nước	vi	để
+nói chuyện	3	cuộc	ngoài	để
+nói chuyện NULL	1	ngoài
+nói chuyện liên	1	cuộc
+nói chuyện và	1	để
+nói chỉ	1	vi
+nói chỉ đạo	1	vi
+nói lời	1	cô
+nói lời chia	1	cô
+nói trong	1	nước
+nói trong cuộc	1	nước
+nói với	1	nó
+nói với em	1	nó
+nói đang	1	bailey
+nói đang sống	1	bailey
+nói đó	1	mới
+nói đó là	1	mới
+năm	10	10	4	NULL	cuối	dũng	một	sinh	từ	với	được
+năm -	1	10
+năm - đã	1	10
+năm 10	1	NULL
+năm 10 tuổi	1	NULL
+năm 17	1	NULL
+năm 17 tuổi	1	NULL
+năm 2008	1	từ
+năm 2008 thúy	1	từ
+năm 2010-2013	1	từ
+năm 2010-2013 họ	1	từ
+năm 2012	2	NULL	cuối
+năm 2012 lan	1	NULL
+năm 2012 đến	1	cuối
+năm 2015	1	dũng
+năm 2015 có	1	dũng
+năm bị	1	10
+năm bị bắt	1	10
+năm nay	2	4	được
+năm nay so	1	được
+năm nay đang	1	4
+năm ngoái	1	với
+năm ngoái thấp	1	với
+năm ngồi	1	10
+năm ngồi tù	1	10
+năm nhất	1	sinh
+năm nhất một	1	sinh
+năm trời	1	một
+năm trời mới	1	một
+năn	2	nước	vừa
+năn nỉ	2	nước	vừa
+năn nỉ NULL	1	nước
+năn nỉ vừa	1	vừa
+năng	1	khả
+năng còn	1	khả
+năng còn một	1	khả
+năng, trong	1	chức
+năng, trong thời	1	chức
+năng, trong thời gian	1	chức
+nơi	3	một	tại	và
+nơi khác	2	một	tại
+nơi khác NULL	1	tại
+nơi khác nhau	1	một
+nơi nhưng	1	một
+nơi nhưng cư	1	một
+nơi tên	1	và
+nơi tên này	1	và
+nước	6	gồm	người	nhà	sát	từ	xuống
+nước bạn	1	sát
+nước bạn cho	1	sát
+nước bộ	1	nhà
+nước bộ tư	1	nhà
+nước chi	1	nhà
+nước chi trả	1	nhà
+nước do	1	nhà
+nước do người	1	nhà
+nước hoa	1	gồm
+nước hoa điện	1	gồm
+nước khẳng	1	nhà
+nước khẳng định	1	nhà
+nước ngoài	2	người	từ
+nước ngoài NULL	2	người	từ
+nước nói	1	nhà
+nước nói trong	1	nhà
+nước năn	1	xuống
+nước năn nỉ	1	xuống
+nạn	13	6	NULL	bị	các	cả	của	hai	hướng	một	nhà	tin	tên	đó
+nạn nhân	13	6	NULL	bị	các	cả	của	hai	hướng	một	nhà	tin	tên	đó
+nạn nhân NULL	1	các
+nạn nhân bị	2	NULL	hướng
+nạn nhân chờ	1	đó
+nạn nhân hà	1	tin
+nạn nhân không	1	các
+nạn nhân là	1	cả
+nạn nhân lên	1	6
+nạn nhân phát	1	bị
+nạn nhân qua	1	các
+nạn nhân tên	1	một
+nạn nhân tố	1	6
+nạn nhân và	1	nhà
+nạn nhân vừa	1	hai
+nạn nhân đang	2	của	một
+nạn nhân đã	2	các	tên
+nạn nhân được	1	tên
+nảy	1	thì
+nảy sinh	1	thì
+nảy sinh tình	1	thì
+nắm	1	đây
+nắm bắt	1	đây
+nắm bắt cơ	1	đây
+nằm	1	đang
+nằm kế	1	đang
+nằm kế bên	1	đang
+nẵng	1	đà
+nẵng gần	1	đà
+nẵng gần đây	1	đà
+nẵng khuyến	1	đà
+nẵng khuyến cáo	1	đà
+nẵng pc46	1	đà
+nẵng pc46 cho	1	đà
+nẵng phải	1	đà
+nẵng phải nhờ	1	đà
+nẵng vào	1	đà
+nẵng vào đúng	1	đà
+nẵng đã	1	đà
+nẵng đã phát	1	đà
+nẵng đối	1	đà
+nẵng đối với	1	đà
+nẵng…	1	đà
+nẵng… đại	1	đà
+nẵng… đại tá	1	đà
+nặng	2	bị	thương
+nặng NULL	1	thương
+nặng đã	1	thương
+nặng đã được	1	thương
+nặng được chuyển	1	bị
+nặng được chuyển lên	1	bị
+nếu	2	NULL	tra
+nếu không	1	tra
+nếu không muốn	1	tra
+nếu xảy	1	NULL
+nếu xảy ra	1	NULL
+nỉ	1	năn
+nỉ NULL	1	năn
+nỉ vừa	1	năn
+nỉ vừa hăm	1	năn
+nối	1	nhận
+nối lại	1	nhận
+nối lại tình	1	nhận
+nội	4	bà	hà	không	theo
+nội NULL	1	hà
+nội bài	1	không
+nội bài hà	1	không
+nội dung	1	theo
+nội dung trao	1	theo
+nội tp	1	hà
+nội tp hcm	1	hà
+nội và	1	bà
+nội và em	1	bà
+nội đã	1	hà
+nội đã khởi	1	hà
+nộp	1	đòi
+nộp phạt	1	đòi
+nộp phạt thêm	1	đòi
+nở	1	sinh
+nở NULL	1	sinh
+nữ	14	2	4/10	NULL	biết	bị	các	cổ	hai	hiếp	khi	phụ	việtkiều	và	được
+nữ bị	1	việtkiều
+nữ bị lừa	1	việtkiều
+nữ cán	1	và
+nữ cán bộ	1	và
+nữ gọi	1	phụ
+nữ gọi tới	1	phụ
+nữ nữa	1	phụ
+nữ nữa cũng	1	phụ
+nữ quái	1	4/10
+nữ quái này	1	4/10
+nữ sinh	10	2	NULL	biết	bị	các	cổ	hai	hiếp	khi	được
+nữ sinh bất	1	hai
+nữ sinh bị	3	NULL	biết	hai
+nữ sinh chia	1	bị
+nữ sinh gần	1	các
+nữ sinh hoảng	1	NULL
+nữ sinh không	1	khi
+nữ sinh này	1	hiếp
+nữ sinh năm	1	hai
+nữ sinh sang	1	được
+nữ sinh sẽ	1	biết
+nữ sinh trên	2	2	hai
+nữ sinh vì	1	2
+nữ sinh yêu	1	cổ
+nữ tố	1	phụ
+nữ tố bị	1	phụ
+nữ xưng	1	phụ
+nữ xưng là	1	phụ
+nữ độc	1	phụ
+nữ độc thân	1	phụ
+nữa	4	lần	nhân	nữ	usd
+nữa cũng	1	nữ
+nữa cũng tham	1	nữ
+nữa là	1	nhân
+nữa là tính	1	nhân
+nữa số	1	usd
+nữa số tiền	1	usd
+nữa tôi	1	lần
+nữa tôi gặp	1	lần
+oai	1	xuân
+oai quận	1	xuân
+oai quận 9	1	xuân
+oan	3	kêu	thường	án
+oan cho	1	kêu
+oan cho ông	1	kêu
+oan của	1	kêu
+oan của ông	1	kêu
+oan nguyễn	1	án
+oan nguyễn thanh	1	án
+oan sai	1	thường
+oan sai cho	1	thường
+oan suốt	1	án
+oan suốt 10	1	án
+oan và	1	kêu
+oan và có	1	kêu
+online	1	hàng
+online NULL	1	hàng
+pc46	2	nẵng	phòng
+pc46 cho	1	nẵng
+pc46 cho hay	1	nẵng
+pc46 đà	1	phòng
+pc46 đà nẵng	1	phòng
+phi	1	các
+phi vụ	1	các
+phi vụ này	1	các
+phiên	6	dự	mở	trong	tại	tọa	đến
+phiên phúc	1	tọa
+phiên phúc thẩm	1	tọa
+phiên sơ	1	mở
+phiên sơ thẩm	1	mở
+phiên tái	1	trong
+phiên tái thẩm	1	trong
+phiên tòa	2	tại	đến
+phiên tòa NULL	2	tại	đến
+phiên xử	2	dự	tại
+phiên xử có	1	dự
+phiên xử hôm	1	tại
+phán	1	thẩm
+phán toà	1	thẩm
+phán toà phúc	1	thẩm
+pháp	2	lực	tư
+pháp NULL	1	tư
+pháp luật	1	lực
+pháp luật là	1	lực
+pháp nguyễn	1	tư
+pháp nguyễn văn	1	tư
+pháp sẽ	1	tư
+pháp sẽ xem	1	tư
+pháp trần	1	tư
+pháp trần tiến	1	tư
+phát	5	dương	họ	khác	nhân	đã
+phát hiện	4	dương	họ	khác	nhân
+phát hiện 1	1	dương
+phát hiện có	1	họ
+phát hiện kịp	1	khác
+phát hiện loanh	1	nhân
+phát lệnh	1	đã
+phát lệnh truy	1	đã
+phê	1	đã
+phê chuẩn	1	đã
+phê chuẩn quyết	1	đã
+phí	1	đóng
+phí 550	1	đóng
+phí 550 usd	1	đóng
+phí hà	1	đóng
+phí hà gọi	1	đóng
+phía	2	NULL	vực
+phía nam	1	vực
+phía nam đóng	1	vực
+phía ngoài	1	NULL
+phía ngoài mẹ	1	NULL
+phòng	6	NULL	căn	trong	trưởng	vào	văn
+phòng 10	1	trưởng
+phòng 10 vksnd	1	trưởng
+phòng bộ	1	văn
+phòng bộ tư	1	văn
+phòng con	1	căn
+phòng con trai	1	căn
+phòng cảnh	1	trưởng
+phòng cảnh sát	1	trưởng
+phòng cấp	1	trong
+phòng cấp cứu	1	trong
+phòng cấp cứu là bùi	1	trong
+phòng làm	1	vào
+phòng làm việc	1	vào
+phòng pc46	1	NULL
+phòng pc46 đà	1	NULL
+phó	2	khiêm	tá
+phó công	1	tá
+phó công an	1	tá
+phó khoa	1	khiêm
+phó khoa cấp	1	khiêm
+phóng	1	hào
+phóng muốn	1	hào
+phóng muốn tặng	1	hào
+phú	1	nhơn
+phú a	1	nhơn
+phú a cả	1	nhơn
+phú a hai	1	nhơn
+phúc	3	phiên	phường	toà
+phúc thẩm	2	phiên	toà
+phúc thẩm bác	1	phiên
+phúc thẩm tand	1	toà
+phúc tân	1	phường
+phúc tân để	1	phường
+phút	2	15	vài
+phút sau	2	15	vài
+phút sau bà	1	15
+phút sau thấy	1	vài
+phương	2	địa	đức
+phương NULL	1	địa
+phương em	1	đức
+phương em ruột	1	đức
+phương mới	1	địa
+phương mới ở	1	địa
+phước	1	bình
+phước đăk	1	bình
+phước đăk lăk	1	bình
+phường	2	long	ở
+phường long	1	ở
+phường long trường	1	ở
+phường phúc	1	ở
+phường phúc tân	1	ở
+phường tăng	1	long
+phường tăng nhơn	1	long
+phạm	11	bắt	các	giam	sĩ	thủ	tối10/10	tội	và	xâm	ông	đồng
+phạm NULL	1	đồng
+phạm công	1	tội
+phạm công nghệ	1	tội
+phạm giết	1	thủ
+phạm giết cô	1	thủ
+phạm hoàng	2	bắt	và
+phạm hoàng thanh	2	bắt	và
+phạm hài	1	xâm
+phạm hài cốt	1	xâm
+phạm là	1	thủ
+phạm là lý	1	thủ
+phạm mồ	1	xâm
+phạm mồ mả	1	xâm
+phạm nhân	1	các
+phạm nhân khác	1	các
+phạm thị	1	giam
+phạm thị liên	1	giam
+phạm tuấn	1	ông
+phạm tuấn chiêm	1	ông
+phạm tạt	1	đồng
+phạm tạt axit	1	đồng
+phạm tội	1	ông
+phạm tội giết	1	ông
+phạm văn	2	sĩ	tối10/10
+phạm văn hưng	1	tối10/10
+phạm văn khiêm	1	sĩ
+phạm về	1	tội
+phạm về kinh	1	tội
+phạm đi	1	đồng
+phạm đi trộm	1	đồng
+phạt	1	nộp
+phạt thêm	1	nộp
+phạt thêm 3	1	nộp
+phải	10	ai	cô	cầu	em	gặp	hà	khăn	nẵng	ông	đã
+phải chuyển	1	hà
+phải chuyển vào	1	hà
+phải chịu	1	ai
+phải chịu trách	1	ai
+phải có	1	ông
+phải có trách	1	ông
+phải kéo	1	khăn
+phải kéo dài	1	khăn
+phải làm	1	đã
+phải làm đơn	1	đã
+phải nhờ	1	nẵng
+phải nhờ đến	1	nẵng
+phải ra	1	cầu
+phải ra ngoài	1	cầu
+phải sở	1	gặp
+phải sở khanh”	1	gặp
+phải thanh	1	em
+phải thanh toán	1	em
+phải đóng	2	cô	hà
+phải đóng phí	1	cô
+phải đóng thuế	1	hà
+phải để	1	em
+phải để điện	1	em
+phẩm	1	mỹ
+phẩm áo	1	mỹ
+phẩm áo quần	1	mỹ
+phận	1	bộ
+phận công	1	bộ
+phận công chức	1	bộ
+phỏng	2	trái	trạng
+phỏng mi	1	trái
+phỏng mi mắt	1	trái
+phỏng mặt	1	trạng
+phỏng mặt bên	1	trạng
+phố	1	thành
+phố quảng	1	thành
+phố quảng ngãi	1	thành
+phố đà	1	thành
+phố đà nẵng	1	thành
+phối	1	sự
+phối hợp	1	sự
+phối hợp của	1	sự
+phổ	1	thời
+phổ thông	1	thời
+phổ thông và	1	thời
+phụ	3	chồng	loạt	một
+phụ bạc	1	chồng
+phụ bạc tôi	1	chồng
+phụ nữ	2	loạt	một
+phụ nữ gọi	1	một
+phụ nữ nữa	1	một
+phụ nữ tố	1	loạt
+phụ nữ xưng	1	một
+phụ nữ độc	1	loạt
+phục	2	mai	đồng
+phục của	1	đồng
+phục của trường	1	đồng
+phục trên	1	mai
+phục trên đường	1	mai
+phủ	2	vùng	vẫn
+phủ nhận	1	vẫn
+phủ nhận đã	1	vẫn
+phủ sóng	1	vùng
+phủ sóng NULL	1	vùng
+phức	1	rất
+phức tạp	1	rất
+phức tạp liên	1	rất
+qua	10	NULL	biết	lọt	nam	nhân	sẽ	tiền	vì	vừa	đi
+qua 4	1	nam
+qua 4 đợt	1	nam
+qua biên	1	nhân
+qua biên giới	1	nhân
+qua chúng	1	đi
+qua chúng bám	1	đi
+qua các	1	NULL
+qua các cấp	1	NULL
+qua các lần	1	NULL
+qua kiểm	2	lọt	vì
+qua kiểm tra	2	lọt	vì
+qua kết	1	tiền
+qua kết bạn	1	tiền
+qua trích	1	biết
+qua trích xuất	1	biết
+qua tại	1	vừa
+qua tại bệnh	1	vừa
+qua việt	1	sẽ
+qua việt nam	1	sẽ
+qua ông	1	vừa
+qua ông chấn	1	vừa
+quan	7	chưa	chủ	có	cơ	hải	liên	mối
+quan chức	1	cơ
+quan chức năng, trong	1	cơ
+quan csđt	1	cơ
+quan csđt ở	1	cơ
+quan có	1	cơ
+quan có trách	1	cơ
+quan công	1	cơ
+quan công quyền	1	cơ
+quan do	1	chủ
+quan do nhận	1	chủ
+quan hệ	2	có	mối
+quan hệ NULL	1	mối
+quan hệ chưa	1	mối
+quan hệ yêu	1	có
+quan malaysia	1	hải
+quan malaysia để	1	hải
+quan mang	1	hải
+quan mang tên	1	hải
+quan mà	1	hải
+quan mà không	1	hải
+quan nhiều	1	liên
+quan nhiều đơn	1	liên
+quan tâm	1	chưa
+quan tâm đúng	1	chưa
+quan tới	1	hải
+quan tới hơn	1	hải
+quan việt	1	hải
+quan việt nam	1	hải
+quan vụ	1	liên
+quan vụ hỗn	1	liên
+quan điều	1	cơ
+quan điều tra	1	cơ
+quan đã	1	liên
+quan đã xác	1	liên
+quan đòi	1	hải
+quan đòi nộp	1	hải
+quan đường	1	liên
+quan đường dây	1	liên
+quan đến	1	liên
+quan đến vụ	1	liên
+quan đều	1	hải
+quan đều ngoài	1	hải
+quanh	2	báo	loanh
+quanh co	1	báo
+quanh co nhiều	1	báo
+quanh trong	1	loanh
+quanh trong bệnh	1	loanh
+quay	2	ta	và
+quay lại	1	ta
+quay lại và	1	ta
+quay về	1	và
+quay về việt	1	và
+quen	5	chuyện	khoe	làm	thân	ông
+quen bác	3	chuyện	khoe	thân
+quen bác sĩ	3	chuyện	khoe	thân
+quen trên	1	ông
+quen trên mạng	1	ông
+quen với	1	làm
+quen với hà	1	làm
+quen với một	1	làm
+quen với người	1	làm
+qui	1	ắc
+qui xe	1	ắc
+qui xe máy	1	ắc
+quy	1	là
+quy định	1	là
+quy định khi	1	là
+quyên	1	cách
+quyên sinh	1	cách
+quyên sinh nhưng	1	cách
+quyết	6	chuẩn	các	giải	nên	sang	với
+quyết NULL	1	giải
+quyết bồi	1	giải
+quyết bồi thường	1	giải
+quyết của	1	giải
+quyết của cơ	1	giải
+quyết thương	1	giải
+quyết thương lượng	1	giải
+quyết xong	1	giải
+quyết xong 14	1	giải
+quyết được	1	giải
+quyết được năm	1	giải
+quyết định	5	chuẩn	các	nên	sang	với
+quyết định dùng	1	sang
+quyết định giải	2	các	với
+quyết định khởi	1	chuẩn
+quyết định trả	1	nên
+quyền	5	công	riêng	thăm	và	văn
+quyền 21	1	văn
+quyền 21 tuổi	1	văn
+quyền bị	2	riêng	và
+quyền bị thương	2	riêng	và
+quyền kêu	1	công
+quyền kêu oan	1	công
+quyền đang	1	thăm
+quyền đang nằm	1	thăm
+quà	7	bẫy	chờ	gửi	lừa	món	nhưng	được
+quà của	1	chờ
+quà của chồng	1	chờ
+quà giá	1	món
+quà giá trị	1	món
+quà hàng	2	bẫy	lừa
+quà hàng hiệu	2	bẫy	lừa
+quà ngân	1	được
+quà ngân đã	1	được
+quà thì	1	nhưng
+quà thì không	1	nhưng
+quà trị	1	món
+quà trị giá	1	món
+quà từ	1	gửi
+quà từ mỹ	1	gửi
+quà đặc	1	món
+quà đặc biệt	1	món
+quá	2	NULL	đi
+quá giới	1	đi
+quá giới hạn	1	đi
+quá trình	1	NULL
+quá trình điều	1	NULL
+quái	1	nữ
+quái này	1	nữ
+quái này bị	1	nữ
+quê	1	niên
+quê thanh	1	niên
+quê thanh hóa	1	niên
+quên	1	không
+quên nhắn	1	không
+quên nhắn nhủ	1	không
+quý	1	các
+quý cô	1	các
+quý cô nhẹ	1	các
+quả	1	hậu
+quả nghiêm	1	hậu
+quả nghiêm trọng	1	hậu
+quản	3	cục	tuổi	và
+quản lý	2	cục	và
+quản lý sát	1	và
+quản lý xuất	1	cục
+quản trang	1	tuổi
+quản trang tại	1	tuổi
+quảng	3	phố	tand	và
+quảng ngãi	1	phố
+quảng ngãi cho	1	phố
+quảng trị	2	tand	và
+quảng trị NULL	1	và
+quảng trị mở	1	tand
+quần	3	bộ	túi	áo
+quần và	1	áo
+quần và nhiều	1	áo
+quần áo	2	bộ	túi
+quần áo thể	1	bộ
+quần áo xộc	1	túi
+quận	6	an	biên	ngụ	oai	trường	ở
+quận 4	1	ngụ
+quận 4 -	1	ngụ
+quận 5	1	biên
+quận 5 mua	1	biên
+quận 9	4	an	oai	trường	ở
+quận 9 NULL	2	trường	ở
+quận 9 sang	1	oai
+quận 9 tp	2	an	trường
+quận 9 xác	1	an
+quận 9 đang	1	an
+quận hoàn	1	an
+quận hoàn kiếm	1	an
+quốc	4	NULL	ngoại	toàn	ảnh
+quốc của	1	toàn
+quốc của công	1	toàn
+quốc rồi	1	ngoại
+quốc rồi mang	1	ngoại
+quốc thắng	2	NULL	ảnh
+quốc thắng *	1	NULL
+quốc thắng -	1	NULL
+quốc thắng NULL	1	ảnh
+quốc thắng sáng	1	ảnh
+quốc truy	1	toàn
+quốc truy tìm	1	toàn
+quỳnh	9	NULL	chị	mặt	nay	nhà	nên	tên	với	đây
+quỳnh 18	1	với
+quỳnh 18 tuổi	1	với
+quỳnh NULL	2	chị	mặt
+quỳnh bạn	1	với
+quỳnh bạn học	1	với
+quỳnh chủ	1	đây
+quỳnh chủ động	1	đây
+quỳnh cùng	1	chị
+quỳnh cùng cô	1	chị
+quỳnh kề	1	nhà
+quỳnh kề dao	1	nhà
+quỳnh làm	1	nên
+quỳnh làm ngơ	1	nên
+quỳnh sau	1	tên
+quỳnh sau khi	1	tên
+quỳnh ôm	1	NULL
+quỳnh ôm mặt	1	NULL
+quỳnh đang	2	mặt	nay
+quỳnh đang chở	1	nay
+quỳnh đang cầm	1	mặt
+ra	11	15/10	bình	chung	ngoài	nhận	phải	thúy	tỏ	xảy	đã	để
+ra NULL	1	xảy
+ra bình	1	tỏ
+ra bình thản	1	tỏ
+ra ca	1	bình
+ra ca nhựa	1	bình
+ra cháy	1	xảy
+ra cháy lớn	1	xảy
+ra file	1	để
+ra file hình	1	để
+ra hào	1	tỏ
+ra hào phóng	1	tỏ
+ra hỏa	1	xảy
+ra hỏa hoạn	1	xảy
+ra một	1	xảy
+ra một số	1	xảy
+ra ngoài	1	phải
+ra ngoài nói	1	phải
+ra tand	1	ngoài
+ra tand các	1	ngoài
+ra tay	2	15/10	đã
+ra tay NULL	1	15/10
+ra tay với	1	đã
+ra tòa	1	thúy
+ra tòa trong	1	thúy
+ra vụ	1	xảy
+ra vụ việc	1	xảy
+ra đã	1	nhận
+ra đã bị	1	nhận
+ra đầu	1	chung
+ra đầu thú	1	chung
+riêng	2	NULL	tế
+riêng quyền	1	NULL
+riêng quyền bị	1	NULL
+riêng sang	1	tế
+riêng sang mặc	1	tế
+riêng vũ	1	NULL
+riêng vũ đức	1	NULL
+ruồng	1	hờ
+ruồng rẫy	1	hờ
+ruồng rẫy do	1	hờ
+ruột	2	cô	em
+ruột duyên	1	em
+ruột duyên 37	1	em
+ruột nhận	1	cô
+ruột nhận nuôi	1	cô
+rào	1	leo
+rào vào	1	leo
+rào vào nhà	1	leo
+rã	1	ròng
+rã gõ	1	ròng
+rã gõ cửa	1	ròng
+ròng	1	cũng
+ròng rã	1	cũng
+ròng rã gõ	1	cũng
+rõ	1	diện
+rõ rệt	1	diện
+rõ rệt NULL	1	diện
+rút	1	ngờ
+rút dao	1	ngờ
+rút dao đâm	1	ngờ
+răm	1	ngân
+răm rắp	1	ngân
+răm rắp vội	1	ngân
+rượu	2	chai	chở
+rượu lậu	1	chở
+rượu lậu tiền	1	chở
+rượu ngoại	1	chai
+rượu ngoại không	1	chai
+rất	4	facebook…	gặp	thường	tôi
+rất lo	1	tôi
+rất lo lắng	1	tôi
+rất lớn	1	thường
+rất lớn NULL	1	thường
+rất nhiều	1	gặp
+rất nhiều khó	1	gặp
+rất phức	1	thường
+rất phức tạp	1	thường
+rất xấu	1	facebook…
+rất xấu hổ	1	facebook…
+rẫy	2	chợ	ruồng
+rẫy NULL	1	chợ
+rẫy cho	1	chợ
+rẫy cho biết	1	chợ
+rẫy do	1	ruồng
+rẫy do sinh	1	ruồng
+rẫy người	1	chợ
+rẫy người ngồi	1	chợ
+rắp	1	răm
+rắp vội	1	răm
+rắp vội chạy	1	răm
+rằng	2	cho	em
+rằng bị	1	em
+rằng bị nhóm	1	em
+rằng không	1	cho
+rằng không biết	1	cho
+rằng ông	1	cho
+rằng ông là	1	cho
+rẻ	2	bán	giá
+rẻ NULL	1	giá
+rẻ điện	1	bán
+rẻ điện thoại	1	bán
+rể	1	con
+rể duyên	1	con
+rể duyên 32	1	con
+rệt	1	rõ
+rệt NULL	1	rõ
+rồi	7	cứu	hưng	mặt	quốc	usd	và	đỡ
+rồi chuyển	1	cứu
+rồi chuyển tiếp	1	cứu
+rồi giờ	1	usd
+rồi giờ hải	1	usd
+rồi mang	1	quốc
+rồi mang thai	1	quốc
+rồi sang	1	hưng
+rồi sang hỏi	1	hưng
+rồi tạo	1	đỡ
+rồi tạo dựng	1	đỡ
+rồi tẩu	1	mặt
+rồi tẩu thoát	1	mặt
+rồi tổng	1	và
+rồi tổng số	1	và
+rộng	1	mở
+rộng việc	1	mở
+rộng việc bán	1	mở
+rời	1	bạn
+rời cổng	1	bạn
+rời cổng trường	1	bạn
+rủ	4	sang	sinh	ta	đánh
+rủ cậu	1	sang
+rủ cậu bạn	1	sang
+rủ em	1	đánh
+rủ em đi	1	đánh
+rủ thanh	1	sinh
+rủ thanh -	1	sinh
+rủ thêm	1	ta
+rủ thêm thanh	1	ta
+sai	2	làm	oan
+sai cho	1	oan
+sai cho ông	1	oan
+sai lệch	1	làm
+sai lệch hồ	1	làm
+sang	30	13/10	9	NULL	biên	bị	chế	chở	của	do	giờ	lãnh	mặc	mẹ	người	nhủ	riêng	rồi	sau	sinh	tay	thanh	thì	thản	tra	trước	vi	yêu	đó	đưa	được
+sang 18	1	thanh
+sang 18 tuổi	1	thanh
+sang NULL	1	của
+sang bám	1	chở
+sang bám theo	1	chở
+sang bảo	1	người
+sang bảo bạn	1	người
+sang bị	1	đó
+sang bị triệu	1	đó
+sang chuyển	1	sinh
+sang chuyển từ	1	sinh
+sang chuộc	1	sau
+sang chuộc điện	1	sau
+sang cầm	1	mẹ
+sang cầm túi	1	mẹ
+sang doạ	1	chế
+sang doạ sẽ	1	chế
+sang hay	2	NULL	do
+sang hay ghen	2	NULL	do
+sang hận	1	yêu
+sang hận NULL	1	yêu
+sang hỏi	1	rồi
+sang hỏi thăm	1	rồi
+sang khai	1	tra
+sang khai là	1	tra
+sang là	1	tra
+sang là bạn	1	tra
+sang lên	1	biên
+sang lên kế	1	biên
+sang muốn	1	mặc
+sang muốn làm	1	mặc
+sang mượn	1	vi
+sang mượn chiếc	1	vi
+sang mặc	1	riêng
+sang mặc thêm	1	riêng
+sang mới	2	nhủ	thì
+sang mới chịu	1	nhủ
+sang mới nói	1	thì
+sang mỹ	2	biên	lãnh
+sang mỹ lan	1	lãnh
+sang mỹ và	1	biên
+sang nhiều	3	mặc	tay	được
+sang nhiều lần	3	mặc	tay	được
+sang nhờ	1	được
+sang nhờ tạt	1	được
+sang quyết	1	13/10
+sang quyết định	1	13/10
+sang rủ	1	tay
+sang rủ cậu	1	tay
+sang thuê	1	được
+sang thuê tạt	1	được
+sang thỉnh	1	thản
+sang thỉnh thoảng	1	thản
+sang thừa	1	NULL
+sang thừa nhận	1	NULL
+sang trái	1	NULL
+sang trái và	1	NULL
+sang tạt	1	bị
+sang tạt axit	1	bị
+sang và	2	NULL	thanh
+sang và phạm	1	thanh
+sang và thanh	1	NULL
+sang vẫn	2	giờ	tra
+sang vẫn mặc	1	tra
+sang vẫn phủ	1	giờ
+sang đi	2	bị	đưa
+sang đi cùng	1	bị
+sang đi thu	1	đưa
+sang được	1	trước
+sang được cho	1	trước
+sang đến	1	trước
+sang đến chợ	1	trước
+sang đổ	1	9
+sang đổ axit	1	9
+sao	3	ngôi	sát	vì
+sao khiến	1	sát
+sao khiến cô	1	sát
+sao tiền	1	vì
+sao tiền chưa	1	vì
+sao vàng	1	ngôi
+sao vàng mũ	1	ngôi
+sau	15	15/10	5	NULL	chỉ	cửa	gian	gấp…	hôm	máy	ngay	ngồi	nhà	phút	quỳnh	tưởng
+sau 10	2	5	nhà
+sau 10 năm	1	nhà
+sau 10 tháng	1	5
+sau 2	1	NULL
+sau 2 ngày	1	NULL
+sau bà	2	gian	phút
+sau bà nội	1	gian
+sau bà ta	1	phút
+sau bị	1	ngồi
+sau bị nhẹ	1	ngồi
+sau cuộc	1	NULL
+sau cuộc nói	1	NULL
+sau cũng	1	ngồi
+sau cũng bị	1	ngồi
+sau của	1	cửa
+sau của bệnh	1	cửa
+sau hỗn	1	NULL
+sau hỗn chiến	1	NULL
+sau khi	3	15/10	gấp…	quỳnh
+sau khi chuẩn	1	15/10
+sau khi liên	1	gấp…
+sau khi nữ	1	quỳnh
+sau một	1	tưởng
+sau một lần	1	tưởng
+sau sang	1	hôm
+sau sang chuộc	1	hôm
+sau tand	1	hôm
+sau tand tối	1	hôm
+sau thấy	1	phút
+sau thấy không	1	phút
+sau vài	1	chỉ
+sau vài lần	1	chỉ
+sau đó	3	NULL	máy	ngay
+sau đó lý	1	NULL
+sau đó thanh	1	ngay
+sau đó thì	1	máy
+sau đó điện	1	NULL
+scan	1	tra
+scan máy	1	tra
+scan máy ở	1	tra
+scotland	1	tại
+scotland lừa	1	tại
+scotland lừa đảo	1	tại
+sinh	7	do	mưu	nam	nảy	nữ	quyên	 nữ
+sinh bất	1	nữ
+sinh bất ngờ	1	nữ
+sinh bị	1	nữ
+sinh bị bắt	1	nữ
+sinh bị bỏng	1	nữ
+sinh bị sang	1	nữ
+sinh bị tạt	1	nữ
+sinh chia	1	nữ
+sinh chia tay	1	nữ
+sinh con	1	do
+sinh con để	1	do
+sinh cầm	1	 nữ
+sinh cầm lái	1	 nữ
+sinh gần	1	nữ
+sinh gần đây	1	nữ
+sinh hoảng	1	nữ
+sinh hoảng loạn	1	nữ
+sinh không	1	nữ
+sinh không chấp	1	nữ
+sinh lan	1	mưu
+sinh lan tiếp	1	mưu
+sinh lên	1	nam
+sinh lên kế	1	nam
+sinh nhưng	1	quyên
+sinh nhưng được	1	quyên
+sinh này	2	nam	nữ
+sinh này nhiều	1	nam
+sinh này nhưng	1	nữ
+sinh năm	1	nữ
+sinh năm nhất	1	nữ
+sinh nở	1	nam
+sinh nở NULL	1	nam
+sinh rủ	1	nam
+sinh rủ thanh	1	nam
+sinh sang	1	nữ
+sinh sang chuyển	1	nữ
+sinh sẽ	1	nữ
+sinh sẽ chở	1	nữ
+sinh trên	1	nữ
+sinh trên đường	1	nữ
+sinh tình	1	nảy
+sinh tình cảm	1	nảy
+sinh vì	1	nữ
+sinh vì chiếc	1	nữ
+sinh yêu	1	nữ
+sinh yêu cầu	1	nữ
+sinh đã	1	nam
+sinh đã thừa	1	nam
+siêu	1	NULL
+siêu lừa	1	NULL
+siêu lừa tình	1	NULL
+so	1	nay
+so với	1	nay
+so với năm	1	nay
+su	1	cao
+su ngôi	1	cao
+su ngôi sao	1	cao
+suốt	3	NULL	dài	oan
+suốt 10	1	oan
+suốt 10 năm	1	oan
+suốt hơn	1	dài
+suốt hơn một	1	dài
+suốt nhiều	1	NULL
+suốt nhiều giờ	1	NULL
+sài	1	về
+sài gòn	1	về
+sài gòn bị	1	về
+sách	1	chính
+sách xã	1	chính
+sách xã hội	1	chính
+sáng	4	NULL	báo	thắng	trong
+sáng 16/10	1	thắng
+sáng 16/10 công	1	thắng
+sáng cùng	1	trong
+sáng cùng ngày	1	trong
+sáng nay	2	NULL	báo
+sáng nay cục	1	NULL
+sáng nay tại	1	báo
+sát	4	cảnh	lý	truy	 cảnh
+sát các	1	cảnh
+sát các nạn	1	cảnh
+sát nước	1	cảnh
+sát nước bạn	1	cảnh
+sát sao	1	lý
+sát sao khiến	1	lý
+sát toàn	1	cảnh
+sát toàn cầuai	1	cảnh
+sát tỉnh	1	cảnh
+sát tỉnh bình	1	cảnh
+sát đang	1	cảnh
+sát đang truy	1	cảnh
+sát điều	1	cảnh
+sát điều tra	1	cảnh
+sát đã	1	cảnh
+sát đã làm	1	cảnh
+sát đưa	1	cảnh
+sát đưa sang	1	cảnh
+sát đề	1	 cảnh
+sát đề nghị	1	 cảnh
+sát đối	1	truy
+sát đối thủ	1	truy
+sân	2	đến	ở
+sân bay	2	đến	ở
+sân bay họ	1	ở
+sân bay malaysia	1	đến
+sòng	1	các
+sòng bài	1	các
+sòng bài NULL	1	các
+sóc	1	chăm
+sóc bệnh	1	chăm
+sóc bệnh nhân	1	chăm
+sóc em	1	chăm
+sóc em trai	1	chăm
+sóc tốt	1	chăm
+sóc tốt hơn	1	chăm
+sóng	1	phủ
+sóng NULL	1	phủ
+sĩ	2	bác	liệt
+sĩ NULL	1	liệt
+sĩ chiếm	1	liệt
+sĩ chiếm đoạt	1	liệt
+sĩ chúng	1	liệt
+sĩ chúng nhận	1	liệt
+sĩ có	1	bác
+sĩ có thể	1	bác
+sĩ do	1	liệt
+sĩ do nguyễn	1	liệt
+sĩ giả	1	liệt
+sĩ giả để	1	liệt
+sĩ huyện	1	liệt
+sĩ huyện đắk	1	liệt
+sĩ lôi	1	liệt
+sĩ lôi kéo	1	liệt
+sĩ nên	1	bác
+sĩ nên sẽ	1	bác
+sĩ phạm	1	bác
+sĩ phạm văn	1	bác
+sĩ đêm	1	liệt
+sĩ đêm đến	1	liệt
+sĩ để	1	bác
+sĩ để lừa	1	bác
+sĩ để nói	1	bác
+sơ	2	hồ	phiên
+sơ thẩm	1	phiên
+sơ thẩm xét	1	phiên
+sơ vụ	1	hồ
+sơ vụ án	1	hồ
+sơn	2	thanh	trường
+sơn 28	1	trường
+sơn 28 tuổi	1	trường
+sơn trưởng	1	thanh
+sơn trưởng phòng	1	thanh
+sư	2	kỹ	luật
+sư trả	1	luật
+sư trả lời	1	luật
+sư ở	1	kỹ
+sư ở mỹ	1	kỹ
+sướng…	1	tự
+sướng… sẵn	1	tự
+sướng… sẵn vốn	1	tự
+sản	1	tài
+sản NULL	1	tài
+sản giá	1	tài
+sản giá trị	1	tài
+sản hư	1	tài
+sản hư hỏng	1	tài
+sản và	1	tài
+sản và tội	1	tài
+sắp	1	chồng
+sắp cưới	1	chồng
+sắp cưới ngày	1	chồng
+sẵn	1	sướng…
+sẵn vốn	1	sướng…
+sẵn vốn tiếng	1	sướng…
+sẽ	9	biết	doạ	hàng	hđxx	hứa	lại	nên	pháp	sinh
+sẽ bán	1	lại
+sẽ bán cho	1	lại
+sẽ chở	1	sinh
+sẽ chở bạn	1	sinh
+sẽ gặp	1	hứa
+sẽ gặp bác	1	hứa
+sẽ liên	1	hàng
+sẽ liên lạc	1	hàng
+sẽ qua	1	biết
+sẽ qua việt	1	biết
+sẽ trả	1	hứa
+sẽ trả công	1	hứa
+sẽ tung	1	doạ
+sẽ tung clip	1	doạ
+sẽ tuyên	1	hđxx
+sẽ tuyên án	1	hđxx
+sẽ xem	1	pháp
+sẽ xem còn	1	pháp
+sẽ được	1	nên
+sẽ được ưu	1	nên
+số	10	có	hay	một	nữa	trong	tổng	vào	vị	với	định
+số bộ	1	một
+số bộ phận	1	một
+số này	1	trong
+số này 6	1	trong
+số này hơn	1	trong
+số này ngành	1	trong
+số tiền	5	nữa	tổng	vị	với	định
+số tiền bồi	1	với
+số tiền hà	1	tổng
+số tiền lan	1	định
+số tiền này	1	nữa
+số tiền tới	1	với
+số tiền đòi	1	vị
+số tài	2	có	vào
+số tài khoản	2	có	vào
+số vụ	2	hay	một
+số vụ lừa	1	một
+số vụ việc	2	hay	một
+sống	3	kiếm	lan	đang
+sống bằng	1	kiếm
+sống bằng nghề	1	kiếm
+sống chung	1	lan
+sống chung không	1	lan
+sống và	1	đang
+sống và làm	1	đang
+sống ở	1	đang
+sống ở chung	1	đang
+sớm	1	hàng
+sớm ngân	1	hàng
+sớm ngân răm	1	hàng
+sở	2	có	phải
+sở khanh”	1	phải
+sở khanh” NULL	1	phải
+sở thích	1	có
+sở thích giải	1	có
+sợ	1	NULL
+sợ có	1	NULL
+sợ có người	1	NULL
+sức	2	NULL	giúp
+sức NULL	1	giúp
+sức khỏe	1	NULL
+sức khỏe của	1	NULL
+sử	2	chưa	người
+sử dụng	2	chưa	người
+sử dụng này	1	người
+sử dụng áo	1	chưa
+sự	4	dân	giấu	hình	đến
+sự lê	1	hình
+sự lê thanh	1	hình
+sự phối	1	đến
+sự phối hợp	1	đến
+sự tuyên	1	dân
+sự tuyên buộc	1	dân
+sự uất	1	giấu
+sự uất ức	1	giấu
+sự về	1	dân
+sự về bồi	1	dân
+ta	4	anh	bà	cô	ông
+ta bỏ	1	bà
+ta bỏ đi	1	bà
+ta cũng	1	ông
+ta cũng đã	1	ông
+ta khai	1	anh
+ta khai báo	1	anh
+ta kiếm	1	cô
+ta kiếm sống	1	cô
+ta quay	1	bà
+ta quay lại	1	bà
+ta rủ	1	anh
+ta rủ thêm	1	anh
+ta uy	1	anh
+ta uy hiếp	1	anh
+ta động	1	ông
+ta động viên	1	ông
+tand	5	16/10	lượng	ra	sau	thẩm
+tand các	1	ra
+tand các cấp	1	ra
+tand quảng	1	16/10
+tand quảng trị	1	16/10
+tand tối	3	lượng	sau	thẩm
+tand tối cao	3	lượng	sau	thẩm
+tay	5	chia	mặt	ra	xách	đến
+tay NULL	3	chia	mặt	ra
+tay cổ…	1	mặt
+tay cổ… khai	1	mặt
+tay mặc	1	chia
+tay mặc sang	1	chia
+tay sang	1	chia
+tay sang nhiều	1	chia
+tay sang rủ	1	chia
+tay tại	1	xách
+tay tại mỹ	1	xách
+tay với	2	chia	ra
+tay với cậu	1	chia
+tay với người	1	ra
+tay ông	1	đến
+tay ông chấn	1	đến
+ta đến	1	anh
+ta đến giường	1	anh
+ta đến giường hưng	1	anh
+tha	1	tạm
+tha về	1	tạm
+tha về nhà	1	tạm
+thai	1	mang
+thai và	1	mang
+thai và quay	1	mang
+tham	5	chức	cũng	người	thân	táo
+tham dự	1	táo
+tham dự phiên	1	táo
+tham gia	3	cũng	người	thân
+tham gia NULL	1	thân
+tham gia các	1	cũng
+tham gia hỗn	1	người
+tham mưu	1	chức
+tham mưu giải	1	chức
+thanh	19	NULL	axit	cho	còn	hoàng	lê	nam	nguyễn	nhiên	phải	quê	rủ	thêm	trường	trần	và	án	đó	đôi
+thanh -	1	rủ
+thanh - bạn	1	rủ
+thanh 18	1	hoàng
+thanh 18 tuổi	1	hoàng
+thanh bị	1	và
+thanh bị bắt	1	và
+thanh chấn	1	nguyễn
+thanh chấn -	1	nguyễn
+thanh chấn NULL	1	nguyễn
+thanh chở	1	trường
+thanh chở sang	1	trường
+thanh cùng	1	hoàng
+thanh cùng 18	1	hoàng
+thanh cũng	1	đó
+thanh cũng bị	1	đó
+thanh giúp	1	thêm
+thanh giúp sức	1	thêm
+thanh hóa	1	quê
+thanh hóa đang	1	quê
+thanh khai	2	NULL	còn
+thanh khai nhận	1	còn
+thanh khai được	1	NULL
+thanh kể	1	axit
+thanh kể NULL	1	axit
+thanh lại	1	nhiên
+thanh lại cho	1	nhiên
+thanh niên	2	nam	đôi
+thanh niên bước	1	nam
+thanh niên cho	1	nam
+thanh niên vượt	2	nam	đôi
+thanh niên đi	1	nam
+thanh niên đồng	1	nam
+thanh sang	1	lê
+thanh sang 18	1	lê
+thanh sang và	1	lê
+thanh sơn	1	trần
+thanh sơn trưởng	1	trần
+thanh toán	1	phải
+thanh toán gấp…	1	phải
+thanh tại	1	và
+thanh tại cơ	1	và
+thanh và	1	cho
+thanh và hẹn	1	cho
+thanh đã	1	án
+thanh đã nhận	1	án
+thao	1	thể
+thao đồng	1	thể
+thao đồng phục	1	thể
+thay	2	đã	được
+thay đổi	2	đã	được
+thay đổi NULL	1	được
+thay đổi theo	1	đã
+thay đổibộ	1	đã
+thay đổibộ tài	1	đã
+theo	11	NULL	bám	hay	hàng	mang	minh	trốn	viện	xét	 	đổi
+theo NULL	1	bám
+theo báo	1	hay
+theo báo cáo	1	hay
+theo bạn	1	 
+theo bạn bè	1	 
+theo cơ	1	NULL
+theo cơ quan	1	NULL
+theo cảnh	1	đổi
+theo cảnh sát	1	đổi
+theo di	1	mang
+theo di ảnh	1	mang
+theo hướng	2	hàng	xét
+theo hướng dẫn	1	hàng
+theo hướng nạn	1	xét
+theo ngân	1	NULL
+theo ngân chỉ	1	NULL
+theo nội	1	NULL
+theo nội dung	1	NULL
+theo thông	1	minh
+theo thông tin	1	minh
+theo ông	1	NULL
+theo ông dũng	1	NULL
+theo điều	2	NULL	viện
+theo điều tra	2	NULL	viện
+theo đường	1	trốn
+theo đường cửa	1	trốn
+thiếu	1	tội
+thiếu trách	1	tội
+thiếu trách nhiệm	1	tội
+thiệt	3	bị	bộ	thường
+thiệt hại	3	bị	bộ	thường
+thiệt hại khi	1	thường
+thiệt hại không	2	bị	bộ
+thiệu	1	giới
+thiệu làm	1	giới
+thiệu làm kỹ	1	giới
+thoát	1	tẩu
+thoát NULL	1	tẩu
+thoại	1	điện
+thoại NULL	1	điện
+thoại của	1	điện
+thoại của donald	1	điện
+thoại của sang	1	điện
+thoại di	1	điện
+thoại di động	1	điện
+thoại hàng	1	điện
+thoại hàng của	1	điện
+thoại iphone	1	điện
+thoại iphone 4	1	điện
+thoại iphone 6s	1	điện
+thoại iphone giá	1	điện
+thoại luôn	1	điện
+thoại luôn ở	1	điện
+thoại về	1	điện
+thoại về đưa	1	điện
+thoả	1	được
+thoả thuận	1	được
+thoả thuận bồi	1	được
+thoải	1	không
+thoải mái	1	không
+thoải mái mâu	1	không
+thoảng	1	thỉnh
+thoảng lại	1	thỉnh
+thoảng lại nhếch	1	thỉnh
+thu	2	có	đi
+thu giữ	1	đi
+thu giữ các	1	đi
+thu nhập	1	có
+thu nhập ổn	1	có
+thuê	1	sang
+thuê tạt	1	sang
+thuê tạt axit	1	sang
+thuẫn	1	mâu
+thuẫn NULL	1	mâu
+thuẫn thường	1	mâu
+thuẫn thường xảy	1	mâu
+thuận	3	bình	hàm	thoả
+thuận bắc	1	hàm
+thuận bắc NULL	1	hàm
+thuận bồi	1	thoả
+thuận bồi thường	1	thoả
+thuận cho	1	bình
+thuận cho biết	1	bình
+thuận cảnh	1	bình
+thuận cảnh đi	1	bình
+thuận và	1	bình
+thuận và lời	1	bình
+thuận đã	1	bình
+thuận đã làm	1	bình
+thuế	1	đóng
+thuế 30	1	đóng
+thuế 30 triệu	1	đóng
+thuốc	1	mua
+thuốc NULL	1	mua
+thuốc đặc	1	mua
+thuốc đặc trị	1	mua
+thành	3	an	hình	tuổi
+thành NULL	1	hình
+thành phố	2	an	tuổi
+thành phố quảng	1	tuổi
+thành phố đà	1	an
+tháng	6	10	NULL	cuối	hơn	một	từ
+tháng 2/2014	1	NULL
+tháng 2/2014 một	1	NULL
+tháng 3	1	NULL
+tháng 3 vừa	1	NULL
+tháng 4/2014	1	NULL
+tháng 4/2014 donald	1	NULL
+tháng 5	1	cuối
+tháng 5 sau	1	cuối
+tháng 7/2013	1	NULL
+tháng 7/2013 trong	1	NULL
+tháng 8	1	cuối
+tháng 8 chân	1	cuối
+tháng 8/2003	1	từ
+tháng 8/2003 khi	1	từ
+tháng thương	1	10
+tháng thương lượng	1	10
+tháng trước	3	hơn	một	từ
+tháng trước cô	1	hơn
+tháng trước sang	1	một
+tháng trước ở	1	từ
+tháp…	1	đồng
+tháp… đã	1	đồng
+tháp… đã tiếp	1	đồng
+thân	9	bạn	chung	cốt	khoe	người	nhân	tìm	đơn	độc
+thân NULL	2	bạn	chung
+thân cho	1	người
+thân cho hay	1	người
+thân ham	2	đơn	độc
+thân ham lấy	1	đơn
+thân ham xuất	1	độc
+thân lai	1	nhân
+thân lai lịch	1	nhân
+thân nhân	2	cốt	tìm
+thân nhân liệt	1	cốt
+thân nhân là	1	tìm
+thân quen	1	khoe
+thân quen bác	1	khoe
+thân tham	1	người
+thân tham gia	1	người
+thân từ	1	độc
+thân từ 4	1	độc
+thân đơn	1	độc
+thân đơn thân	1	độc
+thét	1	kêu
+thét loạng	1	kêu
+thét loạng choạng	1	kêu
+thêm	6	bàng…	mặc	nhận	phạt	rủ	tố
+thêm 3	1	phạt
+thêm 3 NULL	1	phạt
+thêm 6	1	nhận
+thêm 6 nạn	1	nhận
+thêm một	1	bàng…
+thêm một lần	1	bàng…
+thêm thanh	1	rủ
+thêm thanh giúp	1	rủ
+thêm tội	1	tố
+thêm tội trộm	1	tố
+thêm áo	1	mặc
+thêm áo khoác	1	mặc
+thì	9	bạn	cáo	gì	hết	hỏi	minh	quà	đó	đẳng
+thì bị	1	bạn
+thì bị nhóm	1	bạn
+thì bộ	1	cáo
+thì bộ tài	1	cáo
+thì chúng	1	hết
+thì chúng tôi	1	hết
+thì không	1	quà
+thì không thấy	1	quà
+thì làm	1	gì
+thì làm NULL	1	gì
+thì nảy	1	đẳng
+thì nảy sinh	1	đẳng
+thì sang	1	hỏi
+thì sang mới	1	hỏi
+thì xảy	1	đó
+thì xảy ra	1	đó
+thì được	1	minh
+thì được ông	1	minh
+thích	1	sở
+thích giải	1	sở
+thích giải trí	1	sở
+thôn	1	tại
+thôn me	1	tại
+thôn me xã	1	tại
+thông	9	biệt	có	hay	ngân	nhận	những	phổ	theo	được
+thông báo	3	hay	ngân	được
+thông báo món	1	ngân
+thông báo về	2	hay	được
+thông tin	5	biệt	có	nhận	những	theo
+thông tin bộ	1	nhận
+thông tin cụ	1	có
+thông tin nạn	1	theo
+thông tin xác	1	biệt
+thông tin ít	1	những
+thông và	1	phổ
+thông và cả	1	phổ
+thù	3	kẻ	trả	“trả
+thù NULL	1	trả
+thù cho	1	trả
+thù cho đồng	1	trả
+thù hứa	1	kẻ
+thù hứa trả	1	kẻ
+thù tình	1	trả
+thù tình NULL	1	trả
+thù tình bằng	1	trả
+thù tình của	1	trả
+thù tình”	1	“trả
+thù tình” NULL	1	“trả
+thù vì	1	trả
+thù vì tình	1	trả
+thùng	2	một	nhận
+thùng hàng	1	nhận
+thùng hàng hà	1	nhận
+thùng mỹ	1	một
+thùng mỹ phẩm	1	một
+thú	2	hôn	đầu
+thú nhận	1	đầu
+thú nhận đã	1	đầu
+thú với	1	hôn
+thú với người	1	hôn
+thúy	5	2008	gồm	mưu	văn	vợ
+thúy 53	1	vợ
+thúy 53 tuổi	1	vợ
+thúy mẫn	1	gồm
+thúy mẫn thị	1	gồm
+thúy ra	1	văn
+thúy ra tòa	1	văn
+thúy thừa	1	mưu
+thúy thừa nhận	1	mưu
+thúy tức	1	văn
+thúy tức cậu	1	văn
+thúy và	1	2008
+thúy và duyên	1	2008
+thăm	1	hỏi
+thăm quyền	1	hỏi
+thăm quyền đang	1	hỏi
+thương	6	bị	gây	lây	quyết	tháng	tiểu
+thương bởi	1	bị
+thương bởi axit	1	bị
+thương lượng	2	quyết	tháng
+thương lượng tand	1	tháng
+thương lượng xác	1	quyết
+thương ngoại	1	tiểu
+thương ngoại hình	1	tiểu
+thương nặng	1	bị
+thương nặng NULL	1	bị
+thương nặng đã	1	bị
+thương tích	2	gây	lây
+thương tích NULL	1	gây
+thương tích nhẹ	1	lây
+thường	3	bồi	khai	thuẫn
+thường 7,2	1	bồi
+thường 7,2 tỷ	1	bồi
+thường NULL	1	bồi
+thường cho	1	bồi
+thường cho người	1	bồi
+thường cho tòa	1	bồi
+thường có	1	bồi
+thường có hiệu	1	bồi
+thường cấp	1	bồi
+thường cấp dưỡng	1	bồi
+thường hơn	1	bồi
+thường hơn 26	1	bồi
+thường không	1	bồi
+thường không có	1	bồi
+thường nhà	1	bồi
+thường nhà nước	1	bồi
+thường oan	1	bồi
+thường oan sai	1	bồi
+thường rất	1	bồi
+thường rất lớn	1	bồi
+thường rất phức	1	bồi
+thường thiệt	1	bồi
+thường thiệt hại	1	bồi
+thường tiền	1	bồi
+thường tiền bị	1	bồi
+thường toàn	1	bồi
+thường toàn bộ	1	bồi
+thường xuyên	1	khai
+thường xuyên lảng	1	khai
+thường xảy	1	thuẫn
+thường xảy ra	1	thuẫn
+thường được	1	bồi
+thường được thụ	1	bồi
+thượng	1	nguyên
+thượng tá	1	nguyên
+thượng tá phó	1	nguyên
+thản	1	bình
+thản sang	1	bình
+thản sang thỉnh	1	bình
+thấp	1	ngoái
+thấp hơn	1	ngoái
+thấp hơn dù	1	ngoái
+thấy	6	cho	cảm	không	nhìn	sau	tìm
+thấy NULL	1	không
+thấy bạn	1	nhìn
+thấy bạn gái	1	nhìn
+thấy không	2	cảm	sau
+thấy không có	1	sau
+thấy không thoải	1	cảm
+thấy người	1	cho
+thấy người sử	1	cho
+thấy nhịp	1	tìm
+thấy nhịp đập	1	tìm
+thấy tung	1	không
+thấy tung tích	1	không
+thẩm	4	cựu	phúc	sơ	tái
+thẩm bác	1	phúc
+thẩm bác đơn	1	phúc
+thẩm phán	1	cựu
+thẩm phán toà	1	cựu
+thẩm tand	1	phúc
+thẩm tand tối	1	phúc
+thẩm xét	1	sơ
+thẩm xét xử	1	sơ
+thẩm đã	1	tái
+thẩm đã hủy	1	tái
+thật	1	nhưng
+thật bẽ	1	nhưng
+thật bẽ bàng…	1	nhưng
+thắc	1	NULL
+thắc mắc	1	NULL
+thắc mắc về	1	NULL
+thắng	1	quốc
+thắng *	1	quốc
+thắng * tên	1	quốc
+thắng -	1	quốc
+thắng - hải	1	quốc
+thắng NULL	1	quốc
+thắng sáng	1	quốc
+thắng sáng 16/10	1	quốc
+thẻ	1	từ
+thẻ atm	1	từ
+thẻ atm của	1	từ
+thế	3	NULL	vì	đặng
+thế nhưng	1	NULL
+thế nhưng thật	1	NULL
+thế vinh	1	đặng
+thế vinh nguyên	1	đặng
+thế việc	1	vì
+thế việc giải	1	vì
+thể	4	có	cụ	không	áo
+thể NULL	1	cụ
+thể do	1	có
+thể do “trả	1	có
+thể giúp	1	có
+thể giúp bệnh	1	có
+thể giấu	1	không
+thể giấu sự	1	không
+thể lý	1	không
+thể lý giải	1	không
+thể thao	1	áo
+thể thao đồng	1	áo
+thỉnh	1	sang
+thỉnh thoảng	1	sang
+thỉnh thoảng lại	1	sang
+thị	6	lê	mẫn	nguyễn	ngụ	phạm	võ
+thị chiến	1	nguyễn
+thị chiến vợ	1	nguyễn
+thị duyên	1	mẫn
+thị duyên vợ	1	mẫn
+thị hoan	1	nguyễn
+thị hoan tại	1	nguyễn
+thị liên	1	phạm
+thị liên 63	1	phạm
+thị ngân	1	lê
+thị ngân 26	1	lê
+thị trấn	1	ngụ
+thị trấn ma	1	ngụ
+thị xuân	1	võ
+thị xuân lan	1	võ
+thỏa	1	hội
+thỏa mơ	1	hội
+thỏa mơ ước	1	hội
+thời	6	học	kịp	một	nhiều	năng, trong	đồng
+thời NULL	1	kịp
+thời donald	1	đồng
+thời donald muốn	1	đồng
+thời gian	3	một	nhiều	năng, trong
+thời gian NULL	1	nhiều
+thời gian sau	1	một
+thời gian vừa	1	năng, trong
+thời phổ	1	học
+thời phổ thông	1	học
+thụ	2	đã	được
+thụ lý	2	đã	được
+thụ lý 21	1	đã
+thụ lý trong	1	được
+thủ	7	các	hung	là	làm	với	được	đối
+thủ NULL	1	hung
+thủ nhanh	1	hung
+thủ nhanh chân	1	hung
+thủ phạm	2	là	được
+thủ phạm giết	1	là
+thủ phạm là	1	được
+thủ tục	2	các	làm
+thủ tục chi	1	các
+thủ tục xuất	1	làm
+thủ đoạn	1	với
+thủ đoạn tương	1	với
+thủ để	1	đối
+thủ để trả	1	đối
+thủy	1	cậu
+thủy 56	1	cậu
+thủy 56 tuổi	1	cậu
+thủy hầu	1	cậu
+thủy hầu tòa	1	cậu
+thủy đã	1	cậu
+thủy đã chỉ	1	cậu
+thức	2	chính	nhận
+thức của	1	nhận
+thức của một	1	nhận
+thức “sạch	1	chính
+thức “sạch tội”	1	chính
+thừa	3	sang	thúy	đã
+thừa nhận	3	sang	thúy	đã
+thừa nhận hành	1	đã
+thừa nhận toàn	1	thúy
+thừa nhận đã	1	sang
+thực	1	đã
+thực hiện	1	đã
+thực hiện giao	1	đã
+tin	4	cả	lòng	nhắn	thông
+tin NULL	1	cả
+tin bộ	1	thông
+tin bộ tài	1	thông
+tin cụ	1	thông
+tin cụ thể	1	thông
+tin doạ	1	nhắn
+tin doạ trả	1	nhắn
+tin nạn	1	thông
+tin nạn nhân	1	thông
+tin trên	1	nhắn
+tin trên facebook	1	nhắn
+tin với	1	lòng
+tin với người	1	lòng
+tin xác	1	thông
+tin xác minh	1	thông
+tin ít	1	thông
+tin ít ỏi	1	thông
+tiến	3	muốn	trần	đang
+tiến dũng	1	trần
+tiến dũng cũng	1	trần
+tiến triển	2	muốn	đang
+tiến triển mối	1	muốn
+tiến triển tốt	1	đang
+tiếng	2	nhiều	vốn
+tiếng anh	1	vốn
+tiếng anh hà	1	vốn
+tiếng không	1	nhiều
+tiếng không thấy	1	nhiều
+tiếp	8	chuyển	hcm	lan	liên	trực	táo	đây	đã
+tiếp 4	1	liên
+tiếp 4 nhát	1	liên
+tiếp làm	1	trực
+tiếp làm NULL	1	trực
+tiếp lên	1	chuyển
+tiếp lên bệnh	1	chuyển
+tiếp nhận	2	đây	đã
+tiếp nhận thêm	1	đã
+tiếp nhận đơn	1	đây
+tiếp tục	2	hcm	lan
+tiếp tục vượt	1	lan
+tiếp tục điều	1	hcm
+tiếp xúc	1	táo
+tiếp xúc tốt	1	táo
+tiền	13	có	cấp	lậu	lừa	nhiều	sao	số	thường	trả	tình	tổng	về	được
+tiền NULL	2	cấp	tình
+tiền bị	1	thường
+tiền bị chiếm	1	thường
+tiền bồi	3	cấp	số	trả
+tiền bồi thường	3	cấp	số	trả
+tiền chưa	1	sao
+tiền chưa đến	1	sao
+tiền các	1	lừa
+tiền các quý	1	lừa
+tiền hay	1	được
+tiền hay thông	1	được
+tiền hà	1	số
+tiền hà phải	1	số
+tiền lan	1	số
+tiền lan và	1	số
+tiền nhà	1	tổng
+tiền nhà nước	1	tổng
+tiền nhất	1	nhiều
+tiền nhất là	1	nhiều
+tiền những	1	lừa
+tiền những người	1	lừa
+tiền này	1	số
+tiền này em	1	số
+tiền qua	1	tình
+tiền qua kết	1	tình
+tiền trong	1	có
+tiền trong đó	1	có
+tiền tới	1	số
+tiền tới 7	1	số
+tiền tỷ	1	lậu
+tiền tỷ về	1	lậu
+tiền đòi	1	số
+tiền đòi bồi	1	số
+tiền đóng	1	về
+tiền đóng phí	1	về
+tiểu	1	là
+tiểu thương	1	là
+tiểu thương ngoại	1	là
+toà	1	phán
+toà phúc	1	phán
+toà phúc thẩm	1	phán
+toàn	4	nhận	sát	thường	trên
+toàn bộ	2	nhận	thường
+toàn bộ hành	1	nhận
+toàn bộ thiệt	1	thường
+toàn cầuai	1	sát
+toàn cầuai bồi	1	sát
+toàn quốc	1	trên
+toàn quốc của	1	trên
+toàn quốc truy	1	trên
+toán	1	thanh
+toán gấp…	1	thanh
+toán gấp… sau	1	thanh
+tp	5	9	an	lên	nội	tại
+tp hcm	4	9	lên	nội	tại
+tp hcm NULL	2	9	tại
+tp hcm tiếp	1	lên
+tp hcm tạm	1	9
+tp hcm đã	1	9
+tp hcm đồng	1	nội
+tp đà	1	an
+tp đà nẵng	1	an
+tra	3	kiểm	điều	đầu
+tra NULL	1	điều
+tra ban	1	điều
+tra ban đầu	1	điều
+tra cho	1	điều
+tra cho biết	1	điều
+tra cho hay	1	điều
+tra chỉ	1	điều
+tra chỉ có	1	điều
+tra gặp	1	điều
+tra gặp rất	1	điều
+tra hành	1	điều
+tra hành vi	1	điều
+tra lại	1	điều
+tra lại NULL	1	điều
+tra nếu	1	kiểm
+tra nếu không	1	kiểm
+tra sang	2	điều	đầu
+tra sang khai	1	điều
+tra sang là	1	đầu
+tra sang vẫn	1	điều
+tra scan	1	kiểm
+tra scan máy	1	kiểm
+tra tối10/10	1	điều
+tra tối10/10 phạm	1	điều
+tra tội	1	điều
+tra tội phạm	1	điều
+tra vksnd	1	điều
+tra vksnd tối	1	điều
+tra về	1	điều
+tra về hành	1	điều
+tra về tội	1	điều
+tra ép	1	điều
+tra ép cung	1	điều
+tra ôtô	1	kiểm
+tra ôtô tải	1	kiểm
+trai	6	bạn	bị	con	cáo	em	với
+trai của	1	em
+trai của lan	1	em
+trai người	1	bạn
+trai người nước	1	bạn
+trai tây	3	bị	cáo	với
+trai tây donald	1	cáo
+trai tây lừa	1	bị
+trai tây một	1	với
+trai đang	1	con
+trai đang bị	1	con
+trai điều	1	em
+trai điều trị	1	em
+trang	4	khẩu	nghĩa	quản	tư
+trang liệt	1	nghĩa
+trang liệt sĩ	1	nghĩa
+trang ngoại	1	tư
+trang ngoại tệ	1	tư
+trang tại	1	quản
+trang tại nghĩa	1	quản
+trang và	1	khẩu
+trang và lấy	1	khẩu
+trang y	1	khẩu
+trang y tế	1	khẩu
+trao	2	dung	nhiên
+trao đổi	2	dung	nhiên
+trao đổi muốn	1	dung
+trao đổi với	1	nhiên
+triển	1	tiến
+triển mối	1	tiến
+triển mối quan	1	tiến
+triển tốt	1	tiến
+triển tốt NULL	1	tiến
+triệu	8	100	30	7,5	700	8	800	bị	chục
+triệu tập	1	bị
+triệu tập NULL	1	bị
+triệu đồng	7	100	30	7,5	700	8	800	chục
+triệu đồng NULL	1	700
+triệu đồng bà	1	7,5
+triệu đồng của	1	chục
+triệu đồng nhưng	1	100
+triệu đồng từ	1	800
+triệu đồng vào	1	30
+triệu đồng để	1	8
+trong	17	7/2013	NULL	cao	cũ	hay	lý	một	nhân	nói	quanh	tiền	trả	tòa	viện	ái	để	đồng
+trong 10	1	NULL
+trong 10 năm	1	NULL
+trong 2	1	cũ
+trong 2 ngày	1	cũ
+trong bệnh	1	quanh
+trong bệnh viện	1	quanh
+trong bộ	1	tòa
+trong bộ dạng	1	tòa
+trong chính	1	lý
+trong chính lời	1	lý
+trong cuộc	1	nói
+trong cuộc họp	1	nói
+trong các	1	trả
+trong các quyết	1	trả
+trong căn	1	để
+trong căn hộ	1	để
+trong hai	1	một
+trong hai nạn	1	một
+trong khi	1	NULL
+trong khi đó	1	NULL
+trong khoảng	1	đồng
+trong khoảng 9,3	1	đồng
+trong lúc	1	hay
+trong lúc xác	1	hay
+trong nhà	2	NULL	để
+trong nhà NULL	1	để
+trong nhà còn	1	NULL
+trong phiên	1	cao
+trong phiên tái	1	cao
+trong phòng	1	nhân
+trong phòng cấp	1	nhân
+trong sáng	1	NULL
+trong sáng cùng	1	NULL
+trong số	2	NULL	lý
+trong số này	2	NULL	lý
+trong tình	1	viện
+trong tình trạng	1	viện
+trong điều	1	ái
+trong điều trị	1	ái
+trong đó	1	tiền
+trong đó NULL	1	tiền
+trong đơn	1	7/2013
+trong đơn gửi	1	7/2013
+trung	3	nghĩa	ông	đạo
+trung huyện	1	nghĩa
+trung huyện việt	1	nghĩa
+trung niên	1	ông
+trung niên quê	1	ông
+trung ương	1	đạo
+trung ương địa	1	đạo
+truy	8	bị	chặn	lượng	lệnh	ngoài	quốc	viện	đang
+truy bắt	3	lượng	ngoài	đang
+truy bắt kẻ	1	ngoài
+truy bắt một	1	lượng
+truy bắt nam	1	đang
+truy cập	1	chặn
+truy cập từ	1	chặn
+truy nã	1	lệnh
+truy nã đặc	1	lệnh
+truy sát	1	viện
+truy sát đối	1	viện
+truy tìm	1	quốc
+truy tìm lan	1	quốc
+truy tố	1	bị
+truy tố thêm	1	bị
+truy tố về	1	bị
+truy xét	1	đang
+truy xét theo	1	đang
+trách	4	chuyên	chịu	có	thiếu
+trách chủ	1	chuyên
+trách chủ yếu	1	chuyên
+trách nhiệm	3	chịu	có	thiếu
+trách nhiệm NULL	2	chịu	có
+trách nhiệm bồi	1	có
+trách nhiệm gây	1	thiếu
+trái	2	bên	sang
+trái phỏng	1	bên
+trái phỏng mi	1	bên
+trái và	1	sang
+trái và thanh	1	sang
+trái độ	1	bên
+trái độ 2	1	bên
+trên	14	NULL	axit	biệt	bạn	chuyện	máy	phục	quen	sinh	tin	trí	tuổi	tình	đảo
+trên facebook	3	chuyện	tin	tình
+trên facebook alfred	1	chuyện
+trên facebook cho	1	tin
+trên facebook võ	1	tình
+trên facebook…	1	bạn
+trên facebook… rất	1	bạn
+trên mạng	3	quen	trí	đảo
+trên mạng facebook	1	quen
+trên mạng xã	2	trí	đảo
+trên toàn	1	biệt
+trên toàn quốc	1	biệt
+trên xe	1	tuổi
+trên xe máy	1	tuổi
+trên đường	5	NULL	axit	máy	phục	sinh
+trên đường NULL	1	phục
+trên đường chở	1	NULL
+trên đường về	1	máy
+trên đường đi	2	axit	sinh
+trình	1	quá
+trình điều	1	quá
+trình điều tra	1	quá
+trí	1	giải
+trí trên	1	giải
+trí trên mạng	1	giải
+trích	2	cho	qua
+trích xuất	2	cho	qua
+trích xuất camera	2	cho	qua
+trò	1	lần
+trò chuyện	1	lần
+trò chuyện người	1	lần
+trò chuyện trên	1	lần
+trú	1	cư
+trú tại	1	cư
+trú tại nơi	1	cư
+trưa	2	NULL	v
+trưa 15/10	1	NULL
+trưa 15/10 sau	1	NULL
+trưa 15/9	1	v
+trưa 15/9 hai	1	v
+trưa nay	1	NULL
+trưa nay quỳnh	1	NULL
+trước	9	NULL	biết	chiến	ngày	tháng	trị	tuần	vảng	đến
+trước cuộc	1	trị
+trước cuộc gặp	1	trị
+trước cô	1	tháng
+trước cô nói	1	tháng
+trước cổng	1	đến
+trước cổng trường	1	đến
+trước cửa	1	vảng
+trước cửa các	1	vảng
+trước khi	1	ngày
+trước khi gây	1	ngày
+trước sang	2	tháng	tuần
+trước sang được	1	tuần
+trước sang đến	1	tháng
+trước việc	1	NULL
+trước việc ông	1	NULL
+trước đây	1	biết
+trước đây có	1	biết
+trước đó	2	NULL	chiến
+trước đó NULL	1	chiến
+trước đó dẫn	1	chiến
+trước đó nghi	1	NULL
+trước ở	1	tháng
+trước ở chợ	1	tháng
+trường	9	chung	cổng	của	hiện	long	một	nguyễn	từ	vào
+trường NULL	2	chung	của
+trường cao	2	một	vào
+trường cao đẳng	2	một	vào
+trường chờ	1	cổng
+trường chờ chị	1	cổng
+trường chứ	1	hiện
+trường chứ không	1	hiện
+trường quận	1	long
+trường quận 9	1	long
+trường sơn	1	nguyễn
+trường sơn 28	1	nguyễn
+trường thanh	1	cổng
+trường thanh chở	1	cổng
+trường về	1	từ
+trường về nhà	1	từ
+trưởng	3	cục	nguyên	sơn
+trưởng bốn	1	cục
+trưởng bốn cho	1	cục
+trưởng bồi	1	cục
+trưởng bồi thường	1	cục
+trưởng cục	1	cục
+trưởng cục bồi	1	cục
+trưởng nguyễn	1	cục
+trưởng nguyễn văn	1	cục
+trưởng phòng	2	nguyên	sơn
+trưởng phòng 10	1	nguyên
+trưởng phòng cảnh	1	sơn
+trạng	2	cáo	tình
+trạng phỏng	1	tình
+trạng phỏng mặt	1	tình
+trạng xác	1	cáo
+trạng xác định	1	cáo
+trả	11	NULL	bị	chi	câu	doạ	hoạch	hứa	sư	sẽ	để	định
+trả bồi	1	chi
+trả bồi thường	1	chi
+trả công	2	hứa	sẽ
+trả công bằng	2	hứa	sẽ
+trả lại	1	bị
+trả lại NULL	1	bị
+trả lời	3	NULL	câu	sư
+trả lời này	1	câu
+trả lời vnexpress	1	NULL
+trả lời xác	1	sư
+trả thù	5	bị	doạ	hoạch	để	định
+trả thù NULL	1	doạ
+trả thù cho	1	để
+trả thù tình	3	hoạch	để	định
+trả thù vì	1	bị
+trả tiền	1	chi
+trả tiền bồi	1	chi
+trả trong	1	chi
+trả trong các	1	chi
+trấn	1	thị
+trấn ma	1	thị
+trấn ma lâm	1	thị
+trần	3	pháp	tá	ông
+trần nhật	1	ông
+trần nhật luật	1	ông
+trần thanh	1	tá
+trần thanh sơn	1	tá
+trần tiến	1	pháp
+trần tiến dũng	1	pháp
+trặc	1	trục
+trặc hải	1	trục
+trặc hải quan	1	trục
+trị	5	giá	quà	quảng	điều	đặc
+trị NULL	3	quảng	điều	đặc
+trị giá	1	quà
+trị giá 800	1	quà
+trị lớn	1	giá
+trị lớn NULL	1	giá
+trị mở	1	quảng
+trị mở phiên	1	quảng
+trị trước	1	giá
+trị trước cuộc	1	giá
+trị tại	1	điều
+trị tại bệnh	1	điều
+trị tại khoa	1	điều
+trị để	2	giá	điều
+trị để lừa	1	điều
+trị để trong	1	giá
+trọng	1	nghiêm
+trọng NULL	1	nghiêm
+trốn	1	bỏ
+trốn khỏi	1	bỏ
+trốn khỏi địa	1	bỏ
+trốn theo	1	bỏ
+trốn theo đường	1	bỏ
+trộm	3	lấy	tội	đi
+trộm cắp	1	tội
+trộm cắp tài	1	tội
+trộm hài	2	lấy	đi
+trộm hài cốt	2	lấy	đi
+trời	1	năm
+trời mới	1	năm
+trời mới có	1	năm
+trục	1	bị
+trục trặc	1	bị
+trục trặc hải	1	bị
+trực	1	không
+trực tiếp	1	không
+trực tiếp làm	1	không
+tum	1	kon
+tum bị	1	kon
+tum bị truy	1	kon
+tung	3	sẽ	thấy	đang
+tung clip	1	sẽ
+tung clip hai	1	sẽ
+tung lực	1	đang
+tung lực lượng	1	đang
+tung tích	1	thấy
+tung tích ân	1	thấy
+tuy	1	NULL
+tuy nhiên	1	NULL
+tuy nhiên do	1	NULL
+tuy nhiên khi	1	NULL
+tuy nhiên thanh	1	NULL
+tuy nhiên trao	1	NULL
+tuyên	3	người	sẽ	sự
+tuyên buộc	1	sự
+tuyên buộc ông	1	sự
+tuyên án	2	người	sẽ
+tuyên án NULL	1	sẽ
+tuyên án tù	1	người
+tuấn	1	phạm
+tuấn chiêm	1	phạm
+tuấn chiêm 65	1	phạm
+tuần	1	một
+tuần alfred	1	một
+tuần alfred bailey	1	một
+tuần trước	1	một
+tuần trước sang	1	một
+tuổi	15	10	12	17	18	21	26	28	32	37	53	56	63	65	69	cùng
+tuổi -	1	18
+tuổi - nghi	1	18
+tuổi NULL	2	12	32
+tuổi cha	1	10
+tuổi cha lan	1	10
+tuổi cầm	2	21	56
+tuổi cầm hung	1	21
+tuổi cầm đầu	1	56
+tuổi cựu	1	65
+tuổi cựu thẩm	1	65
+tuổi lan	1	17
+tuổi lan sống	1	17
+tuổi mẫn	1	53
+tuổi mẫn đức	1	53
+tuổi nguyễn	1	37
+tuổi nguyễn trường	1	37
+tuổi ngồi	1	21
+tuổi ngồi nhậu	1	21
+tuổi ngụ	2	18	21
+tuổi ngụ quận	1	18
+tuổi ngụ thị	1	21
+tuổi quản	1	69
+tuổi quản trang	1	69
+tuổi thành	1	26
+tuổi thành phố	1	26
+tuổi trên	1	cùng
+tuổi trên xe	1	cùng
+tuổi và	1	28
+tuổi và nguyễn	1	28
+tuổi đã	1	18
+tuổi đã bị	1	18
+tuổi để	1	18
+tuổi để điều	1	18
+tuổi ở	2	18	63
+tuổi ở phường	1	63
+tuổi ở quận	1	18
+ty	1	công
+ty giao	1	công
+ty giao hàng	1	công
+ty làm	1	công
+ty làm dịch	1	công
+tài	10	bộ	chủ	cắp	là	nhiều	số	và	vào	đoạt	đổibộ
+tài chính	2	bộ	đổibộ
+tài chính cấp	2	bộ	đổibộ
+tài chính đã	1	bộ
+tài khoản	4	chủ	là	số	vào
+tài khoản cho	2	chủ	vào
+tài khoản của	1	số
+tài khoản mang	1	số
+tài khoản ngân	2	là	vào
+tài sản	4	cắp	nhiều	và	đoạt
+tài sản NULL	2	cắp	đoạt
+tài sản giá	1	nhiều
+tài sản hư	1	và
+tài sản và	1	đoạt
+tá	2	thượng	đại
+tá phó	1	thượng
+tá phó công	1	thượng
+tá trần	1	đại
+tá trần thanh	1	đại
+tác	1	công
+tác bảo	1	công
+tác bảo vệ	1	công
+tái	1	phiên
+tái thẩm	1	phiên
+tái thẩm đã	1	phiên
+táo	2	hoàng	tỉnh
+táo dự	1	hoàng
+táo dự kiến	1	hoàng
+táo tham	1	hoàng
+táo tham dự	1	hoàng
+táo tiếp	1	tỉnh
+táo tiếp xúc	1	tỉnh
+táo từ	1	hoàng
+táo từ năm	1	hoàng
+táobịa	1	hoàng
+táobịa chuyện	1	hoàng
+táobịa chuyện quen	1	hoàng
+tâm	1	quan
+tâm đúng	1	quan
+tâm đúng mức	1	quan
+tân	1	phúc
+tân để	1	phúc
+tân để điều	1	phúc
+tây	2	chồng	trai
+tây donald	1	trai
+tây donald và	1	trai
+tây lừa	1	trai
+tây lừa tình	1	trai
+tây một	1	trai
+tây một nạn	1	trai
+tây để	1	chồng
+tây để xuất	1	chồng
+tên	9	*	cũ	gần	mang	name	nhân	nơi	tự	xưng
+tên alfred	1	tự
+tên alfred bailey	1	tự
+tên các	1	*
+tên các nạn	1	*
+tên donald	2	name	xưng
+tên donald jack	2	name	xưng
+tên hà	1	nhân
+tên hà cho	1	nhân
+tên lan	1	mang
+tên lan lại	1	mang
+tên này	2	gần	nơi
+tên này bất	1	gần
+tên này ném	1	nơi
+tên nạn	1	*
+tên nạn nhân	1	*
+tên quỳnh	1	cũ
+tên quỳnh sau	1	cũ
+tên võ	1	mang
+tên võ thị	1	mang
+tìm	6	cần	lúc	nghề	truy	đi	đã
+tìm cách	1	lúc
+tìm cách quyên	1	lúc
+tìm hài	1	cần
+tìm hài cốt	1	cần
+tìm kiếm	2	nghề	đi
+tìm kiếm NULL	1	đi
+tìm kiếm hài	1	nghề
+tìm lan	1	truy
+tìm lan và	1	truy
+tìm thân	1	đi
+tìm thân nhân	1	đi
+tìm thấy	1	đã
+tìm thấy nhịp	1	đã
+tình	13	axit	chuyện	còn	gạt	kéo	lại	lừa	người	sinh	thù	trong	tỏ	vì
+tình NULL	2	người	thù
+tình bằng	1	thù
+tình bằng cách	1	thù
+tình chưa	1	người
+tình chưa từng	1	người
+tình cũ	1	axit
+tình cũ trong	1	axit
+tình cảm	4	còn	kéo	sinh	tỏ
+tình cảm không	1	kéo
+tình cảm lên	1	còn
+tình cảm và	1	tỏ
+tình cảm yêu	1	sinh
+tình của	1	thù
+tình của cậu	1	thù
+tình lừa	1	gạt
+tình lừa tiền	1	gạt
+tình một	1	vì
+tình một cán	1	vì
+tình nghi	1	người
+tình nghi mang	1	người
+tình tiền	2	gạt	lừa
+tình tiền NULL	1	gạt
+tình tiền qua	1	lừa
+tình trên	1	lừa
+tình trên facebook	1	lừa
+tình trạng	1	trong
+tình trạng phỏng	1	trong
+tình xưa	1	lại
+tình xưa NULL	1	lại
+tình yêu	1	chuyện
+tình yêu xa	1	chuyện
+tình”	1	thù
+tình” NULL	1	thù
+tích	2	thương	tung
+tích NULL	1	thương
+tích nhẹ	1	thương
+tích nhẹ hơn	1	thương
+tích ân	1	tung
+tích ân nhân	1	tung
+tính	1	là
+tính chất	1	là
+tính chất một	1	là
+tòa	6	cho	hầu	ngành	phiên	ra	xử
+tòa NULL	1	phiên
+tòa trong	1	ra
+tòa trong bộ	1	ra
+tòa vì	1	hầu
+tòa vì chủ	1	hầu
+tòa án	3	cho	ngành	xử
+tòa án NULL	1	cho
+tòa án xác	1	xử
+tòa án đã	1	ngành
+tô	1	đắk
+tô kon	1	đắk
+tô kon tum	1	đắk
+tôi	5	NULL	bạc	chúng	nữa	đình
+tôi có	1	chúng
+tôi có được	1	chúng
+tôi gặp	1	nữa
+tôi gặp phải	1	nữa
+tôi lại	1	bạc
+tôi lại được	1	bạc
+tôi rất	1	NULL
+tôi rất lo	1	NULL
+tôi đang	2	chúng	đình
+tôi đang sống	1	đình
+tôi đang truy	1	chúng
+tôi đang tung	1	chúng
+tù	2	ngồi	án
+tù chung	1	án
+tù chung thân	1	án
+tù ông	1	ngồi
+tù ông liên	1	ngồi
+túi	1	cầm
+túi quần	1	cầm
+túi quần áo	1	cầm
+tăng	3	cầu	phường	viện
+tăng cường	1	viện
+tăng cường công	1	viện
+tăng long	1	cầu
+tăng long phường	1	cầu
+tăng nhơn	1	phường
+tăng nhơn phú	1	phường
+tư	2	bộ	nhiều
+tư pháp	1	bộ
+tư pháp NULL	1	bộ
+tư pháp nguyễn	1	bộ
+tư pháp sẽ	1	bộ
+tư pháp trần	1	bộ
+tư trang	1	nhiều
+tư trang ngoại	1	nhiều
+tương	1	đoạn
+tương tự	1	đoạn
+tương tự NULL	1	đoạn
+tưởng	1	những
+tưởng sau	1	những
+tưởng sau một	1	những
+tại	16	NULL	cáo	cư	cốt	hoan	la	mệnh	nay	qua	tay	thanh	trang	trú	trị	việc	đóng
+tại bình	1	cốt
+tại bình phước	1	cốt
+tại bệnh	2	qua	trị
+tại bệnh viện	2	qua	trị
+tại bộ	1	nay
+tại bộ tư	1	nay
+tại các	1	la
+tại các nghĩa	1	la
+tại cơ	2	NULL	thanh
+tại cơ quan	2	NULL	thanh
+tại khoa	1	trị
+tại khoa nhiễm	1	trị
+tại mộ	1	cốt
+tại mộ vô	1	cốt
+tại mỹ	1	tay
+tại mỹ về	1	tay
+tại nghĩa	1	trang
+tại nghĩa trang	1	trang
+tại nơi	1	trú
+tại nơi khác	1	trú
+tại phiên	2	NULL	cáo
+tại phiên tòa	1	cáo
+tại phiên xử	1	NULL
+tại scotland	1	việc
+tại scotland lừa	1	việc
+tại thôn	1	hoan
+tại thôn me	1	hoan
+tại tp	1	đóng
+tại tp hcm	1	đóng
+tại đà	1	mệnh
+tại đà nẵng	1	mệnh
+tại đây	1	cư
+tại đây NULL	1	cư
+tạm	6	bắt	bị	can	hcm	đã	được
+tạm giam	2	bắt	can
+tạm giam phạm	1	can
+tạm giam ông	1	bắt
+tạm giữ	2	bị	hcm
+tạm giữ NULL	1	bị
+tạm giữ hình	1	hcm
+tạm giữ lê	1	hcm
+tạm tha	1	được
+tạm tha về	1	được
+tạm ứng	1	đã
+tạm ứng 550	1	đã
+tạo	3	rồi	đã	đạo
+tạo dựng	3	rồi	đã	đạo
+tạo dựng 105	1	đạo
+tạo dựng mộ	1	rồi
+tạo dựng tổng	1	đã
+tạo được	1	đã
+tạo được lòng	1	đã
+tạp	1	phức
+tạp liên	1	phức
+tạp liên quan	1	phức
+tạt	12	bạn	bị	can	cách	hoạch	huânkẻ	lên	nhà	nhờ	phạm	sang	thuê
+tạt axit	12	bạn	bị	can	cách	hoạch	huânkẻ	lên	nhà	nhờ	phạm	sang	thuê
+tạt axit 2	2	bạn	can
+tạt axit NULL	1	cách
+tạt axit bạn	3	hoạch	nhà	thuê
+tạt axit hai	2	huânkẻ	phạm
+tạt axit khiến	1	lên
+tạt axit kẻ	1	nhờ
+tạt axit nhập	1	bị
+tạt axit trên	1	bị
+tạt axit tình	1	hoạch
+tạt axit vào	2	lên	sang
+tạt cả	1	lên
+tạt cả ca	1	lên
+tạt vào	1	hoạch
+tạt vào mặt	1	hoạch
+tải	1	ôtô
+tải khả	1	ôtô
+tải khả nghi	1	ôtô
+tấn	1	vào
+tấn công	1	vào
+tấn công NULL	1	vào
+tất	2	của	hoàn
+tất NULL	1	hoàn
+tất cả	1	của
+tất cả nạn	1	của
+tầng	1	dưới
+tầng hầm	1	dưới
+tầng hầm NULL	1	dưới
+tẩu	2	chân	rồi
+tẩu thoát	2	chân	rồi
+tẩu thoát NULL	2	chân	rồi
+tận	1	ở
+tận campuchia	1	ở
+tận campuchia NULL	1	ở
+tập	1	triệu
+tập NULL	1	triệu
+tặng	1	muốn
+tặng ngân	1	muốn
+tặng ngân một	1	muốn
+tế	2	kinh	y
+tế riêng	1	y
+tế riêng sang	1	y
+tế và	1	kinh
+tế và chức	1	kinh
+tệ	1	ngoại
+tệ NULL	1	ngoại
+tỉnh	5	2	an	ngoại	sát	vksnd
+tỉnh bình	2	an	sát
+tỉnh bình dương	1	sát
+tỉnh bình thuận	2	an	sát
+tỉnh bắc	1	vksnd
+tỉnh bắc giang	1	vksnd
+tỉnh chăm	1	ngoại
+tỉnh chăm sóc	1	ngoại
+tỉnh táo	1	2
+tỉnh táo tiếp	1	2
+tọa	1	chủ
+tọa phiên	1	chủ
+tọa phiên phúc	1	chủ
+tỏ	3	bày	chóng	còn
+tỏ ra	2	chóng	còn
+tỏ ra bình	1	chóng
+tỏ ra hào	1	còn
+tỏ tình	1	bày
+tỏ tình cảm	1	bày
+tố	5	chấn	khởi	nhân	nữ	truy
+tố bắt	1	khởi
+tố bắt tạm	1	khởi
+tố bị	2	khởi	nữ
+tố bị can	1	khởi
+tố bị trai	1	nữ
+tố cáo	2	chấn	nhân
+tố cáo nhóm	1	chấn
+tố cáo trai	1	nhân
+tố thêm	1	truy
+tố thêm tội	1	truy
+tố về	1	truy
+tố về các	1	truy
+tố về tội	1	truy
+tối	3	NULL	tand	vksnd
+tối 15/10	1	NULL
+tối 15/10 công	1	NULL
+tối 22/8	1	NULL
+tối 22/8 bị	1	NULL
+tối cao	2	tand	vksnd
+tối cao bà	1	vksnd
+tối cao chủ	1	tand
+tối cao trong	1	tand
+tối cao đã	1	vksnd
+tối cao đạt	1	tand
+tối10/10	1	tra
+tối10/10 phạm	1	tra
+tối10/10 phạm văn	1	tra
+tốt	3	sóc	triển	xúc
+tốt NULL	2	triển	xúc
+tốt hơn	1	sóc
+tốt hơn NULL	1	sóc
+tổng	3	NULL	dựng	rồi
+tổng cộng	1	dựng
+tổng cộng 105	1	dựng
+tổng số	1	rồi
+tổng số tiền	1	rồi
+tổng tiền	1	NULL
+tổng tiền nhà	1	NULL
+tội	8	các	hình	kết	phạm	thêm	tra	và	về
+tội giết	1	phạm
+tội giết người	1	phạm
+tội lừa	1	các
+tội lừa đảo	1	các
+tội phạm	2	hình	tra
+tội phạm công	1	hình
+tội phạm về	1	tra
+tội thiếu	1	về
+tội thiếu trách	1	về
+tội trộm	1	thêm
+tội trộm cắp	1	thêm
+tội xâm	2	và	về
+tội xâm phạm	2	và	về
+tội ông	1	kết
+tội ông chấn	1	kết
+tội”	1	“sạch
+tội” khi	1	“sạch
+tội” khi hai	1	“sạch
+tới	3	gọi	quan	tiền
+tới 7	1	tiền
+tới 7 tỷ	1	tiền
+tới hơn	1	quan
+tới hơn 100	1	quan
+tới xưng	1	gọi
+tới xưng danh	1	gọi
+tục	3	liên	thủ	tiếp
+tục bị	1	liên
+tục bị trục	1	liên
+tục chi	1	thủ
+tục chi trả	1	thủ
+tục kêu	1	liên
+tục kêu oan	1	liên
+tục vượt	1	tiếp
+tục vượt biên	1	tiếp
+tục xuất	1	thủ
+tục xuất ngoại	1	thủ
+tục điều	1	tiếp
+tục điều trị	1	tiếp
+tức	1	thúy
+tức cậu	1	thúy
+tức cậu thủy	1	thúy
+từ	19	NULL	axit	bạn	chuyển	chứng	cập	cắt	gửi	hàng	lý	lấy	minh	mua	mới	quà	thân	táo	định	đồng
+từ 4	1	thân
+từ 4 năm	1	thân
+từ NULL	1	chứng
+từ alfred	1	đồng
+từ alfred bailey	1	đồng
+từ bình	1	axit
+từ bình ra	1	axit
+từ bạn	1	mới
+từ bạn trai	1	mới
+từ camera	1	cắt
+từ camera bệnh	1	cắt
+từ cuối	1	NULL
+từ cuối năm	1	NULL
+từ cục	1	lấy
+từ cục quản	1	lấy
+từ hà	1	cập
+từ hà NULL	1	cập
+từ mỹ	2	gửi	quà
+từ mỹ của	1	gửi
+từ mỹ về	1	quà
+từ năm	2	táo	định
+từ năm 2008	1	định
+từ năm 2010-2013	1	táo
+từ nước	1	hàng
+từ nước ngoài	1	hàng
+từ tháng	2	lý	mua
+từ tháng 8/2003	1	lý
+từ tháng trước	1	mua
+từ thẻ	1	minh
+từ thẻ atm	1	minh
+từ trường	1	bạn
+từ trường về	1	bạn
+từ yêu	1	chuyển
+từ yêu sang	1	chuyển
+từng	2	chưa	và
+từng gặp	1	chưa
+từng gặp mặt	1	chưa
+từng hăm	1	và
+từng hăm doạ	1	và
+từng nhìn	1	chưa
+từng nhìn thấy	1	chưa
+tự	4	facebook	tương	đã	ảnh
+tự NULL	1	tương
+tự sướng…	1	ảnh
+tự sướng… sẵn	1	ảnh
+tự tên	1	facebook
+tự tên alfred	1	facebook
+tự xác	1	đã
+tự xác minh	1	đã
+tỷ	7	16	26	7	7,2	9,3	một	tiền
+tỷ về	1	tiền
+tỷ về sài	1	tiền
+tỷ đồng	6	16	26	7	7,2	9,3	một
+tỷ đồng NULL	4	16	26	7	một
+tỷ đồng bồi	1	7,2
+tỷ đồng cho	1	7,2
+tỷ đồng trong	1	7,2
+tỷ đồng ông	1	9,3
+tỷ đồng đã	1	7,2
+usd	2	000	550
+usd cho	1	550
+usd cho hải	1	550
+usd nữa	1	000
+usd nữa số	1	000
+usd rồi	1	550
+usd rồi giờ	1	550
+usd vào	1	550
+usd vào tài	1	550
+uy	1	ta
+uy hiếp	1	ta
+uy hiếp nữ	1	ta
+uất	1	sự
+uất ức	1	sự
+uất ức về	1	sự
+v	1	NULL
+v trưa	1	NULL
+v trưa 15/9	1	NULL
+vi	1	hành
+vi NULL	1	hành
+vi cố	1	hành
+vi cố ý	1	hành
+vi lừa	1	hành
+vi lừa đảo	1	hành
+vi nói	1	hành
+vi nói chỉ	1	hành
+vi sang	1	hành
+vi sang mượn	1	hành
+vinh	1	thế
+vinh nguyên	1	thế
+vinh nguyên trưởng	1	thế
+viên	2	nhân	động
+viên cảng	1	nhân
+viên cảng hàng	1	nhân
+viên của	1	nhân
+viên của công	1	nhân
+viên đây	1	động
+viên đây là	1	động
+việc	8	làm	rộng	thế	trước	với	vụ	đầu	đến
+việc NULL	2	làm	vụ
+việc bán	1	rộng
+việc bán hàng	1	rộng
+việc bồi	1	vụ
+việc bồi thường	1	vụ
+việc cảnh	2	vụ	đến
+việc cảnh sát	1	vụ
+việc cảnh vào	1	đến
+việc giải	2	thế	vụ
+việc giải quyết	2	thế	vụ
+việc làm	1	với
+việc làm giả	1	với
+việc ngang	1	đầu
+việc ngang nhau	1	đầu
+việc tại	1	làm
+việc tại scotland	1	làm
+việc với	2	làm	vụ
+việc với 11	1	làm
+việc với số	1	vụ
+việc ông	1	trước
+việc ông chấn	1	trước
+việc đang	1	vụ
+việc đang được	1	vụ
+viện	2	bệnh	nhập
+viện NULL	1	bệnh
+viện chợ	1	bệnh
+viện chợ rẫy	1	bệnh
+viện gần	1	bệnh
+viện gần đó	1	bệnh
+viện theo	1	bệnh
+viện theo điều	1	bệnh
+viện trong	1	nhập
+viện trong tình	1	nhập
+viện truy	1	bệnh
+viện truy sát	1	bệnh
+viện tăng	1	bệnh
+viện tăng cường	1	bệnh
+viện việt	1	bệnh
+viện việt đức	1	bệnh
+viện đa	1	bệnh
+viện đa khoa	1	bệnh
+viện ập	1	bệnh
+viện ập đến	1	bệnh
+việt	9	-	huyện	hội	lại	qua	quan	viện	về	đến
+việt dũng	1	-
+việt dũng cậu	1	-
+việt nam	6	hội	lại	qua	quan	về	đến
+việt nam NULL	1	về
+việt nam giữ	1	quan
+việt nam gặp	1	qua
+việt nam là	1	về
+việt nam nhưng	1	đến
+việt nam qua	1	hội
+việt nam sinh	1	về
+việt nam và	1	lại
+việt nam với	1	hội
+việt yên	1	huyện
+việt yên NULL	1	huyện
+việt yên bắc	1	huyện
+việt đức	1	viện
+việt đức xảy	1	viện
+việt đức để	1	viện
+việtkiều	1	hoàng
+việtkiều nữ	1	hoàng
+việtkiều nữ bị	1	hoàng
+vksnd	4	10	gửi	hình	tra
+vksnd tỉnh	1	10
+vksnd tỉnh bắc	1	10
+vksnd tối	3	gửi	hình	tra
+vksnd tối cao	3	gửi	hình	tra
+vnexpress	2	lời	với
+vnexpress cục	1	lời
+vnexpress cục trưởng	1	lời
+vnexpress ông	1	với
+vnexpress ông chấn	1	với
+vui	1	niềm
+vui mới	1	niềm
+vui mới từ	1	niềm
+và	45	NULL	biết	chuyện	chấn	cô…	cảm	cốt	donald	ghen	giang	hà	hàng	hưng	jack	khác	kéo	lan	laptop	lăk	lưu	lại	lễ	lớn	mạc	mỹ	nam	ngoại	nhân	ninh	nội	oan	quần	sang	sản	sống	thai	thanh	thuận	thông	thúy	trang	trái	tuổi	tế	đường
+và bảo	2	lại	nhân
+và bảo gia	1	lại
+và bảo vệ	1	nhân
+và chưa	1	biết
+và chưa từng	1	biết
+và chức	1	tế
+và chức vụ	1	tế
+và có	2	ninh	oan
+và có cảnh	1	ninh
+và có lúc	1	oan
+và cả	1	thông
+và cả cao	1	thông
+và cảnh	1	hàng
+và cảnh sát	1	hàng
+và donald	1	hà
+và donald jack	1	hà
+và duyên	1	thúy
+và duyên bắt	1	thúy
+và em	1	nội
+và em trai	1	nội
+và gã	1	lan
+và gã đàn	1	lan
+và gửi	1	laptop
+và gửi kèm	1	laptop
+và hẹn	1	thanh
+và hẹn ngày	1	thanh
+và liên	1	chuyện
+và liên hệ	1	chuyện
+và làm	3	cốt	lễ	sống
+và làm giả	1	cốt
+và làm thủ	1	lễ
+và làm việc	1	sống
+và lấy	1	trang
+và lấy xe	1	trang
+và lời	1	thuận
+và lời khai	1	thuận
+và mong	1	cảm
+và mong muốn	1	cảm
+và mở	1	lưu
+và mở rộng	1	lưu
+và nguyễn	1	tuổi
+và nguyễn anh	1	tuổi
+và người	2	chấn	donald
+và người có	1	donald
+và người thân	1	chấn
+và nhiều	2	mạc	quần
+và nhiều tư	1	quần
+và nhiều vùng	1	mạc
+và nhân	1	khác
+và nhân chứng	1	khác
+và nhận	1	lan
+và nhận định	1	lan
+và nhẹ	1	ngoại
+và nhẹ dạ	1	ngoại
+và nơi	1	cô…
+và nơi tên	1	cô…
+và nữ	1	jack
+và nữ cán	1	jack
+và phạm	1	sang
+và phạm hoàng	1	sang
+và quay	1	thai
+và quay về	1	thai
+và quyền	1	hưng
+và quyền bị	1	hưng
+và quản	1	ghen
+và quản lý	1	ghen
+và quảng	1	lăk
+và quảng trị	1	lăk
+và rồi	1	NULL
+và rồi tổng	1	NULL
+và thanh	2	sang	trái
+và thanh bị	1	trái
+và thanh tại	1	sang
+và tài	1	lớn
+và tài sản	1	lớn
+và tội	1	sản
+và tội xâm	1	sản
+và từng	1	kéo
+và từng hăm	1	kéo
+và ông	1	giang
+và ông đặng	1	giang
+và được	2	nam	đường
+và được một	1	nam
+và được đưa	1	đường
+và định	1	mỹ
+và định cư	1	mỹ
+vài	2	NULL	sau
+vài lần	1	sau
+vài lần trò	1	sau
+vài phút	1	NULL
+vài phút sau	1	NULL
+vàng	1	sao
+vàng mũ	1	sao
+vàng mũ cối	1	sao
+vào	19	axit	bắn	chuyển	cùng	cảnh	dao	lao	nhanh	nhát	nẵng	rào	tạt	usd	đi	đã	đưa	để	đồng	đổ
+vào NULL	1	đi
+vào bình	1	đổ
+vào bình xe	1	đổ
+vào bệnh	2	cảnh	đưa
+vào bệnh viện	2	cảnh	đưa
+vào cuộc	1	đã
+vào cuộc NULL	1	đã
+vào cấp	1	đưa
+vào cấp cứu	1	đưa
+vào cổ	1	dao
+vào cổ nữ	1	dao
+vào lưng	1	nhát
+vào lưng cổ	1	nhát
+vào mặt	3	axit	bắn	tạt
+vào mặt NULL	1	axit
+vào mặt quỳnh	2	axit	tạt
+vào mặt rồi	1	axit
+vào mặt tay	1	bắn
+vào ngày	1	để
+vào ngày 20/8	1	để
+vào nhà	1	rào
+vào nhà quỳnh	1	rào
+vào phòng	1	nhanh
+vào phòng làm	1	nhanh
+vào số	1	đồng
+vào số tài	1	đồng
+vào trường	1	cùng
+vào trường cao	1	cùng
+vào tài	2	chuyển	usd
+vào tài khoản	2	chuyển	usd
+vào tấn	1	lao
+vào tấn công	1	lao
+vào đúng	1	nẵng
+vào đúng dịp	1	nẵng
+vì	7	NULL	hận	lại	lắng	sinh	thù	tòa
+vì bị	1	hận
+vì bị nữ	1	hận
+vì chiếc	1	sinh
+vì chiếc iphone	1	sinh
+vì chủ	1	tòa
+vì chủ mưu	1	tòa
+vì hàng	1	lại
+vì hàng có	1	lại
+vì nhiều	1	lắng
+vì nhiều tài	1	lắng
+vì qua	1	lại
+vì qua kiểm	1	lại
+vì sao	1	NULL
+vì sao tiền	1	NULL
+vì thế	1	NULL
+vì thế việc	1	NULL
+vì tình	1	thù
+vì tình một	1	thù
+vô	2	mộ	những
+vô danh	1	mộ
+vô danh NULL	1	mộ
+vô lý	1	những
+vô lý trong	1	những
+võ	3	facebook	tên	với
+võ thị	3	facebook	tên	với
+võ thị xuân	3	facebook	tên	với
+vùng	2	ngoài	nhiều
+vùng phủ	1	ngoài
+vùng phủ sóng	1	ngoài
+vùng ở	1	nhiều
+vùng ở đầu	1	nhiều
+văn	4	chánh	cứu là bùi	nguyễn	phạm
+văn bốn	1	nguyễn
+văn bốn cho	1	nguyễn
+văn bốn xác	1	nguyễn
+văn cảnh	1	cứu là bùi
+văn cảnh 21	1	cứu là bùi
+văn hoành	1	nguyễn
+văn hoành bị	1	nguyễn
+văn hưng	1	phạm
+văn hưng 21	1	phạm
+văn khiêm	1	phạm
+văn khiêm phó	1	phạm
+văn phòng	1	chánh
+văn phòng bộ	1	chánh
+văn quyền	1	nguyễn
+văn quyền 21	1	nguyễn
+văn thúy	1	nguyễn
+văn thúy ra	1	nguyễn
+văn thúy tức	1	nguyễn
+vũ	1	riêng
+vũ đức	1	riêng
+vũ đức chung	1	riêng
+vướng	2	chấn	còn
+vướng lao	1	chấn
+vướng lao lý	1	chấn
+vướng mắc	1	còn
+vướng mắc ở	1	còn
+vượt	5	chở	con	niên	tục	xe
+vượt biên	2	con	tục
+vượt biên giới	1	tục
+vượt biên sang	1	con
+vượt lên	3	chở	niên	xe
+vượt lên tạt	3	chở	niên	xe
+vạ	1	bị
+vạ lây	1	bị
+vạ lây thương	1	bị
+vảng	1	lảng
+vảng trước	1	lảng
+vảng trước cửa	1	lảng
+vẫn	1	sang
+vẫn mặc	1	sang
+vẫn mặc bộ	1	sang
+vẫn phủ	1	sang
+vẫn phủ nhận	1	sang
+vật	2	các	di
+vật chứng	1	các
+vật chứng của	1	các
+vật như	1	di
+vật như bi	1	di
+vắng	2	chứng	đoạn
+vắng mặt	1	chứng
+vắng mặt NULL	1	chứng
+vắng người	1	đoạn
+vắng người sang	1	đoạn
+về	23	báo	gì	hoe	học	mang	máy	mắc	mỹ	nhau	phạm	quay	sự	tha	thoại	tra	trường	tố	tỷ	đã	đưa	đường	ảo	ức
+về NULL	1	học
+về bồi	1	sự
+về bồi thường	1	sự
+về các	1	tố
+về các tội	1	tố
+về cái	1	ức
+về cái kết	1	ức
+về câu	1	báo
+về câu trả	1	báo
+về căn	1	hoe
+về căn phòng	1	hoe
+về hai	1	nhau
+về hai nữ	1	nhau
+về hành	1	tra
+về hành vi	1	tra
+về kinh	1	phạm
+về kinh tế	1	phạm
+về kế	2	báo	gì
+về kế hoạch	2	báo	gì
+về lại	1	đưa
+về lại cơ	1	đưa
+về nhà	4	máy	tha	trường	đường
+về nhà bộ	1	trường
+về nhà sau	1	tha
+về nhà ở	2	máy	đường
+về nhân	1	ảo
+về nhân thân	1	ảo
+về sài	1	tỷ
+về sài gòn	1	tỷ
+về tiền	1	mắc
+về tiền đóng	1	mắc
+về tội	2	tra	tố
+về tội thiếu	1	tra
+về tội xâm	1	tố
+về việt	2	mỹ	quay
+về việt nam	2	mỹ	quay
+về đưa	1	thoại
+về đưa cho	1	thoại
+về đến	1	đã
+về đến việt	1	đã
+về đối	1	mang
+về đối chiếu	1	mang
+vệ	1	bảo
+vệ an	1	bảo
+vệ an ninh	1	bảo
+vệ bệnh	1	bảo
+vệ bệnh viện	1	bảo
+vị	1	đơn
+vị số	1	đơn
+vị số tiền	1	đơn
+vốn	1	sẵn
+vốn tiếng	1	sẵn
+vốn tiếng anh	1	sẵn
+vội	1	rắp
+vội chạy	1	rắp
+vội chạy đi	1	rắp
+với	26	3	NULL	chiếu	cùng	cặp	gánh	khai	mạng	nam	ngộ	nhân	nhậu	nhủ	nói	quen	so	tay	thú	tin	việc	xa	ý	đi	đương	đối	đổi
+với 11	1	việc
+với 11 người	1	việc
+với bạn	1	nhậu
+với bạn thì	1	nhậu
+với chị	1	ngộ
+với chị hà	1	ngộ
+với cảnh	1	khai
+với cảnh sát	1	khai
+với cậu	1	tay
+với cậu bạn	1	tay
+với em	1	nói
+với em rằng	1	nói
+với giá	1	mạng
+với giá 100	1	mạng
+với hà	1	quen
+với hà NULL	1	quen
+với lời	1	đi
+với lời hứa	1	đi
+với một	2	cặp	quen
+với một gã	1	cặp
+với một người	1	quen
+với ngân	1	nhủ
+với ngân em	1	nhủ
+với người	5	gánh	quen	tay	thú	tin
+với người chồng	1	gánh
+với người nhà	1	quen
+với người yêu	1	tay
+với người đàn	2	thú	tin
+với những	1	NULL
+với những thông	1	NULL
+với năm	1	so
+với năm ngoái	1	so
+với quyết	1	ý
+với quyết định	1	ý
+với quỳnh	2	3	đương
+với quỳnh 18	1	3
+với quỳnh bạn	1	đương
+với số	2	nam	việc
+với số tiền	2	nam	việc
+với thủ	1	nhân
+với thủ đoạn	1	nhân
+với trai	1	xa
+với trai tây	1	xa
+với việc	1	cùng
+với việc làm	1	cùng
+với vnexpress	1	đổi
+với vnexpress ông	1	đổi
+với võ	1	đối
+với võ thị	1	đối
+với ảnh	1	chiếu
+với ảnh của	1	chiếu
+vợ	3	chiến	duyên	lại
+vợ con	1	lại
+vợ con vượt	1	lại
+vợ thúy	1	duyên
+vợ thúy 53	1	duyên
+vợ ông	1	chiến
+vợ ông cũng	1	chiến
+vụ	15	100	14	21	40	NULL	chức	cơ	của	dịch	phi	quan	ra	sơ	số	đến
+vụ công	1	chức
+vụ công an	1	chức
+vụ hàng	1	dịch
+vụ hàng xách	1	dịch
+vụ hỗn	1	quan
+vụ hỗn chiến	1	quan
+vụ kiện	1	21
+vụ kiện dân	1	21
+vụ lừa	1	số
+vụ lừa đảo	1	số
+vụ này	1	phi
+vụ này NULL	1	phi
+vụ việc	6	100	14	NULL	ra	số	đến
+vụ việc NULL	1	ra
+vụ việc bồi	2	100	số
+vụ việc cảnh	1	đến
+vụ việc giải	1	số
+vụ việc với	1	14
+vụ việc đang	1	NULL
+vụ án	4	NULL	cơ	của	sơ
+vụ án NULL	1	sơ
+vụ án có	1	cơ
+vụ án như	1	của
+vụ án đang	1	NULL
+vụ án được	1	NULL
+vụ đã	1	40
+vụ đã được	1	40
+vừa	6	3	NULL	facebook	gian	nhân	nỉ
+vừa chia	1	nhân
+vừa chia tay	1	nhân
+vừa hăm	1	nỉ
+vừa hăm dọa	1	nỉ
+vừa năn	1	NULL
+vừa năn nỉ	1	NULL
+vừa qua	2	3	gian
+vừa qua tại	1	gian
+vừa qua ông	1	3
+vừa để	1	facebook
+vừa để kết	1	facebook
+vực	1	khu
+vực phía	1	khu
+vực phía nam	1	khu
+xa	1	yêu
+xa với	1	yêu
+xa với trai	1	yêu
+xe	9	bình	chiếc	cùng	lấy	ngã	qui	trên	xuống	đi
+xe NULL	1	ngã
+xe của	1	lấy
+xe của người	1	lấy
+xe máy	4	bình	qui	trên	đi
+xe máy mua	1	qui
+xe máy nhưng	1	bình
+xe máy trên	1	đi
+xe máy về	1	trên
+xe mượn	1	chiếc
+xe mượn của	1	chiếc
+xe một	1	cùng
+xe một nam	1	cùng
+xe nam	1	xuống
+xe nam thanh	1	xuống
+xe vượt	1	đi
+xe vượt lên	1	đi
+xem	2	NULL	sẽ
+xem còn	1	sẽ
+xem còn vướng	1	sẽ
+xem xét	1	NULL
+xem xét đơn	1	NULL
+xong	1	quyết
+xong 14	1	quyết
+xong 14 vụ	1	quyết
+xuyên	1	thường
+xuyên lảng	1	thường
+xuyên lảng vảng	1	thường
+xuân	2	lã	thị
+xuân lan	1	thị
+xuân lan NULL	1	thị
+xuân lan lừa	1	thị
+xuân oai	1	lã
+xuân oai quận	1	lã
+xuất	6	ham	lý	trích	tục	được	để
+xuất camera	1	trích
+xuất camera an	1	trích
+xuất camera để	1	trích
+xuất ngoại	4	ham	tục	được	để
+xuất ngoại cho	1	tục
+xuất ngoại của	1	được
+xuất ngoại và	1	để
+xuất ngoại đã	1	ham
+xuất nhập	1	lý
+xuất nhập cảnh	1	lý
+xuống	4	cuống	lần	ngã	ngồi
+xuống dán	1	ngồi
+xuống dán đôi	1	ngồi
+xuống em	1	ngã
+xuống em nghe	1	ngã
+xuống nước	1	lần
+xuống nước năn	1	lần
+xuống xe	1	cuống
+xuống xe nam	1	cuống
+xuống đường	1	ngã
+xuống đường NULL	1	ngã
+xuống đường và	1	ngã
+xuống đường được	1	ngã
+xác	14	9	bốn	cũng	không	lúc	lượng	lời	tin	trạng	tự	án	đã	đầu	để
+xác minh	5	lúc	lượng	tin	tự	để
+xác minh mất	1	lượng
+xác minh theo	1	lúc
+xác minh thì	1	để
+xác minh từ	1	tin
+xác minh được	1	tự
+xác nhận	2	bốn	cũng
+xác nhận các	1	bốn
+xác nhận thông	1	cũng
+xác định	7	9	không	lời	trạng	án	đã	đầu
+xác định nghi	2	lời	đã
+xác định số	1	đầu
+xác định từ	1	trạng
+xác định ông	1	án
+xác định được	1	không
+xác định động	1	9
+xách	1	hàng
+xách tay	1	hàng
+xách tay tại	1	hàng
+xâm	1	tội
+xâm phạm	1	tội
+xâm phạm hài	1	tội
+xâm phạm mồ	1	tội
+xã	3	me	mạng	sách
+xã hội	2	mạng	sách
+xã hội facebook	1	mạng
+xã hội nên	1	mạng
+xã hội việt	1	sách
+xã nghĩa	1	me
+xã nghĩa trung	1	me
+xét	4	cấp	thẩm	truy	xem
+xét theo	1	truy
+xét theo hướng	1	truy
+xét xử	2	cấp	thẩm
+xét xử 7	1	thẩm
+xét xử tòa	1	cấp
+xét đơn	1	xem
+xét đơn cục	1	xem
+xóm	2	chung	hàng
+xóm -	1	chung
+xóm - đi	1	chung
+xóm nguyễn	1	hàng
+xóm nguyễn thị	1	hàng
+xúc	1	tiếp
+xúc tốt	1	tiếp
+xúc tốt NULL	1	tiếp
+xưa	1	tình
+xưa NULL	1	tình
+xưng	4	NULL	người	nữ	tới
+xưng danh	2	NULL	tới
+xưng danh nhà	1	NULL
+xưng danh nhân	1	tới
+xưng là	1	nữ
+xưng là nhân	1	nữ
+xưng tên	1	người
+xưng tên donald	1	người
+xạ	1	loạn
+xạ bệnh	1	loạn
+xạ bệnh nhân	1	loạn
+xảy	5	lần	nếu	thì	thường	đức
+xảy ra	5	lần	nếu	thì	thường	đức
+xảy ra NULL	1	thường
+xảy ra cháy	1	nếu
+xảy ra hỏa	1	lần
+xảy ra một	1	đức
+xảy ra vụ	1	thì
+xấu	1	rất
+xấu hổ	1	rất
+xấu hổ nhưng	1	rất
+xệch	1	xộc
+xệch hết	1	xộc
+xệch hết đứng	1	xộc
+xộc	1	áo
+xộc xệch	1	áo
+xộc xệch hết	1	áo
+xử	2	phiên	xét
+xử 7	1	xét
+xử 7 người	1	xét
+xử có	1	phiên
+xử có 3	1	phiên
+xử hôm	1	phiên
+xử hôm nay	1	phiên
+xử tòa	1	xét
+xử tòa án	1	xét
+y	1	trang
+y tế	1	trang
+y tế riêng	1	trang
+yên	1	việt
+yên NULL	1	việt
+yên bắc	1	việt
+yên bắc giang	1	việt
+yêu	8	cảm	hại	hệ	người	sinh	tình	từ	ông
+yêu chia	1	người
+yêu chia tay	1	người
+yêu cũ	1	người
+yêu cũ NULL	1	người
+yêu cầu	3	hại	sinh	ông
+yêu cầu NULL	1	ông
+yêu cầu phải	1	sinh
+yêu cầu được	1	hại
+yêu sang	1	từ
+yêu sang hận	1	từ
+yêu xa	1	tình
+yêu xa với	1	tình
+yêu đương	2	cảm	hệ
+yêu đương NULL	1	cảm
+yêu đương với	1	hệ
+yếu	1	chủ
+yếu kiêm	1	chủ
+yếu kiêm nhiệm	1	chủ
+ 	1	NULL
+  chúng	1	NULL
+  chúng tôi	1	NULL
+  hiện	1	NULL
+  hiện nghi	1	NULL
+  theo	1	NULL
+  theo bạn	1	NULL
+ cảnh	1	NULL
+ cảnh sát	1	NULL
+ cảnh sát đề	1	NULL
+ nữ	1	NULL
+ nữ sinh	1	NULL
+ nữ sinh cầm	1	NULL
+ thấy	1	NULL
+ thấy chị	1	NULL
+ thấy chị quỳnh	1	NULL
+ trưa	1	NULL
+ trưa nay	1	NULL
+ trưa nay anh	1	NULL
+  giúp	1	NULL
+  giúp bạn	1	NULL
+  giúp bạn tạt	1	NULL
+ đến	1	NULL
+ đến gần	1	NULL
+ đến gần cầu	1	NULL
+ ảnh	1	NULL
+ ảnh n	1	NULL
+ ảnh n NULL	1	NULL
+ách	1	bị
+ách lại	1	bị
+ách lại vì	1	bị
+ái	1	ưu
+ái trong	1	ưu
+ái trong điều	1	ưu
+án	6	bản	gây	kết	tuyên	tòa	vụ
+án NULL	4	gây	tuyên	tòa	vụ
+án có	1	vụ
+án có thể	1	vụ
+án cả	1	gây
+án cả hai	1	gây
+án dân	1	bản
+án dân sự	1	bản
+án kết	1	bản
+án kết tội	1	bản
+án như	1	vụ
+án như 2	1	vụ
+án oan	1	kết
+án oan nguyễn	1	kết
+án oan suốt	1	kết
+án thanh	1	gây
+án thanh đã	1	gây
+án tù	1	tuyên
+án tù chung	1	tuyên
+án xác	1	tòa
+án xác định	1	tòa
+án đang	1	vụ
+án đang được	1	vụ
+án đã	1	tòa
+án đã giải	1	tòa
+án được	1	vụ
+án được điều	1	vụ
+áo	6	chiếc	cối	dụng	phẩm	quần	thêm
+áo bộ	1	cối
+áo bộ đội	1	cối
+áo khoác	3	chiếc	dụng	thêm
+áo khoác NULL	1	thêm
+áo khoác ngoài	1	dụng
+áo khoác đen	1	chiếc
+áo quần	1	phẩm
+áo quần và	1	phẩm
+áo thể	1	quần
+áo thể thao	1	quần
+áo xộc	1	quần
+áo xộc xệch	1	quần
+ân	1	tích
+ân nhân	1	tích
+ân nhân đâu	1	tích
+ép	1	tra
+ép cung	1	tra
+ép cung dùng	1	tra
+ít	1	tin
+ít ỏi	1	tin
+ít ỏi công	1	tin
+ôm	2	quỳnh	đớn
+ôm mặt	2	quỳnh	đớn
+ôm mặt loạng	2	quỳnh	đớn
+ông	20	4/11/2013	NULL	buộc	cho	của	giam	qua	rằng	tay	theo	tù	tội	việc	vnexpress	và	vợ	đàn	được	định	đồng
+ông chấn	9	4/11/2013	NULL	cho	của	qua	tay	tội	việc	vnexpress
+ông chấn NULL	1	cho
+ông chấn bộ	1	tay
+ông chấn chính	1	qua
+ông chấn cũng	1	của
+ông chấn giết	1	tội
+ông chấn tố	1	việc
+ông chấn và	1	vnexpress
+ông chấn vướng	1	NULL
+ông chấn được	1	4/11/2013
+ông có	1	đàn
+ông có nick	1	đàn
+ông cũng	1	vợ
+ông cũng ròng	1	vợ
+ông dũng	1	theo
+ông dũng năm	1	theo
+ông hành	1	đàn
+ông hành nghề	1	đàn
+ông liên	1	tù
+ông liên tục	1	tù
+ông là	1	rằng
+ông là thủ	1	rằng
+ông ngoại	1	đàn
+ông ngoại quốc	1	đàn
+ông nguyễn	1	cho
+ông nguyễn thanh	1	cho
+ông này	1	đàn
+ông này NULL	1	đàn
+ông này cho	1	đàn
+ông này còn	1	đàn
+ông phạm	2	NULL	định
+ông phạm tuấn	1	NULL
+ông phạm tội	1	định
+ông phải	1	buộc
+ông phải có	1	buộc
+ông quen	1	đàn
+ông quen trên	1	đàn
+ông ta	2	của	được
+ông ta cũng	1	của
+ông ta động	1	được
+ông trung	1	đàn
+ông trung niên	1	đàn
+ông trần	1	giam
+ông trần nhật	1	giam
+ông yêu	1	đồng
+ông yêu cầu	1	đồng
+ông đặng	1	và
+ông đặng thế	1	và
+ôtô	2	hộ	tra
+ôtô gửi	1	hộ
+ôtô gửi dưới	1	hộ
+ôtô tải	1	tra
+ôtô tải khả	1	tra
+ý	2	cố	đồng
+ý gây	1	cố
+ý gây thương	1	cố
+ý làm	1	cố
+ý làm sai	1	cố
+ý ngay	1	đồng
+ý ngay hôm	1	đồng
+ý với	1	đồng
+ý với quyết	1	đồng
+đa	1	viện
+đa khoa	1	viện
+đa khoa bình	1	viện
+đang	15	9	NULL	biết	hai	hóa	nay	nhân	nói	quyền	quỳnh	sát	trai	tôi	việc	án
+đang bị	1	trai
+đang bị tạm	1	trai
+đang chuyển	1	biết
+đang chuyển món	1	biết
+đang chăm	1	hóa
+đang chăm sóc	1	hóa
+đang chở	1	quỳnh
+đang chở bạn	1	quỳnh
+đang cầm	1	quỳnh
+đang cầm lái	1	quỳnh
+đang hồi	1	NULL
+đang hồi hộp	1	NULL
+đang nằm	1	quyền
+đang nằm kế	1	quyền
+đang sống	2	nói	tôi
+đang sống và	1	nói
+đang sống ở	1	tôi
+đang tiến	1	nhân
+đang tiến triển	1	nhân
+đang truy	2	sát	tôi
+đang truy bắt	1	sát
+đang truy xét	1	tôi
+đang tung	1	tôi
+đang tung lực	1	tôi
+đang điều	2	9	nhân
+đang điều tra	1	9
+đang điều trị	1	nhân
+đang được	3	nhân	việc	án
+đang được cấp	1	nhân
+đang được điều	2	việc	án
+đang ở	1	nay
+đang ở cùng	1	nay
+đang ở phòng	1	hai
+đang ở phòng cấp	1	hai
+đau	3	gái	hét	la
+đau đớn	3	gái	hét	la
+đau đớn hỏi	1	la
+đau đớn ngã	1	hét
+đau đớn ôm	1	gái
+đen	1	khoác
+đen của	1	khoác
+đen của bạn	1	khoác
+đeo	2	hai	ngoài
+đeo khẩu	2	hai	ngoài
+đeo khẩu trang	2	hai	ngoài
+đi	16	-	bẵng	bỏ	chưa	chạy	cô	cảnh	em	gái	ngày	người	niên	phạm	sang	đường	đẳng
+đi NULL	2	bỏ	cô
+đi chung	1	-
+đi chung hứa	1	-
+đi chuyển	1	chạy
+đi chuyển 550	1	chạy
+đi cùng	1	sang
+đi cùng xe	1	sang
+đi dò	1	ngày
+đi dò la	1	ngày
+đi gần	1	bẵng
+đi gần một	1	bẵng
+đi học	1	đường
+đi học về	1	đường
+đi qua	1	gái
+đi qua chúng	1	gái
+đi quá	1	chưa
+đi quá giới	1	chưa
+đi thu	1	sang
+đi thu giữ	1	sang
+đi trộm	1	phạm
+đi trộm hài	1	phạm
+đi tìm	1	người
+đi tìm kiếm	1	người
+đi tìm thân	1	người
+đi vào	1	cảnh
+đi vào NULL	1	cảnh
+đi với	1	bỏ
+đi với lời	1	bỏ
+đi xe	2	niên	đẳng
+đi xe máy	1	đẳng
+đi xe vượt	1	niên
+đi đánh	1	em
+đi đánh lại	1	em
+điều	14	bị	bộ	cục	lượng	quan	sát	theo	trai	trong	trình	tục	đang	được	để
+điều tra	11	bị	bộ	cục	lượng	quan	sát	theo	trình	đang	được	để
+điều tra NULL	3	quan	đang	được
+điều tra ban	1	theo
+điều tra cho	1	bộ
+điều tra chỉ	1	lượng
+điều tra gặp	1	trình
+điều tra hành	1	để
+điều tra lại	1	được
+điều tra sang	1	quan
+điều tra tối10/10	1	theo
+điều tra tội	1	sát
+điều tra vksnd	1	cục
+điều tra về	2	bị	để
+điều tra ép	1	bộ
+điều trị	4	trai	trong	tục	đang
+điều trị NULL	1	tục
+điều trị tại	2	trai	đang
+điều trị để	1	trong
+điểm	1	NULL
+điểm chung	1	NULL
+điểm chung của	1	NULL
+điện	9	chiếc	chuộc	cái	hoa	nhận	rẻ	đó	được	để
+điện thoại	9	chiếc	chuộc	cái	hoa	nhận	rẻ	đó	được	để
+điện thoại NULL	1	cái
+điện thoại của	2	nhận	đó
+điện thoại di	1	rẻ
+điện thoại hàng	1	được
+điện thoại iphone	3	chiếc	hoa	rẻ
+điện thoại luôn	1	để
+điện thoại về	1	chuộc
+đoàn	1	công
+đoàn ngân	1	công
+đoàn ngân hàng	1	công
+đoạn	2	thủ	đến
+đoạn tương	1	thủ
+đoạn tương tự	1	thủ
+đoạn vắng	1	đến
+đoạn vắng người	1	đến
+đoạt	1	chiếm
+đoạt NULL	1	chiếm
+đoạt hơn	1	chiếm
+đoạt hơn một	1	chiếm
+đoạt tài	1	chiếm
+đoạt tài sản	1	chiếm
+đà	5	an	pc46	phố	tp	tại
+đà nẵng	5	an	pc46	phố	tp	tại
+đà nẵng gần	1	phố
+đà nẵng khuyến	1	pc46
+đà nẵng pc46	1	tp
+đà nẵng phải	1	an
+đà nẵng vào	1	tại
+đà nẵng đã	1	phố
+đà nẵng đối	1	an
+đà nẵng…	1	an
+đà nẵng… đại	1	an
+đàn	2	gã	người
+đàn ông	2	gã	người
+đàn ông có	1	gã
+đàn ông hành	1	người
+đàn ông ngoại	1	gã
+đàn ông này	1	người
+đàn ông quen	1	người
+đàn ông trung	1	người
+đánh	3	campuchia	kia	đi
+đánh bạc	1	campuchia
+đánh bạc NULL	1	campuchia
+đánh lại	1	đi
+đánh lại sẽ	1	đi
+đánh rủ	1	kia
+đánh rủ em	1	kia
+đâm	4	can	cảnh	dao	kẻ
+đâm bệnh	1	can
+đâm bệnh nhân	1	can
+đâm liên	1	dao
+đâm liên tiếp	1	dao
+đâm loạn	3	can	cảnh	kẻ
+đâm loạn xạ	3	can	cảnh	kẻ
+đâu	1	nhân
+đâu mới	1	nhân
+đâu mới biết	1	nhân
+đây	7	cáo	gần	mới	nhân	trước	tại	viên
+đây NULL	1	tại
+đây có	1	trước
+đây có quan	1	trước
+đây là	2	cáo	viên
+đây là loại	1	cáo
+đây là quy	1	viên
+đây một	1	gần
+đây một trong	1	gần
+đây nắm	1	nhân
+đây nắm bắt	1	nhân
+đây quỳnh	1	mới
+đây quỳnh chủ	1	mới
+đây tiếp	1	gần
+đây tiếp nhận	1	gần
+đã	36	-	4	biệt	cao	chính	chị	cũng	cấp	em	hay	hcm	jack	liên	ngoại	ngân	nhân	như	nhưng	nhận	này	nẵng	nặng	nội	quan	ra	sinh	sát	thanh	thuận	tháp…	thẩm	thủy	tuổi	vụ	án	đồng
+đã bắt	1	hcm
+đã bắt phạm	1	hcm
+đã bị	4	4	ngân	ra	tuổi
+đã bị bắt	1	tuổi
+đã bị khoá	1	4
+đã bị lừa	1	ra
+đã bị ách	1	ngân
+đã bỏ	1	này
+đã bỏ trốn	1	này
+đã chặn	1	cũng
+đã chặn truy	1	cũng
+đã chỉ	1	thủy
+đã chỉ đạo	1	thủy
+đã cấp	1	chính
+đã cấp tiền	1	chính
+đã giải	1	án
+đã giải quyết	1	án
+đã giết	1	nhận
+đã giết chị	1	nhận
+đã hai	1	nhưng
+đã hai lần	1	nhưng
+đã hoàn	1	-
+đã hoàn tất	1	-
+đã hủy	1	thẩm
+đã hủy hai	1	thẩm
+đã khởi	1	nội
+đã khởi tố	1	nội
+đã làm	2	sát	thuận
+đã làm việc	2	sát	thuận
+đã lên	1	nhận
+đã lên kế	1	nhận
+đã lừa	1	jack
+đã lừa của	1	jack
+đã mắc	1	ngoại
+đã mắc bẫy	1	ngoại
+đã nhận	1	thanh
+đã nhận điện	1	thanh
+đã phát	1	nẵng
+đã phát lệnh	1	nẵng
+đã phê	1	cao
+đã phê chuẩn	1	cao
+đã phải	1	ngân
+đã phải làm	1	ngân
+đã ra	1	nhận
+đã ra tay	1	nhận
+đã thay	1	nhân
+đã thay đổi	1	nhân
+đã thay đổibộ	1	nhân
+đã thụ	1	cấp
+đã thụ lý	1	cấp
+đã thừa	1	sinh
+đã thừa nhận	1	sinh
+đã thực	1	này
+đã thực hiện	1	này
+đã tiếp	1	tháp…
+đã tiếp nhận	1	tháp…
+đã tìm	1	như
+đã tìm thấy	1	như
+đã tạm	1	chị
+đã tạm ứng	1	chị
+đã tạo	2	liên	này
+đã tạo dựng	1	này
+đã tạo được	1	liên
+đã tự	1	hay
+đã tự xác	1	hay
+đã vào	1	cao
+đã vào cuộc	1	cao
+đã về	1	em
+đã về đến	1	em
+đã xác	1	quan
+đã xác định	1	quan
+đã được	4	biệt	nặng	vụ	đồng
+đã được bộ	1	đồng
+đã được chuyển	2	biệt	nặng
+đã được giải	1	vụ
+đêm	1	sĩ
+đêm đến	1	sĩ
+đêm đến lấy	1	sĩ
+đình	1	gia
+đình bệnh	1	gia
+đình bệnh nhân	1	gia
+đình cử	1	gia
+đình cử hành	1	gia
+đình họ	1	gia
+đình họ chưa	1	gia
+đình người	1	gia
+đình người bệnh	1	gia
+đình tôi	1	gia
+đình tôi đang	1	gia
+đòi	2	quan	tiền
+đòi bồi	1	tiền
+đòi bồi thường	1	tiền
+đòi nộp	1	quan
+đòi nộp phạt	1	quan
+đó	8	do	gần	hôm	khi	nói	sau	trong	trước
+đó NULL	2	trong	trước
+đó cô	1	do
+đó cô phải	1	do
+đó cấp	1	gần
+đó cấp cứu	1	gần
+đó dẫn	1	trước
+đó dẫn đến	1	trước
+đó là	1	nói
+đó là axit	1	nói
+đó lý	1	sau
+đó lý nguyễn	1	sau
+đó nghi	1	trước
+đó nghi can	1	trước
+đó nạn	1	khi
+đó nạn nhân	1	khi
+đó sang	1	hôm
+đó sang bị	1	hôm
+đó thanh	1	sau
+đó thanh cũng	1	sau
+đó thì	1	sau
+đó thì xảy	1	sau
+đó điện	1	sau
+đó điện thoại	1	sau
+đó để	1	hôm
+đó để che	1	hôm
+đóng	3	nam	phải	tiền
+đóng phí	2	phải	tiền
+đóng phí 550	1	phải
+đóng phí hà	1	tiền
+đóng thuế	1	phải
+đóng thuế 30	1	phải
+đóng tại	1	nam
+đóng tại tp	1	nam
+đôi	3	bị	bộ	dán
+đôi mai	1	bộ
+đôi mai phục	1	bộ
+đôi mắt	1	dán
+đôi mắt đỏ	1	dán
+đôi thanh	1	bị
+đôi thanh niên	1	bị
+đông	1	bi
+đông dép	1	bi
+đông dép cao	1	bi
+đúng	3	NULL	tâm	vào
+đúng dịp	1	vào
+đúng dịp 2/9…	1	vào
+đúng mức	1	tâm
+đúng mức NULL	1	tâm
+đúng ngày	1	NULL
+đúng ngày hẹn	1	NULL
+đăk	1	phước
+đăk lăk	1	phước
+đăk lăk và	1	phước
+đăng	1	lại
+đăng ký	1	lại
+đăng ký địa	1	lại
+đơn	8	bác	hóa	làm	nhiều	nhận	thân	trong	xét
+đơn chứng	1	hóa
+đơn chứng từ	1	hóa
+đơn cầu	1	làm
+đơn cầu cứu	1	làm
+đơn cục	1	xét
+đơn cục điều	1	xét
+đơn của	1	nhận
+đơn của hàng	1	nhận
+đơn gửi	1	trong
+đơn gửi vksnd	1	trong
+đơn kêu	1	bác
+đơn kêu oan	1	bác
+đơn thân	1	thân
+đơn thân ham	1	thân
+đơn vị	1	nhiều
+đơn vị số	1	nhiều
+đưa	5	bệnh	dân	sát	về	được
+đưa 8	1	bệnh
+đưa 8 triệu	1	bệnh
+đưa cho	1	về
+đưa cho thanh	1	về
+đưa sang	1	sát
+đưa sang đi	1	sát
+đưa vào	2	dân	được
+đưa vào bệnh	1	dân
+đưa vào cấp	1	được
+đưa về	1	được
+đưa về lại	1	được
+đương	1	yêu
+đương NULL	1	yêu
+đương với	1	yêu
+đương với quỳnh	1	yêu
+đường	6	giữa	quan	theo	trên	xuống	đến
+đường NULL	2	trên	xuống
+đường chở	1	trên
+đường chở nhau	1	trên
+đường cửa	1	theo
+đường cửa sau	1	theo
+đường dây	1	quan
+đường dây làm	1	quan
+đường hà	1	giữa
+đường hà và	1	giữa
+đường lã	1	đến
+đường lã xuân	1	đến
+đường và	1	xuống
+đường và được	1	xuống
+đường về	1	trên
+đường về nhà	1	trên
+đường đi	1	trên
+đường đi học	1	trên
+đường được	1	xuống
+đường được người	1	xuống
+được	32	NULL	chuyển	chấn	có	cầu	giải	hoan	khai	khi	không	lan	lại	minh	mong	ngân	nhân	nhưng	nhận	quyết	sang	sẽ	thì	thường	tạo	và	án	đang	đã	đường	đạt	định	ước
+được bồi	2	có	cầu
+được bồi thường	2	có	cầu
+được bộ	1	đã
+được bộ tài	1	đã
+được cha	1	lan
+được cha bảo	1	lan
+được cho	1	sang
+được cho là	1	sang
+được chuyển	1	đã
+được chuyển lên	1	đã
+được chuyển đến	1	đã
+được chăm	1	nhân
+được chăm sóc	1	nhân
+được cuộc	1	nhận
+được cuộc gọi	1	nhận
+được các	1	nhưng
+được các phạm	1	nhưng
+được có	1	lại
+được có niềm	1	lại
+được cấp	1	đang
+được cấp cứu	1	đang
+được giải	1	đã
+được giải quyết	1	đã
+được hung	1	định
+được hung thủ	1	định
+được huỷ	1	hoan
+được huỷ NULL	1	hoan
+được lòng	1	tạo
+được lòng tin	1	tạo
+được mọi	1	nhưng
+được mọi người	1	nhưng
+được một	2	ngân	và
+được một người	1	và
+được một phụ	1	ngân
+được người	1	đường
+được người dân	1	đường
+được nhận	1	mong
+được nhận hàng	1	mong
+được những	1	giải
+được những vô	1	giải
+được nên	1	không
+được nên quyết	1	không
+được năm	1	quyết
+được năm nay	1	quyết
+được nữ	1	chuyển
+được nữ sinh	1	chuyển
+được quà	1	nhận
+được quà ngân	1	nhận
+được sang	3	khai	không	nhận
+được sang nhiều	1	không
+được sang nhờ	1	khai
+được sang thuê	1	nhận
+được thay	1	nhân
+được thay đổi	1	nhân
+được thoả	1	đạt
+được thoả thuận	1	đạt
+được thông	1	khi
+được thông báo	1	khi
+được thụ	1	thường
+được thụ lý	1	thường
+được thủ	1	minh
+được thủ phạm	1	minh
+được tiền	1	nhận
+được tiền hay	1	nhận
+được tạm	1	chấn
+được tạm tha	1	chấn
+được xuất	1	ước
+được xuất ngoại	1	ước
+được ông	1	thì
+được ông ta	1	thì
+được điều	2	án	đang
+được điều tra	2	án	đang
+được điện	1	nhận
+được điện thoại	1	nhận
+được đưa	2	NULL	và
+được đưa vào	1	và
+được đưa về	1	NULL
+được ưu	1	sẽ
+được ưu ái	1	sẽ
+được, sang	1	không
+được, sang nhiều	1	không
+được, sang nhiều lần	1	không
+được chuyển	1	nặng
+được chuyển lên	1	nặng
+được chuyển lên bệnh	1	nặng
+đại	2	3	nẵng…
+đại diện	1	3
+đại diện bị	1	3
+đại tá	1	nẵng…
+đại tá trần	1	nẵng…
+đạo	2	chỉ	lãnh
+đạo trung	1	lãnh
+đạo trung ương	1	lãnh
+đạo tạo	1	chỉ
+đạo tạo dựng	1	chỉ
+đạo đồng	1	chỉ
+đạo đồng phạm	1	chỉ
+đạt	1	cao
+đạt được	1	cao
+đạt được thoả	1	cao
+đảo	1	lừa
+đảo NULL	1	lừa
+đảo chiếm	1	lừa
+đảo chiếm đoạt	1	lừa
+đảo cả	1	lừa
+đảo cả chục	1	lừa
+đảo gạt	1	lừa
+đảo gạt tình	1	lừa
+đảo người	1	lừa
+đảo người nhà	1	lừa
+đảo trên	1	lừa
+đảo trên mạng	1	lừa
+đầu	7	ban	bước	bắt	cầm	dù	ra	ở
+đầu NULL	1	cầm
+đầu hành	1	bắt
+đầu hành nghề	1	bắt
+đầu mặt	1	ở
+đầu mặt tay	1	ở
+đầu thú	1	ra
+đầu thú nhận	1	ra
+đầu tra	1	ban
+đầu tra sang	1	ban
+đầu việc	1	dù
+đầu việc ngang	1	dù
+đầu xác	1	bước
+đầu xác định	1	bước
+đập	1	nhịp
+đập chung	1	nhịp
+đập chung NULL	1	nhịp
+đắk	1	huyện
+đắk tô	1	huyện
+đắk tô kon	1	huyện
+đẳng	1	cao
+đẳng thì	1	cao
+đẳng thì nảy	1	cao
+đẳng đi	1	cao
+đẳng đi xe	1	cao
+đẳng ở	1	cao
+đẳng ở quận	1	cao
+đặc	4	NULL	nã	quà	thuốc
+đặc biệt	3	NULL	nã	quà
+đặc biệt khó	1	NULL
+đặc biệt thông	1	NULL
+đặc biệt trên	1	nã
+đặc biệt đã	1	quà
+đặc trị	1	thuốc
+đặc trị NULL	1	thuốc
+đặng	1	ông
+đặng thế	1	ông
+đặng thế vinh	1	ông
+đến	18	2012	NULL	báo	chuyển	chúng	chưa	chỉ	chờ	dẫn	khi	lên	nhờ	quan	sang	về	đêm	đội	ập
+đến 700	1	lên
+đến 700 triệu	1	lên
+đến chợ	1	sang
+đến chợ kim	1	sang
+đến cuối	1	NULL
+đến cuối tháng	1	NULL
+đến gia	1	báo
+đến gia đình	1	báo
+đến giữa	1	2012
+đến giữa 2013	1	2012
+đến gần	1	NULL
+đến gần cầu	1	NULL
+đến khi	1	chỉ
+đến khi cha	1	chỉ
+đến lấy	1	đêm
+đến lấy trộm	1	đêm
+đến ngày	2	NULL	chuyển
+đến ngày 15/8	1	chuyển
+đến ngày 4/10	1	NULL
+đến nhưng	1	ập
+đến nhưng hung	1	ập
+đến phiên	1	đội
+đến phiên tòa	1	đội
+đến sân	1	khi
+đến sân bay	1	khi
+đến sự	1	nhờ
+đến sự phối	1	nhờ
+đến tay	1	chưa
+đến tay ông	1	chưa
+đến trước	1	chúng
+đến trước cổng	1	chúng
+đến việc	1	dẫn
+đến việc cảnh	1	dẫn
+đến việt	1	về
+đến việt nam	1	về
+đến vụ	1	quan
+đến vụ việc	1	quan
+đến đoạn	1	chờ
+đến đoạn vắng	1	chờ
+đến đường	1	NULL
+đến đường lã	1	NULL
+đề	1	sát
+đề nghị	1	sát
+đề nghị bệnh	1	sát
+đều	1	quan
+đều ngoài	1	quan
+đều ngoài vùng	1	quan
+để	24	axit	camera	con	cấp	donald	dùng	giang	giả	hoan	malaysia	mở	ngơ	nên	phải	sĩ	thủ	trị	tuổi	tân	tây	vừa	đó	đồng	đức
+để che	1	đó
+để che giấu	1	đó
+để chi	1	cấp
+để chi trả	1	cấp
+để cướp	1	hoan
+để cướp 2	1	hoan
+để kết	1	vừa
+để kết bạn	1	vừa
+để làm	1	đức
+để làm quen	1	đức
+để lọt	1	malaysia
+để lọt qua	1	malaysia
+để lừa	3	giả	sĩ	trị
+để lừa bệnh	1	sĩ
+để lừa tiền	1	giả
+để lừa đảo	1	trị
+để mua	1	đồng
+để mua thuốc	1	đồng
+để mưu	1	con
+để mưu sinh	1	con
+để mặc	1	ngơ
+để mặc sang	1	ngơ
+để nói	1	sĩ
+để nói chuyện	1	sĩ
+để ra	1	camera
+để ra file	1	camera
+để trong	2	nên	trị
+để trong căn	1	trị
+để trong nhà	1	nên
+để trả	2	axit	thủ
+để trả thù	2	axit	thủ
+để vào	1	mở
+để vào ngày	1	mở
+để xuất	1	tây
+để xuất ngoại	1	tây
+để xác	1	donald
+để xác minh	1	donald
+để điều	3	giang	tuổi	tân
+để điều tra	3	giang	tuổi	tân
+để điện	1	phải
+để điện thoại	1	phải
+để đổ	1	dùng
+để đổ bình	1	dùng
+địa	3	khỏi	ký	ương
+địa chỉ	1	ký
+địa chỉ một	1	ký
+địa phương	2	khỏi	ương
+địa phương NULL	1	khỏi
+địa phương mới	1	ương
+định	9	gỡ	khẳng	nhất	nhận	quy	quyết	và	xác	ổn
+định 7,2	1	khẳng
+định 7,2 tỷ	1	khẳng
+định chưa	1	nhất
+định chưa quan	1	nhất
+định cư	1	và
+định cư tại	1	và
+định dùng	1	quyết
+định dùng axit	1	quyết
+định giải	1	quyết
+định giải quyết	1	quyết
+định khi	1	quy
+định khi gửi	1	quy
+định khởi	1	quyết
+định khởi tố	1	quyết
+định mệnh	1	gỡ
+định mệnh tại	1	gỡ
+định nghi	1	xác
+định nghi can	1	xác
+định nhiều	1	nhận
+định nhiều khả	1	nhận
+định số	1	xác
+định số tiền	1	xác
+định trả	1	quyết
+định trả thù	1	quyết
+định từ	1	xác
+định từ năm	1	xác
+định ông	1	xác
+định ông phạm	1	xác
+định được	1	xác
+định được hung	1	xác
+định độc	1	ổn
+định độc thân	1	ổn
+định động	1	xác
+định động cơ	1	xác
+đỏ	1	mắt
+đỏ hoe	1	mắt
+đỏ hoe về	1	mắt
+đối	3	nẵng	sát	về
+đối chiếu	1	về
+đối chiếu với	1	về
+đối thủ	1	sát
+đối thủ để	1	sát
+đối với	1	nẵng
+đối với võ	1	nẵng
+đồng	13	-	000	NULL	bạn	cho	hcm	không	niên	thao	triệu	tỷ	đạo	ảnh
+đồng NULL	3	000	triệu	tỷ
+đồng bà	1	triệu
+đồng bà liên	1	triệu
+đồng bọn	1	cho
+đồng bọn NULL	1	cho
+đồng bồi	1	tỷ
+đồng bồi thường	1	tỷ
+đồng cho	1	tỷ
+đồng cho ông	1	tỷ
+đồng của	1	triệu
+đồng của bị	1	triệu
+đồng nhưng	1	triệu
+đồng nhưng quà	1	triệu
+đồng phạm	3	-	niên	đạo
+đồng phạm NULL	1	niên
+đồng phạm tạt	1	-
+đồng phạm đi	1	đạo
+đồng phục	1	thao
+đồng phục của	1	thao
+đồng tháp…	1	hcm
+đồng tháp… đã	1	hcm
+đồng thời	1	NULL
+đồng thời donald	1	NULL
+đồng trong	1	tỷ
+đồng trong khoảng	1	tỷ
+đồng từ	1	triệu
+đồng từ alfred	1	triệu
+đồng vào	1	triệu
+đồng vào số	1	triệu
+đồng ông	1	tỷ
+đồng ông yêu	1	tỷ
+đồng ý	2	bạn	không
+đồng ý ngay	1	bạn
+đồng ý với	1	không
+đồng đã	1	tỷ
+đồng đã được	1	tỷ
+đồng để	1	triệu
+đồng để mua	1	triệu
+đồng đội	1	ảnh
+đồng đội đến	1	ảnh
+đổ	3	axit	sang	để
+đổ axit	1	sang
+đổ axit từ	1	sang
+đổ bình	1	để
+đổ bình ắc	1	để
+đổ vào	1	axit
+đổ vào bình	1	axit
+đổi	2	thay	trao
+đổi NULL	1	thay
+đổi muốn	1	trao
+đổi muốn nhận	1	trao
+đổi theo	1	thay
+đổi theo cảnh	1	thay
+đổi với	1	trao
+đổi với vnexpress	1	trao
+đổibộ	1	thay
+đổibộ tài	1	thay
+đổibộ tài chính	1	thay
+độ	3	chế	mức	trái
+độ 2	1	trái
+độ 2 tỉnh	1	trái
+độ mở	1	chế
+độ mở để	1	chế
+độ nhất	1	mức
+độ nhất định	1	mức
+độc	3	là	nữ	định
+độc thân	3	là	nữ	định
+độc thân ham	1	nữ
+độc thân từ	1	định
+độc thân đơn	1	là
+đội	3	NULL	bộ	đồng
+đội NULL	1	bộ
+đội ngũ	1	NULL
+đội ngũ công	1	NULL
+đội đến	1	đồng
+đội đến phiên	1	đồng
+động	4	chủ	di	ta	định
+động bày	1	chủ
+động bày tỏ	1	chủ
+động chia	1	chủ
+động chia tay	1	chủ
+động cơ	1	định
+động cơ vụ	1	định
+động iphone	1	di
+động iphone 4	1	di
+động viên	1	ta
+động viên đây	1	ta
+đớn	1	đau
+đớn hỏi	1	đau
+đớn hỏi thì	1	đau
+đớn ngã	1	đau
+đớn ngã xuống	1	đau
+đớn ôm	1	đau
+đớn ôm mặt	1	đau
+đỡ	1	giúp
+đỡ rồi	1	giúp
+đỡ rồi tạo	1	giúp
+đợi	1	chờ
+đợi chị	1	chờ
+đợi chị ngân	1	chờ
+đợt	1	4
+đợt cất	1	4
+đợt cất bốc	1	4
+đức	3	mẫn	việt	vũ
+đức chung	1	vũ
+đức chung 69	1	vũ
+đức phương	1	mẫn
+đức phương em	1	mẫn
+đức xảy	1	việt
+đức xảy ra	1	việt
+đức để	1	việt
+đức để làm	1	việt
+đứng	2	ai	hết
+đứng gần	1	ai
+đứng gần tên	1	ai
+đứng lên	1	hết
+đứng lên lại	1	hết
+đứt	2	cảnh	lần
+đứt gánh	2	cảnh	lần
+đứt gánh giữa	1	cảnh
+đứt gánh với	1	lần
+đựng	1	ca
+đựng axit	1	ca
+đựng axit khi	1	ca
+ưa	1	hình
+ưa nhìn	1	hình
+ưa nhìn có	1	hình
+ưu	1	được
+ưu ái	1	được
+ưu ái trong	1	được
+ương	1	trung
+ương địa	1	trung
+ương địa phương	1	trung
+ước	1	mơ
+ước được	1	mơ
+ước được xuất	1	mơ
+ảnh	4	NULL	di	khoe	với
+ảnh cắt	1	NULL
+ảnh cắt từ	1	NULL
+ảnh của	1	với
+ảnh của lan	1	với
+ảnh hoàng	1	NULL
+ảnh hoàng táo	1	NULL
+ảnh quốc	1	NULL
+ảnh quốc thắng	1	NULL
+ảnh tự	1	khoe
+ảnh tự sướng…	1	khoe
+ảnh đồng	1	di
+ảnh đồng đội	1	di
+ảo	1	như
+ảo về	1	như
+ảo về nhân	1	như
+ập	1	viện
+ập đến	1	viện
+ập đến nhưng	1	viện
+ắc	1	bình
+ắc qui	1	bình
+ắc qui xe	1	bình
+ỏi	1	ít
+ỏi công	1	ít
+ỏi công an	1	ít
+ổn	1	nhập
+ổn định	1	nhập
+ổn định độc	1	nhập
+ở	17	bệnh	csđt	dịch	giam	lan	luôn	máy	mắc	mới	nhà	sư	sống	trước	tuổi	vùng	đang	đẳng
+ở bệnh	1	bệnh
+ở bệnh viện	1	bệnh
+ở chung	1	sống
+ở chung cư	1	sống
+ở chế	1	luôn
+ở chế độ	1	luôn
+ở chợ	1	trước
+ở chợ kim	1	trước
+ở cùng	1	đang
+ở cùng con	1	đang
+ở hà	1	csđt
+ở hà nội	1	csđt
+ở khâu	1	mắc
+ở khâu nào	1	mắc
+ở lại	1	lan
+ở lại việt	1	lan
+ở một	1	giam
+ở một nơi	1	giam
+ở mức	1	mới
+ở mức độ	1	mới
+ở mỹ	1	sư
+ở mỹ làm	1	sư
+ở phường	2	nhà	tuổi
+ở phường long	1	nhà
+ở phường phúc	1	tuổi
+ở quận	2	tuổi	đẳng
+ở quận 9	2	tuổi	đẳng
+ở sân	1	máy
+ở sân bay	1	máy
+ở tận	1	dịch
+ở tận campuchia	1	dịch
+ở đầu	1	vùng
+ở đầu mặt	1	vùng
+ở phòng	1	đang
+ở phòng cấp	1	đang
+ở phòng cấp cứu	1	đang
+ức	2	lần	uất
+ức chế	1	lần
+ức chế sang	1	lần
+ức về	1	uất
+ức về cái	1	uất
+ứng	1	tạm
+ứng 550	1	tạm
+ứng 550 usd	1	tạm
+“sạch	1	thức
+“sạch tội”	1	thức
+“sạch tội” khi	1	thức
+“trả	1	do
+“trả thù	1	do
+“trả thù tình”	1	do
