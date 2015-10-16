@@ -1,16 +1,9 @@
 package jp.ac.jaist.srealizer.test;
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
-
-import org.apache.commons.lang.StringEscapeUtils;
 
 import jp.ac.jaist.realizer.data.builder.ModelBuilder;
 import jp.ac.jaist.realizer.evaluation.EvalTool;
@@ -21,6 +14,8 @@ import jp.ac.jaist.srealizer.data.model.DependencyTree;
 import jp.ac.jaist.srealizer.data.model.TreeNode;
 import jp.ac.jaist.srealizer.properties.Properties;
 import jp.ac.jaist.srealizer.utils.CommonUtils;
+
+import org.apache.commons.lang.StringEscapeUtils;
 
 
 
@@ -34,7 +29,7 @@ public class Test {
 			System.out.println(w);
 		}
 
-		Properties.getProperties().setMode("en"); /* Remove comment to test with english*/
+		//Properties.getProperties().setMode("en"); /* Remove comment to test with english*/
 		
 	/*	PunctuationRemover.remove(ModelBuilder.getDependencyTreeFileWithPunct(), ModelBuilder.getDependencyTreeFile());
 		System.exit(1);*/
