@@ -118,15 +118,15 @@ public class SimpleDecoder
     	}
     	
     	
-    	double multiple;
-		if(max != 0 && max < 0.01) multiple =1/max;
-    	else multiple = 1;
+    	//double multiple;
+		//if(max != 0 && max < 0.01) multiple =1/max;
+    	//else multiple = 1;
     	for(Candidate c : candidates.get(i)){
     		double score = 0.0;
     		for(int j = 0; j < c.getFeats().length; j++){
     			if(max == mean) c.getFeats()[j] = 0.9;
     			else
-    			 c.getFeats()[j]= 0.1 + 0.8*( (c.getFeats()[j] * multiple -  mean*multiple) /(max*multiple-mean*multiple) );
+    			 c.getFeats()[j]= 0.1 + 0.8*( (c.getFeats()[j]  -  mean) /(max-mean) );
     			 
     			 score += weights[j] * c.getFeats()[j];
 

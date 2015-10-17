@@ -7,6 +7,10 @@ import jp.ac.jaist.srealizer.data.model.NGramStatistics;
 
 
 public class Properties {
+	public static final int ADD_ONE = 1;
+	public static final int KNEY = 2;
+	public static final int KYLM = 3;
+
 	private Properties(){
 		ngramWordStats = new NGramStatistics();
 		ngramHeadWordStats = new NGramStatistics();
@@ -18,16 +22,20 @@ public class Properties {
 	public static Properties getProperties(){
 		return p;
 	}
+	private static int smooth = 1;
 	private static  NGramStatistics ngramWordStats;
 	private static NGramStatistics ngramHeadWordStats;
 	private static NGramStatistics ngramRDsStats;
 	private static NGramStatistics searchStats;
+
 	private static List<Integer> nbestsSize;
     private static int numberOfTrainSentence;
     private static int gramRD =3;
     private static int gramWord = 2;
     private static int gramHeadWord = 3;
+    private static int counter= 0;
     private static double[] lambda;
+    private static double expectedSept;
     private static Properties  p = new Properties();
     public static void setGrams(int rd, int w, int h){
     	gramHeadWord = h;
@@ -120,6 +128,26 @@ public class Properties {
 	}
 	public void setLambda(double[] lambda) {
 		Properties.lambda = lambda;
+	}
+	public Double getExpectedSept() {
+		return expectedSept;
+	}
+	public  void setExpectedSept(double expectedSept) {
+		Properties.expectedSept = expectedSept;
+	}
+	public int getCounter() {
+		counter++;
+		return counter;
+	}
+	public int getSmooth() {
+		return smooth;
+	}
+	public void setSmooth(int smooth) {
+		Properties.smooth = smooth;
+	}
+	public String getSmoothSTR() {
+		// TODO Auto-generated method stub
+		return (smooth == ADD_ONE ? "Add one Smoothing": smooth == KNEY ? "Kneser-ney Smoothing" :"Modified Kneser-ney Smothing by Kylm");
 	}
 	
 	

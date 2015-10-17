@@ -4,11 +4,13 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -16,6 +18,8 @@ import java.util.logging.Logger;
 
 import jp.ac.jaist.srealizer.algorithms.data.NgramProbabilityMethod;
 import jp.ac.jaist.srealizer.data.model.Candidate;
+import jp.ac.jaist.srealizer.data.model.DependencyTree;
+import jp.ac.jaist.srealizer.data.model.NGramStatistics;
 import jp.ac.jaist.srealizer.data.model.TreeNode;
 import jp.ac.jaist.srealizer.properties.Properties;
 
@@ -29,23 +33,46 @@ public class LinearizationDependencyTree {
 	public static String getRefFile() {
 		return 	"ref_database_.txt";
 	}
-	public static   List<List<Candidate>> linearizeAll(List<TreeNode> trainSentences, Map<String,Integer> dependencies, Map<String, Double> dependencyRatio, boolean isOptimized) throws IOException{
+	public static   List<List<Candidate>> linearizeAll(List<TreeNode> trainSentences, DependencyTree tree, Map<String,Integer> dependencies, Map<String, Double> dependencyRatio, boolean isOptimized) throws IOException{
 		log.info("Linearization:..." + isOptimized);
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(getCandDBFile()),"UTF-8"));
 		BufferedWriter bw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(getRefFile()),"UTF-8"));
 
 		for(int i =0; i < trainSentences.size(); i++){
 			log.info(i + " isOptimized <=" + isOptimized + " Sentence: " + trainSentences.get(i).getSentence());
-			 linearizeOne(trainSentences.get(i), dependencies,dependencyRatio,bw, bw1,isOptimized);
+			 linearizeOne(trainSentences.get(i),tree, dependencies,dependencyRatio,bw, bw1,isOptimized);
 		}
 		bw.flush();
 		bw.close();
 		bw1.flush();
 		bw1.close();
+		int count = Properties.getProperties().getCounter();
+		copy(getCandDBFile(), Properties.getProperties().getMode() + "data/views/" + count + ".cand");
+		copy(getRefFile(), Properties.getProperties().getMode() + "data/views/" + count+ ".ref");
+
 		return setNBest(getCandDBFile());
 		
 	}
+	private static void copy(String source, String dest){
+		try {
+			BufferedReader  br = new BufferedReader(new InputStreamReader(new FileInputStream(source),"UTF-8"));
+			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(dest),"UTF-8"));
+			String s = null;
+			StringBuffer lines = new StringBuffer("");
+			while((s = br.readLine()) != null){
+				lines.append(s).append("\n");
+			}
+			br.close();
+			bw.write(lines.toString().trim());
+			bw.flush();
+			bw.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
+		
+	}
 	private static   List<List<Candidate>> setNBest(String candDBFile) {
 		  List<List<Candidate>> candidates = new ArrayList<List<Candidate>>();
 	      String line =  null;
@@ -95,8 +122,8 @@ public class LinearizationDependencyTree {
 		    
 			inFile_cands.close();
 			
-			// min-max normalization;
-		    for(int i = 0;i < candidates.size(); i++){
+			
+		 /*   for(int i = 0;i < candidates.size(); i++){
 		    	double mean = 1, max = 0;
 		    	for(Candidate c : candidates.get(i)){
 		    		for(int j = 0; j < c.getFeats().length; j++){
@@ -107,12 +134,12 @@ public class LinearizationDependencyTree {
 		    	}
 		    	for(Candidate c : candidates.get(i)){
 		    		for(int j = 0; j < c.getFeats().length; j++){
-		    			 c.getFeats()[j]=  (c.getFeats()[j] -  mean) /(max-mean);
+		    			 c.getFeats()[j]=  Math.log(c.getFeats()[j]);
 		    			 
 
 		    		}
 		    	}
-		    }
+		    }*/
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -120,11 +147,11 @@ public class LinearizationDependencyTree {
 		return candidates;
 	}
     
-	private static void linearizeOne(TreeNode root,  Map<String,Integer> dependencies, Map<String, Double> dependencyRatio, BufferedWriter bw, BufferedWriter bw1, boolean isOptimized) throws IOException {
+	private static void linearizeOne(TreeNode root,DependencyTree tree,  Map<String,Integer> dependencies, Map<String, Double> dependencyRatio, BufferedWriter bw, BufferedWriter bw1, boolean isOptimized) throws IOException {
 
 	    if(root != null)
 			for(TreeNode c : root.getChildren()){
-				linearizeOne(c, dependencies,dependencyRatio, bw, bw1,isOptimized);
+				linearizeOne(c,tree, dependencies,dependencyRatio, bw, bw1,isOptimized);
 			}
 	  
 	   // log.info(root.getName()  + ":" + root.isHasOptimized());
@@ -135,16 +162,18 @@ public class LinearizationDependencyTree {
 			for(TreeNode c : root.getChildren()){
 				//System.out.print(c.getRD() + " ");
 				if(c.getChildren().size() > 0 && !c.isHasOptimized()) isCollectedCandidates = false;
-				if(dependencyRatio.get(c.getRD()) >= 0.68) pres.add(c);
-				else /*if(dependencyRatio.get(c.getRD()) <= 0.2){*/
+				if(dependencyRatio.get(c.getRD()) >= Properties.getProperties().getExpectedSept()) pres.add(c);
+				else if(dependencyRatio.get(c.getRD()) <= 1- Properties.getProperties().getExpectedSept()){
 					 pos.add(c);
-				/*}else{
-					double ranP = Math.random();
-					if(ranP > 0.5){
+				}else{
+					long fowl = tree.getPosWordTypes().containsKey(  root.getType()+ "-" + c.getType()) ? tree.getPosWordTypes().get(  root.getType()+ "-" + c.getType()): 0;
+					long precede = tree.getPreWordTypes().containsKey(c.getType() + "-" + root.getType()) ? tree.getPreWordTypes().get(c.getType() + "-" + root.getType()): 0;
+					if(fowl > precede){
+						 pos.add(c);
+					}else{
 						pres.add(c);
 					}
-					else pos.add(c);
-				}*/
+				}
 				/*if(dependencies.containsKey(c.getRD()))
 					if(	dependencies.get(c.getRD()) == 1){
 						pres.add(c);
@@ -234,7 +263,10 @@ public class LinearizationDependencyTree {
 	    	for(Candidate c : candidates){
 	    		double score = 0.0;
 	    		for(int j = 0; j < c.getFeats().length; j++){
-	    			 c.getFeats()[j]=  (c.getFeats()[j] -  mean) /(max-mean);
+	    			if(max == mean)  c.getFeats()[j] = 0.9;
+	    			else{
+	    				c.getFeats()[j]=  0.1 + 0.8 * (c.getFeats()[j] -  mean)  /(max-mean);
+	    			}
 	    			 score += Properties.getProperties().getLambda()[j] * c.getFeats()[j];
 
 	    		}
@@ -246,34 +278,46 @@ public class LinearizationDependencyTree {
 			String newCandTextRDs, String newCandHeadWords, BufferedWriter bw, boolean isOptimized) throws IOException {
 		Candidate candidate = new Candidate();
 		double feat1 = 0.0, feat2 = 0.0, feat3 = 0.0;
-		feat1 = ngramProbabilities(newCandTextRDs,Properties.getProperties().getNgramRDsStats().getStatistics(),Properties.getProperties().getGramRD(), 
-				0.001D/Properties.getProperties().getNgramRDsStats().getWordCount());
-		feat2 = ngramProbabilities(newCandTextWord,Properties.getProperties().getSearchStats().getStatistics(),Properties.getProperties().getGramWord(),
-				0.001D/Properties.getProperties().getSearchStats().getWordCount());
-		feat3 = ngramProbabilities(newCandHeadWords,Properties.getProperties().getNgramHeadWordStats().getStatistics(),Properties.getProperties().getGramHeadWord(),
-				0.001D/Properties.getProperties().getNgramHeadWordStats().getWordCount());
-       
-      /*  feat1 =  NgramProbabilityMethod.kneserNeySmoothing(
-       newCandTextRDs.split("[\\s]"),
-    		   0.3, Properties.getProperties().getGramRD(), 
-    		   Properties.getProperties().getNgramRDsStats().getStatistics(),
-    		   Properties.getProperties().getNgramRDsStats().getPrecedingLongStatistics(),
-    		   Properties.getProperties().getNgramRDsStats().getFollowLongStatistics(),
-    		   Properties.getProperties().getNgramRDsStats().getGramCountLongStatistics());
-        feat2 =  NgramProbabilityMethod.kneserNeySmoothing(
-        	       newCandTextWord.split("[\\s]"),
-        	    		   0.3, Properties.getProperties().getGramWord(), 
-        	    		   Properties.getProperties().getNgramWordStats().getStatistics(),
-        	    		   Properties.getProperties().getNgramWordStats().getPrecedingLongStatistics(),
-        	    		   Properties.getProperties().getNgramWordStats().getFollowLongStatistics(),
-        	    		   Properties.getProperties().getNgramWordStats().getGramCountLongStatistics());
-        feat3 =  NgramProbabilityMethod.kneserNeySmoothing(
-        	       newCandHeadWords.split("[\\s]"),
-        	    		   0.3, Properties.getProperties().getGramHeadWord(), 
-        	    		   Properties.getProperties().getNgramHeadWordStats().getStatistics(),
-        	    		   Properties.getProperties().getNgramHeadWordStats().getPrecedingLongStatistics(),
-        	    		   Properties.getProperties().getNgramHeadWordStats().getFollowLongStatistics(),
-        	    		   Properties.getProperties().getNgramHeadWordStats().getGramCountLongStatistics());
+       if(Properties.getProperties().getSmooth() == Properties.getProperties().ADD_ONE){
+    	   feat1 = ngramProbabilities(newCandTextRDs,Properties.getProperties().getNgramRDsStats().getStatistics(),Properties.getProperties().getGramRD());
+   		   feat2 = ngramProbabilities(newCandTextWord,Properties.getProperties().getNgramWordStats().getStatistics(),Properties.getProperties().getGramWord());
+
+   		   feat3 = ngramProbabilities(newCandHeadWords,Properties.getProperties().getNgramHeadWordStats().getStatistics(),Properties.getProperties().getGramHeadWord());
+           
+   		
+       }else if(Properties.getProperties().getSmooth() == Properties.getProperties().KNEY){
+    	   feat1 =  NgramProbabilityMethod.kneserNeySmoothing(
+    		       newCandTextRDs.split("[\\s]+"),
+    		    		   0.3, Properties.getProperties().getGramRD(), 
+    		    		   Properties.getProperties().getNgramRDsStats().getStatistics(),
+    		    		   Properties.getProperties().getNgramRDsStats().getPrecedingLongStatistics(),
+    		    		   Properties.getProperties().getNgramRDsStats().getFollowLongStatistics(),
+    		    		   Properties.getProperties().getNgramRDsStats().getGramCountLongStatistics());
+    		        feat2 =  NgramProbabilityMethod.kneserNeySmoothing(
+    		        	       newCandTextWord.split("[\\s]+"),
+    		        	    		   0.3, Properties.getProperties().getGramWord(), 
+    		        	    		   Properties.getProperties().getNgramWordStats().getStatistics(),
+    		        	    		   Properties.getProperties().getNgramWordStats().getPrecedingLongStatistics(),
+    		        	    		   Properties.getProperties().getNgramWordStats().getFollowLongStatistics(),
+    		        	    		   Properties.getProperties().getNgramWordStats().getGramCountLongStatistics());
+    		        feat3 =  NgramProbabilityMethod.kneserNeySmoothing(
+    		        	       newCandHeadWords.split("[\\s]+"),
+    		        	    		   0.3, Properties.getProperties().getGramHeadWord(), 
+    		        	    		   Properties.getProperties().getNgramHeadWordStats().getStatistics(),
+    		        	    		   Properties.getProperties().getNgramHeadWordStats().getPrecedingLongStatistics(),
+    		        	    		   Properties.getProperties().getNgramHeadWordStats().getFollowLongStatistics(),
+    		        	    		   Properties.getProperties().getNgramHeadWordStats().getGramCountLongStatistics());
+       }else{
+    	// Kylm
+   		feat1 = probs(newCandTextRDs,Properties.getProperties().getGramRD(), Properties.getProperties().getNgramRDsStats());
+   		feat2 = probs(newCandTextWord,Properties.getProperties().getGramWord(), Properties.getProperties().getNgramWordStats());
+   		feat3 = probs(newCandHeadWords,Properties.getProperties().getGramHeadWord(), Properties.getProperties().getNgramHeadWordStats());
+
+   		
+       }
+		
+		//  log.info(feat1 + ": " +  feat2 + ":" + feat3);
+      /*  
         */
 		if(isOptimized){
 	        bw.write(sentence + "-" + indexNode +  " ||| " + newCandTextWord + " ||| "  + feat1 + " " + feat2 + " " + feat3);
@@ -286,39 +330,97 @@ public class LinearizationDependencyTree {
        
 		return candidate;
 	}
-    
-	private static double ngramProbabilities(String text,
-			Map<String, Long> ngramStats, int gramRD, double defVal) {
+	private static double probs(String text,int gram, NGramStatistics nGramStatistics){
+		double d = 1.0;
+		String[] words = text.split("[\\s]+");
+		if(words.length < gram){
+			gram = words.length;
+		}
+		for(int i = gram-1; i < words.length; i++){
+			d *= probOne(words, i, gram, nGramStatistics);
+		}
+		
+		return d;
+	}
+    private static double probOne(String[] words,int  i,int gram, NGramStatistics nGramStatistics){
+    	if(gram == 1){
+    		/*if(!nGramStatistics.getProps().containsKey(words[i]))
+    			System.out.println(words[i].length());*/
+    		if(nGramStatistics.getProps().containsKey(words[i])) 
+    			return /*Math.pow(10,*/(nGramStatistics.getProps().get(words[i]))/*)*/;
+    		else return 1;
+    	}
+    	String wbk = concat(words, i-gram+1,i-1);
+    	return probOne(words, i, gram-1, nGramStatistics) *((nGramStatistics.getBackoffWeight().containsKey(wbk)) ? /*Math.pow(10,*/nGramStatistics.getBackoffWeight().get(wbk)/*)*/: 1.0);
+    	
+    			
+			
+		
+    	
+    }
+	private static String concat(String[] words, int i, int j){
+		String b= "";
+		int start = i < 0 ? 0:i;
+		for(int k = start;k <= j; k++){
+			b += words[k] + " ";
+		}
+		return b.trim();
+		
+	}
+    private static double power10(double a){
+    	return Math.pow(10,a);
+    }
+	/*private*/ public  static double ngramProbabilities(String text,
+			Map<String, Long> ngramStats, int gram) {
 		String[] words = text.split("[\\s]");
 		StringBuffer w = new StringBuffer();
 		double prop = 1.0;
 		boolean hasNull = false;
-		for(int i =0; i <= words.length; i++){
-			if(i < words.length) w = new StringBuffer(words[i]);
+		if(words.length < gram){
+			
+			gram = words.length;
+		}
+		
+		for(int i =gram -1; i < words.length; i++){ // Ignore start and end symbol.
+			 hasNull = false;
+			/*if(i < words.length) w = new StringBuffer(words[i]);
 			else{
 				w = new StringBuffer("NULL");
 				hasNull = true;
-			}
-			double num = 0, den = 0;		
-			for(int j = 0; j < gramRD;  j++){
+			}*/
+			 w = new StringBuffer("");
+			double num = 0, den = 0;	
+			System.out.print("");
+			for(int j = 0; j < gram;  j++){
 				
+                w.append(" " + (i - gram + 1 +j >= 0 && i - gram + 1 +j < words.length? words[i - gram + 1 +j] : "NULL"));
+               
+                if(i - gram + 1 +j < 0 ||  i - gram + 1 +j >= words.length){
+                	hasNull = true;
+                }
 				String w1 = w.toString().trim();
-				
-                if( j + 1 ==  gramRD -1 && i - 1 - j >= 0 && !hasNull){
+                if( j + 1 ==  gram -1  && !hasNull){
+    				//System.out.print(w1 + " => ");
+
                 	den = (ngramStats.containsKey(w1)? ngramStats.get(w1): 0) + ngramStats.size();
                 }
-                if( j + 1 ==  gramRD && i - 1 - j >= 0 && !hasNull){
+                if( j + 1 ==  gram  && !hasNull){
+    				//System.out.println(w1);
+
                 	num = (ngramStats.containsKey(w1)? ngramStats.get(w1): 0) + 1;
                 }
-                w.append((i - 1 - j >= 0 ? words[i- 1-j] : "NULL") + " " + w.toString());
 				
 			}
 			if(!hasNull){
 				//if(num == 0 || den == 0) prop *= 0.00001;
 				//else
+				if(gram == 1) den= ngramStats.size();
 				prop *= num/den;
 			}
 			
+		}
+		if(prop == 1.0){
+			prop = ((ngramStats.containsKey(text)? ngramStats.get(text): 0) + 1)/ngramStats.size();
 		}
 		return prop;
 	}

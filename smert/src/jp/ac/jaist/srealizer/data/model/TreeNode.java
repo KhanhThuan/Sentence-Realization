@@ -8,11 +8,12 @@ import java.util.TreeMap;
 public class TreeNode {
 
 	
-	public TreeNode(int index, int parent, String name, String RD) {
+	public TreeNode(int index, int parent, String name, String RD, String type) {
 		this.index = index;
 		this.name = name;
 		this.parent = parent;
 		this.RD = RD;
+		this.type = type;
 		this.optimizedSequence = this.refWordSequence = name;
 		children = new ArrayList<TreeNode>();
 		candidates = new ArrayList<Candidate>();
@@ -138,6 +139,12 @@ public class TreeNode {
 	public void setIndexSentence(long indexSentence) {
 		this.indexSentence = indexSentence;
 	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
 	private long indexSentence;
 	private String sentence;
 	private String refHeadSequence;
@@ -146,6 +153,7 @@ public class TreeNode {
 	private String name;
 	private String RD;
 	private int parent;
+	private String type;
 	private int index;
 	private boolean hasOptimized;
 	private List<TreeNode> pres;

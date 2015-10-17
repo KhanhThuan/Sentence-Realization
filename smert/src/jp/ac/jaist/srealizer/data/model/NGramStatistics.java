@@ -11,11 +11,12 @@ public class NGramStatistics {
 	private Map<String, Long> precedingLongStatistics;
 	private Map<String, Long> followLongStatistics;
 	private Map<Integer, Long> gramCountLongStatistics;
-
+    
 	private Map<String, Set<String>> precedingStatistics;
 	private Map<String, Set<String>> followStatistics;
 	private Map<Integer, Set<String>> gramCountStatistics;
-
+	private Map<String, Double> props;
+	private Map<String, Double> backoffWeight;
 	public NGramStatistics() {
 		super();
 		wordCount = 0;
@@ -26,7 +27,8 @@ public class NGramStatistics {
 		precedingLongStatistics = new TreeMap<String, Long>();
 		followLongStatistics = new TreeMap<String, Long>();
 		gramCountLongStatistics = new TreeMap<Integer, Long>();
-
+		props = new TreeMap<String, Double>();
+		backoffWeight= new TreeMap<String, Double>();
 		
 	}
 	public NGramStatistics(int[] grams, Map<String, Long> statistics) {
@@ -101,6 +103,18 @@ public class NGramStatistics {
 	}
 	public void setGramCountLongStatistics(Map<Integer, Long> gramCountLongStatistics) {
 		this.gramCountLongStatistics = gramCountLongStatistics;
+	}
+	public Map<String, Double> getProps() {
+		return props;
+	}
+	public void setProps(Map<String, Double> props) {
+		this.props = props;
+	}
+	public Map<String, Double> getBackoffWeight() {
+		return backoffWeight;
+	}
+	public void setBackoffWeight(Map<String, Double> backoffWeight) {
+		this.backoffWeight = backoffWeight;
 	}
 	
 }

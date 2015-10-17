@@ -10,19 +10,19 @@ public class NgramProbabilityMethod {
 	// incompleteness
 	public static double kneserNeySmoothing(String[] words, double d,int n,  Map<String,Long>  stats, Map<String,Long>  preStats, Map<String,Long>  followStats, Map<Integer,Long> gramCountStats ){
 		double p = 1;
-		
-		for(int i =0; i <= words.length; i++){
+		if(words.length < n) n= words.length; 
+		for(int i =n-1; i < words.length; i++){
 			p *= contProb(words,d, i, n,true, stats, preStats, followStats, gramCountStats) ;
 		}
 		return p;
 	}
 	public static double contProb(String words[],double d, int i, int n,boolean highest, Map<String,Long>  stats, Map<String,Long>  preStats, Map<String,Long>  followStats, Map<Integer,Long> gramCountStats){
 		if( n == 1){
-			return (countKN(words, i, n,preStats ) *1.0 + 1 )/(gramCountStats.get(2) + 1000);
+			return (countKN(words, i, i,preStats ) *1.0 + 1 )/(gramCountStats.get(2) + stats.size());
 		}
-		return 1.0 * max(countKN(words, i, i-n+1,highest? stats : preStats) - d, 0D) / 
-				(countKN(words, i-1, i-n+1, highest ? stats :preStats) + 1000)
-				+ ((d * countKN(words, i-1, i-n+1, followStats) +1) /(countKN(words, i-1, i-n+1, stats) + 1000) )
+		return 1.0 * max(countKN(words,  i-n+1,i,highest? stats : preStats) - d, 0D) / 
+				(countKN(words,  i-n+1,i-1, highest ? stats :preStats) + stats.size())
+				+ ((d * countKN(words,  i-n+1,i-1, followStats) +1) /(countKN(words,  i-n+1,i-1, stats) + stats.size()) )
 				  * contProb(words, d, i, n-1, false, stats, preStats, followStats,gramCountStats); 
 	
 		
@@ -30,6 +30,7 @@ public class NgramProbabilityMethod {
 	
 	public static long countKN(String words[], int i, int j, Map<String,Long>  stats){
 		  String w = concat(words, i, j);
+		//  System.out.println(w);
 		  return stats.containsKey(w) ? stats.get(w): 0;
 	}
 	

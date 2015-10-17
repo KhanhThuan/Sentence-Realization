@@ -14,6 +14,16 @@ public class CommonUtils {
 				System.out.println("i = " + i + ": " + list.get(i) );
 			}
 		}
+		public static void setSDconfig(String configFileName, String candFile,double[] lamda ){
+			StringBuffer s = new StringBuffer("");
+			s.append("cands_file=").append(candFile).append("\n")
+			.append("cands_per_sen=50\n").append("top_n=10\n")
+			.append("RD ").append(lamda[1]).append("\n")
+			.append("Word Model ").append(lamda[2]).append("\n")
+			.append("Headword Model ").append(lamda[3]).append("\n");
+					
+
+		}
 		public static void setParams(double[] lamda, String filename){
 			StringBuffer s = new StringBuffer("");
 			s.append("RD		|||	").append(lamda[1]).append("	Opt	-Inf	+Inf	-1	+1\n")

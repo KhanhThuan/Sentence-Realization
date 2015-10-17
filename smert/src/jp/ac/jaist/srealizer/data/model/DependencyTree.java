@@ -30,6 +30,10 @@ public class DependencyTree {
 		IndexSentences = new TreeMap<Integer, Integer>();
 		dependency = new HashMap<String, Integer>();
 		dependencyRatio = new HashMap<String, Double>();
+		preWordTypes= new TreeMap<String, Long>();
+
+		posWordTypes= new TreeMap<String, Long>();
+
 
 	}
     
@@ -107,6 +111,22 @@ public class DependencyTree {
 		this.dependencyRatio = dependencyRatio;
 	}
 
+	public Map<String, Long> getPreWordTypes() {
+		return preWordTypes;
+	}
+
+	public void setPreWordTypes(Map<String, Long> preWordTypes) {
+		this.preWordTypes = preWordTypes;
+	}
+
+	public Map<String, Long> getPosWordTypes() {
+		return posWordTypes;
+	}
+
+	public void setPosWordTypes(Map<String, Long> posWordTypes) {
+		this.posWordTypes = posWordTypes;
+	}
+
 	private Map<String,Long> preDenpents;
 	private Map<String,Long> postDenpents;
 	private Map<String,Long> headWords;
@@ -115,6 +135,8 @@ public class DependencyTree {
     private Map<Integer, Integer> IndexSentences;
     private Map<String, Integer> dependency; //1  for pre; 0 for post;
     private Map<String, Double> dependencyRatio; //pre/post;
+    private Map<String,Long> preWordTypes;
+    private Map<String, Long> posWordTypes;
 
 	private long numberSentences;
 	

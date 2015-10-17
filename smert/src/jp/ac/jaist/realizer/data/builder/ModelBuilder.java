@@ -3,11 +3,13 @@ package jp.ac.jaist.realizer.data.builder;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -19,6 +21,7 @@ import java.util.TreeSet;
 import jp.ac.jaist.srealizer.data.model.DependencyTree;
 import jp.ac.jaist.srealizer.data.model.TreeNode;
 import jp.ac.jaist.srealizer.properties.Properties;
+import kylm.main.CountNgrams;
 
 
 public class ModelBuilder {
@@ -214,6 +217,7 @@ public class ModelBuilder {
 			while((s = br.readLine()) != null ){
 				if(s.trim().length() > 0){
 					  counter++;
+					//  System.out.println(counter);
 				      if(counter > lineSentences || newN ){
 					      String[] words = s.split("[\\s\\t]");
 					      if(counter > lineSentences) wordsCount += words.length;
@@ -229,7 +233,7 @@ public class ModelBuilder {
 			e.printStackTrace();
 		}
 		try {
-			bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(Properties.getProperties().getMode() + ngramStatsFile) ,"UTF-8"));
+		/*	bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(Properties.getProperties().getMode() + ngramStatsFile) ,"UTF-8"));
 			int  i  = 0;
 			String line ="";
 			for(String t : Properties.getProperties().getNgramWordStats().getStatistics().keySet()){
@@ -262,8 +266,8 @@ public class ModelBuilder {
             
             outputCountStatistics(Properties.getProperties().getMode() + "data/builder/n-gram-preceding-count.txt",Properties.getProperties().getNgramWordStats().getPrecedingStatistics());
             outputCountStatistics(Properties.getProperties().getMode() + "data/builder/n-gram-follow-count.txt",Properties.getProperties().getNgramWordStats().getFollowStatistics());
-            
-		} catch (IOException e) {
+            */
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
@@ -323,6 +327,68 @@ public class ModelBuilder {
 			}
 		}
 	}
+	public static void getKylmStatistic(){
+		 String sentencesKylmStatistics= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-sentences-kylm.txt";
+	     String headwordsKylmStatistics= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-headwords-kylm.txt";
+	     String RDsKylmStatistics= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-rds-kylm.txt";
+		 String sentencesKylmStatisticsApra= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-sentences-kylm.apra";
+	     String headwordsKylmStatisticsApra= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-headwords-kylm.apra";
+	     String RDsKylmStatisticsApra= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-rds-kylm.apra";
+
+		try {
+			CountNgrams.main(new String[]{sentencesKylmStatistics,sentencesKylmStatisticsApra,"-mkn"});
+			CountNgrams.main(new String[]{headwordsKylmStatistics,headwordsKylmStatisticsApra,"-mkn"});
+			CountNgrams.main(new String[]{RDsKylmStatistics,RDsKylmStatisticsApra,"-mkn"});
+
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		processKymlStatistics(sentencesKylmStatisticsApra, 
+				Properties.getProperties().getNgramWordStats().getGramCountLongStatistics(),
+				Properties.getProperties().getNgramWordStats().getProps(), 
+				Properties.getProperties().getNgramWordStats().getBackoffWeight());
+		processKymlStatistics(headwordsKylmStatisticsApra, 
+				Properties.getProperties().getNgramHeadWordStats().getGramCountLongStatistics(),
+				Properties.getProperties().getNgramHeadWordStats().getProps(), 
+				Properties.getProperties().getNgramHeadWordStats().getBackoffWeight());
+		processKymlStatistics(RDsKylmStatisticsApra, 
+				Properties.getProperties().getNgramRDsStats().getGramCountLongStatistics(),
+				Properties.getProperties().getNgramRDsStats().getProps(), 
+				Properties.getProperties().getNgramRDsStats().getBackoffWeight());
+	}
+	private static void processKymlStatistics(String file, Map<Integer,Long> gramCounts, Map<String, Double> props,  Map<String, Double> backoffWeight){
+		 try {
+			BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file),"UTF-8"));
+			String s = null;
+			int gram =3, curGram = 1;
+			while((s = br.readLine()) != null){
+				if(s.trim().equals("[n]")){
+					s = br.readLine();
+					gram = Integer.parseInt(s.trim());
+				}else if(s.trim().equals("\\data\\")){
+					for(int i = 1; i <= gram; i++){
+						String[] ss = br.readLine().split("=");
+						gramCounts.put(i,Long.parseLong(ss[1].trim()));
+					}
+				}else if(s.trim().equals("\\"+ curGram + "-grams:")){
+					for(int i = 0; i < gramCounts.get(curGram); i++){
+						String[] ss = br.readLine().split("[\t]+");
+						props.put(ss[1].trim(), Double.parseDouble(ss[0].trim()));
+						if(ss.length > 2)backoffWeight.put(ss[1].trim(), Double.parseDouble(ss[2].trim()));
+
+					}
+					curGram++;
+				}
+			}
+			br.close();
+		 } catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		 
+	}
+	
 	public static void makeDependencyStatistics(String dependencyTreeFile, DependencyTree tree, int[] gramsA, int headMaxGram){
 		System.out.println("Making Dependency Statistics ....");
         BufferedReader br= null;
@@ -332,7 +398,17 @@ public class ModelBuilder {
 
         String rdStatisticsFile = Properties.getProperties().getMode() + "data/dependency-tree/train/rd-statistics.txt";
         String dependencyStatisticsFile= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-statistics.txt";
+        String sentencesKylmStatistics= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-sentences-kylm.txt";
+        String headwordsKylmStatistics= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-headwords-kylm.txt";
+        String RDsKylmStatistics= Properties.getProperties().getMode() + "data/dependency-tree/train/dependency-rds-kylm.txt";
+
         try {
+        	BufferedWriter  bwSKylm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(sentencesKylmStatistics) ,"UTF-8"));
+
+        	BufferedWriter  bwHKylm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(headwordsKylmStatistics) ,"UTF-8"));
+
+        	BufferedWriter  bwRKylm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(RDsKylmStatistics) ,"UTF-8"));
+
 			br = new BufferedReader(new InputStreamReader(new FileInputStream(dependencyTreeFile),"UTF-8"));
 			List<String[]> propsStack = new ArrayList<String[]>();
 			String s = null, rdName = null;
@@ -365,10 +441,28 @@ public class ModelBuilder {
                         for(int i = 0; i <= propsStack.size(); i++){
                 			// also word statistics
 							/***************************************************/
+                        	
                         	String[] props = null;
 							if(i < propsStack.size()){
 								props = propsStack.get(i);
 								w = props[0].toLowerCase();
+								if(i !=  propsStack.size() -1 ){
+									String pair = props[1].toUpperCase() + "-" + propsStack.get(i+1)[1].toUpperCase();
+									if(!tree.getPosWordTypes().containsKey(pair)){
+										tree.getPosWordTypes().put(pair,1L);
+									}else{
+										tree.getPosWordTypes().put(pair,tree.getPosWordTypes().get(pair) + 1L);
+									}
+								}
+								if(i > 0){
+									String pair = propsStack.get(i-1)[1].toUpperCase() + "-" + props[1].toUpperCase() ;
+									if(!tree.getPreWordTypes().containsKey(pair)){
+										tree.getPreWordTypes().put(pair,1L);
+									}else{
+										tree.getPreWordTypes().put(pair,tree.getPreWordTypes().get(pair) + 1L);
+									}
+								}
+								
 							}
 							else w = "NULL";
 							for(int j = 0; j < Properties.getProperties().getGramWord();  j++){
@@ -380,7 +474,13 @@ public class ModelBuilder {
 											Properties.getProperties().getSearchStats().getGramCountStatistics().put(j+1, new TreeSet<String>());
 										}
 										Properties.getProperties().getSearchStats().getGramCountStatistics().get(j+1).add(w);
+                                       //
+										if(!Properties.getProperties().getNgramWordStats().getGramCountStatistics().containsKey(j+1)){
+											Properties.getProperties().getNgramWordStats().getGramCountStatistics().put(j+1, new TreeSet<String>());
+										}
+										Properties.getProperties().getNgramWordStats().getGramCountStatistics().get(j+1).add(w);
 
+										
 									}
 								// N1+(*,w)
 				                    if(!Properties.getProperties().getSearchStats().getPrecedingStatistics().containsKey(w) ){
@@ -389,6 +489,13 @@ public class ModelBuilder {
 				                    	Properties.getProperties().getSearchStats().getPrecedingStatistics().put(w, new TreeSet<String>());
 				                    }
 		                    		Properties.getProperties().getSearchStats().getPrecedingStatistics().get(w).add(i - 1 - j >= 0 ? propsStack.get(i- 1-j)[0].toLowerCase() :  "NULL");
+		                    		///
+		                    		if(!Properties.getProperties().getNgramWordStats().getPrecedingStatistics().containsKey(w) ){
+				                    	//if(i - 1 - j >= 0)
+				                   
+				                    	Properties.getProperties().getNgramWordStats().getPrecedingStatistics().put(w, new TreeSet<String>());
+				                    }
+		                    		Properties.getProperties().getNgramWordStats().getPrecedingStatistics().get(w).add(i - 1 - j >= 0 ? propsStack.get(i- 1-j)[0].toLowerCase() :  "NULL");
 
 				               // N1+(w,*)
 					                if(!Properties.getProperties().getSearchStats().getFollowStatistics().containsKey(w) ){
@@ -400,7 +507,16 @@ public class ModelBuilder {
 			                    		Properties.getProperties().getSearchStats().getFollowStatistics().get(w).add( propsStack.get(0)[0].toLowerCase());
 
 					            	}
-					            	
+					            	//
+					                if(!Properties.getProperties().getNgramWordStats().getFollowStatistics().containsKey(w) ){
+				                    	Properties.getProperties().getNgramWordStats().getFollowStatistics().put(w, new TreeSet<String>());
+					                }
+					            	if(i != propsStack.size()) 
+			                    		Properties.getProperties().getNgramWordStats().getFollowStatistics().get(w).add( i +1 < propsStack.size() ? propsStack.get(i+1)[0].toLowerCase() : "NULL");
+					            	else{
+			                    		Properties.getProperties().getNgramWordStats().getFollowStatistics().get(w).add( propsStack.get(0)[0].toLowerCase());
+	
+					            	}
 					           // N-gram count
 				                	if(Properties.getProperties().getNgramWordStats().getStatistics().containsKey(w)){
 				                		Properties.getProperties().getNgramWordStats().getStatistics().put(w,Properties.getProperties().getNgramWordStats().getStatistics().get(w) + 1 );
@@ -419,7 +535,7 @@ public class ModelBuilder {
 							/***************************************************/
 
 							// NGram Statistics For Relation Dependency.
-							if(i < propsStack.size()) rd = props[3].toUpperCase();
+			/*				if(i < propsStack.size()) rd = props[3].toUpperCase();
 							else rd = "null";
 									
 							for(int j = 0; j < maxGram;  j++){
@@ -464,9 +580,10 @@ public class ModelBuilder {
 				                }
 				                rd = (i - 1 - j >= 0 ? propsStack.get(i- 1-j)[3].toUpperCase() : "null") + " " + rd;
 								
-							}
+							}*/
 							
                         }
+                        ///.//////////////
 						for(int i =0; i < propsStack.size(); i++){
 							
 							String[] props = propsStack.get(i);
@@ -477,7 +594,7 @@ public class ModelBuilder {
 							TreeNode  node = null, parentNode = null;
 							if(nodeMaps.containsKey(i+1)) node = nodeMaps.get(i+1);
 							else {
-								node =	new TreeNode(i+1,parentIndex, props[0].toLowerCase(), props[3].toUpperCase());
+								node =	new TreeNode(i+1,parentIndex, props[0].toLowerCase(), props[3].toUpperCase(), props[1].toUpperCase());
 								node.setIndexSentence(numberSentences -1);
 
 								nodeMaps.put(i+1, node);
@@ -486,7 +603,7 @@ public class ModelBuilder {
 							if(nodeMaps.containsKey(parentIndex)) parentNode = nodeMaps.get(parentIndex);
 							else if(parentIndex != 0) {
 								String[] propsParent = propsStack.get(parentIndex-1);
-								parentNode =	new TreeNode(parentIndex,Integer.parseInt(propsParent[2]), propsParent[0].toLowerCase(), propsParent[3].toUpperCase());
+								parentNode =	new TreeNode(parentIndex,Integer.parseInt(propsParent[2]), propsParent[0].toLowerCase(), propsParent[3].toUpperCase(), propsParent[1].toUpperCase());
 								parentNode.setIndexSentence(numberSentences -1);
 
 								nodeMaps.put(parentIndex, parentNode);
@@ -524,13 +641,14 @@ public class ModelBuilder {
 						}
 						root = nodeMaps.get(rootIndex);
 						root.setNodes(nodeMaps);
-						root.setSentence(wholeSentence.toString());
+						root.setSentence(wholeSentence.toString().trim());
+						bwSKylm.write(root.getSentence() + "\n");
 						tree.addSentence(root);
                         
 					/*	for(int k : nodeMaps.keySet()){
 							System.out.println(nodeMaps.get(k).getName() + ": " + nodeMaps.get(k).getPres().size() +  nodeMaps.get(k).getPoss().size() );
 						}*/
-						trainHeadWords(tree.getHeadWords(), root, headMaxGram,bw);
+						trainHeadWords(tree.getHeadWords(),tree.getNgramRDStatistics(), root, headMaxGram,bw,bwHKylm,bwRKylm);
 						bw.newLine();
 						bw.flush();
 						propsStack = new ArrayList<String[]>();
@@ -545,10 +663,13 @@ public class ModelBuilder {
 				}
 				
 			}
+			bwSKylm.close();
+			bwHKylm.close();
+			bwRKylm.close();
 			tree.setNumberSentences(numberSentences);
 			bw.close();
 			Properties.getProperties().getSearchStats().setWordCount(numberOfWords);
-			Properties.getProperties().getNgramRDsStats().setWordCount(numberOfWords);
+			//Properties.getProperties().getNgramRDsStats().setWordCount(numberOfWords);
 
 			Properties.getProperties().getNgramHeadWordStats().setStatistics(tree.getHeadWords());
 			Properties.getProperties().getNgramRDsStats().setStatistics( tree.getNgramRDStatistics());
@@ -566,7 +687,7 @@ public class ModelBuilder {
 		}
 		
 	}
-	
+
 	private static void processDependency(DependencyTree tree) {
 		
 		for(String t : tree.getPreDenpents().keySet()){
@@ -722,14 +843,14 @@ public class ModelBuilder {
 		}
 	}
 	private static void trainHeadWords(Map<String, Long> headWords,
-			TreeNode root, int headMaxGram, BufferedWriter bw) {
+			Map<String, Long> rdsStats, TreeNode root, int headMaxGram, BufferedWriter bw, BufferedWriter bwHKylm, BufferedWriter bwRKylm) {
 		// Ignore tree with only one node
 		if(root  != null){
 			for(int i = 0; i < root.getPres().size(); i++ ){
-				trainHeadWords(headWords, root.getPres().get(i), headMaxGram, bw);
+				trainHeadWords(headWords, rdsStats, root.getPres().get(i), headMaxGram, bw, bwHKylm,bwRKylm);
 			}
 			for(int i = 0; i < root.getPoss().size(); i++ ){
-				trainHeadWords(headWords, root.getPoss().get(i), headMaxGram, bw);
+				trainHeadWords(headWords, rdsStats, root.getPoss().get(i), headMaxGram, bw, bwHKylm,bwRKylm);
 			}
 		}
 		if(root != null && (root.getPoss().size() + root.getPres().size()) > 0){
@@ -737,9 +858,9 @@ public class ModelBuilder {
 					Properties.getProperties().getNgramHeadWordStats().getWordCount() + root.getPoss().size() + root.getPres().size() + 1);
 					
 			//System.out.println(root.getName());
-			String w = null;
+			String w = null, rd =  null;
 			
-			StringBuffer seqHeadWords = new StringBuffer(""),  seqWords = new StringBuffer("");
+			StringBuffer seqHeadWords = new StringBuffer(""),  seqWords = new StringBuffer(""), seqRDs = new StringBuffer("");
 			List<TreeNode> linearizedNodes = new ArrayList<TreeNode>();
 			for(int i = 0; i < root.getPres().size(); i++ ){
 				linearizedNodes.add(root.getPres().get(i));
@@ -797,10 +918,79 @@ public class ModelBuilder {
 	                w = (i - 1 - j >= 0 ? linearizedNodes.get(i- 1-j).getName() : "NULL") + " " + w;
 					
 				}
+
+				// NGram Statistics For Relation Dependency.
+				if(i < linearizedNodes.size()){
+					rd = linearizedNodes.get(i).getRD().toUpperCase();
+					seqRDs.append(rd).append(" ");
+				}
+				else rd = "null";
+						
+				for(int j = 0; j < Properties.getProperties().getGramRD();  j++){
+					
+					rd = rd.trim();
+					
+					// counting gram types
+					if(i - j >= 0){
+						
+						if(!Properties.getProperties().getNgramRDsStats().getGramCountStatistics().containsKey(j+1)){
+							Properties.getProperties().getNgramRDsStats().getGramCountStatistics().put(j+1, new TreeSet<String>());
+						}
+						Properties.getProperties().getNgramRDsStats().getGramCountStatistics().get(j+1).add(rd);
+
+					}
+				// N1+(*,w)
+                    if(!Properties.getProperties().getNgramRDsStats().getPrecedingStatistics().containsKey(rd) ){
+                    	//if(i - 1 - j >= 0)
+                   
+                    	Properties.getProperties().getNgramRDsStats().getPrecedingStatistics().put(rd, new TreeSet<String>());
+                    }
+            		Properties.getProperties().getNgramRDsStats().getPrecedingStatistics().get(rd).add(i - 1 - j >= 0 ? linearizedNodes.get(i- 1-j).getRD().toUpperCase():  "null");
+
+               // N1+(w,*)
+	                if(!Properties.getProperties().getNgramRDsStats().getFollowStatistics().containsKey(rd) ){
+	                    	Properties.getProperties().getNgramRDsStats().getFollowStatistics().put(rd, new TreeSet<String>());
+	                }
+	            	if(i != linearizedNodes.size()) 
+                		Properties.getProperties().getNgramRDsStats().getFollowStatistics().get(rd).add( i +1 < linearizedNodes.size() ? linearizedNodes.get(i+1).getRD().toUpperCase() : "null");
+	            	else{
+                		Properties.getProperties().getNgramRDsStats().getFollowStatistics().get(rd).add( linearizedNodes.get(0).getRD().toUpperCase());
+
+	            	}
+					// n-gram count;
+	                //if(grams.containsKey(j + 1) && grams.get(j + 1) == 1){
+	                	//System.out.println("rd " + rd);
+	                	if(rdsStats.containsKey(rd)){
+	                		rdsStats.put(rd,rdsStats.get(rd) + 1 );
+	                	}else{
+	                		rdsStats.put(rd,1L);
+	                	}
+	               // }
+	                rd = (i - 1 - j >= 0 ? linearizedNodes.get(i- 1-j).getRD().toUpperCase() : "null") + " " + rd;
+					
+				}
+				
+            
 			}
 		//	System.out.println("Seq: " + seqHeadWords);
 			root.setrefHeadSequence(seqHeadWords.toString().trim());
 			root.setRefWordSequence(seqWords.toString().trim());
+			try {
+				bwRKylm.write(seqRDs.toString().trim());
+				bwRKylm.newLine();
+
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+			try {
+				bwHKylm.write(seqHeadWords.toString().trim());
+				bwHKylm.newLine();
+
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
 			try {
 				bw.write(root.getIndex() + "\t" + seqWords.toString().trim() + "\n");
 				bw.flush();

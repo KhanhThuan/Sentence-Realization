@@ -114,7 +114,7 @@ public class PunctuationRemover {
 						}
 						for(int i =0; i < propsStack.size(); i++){
 							if(!propsStack.get(i)[7].equals("punct")){
-								String line = propsStack.get(i)[1]  + "\t" + propsStack.get(i)[3] + "\t" + 
+								String line = propsStack.get(i)[1].trim()  + "\t" + propsStack.get(i)[3].trim() + "\t" + 
 							(Integer.parseInt(propsStack.get(i)[6])  == 0 ?  0 : (Integer.parseInt(propsStack.get(i)[6]) -punctPoints.get(Integer.parseInt(propsStack.get(i)[6]) -1)))  + "\t" 
 											+ propsStack.get(i)[7];
 								bw.write(line);
