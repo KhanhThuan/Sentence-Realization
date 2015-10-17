@@ -775,3 +775,117 @@ BLEU_BP = 1.0000
 
  
 	========================================================
+train:500 sentences
+NGRAM SMOOTH Method: Kneser-ney Smoothing
+Pre/Post sept: 0.68
+=> Optimizing Lambda: [0.027034017423342754,1.3781151528452435E15,2.294055266540741E15]
+test:840 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 19469 / 19469 = 1.0000
+BLEU_precision(2) = 15726 / 18629 = 0.8442
+BLEU_precision(3) = 13398 / 17790 = 0.7531
+BLEU_precision(4) = 11402 / 16954 = 0.6725
+BLEU_precision = 0.8086
+Length of candidate corpus = 19469
+Effective length of reference corpus = 19469
+BLEU_BP = 1.0000
+  => BLEU = 0.8086
+
+ 
+	========================================================
+train:500 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.68
+=> Optimizing Lambda: [0.10634238705240086,2.0009103630428118E12,1.9454333883344635E15]
+test:840 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 19469 / 19469 = 1.0000
+BLEU_precision(2) = 15717 / 18629 = 0.8437
+BLEU_precision(3) = 13454 / 17790 = 0.7563
+BLEU_precision(4) = 11473 / 16954 = 0.6767
+BLEU_precision = 0.8106
+Length of candidate corpus = 19469
+Effective length of reference corpus = 19469
+BLEU_BP = 1.0000
+  => BLEU = 0.8106
+
+ 
+	========================================================
+train:500 sentences
+NGRAM SMOOTH Method: Modified Kneser-ney Smothing by Kylm
+Pre/Post sept: 0.68
+=> Optimizing Lambda: [0.09216509025179964,-5603.7100178219935,0.1865907287992612]
+test:840 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 19469 / 19469 = 1.0000
+BLEU_precision(2) = 13703 / 18629 = 0.7356
+BLEU_precision(3) = 10395 / 17790 = 0.5843
+BLEU_precision(4) = 7684 / 16954 = 0.4532
+BLEU_precision = 0.6644
+Length of candidate corpus = 19469
+Effective length of reference corpus = 19469
+BLEU_BP = 1.0000
+  => BLEU = 0.6644
+
+ 
+	========================================================
+train:499 sentences
+NGRAM SMOOTH Method: Kneser-ney Smoothing
+Pre/Post sept: 0.68
+=> Optimizing Lambda: [0.027034017423342754,1.3781151528452435E15,2.294055266540741E15]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 12819 / 12819 = 1.0000
+BLEU_precision(2) = 10433 / 12293 = 0.8487
+BLEU_precision(3) = 8969 / 11768 = 0.7622
+BLEU_precision(4) = 7705 / 11244 = 0.6853
+BLEU_precision = 0.8159
+Length of candidate corpus = 12819
+Effective length of reference corpus = 12819
+BLEU_BP = 1.0000
+  => BLEU = 0.8159
+
+ 
+	========================================================
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.68
+=> Optimizing Lambda: [0.10634238705240086,2.0009103630428118E12,1.9454333883344635E15]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 12819 / 12819 = 1.0000
+BLEU_precision(2) = 10455 / 12293 = 0.8505
+BLEU_precision(3) = 9036 / 11768 = 0.7678
+BLEU_precision(4) = 7793 / 11244 = 0.6931
+BLEU_precision = 0.8202
+Length of candidate corpus = 12819
+Effective length of reference corpus = 12819
+BLEU_BP = 1.0000
+  => BLEU = 0.8202
+
+ 
+	========================================================
+train:499 sentences
+NGRAM SMOOTH Method: Modified Kneser-ney Smothing by Kylm
+Pre/Post sept: 0.68
+=> Optimizing Lambda: [0.09216509025179964,-5603.7100178219935,0.1865907287992612]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 12819 / 12819 = 1.0000
+BLEU_precision(2) = 9152 / 12293 = 0.7445
+BLEU_precision(3) = 7038 / 11768 = 0.5981
+BLEU_precision(4) = 5298 / 11244 = 0.4712
+BLEU_precision = 0.6768
+Length of candidate corpus = 12819
+Effective length of reference corpus = 12819
+BLEU_BP = 1.0000
+  => BLEU = 0.6768
+
+ 
+	========================================================

@@ -72,12 +72,12 @@ public class Test {
 	        	
 	        	corpara.add(tree.getSentences().get(i));
 	        }
-	     //  Collections.shuffle(corpara); /* Remove the comment to test randomly */
+	     Collections.shuffle(corpara); /* Remove the comment to test randomly */
 	      //  int pivot = (int)(corpara.size() * 0.1);
 			
-			int pivot = 500; // Number of training sentences;
+			int pivot = 499; // Number of training sentences;
 			System.out.println("Train Sentence: " + pivot);
-			int nTest = 840;
+			int nTest = 807;
 			List<TreeNode> trainSentences= corpara.subList(0,pivot);
 			for(int i = 0; i < trainSentences.size(); i++){
 				indices.put((int) trainSentences.get(i).getIndexSentence(), i);
