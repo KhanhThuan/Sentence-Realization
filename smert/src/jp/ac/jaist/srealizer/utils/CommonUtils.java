@@ -4,6 +4,7 @@ import java.io.BufferedWriter;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
+import java.util.ArrayList;
 import java.util.List;
 
 public class CommonUtils {
@@ -41,6 +42,47 @@ public class CommonUtils {
 			}
 			
 			
+		}
+		public static double[][] sort(List<double[]> allLamdas) {
+			double[][] x = new double[allLamdas.get(0).length][allLamdas.size()];
+			int  j = 0;
+			for(double[] d: allLamdas){
+				
+				for(int i =0; i < d.length; i++){
+					x[i][j] = d[i];
+				}
+				j++;
+			}
+			for(int i =0; i < x.length; i++){
+				for(int k = 0; k < x[i].length -1; k++){
+					for(int t = 0; t < x[i].length - k -1; t++){
+						if(x[i][t] > x[i][t+1]){
+							double temp= x[i][t];
+							x[i][t] = x[i][t+1];
+							x[i][t+1] = temp;
+						}
+					}
+				}
+			}
+			
+			for(int i =0; i < x.length; i++){
+				for(int k = 0; k < x[i].length; k++){
+					
+					System.out.print(x[i][k] + " ");
+				}
+				System.out.println();
+			}
+			return x;
+		}
+		public static void main(String[] args){
+			List<double[] > al = new ArrayList<double[]>();
+			al.add(new double[]{2,3,4});
+			al.add(new double[]{1,2,5});
+			al.add(new double[]{3,6,4});
+			al.add(new double[]{2,3,7});
+			al.add(new double[]{9,3,1});
+
+			sort(al);
 		}
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

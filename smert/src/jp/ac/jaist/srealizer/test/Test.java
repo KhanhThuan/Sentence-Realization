@@ -35,8 +35,10 @@ public class Test {
 
 		//Properties.getProperties().setMode("en"); /* Remove comment to test with english*/
 		int[] vals = new int[]{ Properties.KNEY,Properties.ADD_ONE, Properties.KYLM};
-		
+		Map<Integer,Integer> nextRun= new HashMap<Integer, Integer>();
+		int run = 0;
 		for(int type : vals){
+			run++;
 			Properties.getProperties().setSmooth(type);
 			boolean useKylm = Properties.getProperties().getSmooth() == Properties.KYLM;	
 		/*	PunctuationRemover.remove(ModelBuilder.getDependencyTreeFileWithPunct(), ModelBuilder.getDependencyTreeFile());
@@ -49,8 +51,17 @@ public class Test {
 		   
 			DependencyTree  tree = new DependencyTree();
 			ModelBuilder.makeDependencyStatistics(ModelBuilder.getDependencyTreeFile(), tree,new int[]{2,3}, 3);
-		
-			Properties.getProperties().setExpectedSept(0.68);
+		    System.out.println("-----Pre Type-------");
+			for(String t : tree.getPreWordTypes().keySet()){
+		    	System.out.println(t + ": " + tree.getPreWordTypes().get(t));
+		    }
+			System.out.println("-----Pos Type-------");
+			for(String t : tree.getPosWordTypes().keySet()){
+		    	System.out.println(t + ": " + tree.getPosWordTypes().get(t));
+		    }
+			System.out.println("--------");
+			//System.exit(1);
+			Properties.getProperties().setExpectedSept(0.7);
 
 			if(useKylm){
 				ModelBuilder.getKylmStatistic();
@@ -69,19 +80,35 @@ public class Test {
 	       Map<Integer,Integer> indices = new HashMap<Integer, Integer>();
 	       List<TreeNode> corpara = new ArrayList<TreeNode>();
 	        for(int i =0; i < tree.getSentences().size(); i++){
-	        	
-	        	corpara.add(tree.getSentences().get(i));
+	        	indices.put((int) tree.getSentences().get(i).getIndexSentence(), i);
+	        	if(run ==1){
+	        		corpara.add(tree.getSentences().get(i));
+	        	}
 	        }
-	     Collections.shuffle(corpara); /* Remove the comment to test randomly */
+	        if(run > 1){
+	        	for(int i =0; i < tree.getSentences().size(); i++){
+		        	
+		        		corpara.add(tree.getSentences().get(indices.get(nextRun.get(i))));
+		        	
+		        }
+	        }
+	     if(run == 1){
+	    	// Collections.shuffle(corpara); /* Remove the comment to test randomly */
+	    	 for(int i= 0; i < corpara.size(); i++){
+	    		 nextRun.put(i,(int)corpara.get(i).getIndexSentence());
+		     }
+	     }
+	     
 	      //  int pivot = (int)(corpara.size() * 0.1);
 			
 			int pivot = 499; // Number of training sentences;
 			System.out.println("Train Sentence: " + pivot);
-			int nTest = 807;
+			int nTest = 526;
 			List<TreeNode> trainSentences= corpara.subList(0,pivot);
-			for(int i = 0; i < trainSentences.size(); i++){
-				indices.put((int) trainSentences.get(i).getIndexSentence(), i);
-			}
+			for(int i =0; i < trainSentences.size(); i++){
+	        	indices.put((int) trainSentences.get(i).getIndexSentence(), i);
+	        	
+	        }
 			double[] intitialLambda = new double[]{0,0.1,0.2,-0.1};
 		      CommonUtils.setParams(intitialLambda, "params.txt");
 		      CommonUtils.setSDconfig("SDecoder_cfg.txt","cand_database_.txt", intitialLambda);
@@ -134,16 +161,26 @@ public class Test {
 				
 			}
 				// taking average of all optimal lambdas during each linearization round (Should it be)
+				boolean byMean = false; 
 				double[] lamdas = new double[3];
-				for(double[] d: allLamdas){
-					for(int i = 0; i < d.length; i++){
-						lamdas[i] += d[i];
+				if(byMean){
+					for(double[] d: allLamdas){
+						for(int i = 0; i < d.length; i++){
+							lamdas[i] += d[i];
+						}
+					}
+					for(int i =0; i < 3; i++){
+						lamdas[i] /= allLamdas.size();
+					}
+				}else{
+					
+					// Or by median
+				   double[][] x = CommonUtils.sort(allLamdas);
+				   for(int i =0; i < 3; i++){
+						lamdas[i] =x[i][allLamdas.size()/2];
 					}
 				}
-				for(int i =0; i < 3; i++){
-					lamdas[i] /= allLamdas.size();
-				}
-				
+			
 				// test
 				List<TreeNode> testSentences= new ArrayList<TreeNode>();
 				for(int i = pivot +1; i < tree.getSentences().size(); i++){

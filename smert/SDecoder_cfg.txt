@@ -2,6 +2,6 @@ cands_file=cand_database_.txt
 cands_per_sen=50
 top_n=10
 
-RD 0.1
-Word Model 0.2
-Headword Model -0.1
+RD 0.012452374355490639
+Word Model 2.801274508259896E13
+Headword Model 1.9203647348360238E14

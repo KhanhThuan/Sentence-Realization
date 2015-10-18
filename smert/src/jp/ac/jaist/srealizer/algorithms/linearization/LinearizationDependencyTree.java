@@ -168,11 +168,13 @@ public class LinearizationDependencyTree {
 				}else{
 					long fowl = tree.getPosWordTypes().containsKey(  root.getType()+ "-" + c.getType()) ? tree.getPosWordTypes().get(  root.getType()+ "-" + c.getType()): 0;
 					long precede = tree.getPreWordTypes().containsKey(c.getType() + "-" + root.getType()) ? tree.getPreWordTypes().get(c.getType() + "-" + root.getType()): 0;
-					if(fowl > precede){
-						 pos.add(c);
+					//double percents = fowl != 0? precede/(precede + fowl) : 1;
+					if(fowl > precede ){
+						pos.add(c);
 					}else{
 						pres.add(c);
 					}
+					
 				}
 				/*if(dependencies.containsKey(c.getRD()))
 					if(	dependencies.get(c.getRD()) == 1){
