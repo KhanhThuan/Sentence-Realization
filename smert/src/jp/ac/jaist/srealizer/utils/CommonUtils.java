@@ -65,13 +65,13 @@ public class CommonUtils {
 				}
 			}
 			
-			for(int i =0; i < x.length; i++){
+		/*	for(int i =0; i < x.length; i++){
 				for(int k = 0; k < x[i].length; k++){
 					
 					System.out.print(x[i][k] + " ");
 				}
 				System.out.println();
-			}
+			}*/
 			return x;
 		}
 		public static void main(String[] args){

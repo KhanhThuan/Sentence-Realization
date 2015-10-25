@@ -113,6 +113,25 @@ public class EvalTool {
 	// format of the candidate file: "plain" if one candidate per sentence, and "nbest" if a decoder output
 	static String candFileFormat;
 	
+	public static String getRefFileName() {
+		return refFileName;
+	}
+
+
+	public static void setRefFileName(String refFileName) {
+		EvalTool.refFileName = refFileName;
+	}
+
+
+	public static String getCandFileName() {
+		return candFileName;
+	}
+
+
+	public static void setCandFileName(String candFileName) {
+		EvalTool.candFileName = candFileName;
+	}
+
 	// if format is nbest, evaluate the r'th candidate of each sentence
 	static int candRank;
 
@@ -367,6 +386,83 @@ line format:
 
 			    }catch(Exception e){
 			    	
+			    }
+			    numSentences = refSentences.size();
+		
+		// sets numDocuments and docOfSentence[]
+		processDocInfo();
+		
+		if (numDocuments > 1) metricName_display = "doc-level " + metricName;
+		
+		set_docSubsetInfo(docSubsetInfo);
+		
+		
+		
+		
+		// set static data members for the EvaluationMetric class
+		EvaluationMetric.set_numSentences(numSentences);
+		EvaluationMetric.set_numDocuments(numDocuments);
+		EvaluationMetric.set_refSentences(refSentences);
+		
+		// do necessary initialization for the evaluation metric
+		evalMetric = EvaluationMetric.getMetric(metricName,metricOptions);
+		
+		println("Processing " + numSentences + " sentences...");
+		
+	} // processArgsAndInitialize(String[] args)
+	public static void processArgsAndInitialize(String candFile, String refFile) {
+		EvaluationMetric.set_knownMetrics();
+		
+		// set default values
+		candFileName = candFile;
+		candFileFormat = "nbest";
+		candRank = 1;
+		refFileName = refFile;
+		refsPerSen = 1;
+		textNormMethod = 1;
+		metricName = "BLEU";
+		metricOptions = new String[2];
+		metricOptions[0] = "4";
+		metricOptions[1] = "closest";
+		docSubsetInfo = new int[7];
+		docSubsetInfo[0] = 0;
+		evaluateRefs = false;
+		verbose = false;
+	
+	
+		
+		
+		// initialize
+		// read in reference sentences
+				refSentences = new ArrayList<List<String>>();
+
+			    try {
+			  //  System.out.println("$$ refFileName: " + refFileName);
+			      // read in reference sentences
+			      InputStream inStream_refs = new FileInputStream(new File(refFileName));
+			      BufferedReader inFile_refs = new BufferedReader(new InputStreamReader(inStream_refs, "utf8"));
+
+			      String line =  null;
+			      int count = 0;
+			      String prevIndex = null;
+			      while((line = inFile_refs.readLine()) != null){
+			    	  String[] s = line.split("\t");
+			    	  String curIndex = s[0].trim();
+			    	  if(prevIndex == null || !prevIndex.equals(curIndex)){
+			    		  count++;
+			    		  refSentences.add(new ArrayList<String>());
+
+			    	  }
+			    	 refSentences.get(count-1).add(normalize(s[1].trim(),textNormMethod));
+			    	  
+			    	 prevIndex = curIndex;
+				         
+				     
+			      }
+			      inFile_refs.close();
+
+			    }catch(Exception e){
+			    	e.printStackTrace();
 			    }
 			    numSentences = refSentences.size();
 		

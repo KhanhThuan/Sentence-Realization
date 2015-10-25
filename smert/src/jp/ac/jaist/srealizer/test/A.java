@@ -1,5 +1,8 @@
 package jp.ac.jaist.srealizer.test;
 
+import java.util.Map;
+import java.util.TreeMap;
+
 import jp.ac.jaist.srealizer.algorithms.data.NgramProbabilityMethod;
 import jp.ac.jaist.srealizer.algorithms.linearization.LinearizationDependencyTree;
 import jp.ac.jaist.srealizer.properties.Properties;
@@ -26,6 +29,14 @@ public class A {
 				Properties.getProperties().getNgramWordStats().getPrecedingLongStatistics(), Properties.getProperties().getNgramWordStats().getFollowLongStatistics(), 
 				Properties.getProperties().getNgramWordStats().getGramCountLongStatistics()));
 		System.exit(1);	 */     
+		
+		Map<String,Map<String,Integer>> preSeq = new TreeMap<String, Map<String,Integer>>();
+		Map<String,Map<String,Integer>> posSeq = new TreeMap<String, Map<String,Integer>>();
+		preSeq.put("A", new TreeMap<String, Integer>());
+		preSeq.get("A").put("B",2);
+		preSeq.put("B", new TreeMap<String, Integer>());
+
+
 	}
 
 }

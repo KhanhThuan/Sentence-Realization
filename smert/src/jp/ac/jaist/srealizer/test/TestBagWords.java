@@ -1,17 +1,32 @@
 package jp.ac.jaist.srealizer.test;
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.TreeMap;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 import jp.ac.jaist.realizer.data.builder.ModelBuilder;
 import jp.ac.jaist.realizer.evaluation.EvalTool;
-import jp.ac.jaist.srealizer.algorithms.data.NgramProbabilityMethod;
 import jp.ac.jaist.srealizer.algorithms.linearization.LinearizationDependencyTree;
 import jp.ac.jaist.srealizer.algorithms.mert.MertCore;
 import jp.ac.jaist.srealizer.data.model.Candidate;
@@ -24,7 +39,7 @@ import org.apache.commons.lang.StringEscapeUtils;
 
 
 
-public class Test {
+public class TestBagWords {
 
 	public static void main(String[] args) {
 		
@@ -35,7 +50,7 @@ public class Test {
 		}
 
 		//Properties.getProperties().setMode("en"); /* Remove comment to test with english*/
-		int[] vals = new int[]{ Properties.ADD_ONE, Properties.KNEY, Properties.KYLM};
+		int[] vals = new int[]{ Properties.KNEY,Properties.ADD_ONE, Properties.KYLM};
 		Map<Integer,Integer> nextRun= new HashMap<Integer, Integer>();
 		int run = 0;
 		for(int type : vals){
@@ -113,12 +128,10 @@ public class Test {
 	     }
 	     
 	      //  int pivot = (int)(corpara.size() * 0.1);
-			
 			int pivot = 499; // Number of training sentences;
 			System.out.println("Train Sentence: " + pivot);
 			int nTest = 526;
 			List<TreeNode> trainSentences= corpara.subList(0,pivot);
-			indices = new TreeMap<Integer, Integer>();
 			for(int i =0; i < trainSentences.size(); i++){
 	        	indices.put((int) trainSentences.get(i).getIndexSentence(), i);
 	        	
@@ -134,9 +147,10 @@ public class Test {
 					  CommonUtils.setParams(intitialLambda, "params.txt");
 				      CommonUtils.setSDconfig("SDecoder_cfg.txt","cand_database_.txt", intitialLambda);
 					 List<List<Candidate>> candidates = LinearizationDependencyTree.linearizeAll(trainSentences,tree, tree.getDependency(), tree.getDependencyRatio(), true);
-						System.out.println("Number of candidates => " + candidates.size());
+					System.out.println("Number of Candidates: " + candidates.size());
+					if(candidates.size() == 0) break;
 						//CommonUtils.printList(Properties.getProperties().getNbestsSize());
-						if(candidates.size() == 0) break;
+						
 						 MertCore mert = new MertCore("ZMERT_cfg.txt");
 					      mert.run_MERT(); // optimize lambda[]!!!
 	
@@ -154,7 +168,7 @@ public class Test {
 						      Candidate c = candidates.get(i).get(idx[0]);
 						     // System.out.println(c.getIndexSentence() + ": " + trainSentences.size());
 						      trainSentences.get(indices.get(c.getIndexSentence())).getNodes().get(c.getIndexNode()).setHasOptimized(true);
-						     // System.out.println(c.getContent() +" : " +trainSentences.get(indices.get(c.getIndexSentence())).getNodes().get(c.getIndexNode()).getRefWordSequence() );
+						   //   System.out.println(c.getContent() +" : " +trainSentences.get(indices.get(c.getIndexSentence())).getNodes().get(c.getIndexNode()).getRefWordSequence() );
 						      trainSentences.get(indices.get(c.getIndexSentence())).getNodes().get(c.getIndexNode()).setOptimizedSequence(c.getContent());
 						      
 	
@@ -195,22 +209,21 @@ public class Test {
 					}
 				}
 				int incsSize = 10;
-			   // while(nTest < 1000){
-			    	// test
-					List<TreeNode> testSentences= new ArrayList<TreeNode>();
-					for(int i = pivot +1; i < tree.getSentences().size(); i++){
-						if(tree.getSentences().get(i).getNodes().size() <=30){ // test sentence with number of words <=30
-							testSentences.add(tree.getSentences().get(i));
-						}
-						if(testSentences.size() == nTest) break;
-					}
+				for(int tn = 0;tn < 5; tn++){
+					DependencyTree testTree = new DependencyTree();
+					 ModelBuilder.makeTestSentences("data/dependency-tree/test/test_tree_" + tn + ".DEP.CONLL", testTree,new int[]{2,3}, 3);
+					List<TreeNode> testSentences=testTree.getSentences();
 				//	nTest += incsSize;
 					Properties.getProperties().setLambda(/*optimizedLambda*/ lamdas);
-					 LinearizationDependencyTree.linearizeAll(testSentences,tree, tree.getDependency(), tree.getDependencyRatio(), false);
+					try{
+						LinearizationDependencyTree.linearizeAll(testSentences,tree, tree.getDependency(), tree.getDependencyRatio(), false);
+					}catch(Exception e){
+						e.printStackTrace();
+					}
 					 
-					 
-					BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("cand_database_test.txt"),"UTF-8"));
-					BufferedWriter bw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("ref_database_test.txt"),"UTF-8"));
+					 String candFileName =  "data/dependency-tree/test/cand_database_test_" +tn + ".txt";
+					BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(candFileName),"UTF-8"));
+					//BufferedWriter bw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("ref_database_test.txt"),"UTF-8"));
 		             int i = 0;
 		         	StringBuilder  ref= new StringBuilder("");
 		         	StringBuilder  cand= new StringBuilder("");
@@ -229,25 +242,31 @@ public class Test {
 		    		//
 		    		src.append("<mteval>\n<srcset setid=\"example_set\" srclang=\"Eng\"  >");
 		    		src.append("<doc docid=\"doc1\" genre=\"nw\">");
+		    		BufferedReader	br = new BufferedReader(new InputStreamReader(new FileInputStream("data/dependency-tree/test/ref_" + tn + ".txt" ),"UTF-8"));
+
 					 for(TreeNode t: testSentences){
-						// System.out.println(t.isHasOptimized() + ": " + t.getOptimizedSequence() + "\n\t" + t.getRefWordSequence());
+					
 						 ref.append("\n\t<p>\n\t\t<seg id=\"" + (i+1) + "\">");
 						 src.append("\n\t<p>\n\t\t<seg id=\"" + (i+1) + "\">");
 						 cand.append("\n\t<p>\n\t\t<seg id=\"" + (i+1) + "\">");
 		
 						 bw.write(i+ "|||" + t.getOptimizedSequence());
 						 bw.newLine();
-						 bw1.write(i+ "\t" + t.getRefWordSequence() );
-						 ref.append(StringEscapeUtils.escapeXml( t.getRefWordSequence()) + "\n\t\t</seg>\n\t</p>");
-						 src.append(StringEscapeUtils.escapeXml(t.getRefWordSequence()) + "\n\t\t</seg>\n\t</p>");
+						 String[] s = br.readLine().split("\t");
+						 ref.append(StringEscapeUtils.escapeXml(s[1].trim()) + "\n\t\t</seg>\n\t</p>");
+						 src.append(StringEscapeUtils.escapeXml(s[1].trim()) + "\n\t\t</seg>\n\t</p>");
 		
 						 cand.append(StringEscapeUtils.escapeXml(t.getOptimizedSequence()) + "\n\t\t</seg>\n\t</p>");
-						 
-						 bw1.newLine();
+						
+					
 						 i++;
 							//if(t.isHasOptimized()) ops++;
 							//else break;
 					}
+					br.close();
+					 bw.flush();
+					
+					 bw.close();
 					 ref.append("</doc>");
 					 ref.append("</refset>");
 					 //
@@ -261,10 +280,7 @@ public class Test {
 			         src.append("</mteval>");
 			         cand.append("</mteval>");
 			         
-					 bw.flush();
-					 bw1.flush();
-					 bw.close();
-					 bw1.close();
+					
 					 bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(Properties.getProperties().getMode()+ "data/meta/src.xml"),"UTF-8"));
 					 bw.write(src.toString());
 					 bw.close();
@@ -276,7 +292,9 @@ public class Test {
 					 bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(Properties.getProperties().getMode()+  "data/meta/ref.xml"),"UTF-8"));
 					 bw.write(ref.toString());
 					 bw.close();
+					
 					 bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(Properties.getProperties().getMode()+  "data/results/bleu_result.txt",true),"UTF-8"));
+					 bw.write("Bag of Words Testing: " + tn + "\n");
 					 bw.write("train:" + trainSentences.size() + " sentences\n");
 					 bw.write("NGRAM SMOOTH Method: " + Properties.getProperties().getSmoothSTR() + "\n");
 					 bw.write("Pre/Post sept: " + Properties.getProperties().getExpectedSept() + "\n");
@@ -285,10 +303,12 @@ public class Test {
 					 bw.write("=> Optimizing Lambda: [" + Properties.getProperties().getLambda()[0] + "," + Properties.getProperties().getLambda()[1] + "," +  Properties.getProperties().getLambda()[2] +"]\n");
 					 bw.write("test:" + testSentences.size() + " sentences\n");
 					 bw.write("=> Bleu Summary:\n");
-					
-					 EvalTool.processArgsAndInitialize(args);
+					String refFileName = "data/dependency-tree/test/ref_" + tn + ".txt";
+					 EvalTool.processArgsAndInitialize(candFileName,refFileName);
+					 EvalTool.setCandFileName(candFileName);
+					 EvalTool.setRefFileName(refFileName);
 					 bw.write("Evaluating set of " + 1 + "'th candidate realization " + "...\n");
-					 String candFileName = "cand_database_test.txt";
+					
 					 StringBuffer  bs = EvalTool.evaluateCands_nbest(candFileName,1);
 					 bw.write(bs.toString());
 					 bw.write("\n ");
@@ -296,6 +316,11 @@ public class Test {
 		
 					 bw.close();
 					 System.out.println(" See data/results/bleu_results.txt");
+					// return;
+				}
+			   // while(nTest < 1000){
+			    	// test
+					
 			 //   }
 				
 				 /* MertCore mert = new MertCore("ZMERT_cfg_test.txt");

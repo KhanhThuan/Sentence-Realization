@@ -25,21 +25,16 @@ import jp.ac.jaist.srealizer.properties.Properties;
 
 public class LinearizationDependencyTree {
 	private static final Logger log = Logger.getLogger( LinearizationDependencyTree.class.getName() );
-
-	public static String getCandDBFile() {
-		return 	"cand_database_.txt";
-	}
-
-	public static String getRefFile() {
-		return 	"ref_database_.txt";
-	}
+	private static String candFileName = "cand_database_.txt";
+	private static String refFileName ="ref_database_.txt";
+	
 	public static   List<List<Candidate>> linearizeAll(List<TreeNode> trainSentences, DependencyTree tree, Map<String,Integer> dependencies, Map<String, Double> dependencyRatio, boolean isOptimized) throws IOException{
-		log.info("Linearization:..." + isOptimized);
-		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(getCandDBFile()),"UTF-8"));
-		BufferedWriter bw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(getRefFile()),"UTF-8"));
+		//log.info("Linearization:..." + isOptimized);
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(getCandFileName()),"UTF-8"));
+		BufferedWriter bw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(getRefFileName()),"UTF-8"));
 
 		for(int i =0; i < trainSentences.size(); i++){
-			log.info(i + " isOptimized <=" + isOptimized + " Sentence: " + trainSentences.get(i).getSentence());
+		//	log.info(i + " isOptimized <=" + isOptimized + " Sentence: " + trainSentences.get(i).getSentence());
 			 linearizeOne(trainSentences.get(i),tree, dependencies,dependencyRatio,bw, bw1,isOptimized);
 		}
 		bw.flush();
@@ -47,10 +42,10 @@ public class LinearizationDependencyTree {
 		bw1.flush();
 		bw1.close();
 		int count = Properties.getProperties().getCounter();
-		copy(getCandDBFile(), Properties.getProperties().getMode() + "data/views/" + count + ".cand");
-		copy(getRefFile(), Properties.getProperties().getMode() + "data/views/" + count+ ".ref");
+		copy(getCandFileName(), Properties.getProperties().getMode() + "data/views/" + count + ".cand");
+		copy(getCandFileName(), Properties.getProperties().getMode() + "data/views/" + count+ ".ref");
 
-		return setNBest(getCandDBFile());
+		return setNBest(getCandFileName());
 		
 	}
 	private static void copy(String source, String dest){
@@ -162,6 +157,8 @@ public class LinearizationDependencyTree {
 			for(TreeNode c : root.getChildren()){
 				//System.out.print(c.getRD() + " ");
 				if(c.getChildren().size() > 0 && !c.isHasOptimized()) isCollectedCandidates = false;
+				if(!dependencyRatio.containsKey(c.getRD())) pres.add(c);
+				else
 				if(dependencyRatio.get(c.getRD()) >= Properties.getProperties().getExpectedSept()) pres.add(c);
 				else if(dependencyRatio.get(c.getRD()) <= 1- Properties.getProperties().getExpectedSept()){
 					 pos.add(c);
@@ -169,10 +166,10 @@ public class LinearizationDependencyTree {
 					long fowl = tree.getPosWordTypes().containsKey(  root.getType()+ "-" + c.getType()) ? tree.getPosWordTypes().get(  root.getType()+ "-" + c.getType()): 0;
 					long precede = tree.getPreWordTypes().containsKey(c.getType() + "-" + root.getType()) ? tree.getPreWordTypes().get(c.getType() + "-" + root.getType()): 0;
 					//double percents = fowl != 0? precede/(precede + fowl) : 1;
-					if(fowl > precede ){
-						pos.add(c);
-					}else{
+					if(precede > fowl ){
 						pres.add(c);
+					}else{
+						pos.add(c);
 					}
 					
 				}
@@ -460,6 +457,18 @@ public class LinearizationDependencyTree {
 
 	    return retA;
 }
+	public static String getCandFileName() {
+		return candFileName;
+	}
+	public static void setCandFileName(String candFileName) {
+		LinearizationDependencyTree.candFileName = candFileName;
+	}
+	public static String getRefFileName() {
+		return refFileName;
+	}
+	public static void setRefFileName(String refFileName) {
+		LinearizationDependencyTree.refFileName = refFileName;
+	}
 	
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

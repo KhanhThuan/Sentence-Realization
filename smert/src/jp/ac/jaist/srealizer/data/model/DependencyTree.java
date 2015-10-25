@@ -33,7 +33,8 @@ public class DependencyTree {
 		preWordTypes= new TreeMap<String, Long>();
 
 		posWordTypes= new TreeMap<String, Long>();
-
+		preRDPs = new TreeMap<String, Map<String,Long>>();
+		posRDP = new TreeMap<String, Map<String,Long>>();
 
 	}
     
@@ -126,6 +127,22 @@ public class DependencyTree {
 	public void setPosWordTypes(Map<String, Long> posWordTypes) {
 		this.posWordTypes = posWordTypes;
 	}
+    
+	public Map<String,Map<String,Long>> getPreRDPs() {
+		return preRDPs;
+	}
+
+	public void setPreRDPs(Map<String,Map<String,Long>> preRDPs) {
+		this.preRDPs = preRDPs;
+	}
+
+	public Map<String,Map<String,Long>> getPosRDP() {
+		return posRDP;
+	}
+
+	public void setPosRDP(Map<String,Map<String,Long>> posRDP) {
+		this.posRDP = posRDP;
+	}
 
 	private Map<String,Long> preDenpents;
 	private Map<String,Long> postDenpents;
@@ -137,6 +154,8 @@ public class DependencyTree {
     private Map<String, Double> dependencyRatio; //pre/post;
     private Map<String,Long> preWordTypes;
     private Map<String, Long> posWordTypes;
+    private Map<String,Map<String,Long>> preRDPs;
+    private Map<String,Map<String,Long>> posRDP;
 
 	private long numberSentences;
 	

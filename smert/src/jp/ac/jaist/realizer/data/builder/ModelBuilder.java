@@ -70,6 +70,109 @@ public class ModelBuilder {
 		}
 
 	}
+	public static void makeTestSentences(String dependencyTreeFile, DependencyTree tree, int[] gramsA, int headMaxGram){
+		System.out.println("Making Dependency Test Corpus ....");
+        BufferedReader br= null;
+
+    
+        try {
+        
+			br = new BufferedReader(new InputStreamReader(new FileInputStream(dependencyTreeFile),"UTF-8"));
+			List<String[]> propsStack = new ArrayList<String[]>();
+			String s = null, rdName = null;
+			int maxGram = 0;
+			Map<Integer, Integer> grams = new HashMap<Integer, Integer>();
+			for(int n : gramsA){
+				if(maxGram < n) maxGram = n;
+				grams.put(n,1);
+				if(n-1 > 0)grams.put(n-1,1);
+			}
+			long numberSentences = 0, numberOfWords = 0;
+			while((s = br.readLine()) != null){
+				
+				//System.out.println(s.equals("\n"));
+				if(s.trim().length() == 0){
+					//System.out.println(propsStack.size());
+					if( propsStack.size() > 40 ){
+						propsStack = new ArrayList<String[]>();
+
+					}else	if(propsStack.size() > 0){
+						numberOfWords += propsStack.size();
+						String[] words = new String[propsStack.size()];
+						numberSentences++;
+						String rd = "", w ="";
+						StringBuffer wholeSentence = new StringBuffer("");
+						Map<Integer,TreeNode> nodeMaps = new HashMap<Integer, TreeNode>();
+						TreeNode  root = null;
+						int rootIndex = 0;
+                       
+                        ///.//////////////
+						for(int i =0; i < propsStack.size(); i++){
+							
+							String[] props = propsStack.get(i);
+							words[i] = props[0].toLowerCase();
+							wholeSentence.append(props[0].toLowerCase()).append(" ");
+							// HeadWords
+							int parentIndex = Integer.parseInt(props[2]); // +1//
+							TreeNode  node = null, parentNode = null;
+							if(nodeMaps.containsKey(i+1)) node = nodeMaps.get(i+1);
+							else {
+								node =	new TreeNode(i+1,parentIndex, props[0].toLowerCase(), props[3].toUpperCase(), props[1].toUpperCase());
+								node.setIndexSentence(numberSentences -1);
+
+								nodeMaps.put(i+1, node);
+							}
+							if(parentIndex == 0) rootIndex = i+1;
+							if(nodeMaps.containsKey(parentIndex)) parentNode = nodeMaps.get(parentIndex);
+							else if(parentIndex != 0) {
+								String[] propsParent = propsStack.get(parentIndex-1);
+								parentNode =	new TreeNode(parentIndex,Integer.parseInt(propsParent[2]), propsParent[0].toLowerCase(), propsParent[3].toUpperCase(), propsParent[1].toUpperCase());
+								parentNode.setIndexSentence(numberSentences -1);
+
+								nodeMaps.put(parentIndex, parentNode);
+							}
+							if(parentIndex != 0){
+								parentNode.getChildren().add(node);
+								if(i + 1 < parentIndex){
+									parentNode.addPres(node);
+								}else{
+									parentNode.addPoss(node);
+
+								}
+							}
+				
+				
+							
+							
+							
+						}
+						root = nodeMaps.get(rootIndex);
+						root.setNodes(nodeMaps);
+						root.setSentence(wholeSentence.toString().trim());
+						//trainHeadWords(headWords, rdsStats, root, headMaxGram, bw, bwHKylm, bwRKylm);
+						tree.addSentence(root);
+                     
+						propsStack = new ArrayList<String[]>();
+						
+					}
+				}else{
+					String[] props = s.split("\t");
+					// props[0] : word, props[1] : tag, props[2] : parent, props[3] : Relation Dependency (RD)
+					//if()
+				    propsStack.add(props);
+					
+				}
+				
+			}
+			
+			tree.setNumberSentences(numberSentences);
+		    
+        }
+		catch(Exception e){
+			e.printStackTrace();
+		}
+		
+	}
 	public static void makeSentence(String dataFile,String sentenceFile){
 		try {
 			BufferedReader 	br = null;
@@ -472,6 +575,7 @@ public class ModelBuilder {
 									if(i - j >= 0){
 										if(!Properties.getProperties().getSearchStats().getGramCountStatistics().containsKey(j+1)){
 											Properties.getProperties().getSearchStats().getGramCountStatistics().put(j+1, new TreeSet<String>());
+										
 										}
 										Properties.getProperties().getSearchStats().getGramCountStatistics().get(j+1).add(w);
                                        //
@@ -678,9 +782,9 @@ public class ModelBuilder {
 			outputStatistics(rdStatisticsFile, tree.getNgramRDStatistics());
 			outputDependencyStatistics(dependencyStatisticsFile, tree.getPreDenpents(), tree.getPostDenpents());
 			processDependency(tree);
-			for(String rd: tree.getDependencyRatio().keySet()){
+			/*for(String rd: tree.getDependencyRatio().keySet()){
 				System.out.println(rd + ": " + tree.getDependencyRatio().get(rd));
-			}
+			}*/
         }
 		catch(Exception e){
 			e.printStackTrace();
@@ -841,6 +945,20 @@ public class ModelBuilder {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+	private static void traverseTree( TreeNode root) {
+		// Ignore tree with only one node
+		if(root  != null){
+			for(int i = 0; i < root.getPres().size(); i++ ){
+				traverseTree( root.getPres().get(i));
+			}
+			for(int i = 0; i < root.getPoss().size(); i++ ){
+				traverseTree( root.getPres().get(i));
+			}
+		}
+	
+	
+		
 	}
 	private static void trainHeadWords(Map<String, Long> headWords,
 			Map<String, Long> rdsStats, TreeNode root, int headMaxGram, BufferedWriter bw, BufferedWriter bwHKylm, BufferedWriter bwRKylm) {
