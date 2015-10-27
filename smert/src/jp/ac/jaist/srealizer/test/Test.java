@@ -28,12 +28,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		String line= "Versions of Stanford Dependencies have also been developed by outside groups for a number of other languages. Two prominent examples are Finnish (the Turku Dependency Treebank) and Persian (the Uppsala Persian Dependency Treebank). There is now a multi-site effort to produce dependency treebanks over a broad range of languages adopting a compatible dependency taxonomy. More details about this Universal Dependency Treebank can be found in the LREC 2014 paper mentioned above, in the current treebank release, and in new documentation.";
-		String[] ws = line.split("([.][\\s\\t\n]+|[?]|!|[.$])");
-		for(String w:ws){
-			System.out.println(w);
-		}
-
+		int numberTrainingSentence = 499; // change
+		int numberTestSentence = 526; //
 		//Properties.getProperties().setMode("en"); /* Remove comment to test with english*/
 		int[] vals = new int[]{ Properties.ADD_ONE, Properties.KNEY, Properties.KYLM};
 		Map<Integer,Integer> nextRun= new HashMap<Integer, Integer>();
@@ -54,16 +50,7 @@ public class Test {
 		    System.out.println("Test Cumulative: " + Properties.getProperties().getNgramWordStats().getStatistics().size());
 
 			ModelBuilder.makeDependencyStatistics(ModelBuilder.getDependencyTreeFile(), tree,new int[]{2,3}, 3);
-			/*System.out.println("-----Pre Type-------");
-			for(String t : tree.getPreWordTypes().keySet()){
-		    	System.out.println(t + ": " + tree.getPreWordTypes().get(t));
-		    }
-			System.out.println("-----Pos Type-------");
-			for(String t : tree.getPosWordTypes().keySet()){
-		    	System.out.println(t + ": " + tree.getPosWordTypes().get(t));
-		    }
-			System.out.println("--------");*/
-			//System.exit(1);
+			
 			Properties.getProperties().setExpectedSept(0.7);
 			
 			if(useKylm){
@@ -114,14 +101,13 @@ public class Test {
 	     
 	      //  int pivot = (int)(corpara.size() * 0.1);
 			
-			int pivot = 499; // Number of training sentences;
+			int pivot = numberTrainingSentence; // Number of training sentences;
 			System.out.println("Train Sentence: " + pivot);
-			int nTest = 526;
+			int nTest = numberTestSentence;
 			List<TreeNode> trainSentences= corpara.subList(0,pivot);
 			indices = new TreeMap<Integer, Integer>();
 			for(int i =0; i < trainSentences.size(); i++){
 	        	indices.put((int) trainSentences.get(i).getIndexSentence(), i);
-	        	
 	        }
 			double[] intitialLambda = new double[]{0,0.1,0.2,-0.1};
 		      CommonUtils.setParams(intitialLambda, "params.txt");

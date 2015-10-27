@@ -145,6 +145,12 @@ public class TreeNode {
 	public void setType(String type) {
 		this.type = type;
 	}
+	public List<String[]> getStacksSentence() {
+		return stacksSentence;
+	}
+	public void setStacksSentence(List<String[]> propsStack) {
+		this.stacksSentence = propsStack;
+	}
 	private long indexSentence;
 	private String sentence;
 	private String refHeadSequence;
@@ -163,6 +169,6 @@ public class TreeNode {
 	private Map<Integer,TreeNode> nodes;
 	private List<TreeNode> children;
     private List<Candidate> candidates;
-	
+	private List<String[]> stacksSentence;
 }
                                     

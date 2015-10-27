@@ -156,7 +156,7 @@ public class DependencyTree {
     private Map<String, Long> posWordTypes;
     private Map<String,Map<String,Long>> preRDPs;
     private Map<String,Map<String,Long>> posRDP;
-
+    
 	private long numberSentences;
 	
 }

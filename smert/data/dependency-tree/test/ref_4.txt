@@ -1,526 +1,526 @@
-0	tuyết nói *e* phải lấy được số điện_thoại của l
-1	đời thúng giữa trùng_dương kỳ 1 một chuyến xa_khơi
-2	mẹ đã tìm_hiểu kỹ
-3	bà nhu khi đó sẽ xuất_hiện cùng bà liễu giữ hạnh lại bằng biện_pháp hòa_bình văn_hóa
-4	tàu sắt chìm sà_lan nặng tới đâu ổng cũng làm nổi lên hết
-5	nghe tên hồ_chí_minh mọi người rất xôn_xao nhao_nhao hỏi hồ_chí_minh là ai
-6	ở đó các nhà_khoa_học phát_hiện nét độc_đáo vùng đất phèn nặng giàu chất_hữu_cơ ngập theo mùa và thực_vật thích_nghi phần_lớn là cây cỏ_bàng
-7	chúng_tôi muốn làm_việc kiếm tiền kiếm sống và trả những khoản nợ cho chuyến làm_ăn xa này
-8	vất_vả lắm duy mới cho biết vào đến đây thì địa_chất ổn_định hơn nên bình_quân mỗi ngày chúng_tôi đi được khoảng 5 m
-9	hàng_quán nhộn_nhịp đủ loại thượng_vàng_hạ_cám tiếng rao hàng thủ_công xen_lẫn tiếng máy cassette
-10	một_số con_em sinh ra thuộc thế_hệ thứ ba thứ tư trên đất thái đã được *e* cấp quốc_tịch thái
-11	khi ấy vừa tốt_nghiệp đại_học chưa tìm được việc_làm tôi theo chân những người đồng_hương xuống biển tây mưu_sinh xin đi làm thợ gàu làm tà_lọt phụ việc cho chủ ghe
-12	anh mời đơn_vị ký hợp_đồng vào nghiệm_thu sản_phẩm họ gật đầu đồng_ý ngay
-13	anh phước nói đã đến lúc *e* chuẩn_bị lên_đường
-14	buổi_sáng đôi trẻ ra phố hàng_mành ăn sáng
-15	sau hòa_bình tui về quê lập gia_đình vào năm 1985
-16	ngày ấy đi đặt trạm ở các khu_vực có dân để chuẩn_bị cho việc mở đường trường_sơn ông đã sống trong lòng đồng_bào tà_ôi như ruột_rà
-17	chị không nói gì nhưng biết chúng_tôi là dân đường_mòn bí_mật biển đông và coi chúng_tôi là những người anh_hùng
-18	anh ta tả lại người con_gái nhỏ_nhắn với chiếc túi vải bạt trên người trong đựng vài quyển sổ nhỏ có vẽ những sơ_đồ vết_thương và phác_đồ điều_trị
-19	bây_giờ hùng lại là cán_bộ phòng kinh_doanh
-20	đề_xuất được *e* chấp_nhận *e* hút gần như hết cát rồi chỉ sau một đêm *e* thức dậy thấy nổi lên một cồn cát mới
-21	vé bán hết vèo chỉ trong ít giờ
-22	nhiều thông_tin về chiến_tranh vn được *e* đưa trên báo nhân_đạo
-23	khâu đập bao *e* mất_sức và phải sống chung với bụi nên thu_nhập cao hơn khoảng 25.000 đồng ngày
-24	áo trắng cặp đen và kính_cận thanh chặn đường ông trưởng_thôn nói cơ_quan xét kết_nạp đảng cho hùng
-25	dẫu_sao nó cũng chưa từng phải nếm vị mặn của chiến_tranh
-26	đơn gửi bằng fax viết tiếng anh
-27	và rất nhiều giấy ghi_chép khác ghi rõ hàng_hóa chở số_lượng chở thường từ 35 52 tấn hàng
-28	để từ đó ông dành những phút trầm_tư cảm_nhận cho thấu_đáo kiệt_cùng ý_nghĩa tầm_vóc ảnh_hưởng lớn_lao của chiến_thắng lịch_sử này cao
-29	hình_như ông trời bắt tui phải sống để nuôi trẻ dân_tộc mồ_côi kể đến đấy ama_công phì_phèo nhả khói thuốc miệng cười thật hóm bây_giờ tui đã bảy mốt không còn sức đi đào giếng nữa
-30	lúc đó anh trai tôi và tôi đã ở vn rồi
-31	con chữ xa tầm tay
-32	thắng nói cô ấy rất hào_phóng và thông_cảm
-33	đã đến lúc thắng lật bài thật_ra anh là em họ chị nhi
-34	theo học văn_khoa được tôi_luyện trong môi_trường giáo_dục mỹ cộng nghị_lực thép nơi một người mù đã giúp mai nắm_bắt nhiều kiến_thức về văn_học thế_giới
-35	ông chua_xót thấy cảnh bà vợ hoảng_loạn tinh_thần sau những ngày đội thu nợ rầm_rộ đến khuân_vác đồ_đạc tát ao kéo lưới
-36	được_cái là hai ðứa ham học lại thông_minh nên từ lớp 1 đến lớp 7 cả hai đều là học_sinh giỏi
-37	khi chúng_tôi đến trường các em đã chào_đón bằng những bài hát rất thân_quen với thiếu_nhi vn giơ tay ra nào nắm lấy cái tai nào lắc_lư cái đầu nào ồ sao bé không lắc
-38	ở thành_phố này muốn thưởng_thức hàng độc là thịt động_vật hoang_dã như nhím heo cheo chồn rất dễ_dàng nơi nào cũng có
-39	tiến_sĩ cháy
-40	theo như chị nói thì chị bán ở đây lâu rồi các bác an_ninh công_an rõ hoàn_cảnh nên cũng chiếu_cố
-41	cứ nhà nào có người ốm_đau bệnh_hoạn anh đều có_mặt
-42	*e* biết chồng vì áp_lực công_việc căng_thẳng nên nổi_nóng nhưng sao nước_mắt thảo cứ trào ra
-43	*t* đáng_lẽ phải được tôn_vinh thì những con_người ấy đã bị đẩy xuống đáy cùng của cuộc_sống trái_lại
-44	sự_việc liên_tục xảy ra khiến hai bên không có sự hợp_tác tin_cậy mệt_mỏi từ hai phía
-45	fred sợ rằng số_phận cuốn nhật_ký của thùy cũng sẽ như vậy
-46	theo dự_kiến trận đấu kéo_dài năm hiệp
-47	sống nhờ biển chết cũng về với biển
-48	*e* làm thế_nào để bảo_vệ mình khỏi bị bệnh
-49	thượng_tá hồ_trọng_bình đoàn_trưởng đoàn quy_tập dẫn tôi vào phòng chỉ_huy
-50	ông chương kể kim rất buồn
-51	đến trang_trại hàng_đầu của tỉnh
-52	không chỉ thế tại hội_nghị paris về vn ông cũng đóng_góp nhiều cho việc chấm_dứt chiến_tranh lập lại hòa_bình tại vn từ 13 5 1968 đến 27 1 1973
-53	trường_hợp đặng_văn_thanh chính là như_vậy
-54	điều nguy_hiểm nhất theo ông vinh là tình_trạng chạy dây_điện đặt táplô công_tắc điện bóng đèn điện quá nhiều bên trong nhà_xưởng kho chứa hàng
-55	ầm ầm ầm những tiếng nổ_mìn vang_vọng từ lòng đất núi hải_vân
-56	hay *e* khai_sinh cho con
-57	từ lòng địa_đạo du_kích xuất_hiện len theo chiến_hào dựa vào các ụ chiến_đấu tấn_công địch
-58	nữ_sinh mất_tích
-59	tám_hòa bảo nhiều lần lang_thang ở dưới ông phát_hiện cả những cồn cát_vàng cát_đen di_động mà theo ông trữ_lượng rất lớn
-60	mọi người nghĩ lần này *t* sẽ về sớm riêng anh cả_quyết tôi khả_nghi mô đất giống hình nửa ngôi mộ nằm sát con đường lầy_lội do xe_tải chạy qua
-61	sau bản fax nặc_danh
-62	nhưng *e* mất tất_cả
-63	trước khi *e* đưa chúng_tôi đi thăm hệ_thống chuồng_trại tọa_lạc trên khu đất rộng 60 ha anh xốm bảo tôi cũng không ngờ cái vùng_đất đông bắc này lại trở_thành nơi mình gầy_dựng cơ_nghiệp được như thế này
-64	theo_dõi tiếp hai lần thanh kết_luận hùng đang học đại_học thương_mại chứ chưa tốt_nghiệp như bà loan biết
-65	mẹ mất khi vy 6 tuổi còn em_út của vy mới được 15 ngày tuổi
-66	đỗi chỉ cho tôi xem con đê dài gần 500 m ngăn con lạch *e* đêm trăng tui xắn đất mụ vợ mang bầu vác đất đắp con đập này đấy
-67	theo người dân khu_vực hai chiếc sà_lan này nằm một chỗ hốt cát đã hai năm nay
-68	cha của mai là ông nguyễn_văn_phúc 58 tuổi kể rằng khi hai chị_em cô chào_đời sinh_đôi được vài ngày thì họ phát_hiện cả hai đều bị mù được vài tháng người chị tắt_thở
-69	mình mới mở buộc động_mạch được ba bốn bữa thì bom giội xuống bệnh_xá niên bị cây_gỗ trong hầm đè gãy chân đúng ngay chỗ vết mổ
-70	đối_tượng hùng quan_tâm tiếp là ông học phó_văn_phòng của ông chương một người có_thể có tham_vọng giữ chức trưởng văn_phòng và muốn ông chương về nam càng sớm càng tốt
-71	bảo_mẫu kiểu thám_tử
-72	mười phút sau kíp lặn đầu_tiên trong ngày đã có_mặt dưới lòng rạch
-73	không ngờ đến một đoạn dải_phân_cách bị cắt quãng tên áo kẻ phóng liều sang đường lọt vào giữa khoảng_cách hai ôtô container thoát sang đường bên kia và vòng ngược về nội_thành
-74	biển xóa tất_cả
-75	nơi cư_trú là địa_chỉ đầu_tiên cần tìm_hiểu
-76	bác_hồ với nhân_dân vn là một *e* là ý_chí quyết_tâm khao_khát độc_lập và ý_chí của nhân_dân vn không từ_nan khó_khăn và theo_đuổi mục_tiêu độc_lập của mình
-77	*t* lần giở những trang nhật_ký của liệt_sĩ nguyễn_kỳ_sơn sau hơn 30 năm những dòng chữ rắn_rỏi của một sinh_viên viết giữa đạn_bom ác_liệt khoảng lặng giữa hai trận đánh
-78	nếu tất_cả thầy_cô bạn_bè của con_gái chị biết chuyện này thì liên tủi_nhục xấu_hổ hay_là chị và con chị *t* *t*
-79	luôn làm sáng_tỏ những bí_ẩn của cuộc_sống vậy thám_tử là ai ở đâu vui buồn của họ là gì
-80	nhưng anh cn vẫn muốn làm *e* đã lên kế_hoạch rồi mà
-81	ái_vy hiện đang sống tại nhà dành cho phụ_nữ và trẻ_em thuộc trung_tâm kredtrakarn
-82	riêng phần tôi *e* xin đem hết tâm_lực đi cùng các bạn vì đồng_bào mưu giành độc_lập dù phải hi_sinh tính_mệnh *e* cũng không nề
-83	những cửu_vạn người mông nổi_tiếng là những thợ cắt rừng giỏi gùi bộ khỏe và luôn cài dao mẹo dao nhọn bên hông
-84	giấy báo_tử không nói rõ hoàn_cảnh chị tôi hi_sinh
-85	*e* theo địa_chỉ mang đến nhà họ trả có người thì vui_vẻ cảm_ơn có người lại nghi_ngờ vì đấy là đồ_đạc họ bị *e* đánh_cắp cướp_giật
-86	truyền_thống gia_đình bên nội rất hiếu học nên chị_em nó cũng noi theo
-87	ba_hạo hết làm chuyện lạ này lại đến chuyện lạ khác
-88	bs khám bệnh rồi chẩn_đoán đdv đo huyết_áp chích thuốc giảm đau chuyển bệnh_nhân lên băng_ca lái_xe chở thẳng đến bệnh_viện
-89	tôi làm_quen với phú em rất ít nói
-90	cậu đã từng bán báo đánh giày hai năm ở tp.hcm mới ra hà_nội hành_nghề để mỗi khi nhớ nhà thì *t* nhảy tàu về dễ hơn
-91	15 phút sau hùng và một thám_tử tổ lái nữa có_mặt gần quán cà_phê ông chương đang ngồi
-92	và muốn đánh tan những lời nói ra nói vào ấy chẳng còn cách nào khác cô phải chứng_minh thực_lực của mình
-93	hai chiều thương_nhớ
-94	của chợ_được của vĩnh_trinh của hướng_điền của trà_bồng của bến_tre
-95	có_lẽ đã thấy đủ bà loan xách túi đi ra với cả ban_nhạc trong lòng
-96	hàng nghìn ông bố bà mẹ đã online để thảo_luận hàng trăm chủ_đề về những đứa con yêu_dấu
-97	tòa đã tuyên một bản_án hợp_lý hợp_tình phần đất bà đang nhặt điều hái điều sẽ được làm giấy chứng_nhận quyền sử_dụng cho bà phần bà đã cắt cho con_gái thì thuộc quyền sử_dụng của cô
-98	nhưng với gia_đình anh lộc chị bình thì cái thiếu cái đói mới nghiệt_ngã làm_sao vì anh là thương_binh đã bị cắt 3/4 dạ_dày sa gan suy thận
-99	thám_tử phú trả tiền ba chiếc bánh_mì và hai bao thuốc_lá lặng_lẽ chìm vào phố_phường của chiều cuối năm ồn_ã
-100	chúng_tôi nhằm hướng đảo hải_nam chạy thẳng ra càng ra khơi sóng càng to gió càng lớn
-101	tờ bướm công_ty khai_minh phân_phát để quảng_bá kết_thúc bằng một câu rất đẹp một người làm việc tốt hai người làm việc tốt tất_cả làm việc tốt thì cuộc_sống ngày_càng tốt_đẹp hơn
-102	vấn_đề còn lại là cháy dây điện dẫn vào máy hay cháy từ bên trong máy
-103	ở nơi xa_xôi hẻo_lánh này những sự dạy_dỗ cao_siêu chẳng có chút giá_trị nào bà_con chỉ nhìn vào những gì các anh làm
-104	những ngày sau đó ông chương không thấy bị ai theo_dõi nữa
-105	họ bị gia_đình đuổi ra khỏi nhà khi phát_hiện nhiễm hiv và bây_giờ *t* không nhà không nghề_nghiệp không hộ_khẩu và đương_nhiên đứa con 18 tháng tuổi cũng sẽ không có giấy khai_sinh
-106	điều gì đã làm nên sức_mạnh nơi cô_gái dịu_dàng đa_cảm ấy
-107	anh hải người đưa chúng_tôi đi trong những ngày ở thái_lan bảo biệt_thự này của một việt_kiều làm nghề nuôi heo đấy
-108	khổ_nỗi khi anh con_trai nín_nhịn để tránh xung_đột ông cũng bực vì tự nói tự nghe và cảm thấy vô_duyên
-109	đất rừng bị manh_mún xé_lẻ rừng ngày_càng nghèo kiệt
-110	gió xô phần_phật như muốn thổi bay mấy cái áo học_trò đã ngả màu cháo_lòng đang phơi trước nhà của con trai sáu_kế
-111	ba kinh ba soạn má luận má kiệm má cúc cô sự chú bông chú phát xinê đã đi đâu về đâu với cái nghề cấp_dưỡng tiếp_phẩm chiếu_bóng trong xã_hội thời_bình đầy sung_sướng nhưng cũng đầy vô_tâm này
-112	muôn người đã tạo nên một người_mẹ hiền vĩ_đại là đảng nhưng trong muôn người_mẹ ấy có một người_mẹ và *e* chắc không phải một người đâu y_hệt một bà_mẹ ghẻ trong câu_chuyện cổ_tích
-113	mặt_khác nếu vì cạnh_tranh kinh_doanh thì hình_thức này rất kém hiệu_quả
-114	rời mảnh đất của các tử_tội và đại_dịch chết màu trắng tôi cứ bị ám_ảnh bởi đôi mắt u_uẩn nặng buồn của bà cháu bà tiêu
-115	một khuôn_mặt dính đầy dầu và bụi đá trên toàn khuôn_mặt ấy duy_nhất chỉ có đôi mắt là sáng
-116	tối 29 10 chúng_tôi đến hỏi mua thịt rừng tại nhà tám_xáng trên quốc_lộ 14 phường tân_bình thị_xã đồng_xoài
-117	ông không nghi_ngờ vợ ông có mưu_chước và tính_cách ghen_tuông kiểu quái_đản này nên ông càng giấu hùng
-118	xong chúng lại thủ_thỉ muốn đi học phải có quần_áo đàng_hoàng và một chiếc xe_đạp
-119	hôm bà mất *e* không tới được nay *e* qua thắp hương rồi lại phải đi luôn
-120	nếu thông_tin của ông chương đúng thì dù *e* đã chia_tay nhưng các con ông vẫn ở cùng mẹ và bà ta cũng sẽ biết địa_chỉ và số điện_thoại nhà ông
-121	hùng dặn ông chương cứ ngồi trong quán khoảng một tiếng nữa rồi đi ra bình_thường
-122	còn ở vn đây đúng là oxy_shop đầu_tiên anh huỳnh_ngọc_minh phó chủ_tịch liên_đoàn cử_tạ thể_hình tp hcm dí_dỏm nhận_định
-123	ngày_ngày đối_mặt với thú_dữ nghĩ đến ngày mình không thường_xuyên gặp chúng nữa chắc sẽ buồn lắm chị tiệp bùi_ngùi
-124	số này sau khi đè_bẹp lớp đàn_em đã chuyển nghề kinh_doanh đất mở đại_lý hàng điện_tử hoặc hình_thành những đường_dây buôn thú cỡ lớn xuyên quốc_gia
-125	bốn ngày dò_tìm ba ngôi mộ lần_lượt được phát_hiện
-126	*e* phải nghe các anh cn thoát nước nói thì mới thấy được có nguyên_nhân từ ứng_xử của con_người
-127	bần_cùng lắm thì *e* làm thêm kiếm đồng_tiền bát gạo thôi
-128	các dự_án của quỹ quảng_nam đà_nẵng đặt ra mục_tiêu mỗi năm *e* giúp_đỡ được 500 gia_đình người nghèo cung_cấp học_bổng các phương_tiện y_tế cho trẻ_em người khuyết_tật ở đà_nẵng và một_số chương_trình nhỏ hỗ_trợ nạn_nhân chiến_tranh
-129	30 năm rồi nhà bia không một ngày thiếu mùi hương
-130	câu_chuyện được *e* rì_rầm kể lại trên biển đêm yên_tĩnh
-131	ngày chủ_nhật đẹp trời hai vợ_chồng thu thọ ríu_rít sửa_soạn cho bữa tiệc cuối tuần
-132	cụ_thể nhi sẽ không trả_thù bêu_xấu và không đòi lại những tài_sản mà nam cho lan
-133	gần 1.000 người đã được đào_tạo trình_độ trên đh hàng chục ngàn người được học đh cđ và thcn
-134	nay giao lại cho bql khiến chúng_tôi cũng đau đầu
-135	coong coong coong tiếng động từ những ống_bơ dồn_dập hàng chục chú chim vô_tội vẫy_vùng trên cheo lưới
-136	*e* đi khám thì bác_sĩ bảo vô_phương cứu_chữa
-137	ngồi bên tôi là một_số sĩ_quan của đặc_khu xây_xẩm_bun
-138	trường phát cho bóng động_lực thi_đấu nhưng bọn em hùn tiền mua riêng bóng nike
-139	nhiều người không mua được vé đã leo lên và làm sập cả mái ngói ở một ngôi chùa cạnh sàn đấu
-140	trong những ngày đi tìm chân_dung của những nàng dâu việt nơi đất khách tôi đã được nhìn thấy họ qua nhiều góc_cạnh nhiều lăng_kính muôn màu sáng có tối có
-141	sang ngày hôm sau nó liên_tục đánh_đập tôi
-142	*e* nhớ một căn phòng đơn_sõ nhưng đầm_ấm buổi_sáng râm_ran tiếng cười nói chen lẫn tiếng phát_thanh từ chiếc radio để giữa nhà
-143	lường trước những tình_huống như_thế nên đều ý_thức được thái_độ và tinh_thần làm_việc của mình cả khoa
-144	chúng em thường gọi đùa hiên là nàng tiên nhỏ
-145	tôi bị *e* bắt hơn một năm
-146	giờ_đây xe tràn_ngập đà_lạt là của martin
-147	nó gặp nhiều khó_khăn
-148	sau đó *t* lợi_dụng đêm_hôm vô đốt lửa cho cây khô
-149	mẹ trâm ạ tất_cả chúng_ta cần được biết những lời chị viết
-150	hết nghĩa_vụ quân_sự tuấn về nhà và thi đỗ ðại_học ngoại_ngữ ra trường *t* trở_thành giảng_viên ðại_học quốc_gia hà_nội
-151	năm 1963 chị hồi_hương theo gia_đình về vn
-152	có_thể thủ_phạm đem máy_fax khác đến đường_dây điện_thoại này
-153	hai năm 1996 1997 công_cuộc kinh_doanh rơi vào điểm tối_đen nhất không thấy tương_lai
-154	do mới thành_lập từ giữa năm_ngoái và cũng chưa có kinh_phí mỗi tháng nguyệt_san phát_hành được khoảng 1.000 tờ *e* chủ_yếu phân_phát cho các chị_em ở vùng_sâu_vùng_xa có thêm thông_tin để đọc
-155	sau hơn 10 ngày anh đã cải_tiến thành_công chiếc máy cắt lúa với công_suất siêu nhanh bằng cách thay lưỡi cắt một mảnh bằng lưỡi cưa tròn
-156	họ phải làm lại từ đầu *e* tháo từng con bù_loong ra lắp ron và siết chặt lại với độ chuẩn_xác cao
-157	chiều 30 10 chúng_tôi đến đạ_tẻ một thị_trấn bé_nhỏ nằm lọt_thỏm giữa núi_rừng
-158	những đôi vợ_chồng @ như hiền và kiên vẫn hằng ngày xuất_hiện trên không_gian ảo để chia_sẻ cùng mọi người những thông_tin về nuôi dạy con vì họ cho rằng điều đó có_ích cho cuộc_sống
-159	nó đi ra đường vào quán uống cà_phê với bạn_bè trong ánh mắt tò_mò của mọi người mà không hề mặc_cảm tự_ti
-160	được sự giúp_sức của địa_phương của hội phụ_nữ chị h d đã có việc_làm một gia_đình một mái_ấm hạnh_phúc
-161	toàn theo nhu đến ngã ba và định bỏ về thì anh giật_mình nhu không rẽ về nhà
-162	người đàn_ông đưa vy sang campuchia bằng xe_đò
-163	đến năm 2000 2001 khi con tôm_sú giúp nhiều nông_dân thành tỉ_phú những cuộc đổ quân vào dự_án của nhà_nước chiếm đất và phá rừng ngập_mặn để nuôi tôm lan nhanh như bão
-164	đó là phòng_thí_nghiệm của anh đỗ_quý_hạo huyện hòn_đất kiên_giang
-165	mình cứ như bị mê đi bởi sự huyền_diệu của các con_số
-166	nơi đây sau chiến_tranh chỉ có trảng cát dài nhìn nhức mắt *e* bây_giờ là hàng dương xanh
-167	đã có lúc chúng_tôi đề_nghị đổi thành cn nạo_vét cống ngầm cho thêm phần lịch_sự nhưng vẫn chưa được
-168	nhìn sang những bàn xung_quanh chúng_tôi nhận thấy không hiếm người bắt độ 2 3_triệu đồng
-169	họ vẫn lau sạch từng vết bẩn vẫn lưu_giữ cẩn_thận
-170	neil mình đi học về qua căn nhà ba tầng ở 14 phố lê_trực ngước lên nhìn đã thấy anh đứng đó đợi mình mái_tóc xòa phủ trên đôi mắt buồn
-171	mỗi tờ giấy chẳng sẽ mang lại ít_nhất hai nụ cười của người bị mất và người nhặt được đấy là gì
-172	với doanh_nghiệp trong nước thành là người quan_trọng có kinh_nghiệm nhưng khi bước chân gõ cửa các tập_đoàn công_ty đa quốc_gia thì anh thấy mình là con_số không
-173	chị châu vợ anh thì chép_miệng đông con quá mà việc thì chẳng có mà làm
-174	trên đường từ sakon_nakhon về nakhon_phanom bên phải đường phía ngoại_ô nakhon có một tòa biệt_thự to đẹp nằm trên khoảng đất rộng_lớn chừng vài hecta rất ấn_tượng
-175	những lúc không hành_nghề luật_sư hay khoa_học tôi trở_thành một người làm vườn
-176	bây_giờ thì khác *e* có tem niêm_yết có nơi xuất_xứ bảo_hành nên *e* yên_tâm hơn nhiều anh vũ_hữu_tuấn q phú_nhuận cho biết
-177	các cửa rạch_gốc hố_bỏ_gùi vàm_lũng vàm_cái_su cạn hơn nhưng lúc nước_cường *e* vẫn vào được lại có lạch kín rừng đước dày có_thể đào ụ giấu tàu và lập kho lớn chứa vũ_khí
-178	đó là nguyên_nhân khách_quan
-179	những ngày đầu biết được cơ_thể khác người của mình đã làm anh mất_ăn_mất_ngủ nhiều người ác_miệng còn bảo anh là người cõi trên và đặt cho anh biệt_danh hùng điện
-180	mang_tiếng là được cưới về nhưng loan suốt ngày quần_quật với công_việc nhà như con ở
-181	còn niềm vui sao nhỏ quá so với ý_nghĩa của ngày vui
-182	hơn 30 năm kể từ ngày anh hi_sinh và 28 năm qua kể từ ngày thống_nhất 1975 đến nay cả gia_đình thay nhau đi tìm mộ_phần của anh nhưng vẫn chưa tìm thấy
-183	công_an biên_phòng kiểm_lâm đã khởi_tố hàng chục vụ án thu_giữ hàng chục ôtô con ôtô khách nhưng nạn buôn thú vẫn không hề giảm
-184	an nói *e* làm nhiều người_ta cho tiền nhiều để ba_mẹ có tiền mua gạo nấu cơm
-185	*t* tiếc là mình làm quá muộn nên không trả lại được tên_tuổi cho các anh nhiều lắm thượng_tá bình nói
-186	lần đầu_tiên tôi gặp các nạn_nhân bị nhiễm chất_độc da_cam ở vn là lúc tôi làm trưởng phân_xã bangkok của một đài_truyền_hình nhật
-187	bản_thân thành là chỉ_huy nhưng hơn mười năm chưa một lần anh bỏ một chuyến đi rừng nào
-188	theo một chủ hàng người trung_quốc cho biết tùy theo chất_lượng mũ_bảo_hiểm có giá dao_động từ 10 14 ndt tương_đương 19.000 26._000 đ
-189	mùi hổ ở thành_phố
-190	nhưng sức con_gái và nghị_lực khiến hiền tiến nhanh với hai hcb tại para_games 2003 năm hcv trong các giải toàn_quốc khiến hiền được nhiều đồng_đội trong cả nước biết đến
-191	vì công_lý vượt qua mọi biên_giới mỗi người đã cất lên tiếng_nói của mình
-192	*e* lên đến nơi ở trạm giao_liên vài ngày thì một buổi chiều *e* thấy anh lê và anh hiền ra tay xách mấy chai rượu_cần và một hănggô cơm nếp
-193	những đường_dây tổ_chức cá_độ
-194	ông chương để công_văn trong bao thư
-195	già tức_tốc về báo_cáo huyện_đội rồi bàn kế_hoạch cài bẫy
-196	họ cùng phải ký và điểm_chỉ vào bản nhận tội
-197	trưa chủ_nhật một ngày đầu tháng tư chúng_tôi chen_chúc trong dòng người xô_đẩy nhau dưới cơn mưa trái_mùa tầm_tã để vào dự_khán cuộc tỉ_thí giữa các võ_sĩ muay_thái
-198	đó là ông nguyễn_minh_phụng ở huyện miền núi tiên_phước quảng_nam
-199	việc được *e* cấp phép trong hoàn_cảnh như vậy chỉ làm những người đang sống và con_cháu thêm đau_khổ
-200	tốt_nghiệp loại xuất_sắc không đi đầu_quân cho các công_ty nước_ngoài như nhiều sinh_viên giỏi khác thành quyết_định ở lại làm_việc tại trung_tâm nghiên_cứu thị_trường của đh kinh_tế
-201	thấy làng lõm nằm chòi bên mép biển như cái gai trước mắt ngày 26 6 1966 mỹ cho máy_bay ném bom phía trong trảng cát rồi *t* tàu chiến bắn lên từ biển
-202	chị tình kể lại khi nghe chồng nói vậy chị ngạc_nhiên vô_cùng
-203	tùng kết_thân với một cô bạn_gái người hàn_quốc học rất giỏi
-204	hơn thế nữa một_vài biện_pháp hành_chính xuất_phát từ ubnd tp sẽ là thêm những quả ngọt cho họ dẫu đã ba năm trễ_tràng
-205	tuy_nhiên con vật nào cũng vậy cả thôi *e* phải hiểu chúng chăm_sóc chúng đúng mức thì dù có dữ_dằn chúng cũng sẽ trở_nên thân_thiện và đáng yêu hơn
-206	*e* lại có nhiều khoảnh rừng thông từng được nhà_nước bỏ tiền ra trồng đã bị đốt cháy sém đang dần khô lá úa cành
-207	ngồi ăn trên đất lào *e* cứ ngỡ đang ở vn
-208	cả nước vn có hàng ngàn hàng vạn con_em đang ngày_đêm đau_đớn và những gia_đình chịu bao cảnh mất_mát đau_thương trong đó có một phần nhỏ_bé của gia_đình cháu
-209	nghề làm bao được *e* chia làm nhiều công_đoạn rút chỉ cắt dán tiền công khoảng 15.000 20.000 đồng ngày
-210	đây là chi_hội thứ 24 trực_thuộc hội bảo_trợ bệnh_nhân nghèo tp._hcm do gia_đình nsưt lý_huỳnh cùng một_số nghệ_sĩ cá_nhân doanh_nhân giàu lòng nhân_ái tự_nguyện tham_gia
-211	nhờ nắm chắc giá_cả thị_trường mùa khoai vừa thu_hoạch lái_buôn gọi ba_hạo nhoi nhiều cả lên và tự định_giá 1.300 đồng kg
-212	đến ngày giải_phóng miền nam đã có trên 300 người con miền nam được *e* đưa ra học_tập trên đất bắc trở_thành phó_tiến_sĩ 16.000 người tốt_nghiệp đh gần 3.000 người được *e* cử đi học nước_ngoài
-213	cô ta là kẻ có tội mà không phải gánh_chịu gì
-214	không biết đến bao_giờ bà_con vùng_cao huyện nam_trà_my mới ổn_định được cuộc_sống sau thiệt_hại lớn của cơn lũ này và đối_phó làm_sao với những con lũ sắp đến
-215	hùng chọn bắn tin qua ông học để tới tai vợ ông ta
-216	nhưng chỉ đến lúc cháu gái đủ tuổi đi học bà năm mới thấm_thía
-217	cái khó nằm ở khâu quyết_toán tài_chính dn và quyết_toán thuế
-218	nhiều người ngã gục
-219	thế nhưng đường vẫn ngập lênh_láng
-220	*e* vừa uống nước vừa hỏi chuyện
-221	theo thời báo kinh_tế sg
-222	nhiều đồng_bào đồng_chí hi_sinh
-223	kế_hoạch sản_xuất tàu kéo_đẩy đã được chúng_tôi ấp_ủ từ mấy năm nay ông đỗ_văn_hạt giám_đốc xí_nghiệp cơ_khí công_trình thuộc công_ty tư_vấn đầu_tư xây_dựng đơn_vị lên kế_hoạch và chịu trách_nhiệm thiết_kế cho biết
-224	thì_ra ông ẩn trần_ngọc_ẩn là chủ_nhiệm hợp_tác_xã mây_tre đan xuất_khẩu tiến_thành nằm cạnh quốc_lộ 1a thuộc xã quỳnh_thạch quỳnh_lưu nghệ_an
-225	1.001 thủ_đoạn
-226	cả mẫu ruộng mà không có người phụ cắt gom lúa để phóng thì coi như cả nhà phải ăn ngủ ngoài đồng suốt mấy ngày trời
-227	và để hoàn_chỉnh luôn cái nền tài_chính được đào_tạo sẵn có cô lao vào học để lấy luôn bằng thạc_sĩ chuyên_ngành tài_chính
-228	ông xưng là võ_văn_chương trưởng văn_phòng đại_diện hà_nội của một công_ty tư_nhân chuyên nhập_khẩu và phân_phối máy công_nghiệp_nặng trụ_sở chính ở miền nam
-229	theo giới đi thúng lì đòn nhất vẫn là năm ngư_phủ ở xã lý_vĩnh đảo lý_sơn họ đã trôi trên biển suốt năm ngày_đêm trước khi được tàu hải_quân cứu sống hồi tháng 12 2004
-230	nếu *e* đúng như_vậy thì chắc_chắn thu biết ông ta là thủ_phạm nhưng vì cô sợ ảnh_hưởng đến công_việc hoặc vì *t* sợ ông ta công_khai chuyện trước_đây của hai người nếu có nên *t* phải giấu chồng
-231	bây_giờ sau 41 năm chị trở_lại thăm mộ người cha thân_yêu của mình trên đất thái
-232	12 người trong tù ra số còn lại thất_nghiệp không có tiền ăn phải tự cứu nhau
-233	người_ta nói nhiều đến các nguyên_nhân gây ngập trong thành_phố phần_lớn là các nguyên_nhân vĩ_mô như qui_hoạch san_lấp các hệ_thống cống đường_phố
-234	ông xem tôi như một người lính
-235	cha_mẹ làm_ăn vất_vả nhưng giá nào cũng phải cho con_cái học đến_nơi_đến_chốn bà_mẹ tâm_sự
-236	ông rát ruột nghĩ đến mấy đứa con nhỏ đã phải bỏ học đi làm_thuê vì trong nhà không còn hột gạo đến trường *e* bị bạn_bè chê_cười là con của đồ lừa_đảo
-237	nguyên phân_công anh bạn đồng_nghiệp ở vòng ngoài bảo_vệ còn mình leo lên lầu của khu_vực cháy để cứu người và chữa_cháy
-238	ở đây ông còn một người bạn thân tên học đang làm phó văn_phòng và cũng từ miền nam ra
-239	anh_chàng dắt mối tâm_sự ngày nào em cũng dắt khách đi coi đất đến mỏi chân nhìn họ bán đất lời *t* thấy đã lắm
-240	nhìn hoàng lóng_ngóng thu_dọn đồ_nghề tôi chợt nghĩ tay_chân đấy không_thể đi cày ruộng được
-241	*e* cần phải có những công_nhân dũng_cảm như nhóm của anh đại
-242	bình cắt thêm người theo sát hai anh của tuấn đồng_thời nhắn_tin hẹn gặp tuấn để lấy hàng
-243	ai đoán hết cuộc cờ năm châu
-244	đến nay xã có 672 người đi làm_việc ở nước_ngoài
-245	nó có lông màu đen mỏ cụt trông giống chuôt cống
-246	thú từ campuchia về *e* trông đừ lắm ăn không ngon bằng từ rừng bình_phước
-247	không một ai đọc xong mà không cảm thấy một điều gì
-248	chiến_tranh đi qua để lại quê_hương thái_mỹ huyện củ_chi tp._hcm hộ gia_đình chính_sách và hơn 2.000 ha đất thép
-249	anh hai_địa dọa đồng_chí công_an tỉnh các đồng_chí không đưa tôi đi gặp đồng_chí lê_duẩn ngay sau_này *e* lỡ việc lớn *t* phải chịu trách_nhiệm
-250	tháng 4 1966 ông đột_kích vào tận căn_cứ đồng_dù gài mìn diệt hai xe thu nhiều chiến_lợi_phẩm
-251	chủ công_trường không nhận lại vì hết việc
-252	tôi đã kể với đại_tướng tất_cả cuộc_đời tôi
-253	*e* không cần chứng_nhận đâu
-254	tốc_độ cổ_phần_hóa không chậm phó chủ_tịch mai_quốc_bình dẫn_chứng có 109 doanh_nghiệp dn cổ_phần_hóa năm 2003 mình làm được 37
-255	năm 2000 ubnd tỉnh hà_tây đã công_nhận họ là nạn_nhân chất_độc da_cam và trợ_cấp cho vợ_chồng người nông_dân nghèo mỗi người 88.000 đồng tháng
-256	bibi gọi cô_giáo dạy tiếng việt là mẹ
-257	ông ba_phước còn kể cho tôi nghe nguồn_gốc hình_thành nghĩa_địa này
-258	ông chương chỉ có một người hàng_xóm sát vách thỉnh_thoảng *e* chào_hỏi xã_giao
-259	anh bôn_ba xứ người hơn 10 năm từng đứng lên bục cao nhất của giải_thưởng kinh_tế thương_mại toàn tiệp_khắc nay đã trở_về
-260	lúc tôi đứng dậy chào để đi thì cụ thiết nắm tay tôi *e* cuối đời bà mới biết đến tiền triệu cháu à
-261	bão mặn
-262	các đồng_chí ở sở phát_biểu thì không muốn thành_lập dưới huyện nhưng khi các đồng_chí ở huyện phát_biểu thì *e* lại bảo phải đẩy_mạnh cho huyện vì chỗ chúng_tôi mới nhiều việc thứ_trưởng võ nói ngay
-263	ông h_. nhảy ra khỏi lùm cây rút đèn_pin trong túi soi lên cheo lưới
-264	bà bảy chuyển vào trong ấp nay đảo chỉ còn lại điều và xoài mà thôi
-265	năm 5 tuổi trương_văn_lâm đã bắt_đầu tìm đến học võ_thuật và người thầy đầu_tiên của ông chính là ông ba_sen thầy dạy võ nổi_tiếng ở đất nam_bộ với những học_trò sau_này là những tên_tuổi lớn như lưu_hòa_phát mã_thành_long
-266	một hôm biết tùng sắp sẵn kế_hoạch trốn học đến gặp bọn thắng trắng hải kéo tùng đi ăn nem ở phố cầu_gỗ
-267	thư viết ngày 28 5 2005 lúc 23 g 47 được mở_đầu bằng một dòng chữ gửi người mẹ tuyệt_vời
-268	lứa trai_tráng ngày đó 16 tuổi như ông út_kang 17 tuổi như ông tư_cậm 18 tuổi như ông chín_ảnh giờ đã trên 60
-269	thiếu_úy đỗ_quốc_việt là một trường_hợp như_thế
-270	nếu con không muốn ở thì *t* đi bố_mẹ không ép
-271	trường có thời_gian đào_tạo ngắn và đến khi chiến_tranh chống mỹ nổ ra thì mô_hình đào_tạo này chấm_dứt
-272	*t* đánh bao_nhiêu kilôgam thuốc mỗi ngày
-273	thấy tôi ngạc_nhiên với rổ tre đủ loại con anh giải_thích ruốc cá là vậy không đánh thì thôi đã đánh thì chết không sót con gì
-274	kinh_khủng lắm anh ạ
-275	gần 10 giờ sáng cùng ngày nước đã được mở trở_lại
-276	mãi đến 4 tuổi phú mới bắt_đầu tập đi nhưng vẫn như củ khoai bế lên tụt xuống da củ khoai lúc đỏ tấy lúc xanh nhợt thỉnh_thoảng lại có những cơn đau quằn_quại
-277	suốt năm 1999 jimmy_phạm chạy như con_thoi vừa lo mọi cơ_sở để mở một quán bán cà_phê bánh_sandwich cho khách du_lịch vừa làm hướng_dẫn_viên để lấy tiền nuôi ý_tưởng
-278	dân_làng nhìn đỗi như một người điên
-279	rồi *e* đưa về đà_nẵng nhốt hai tháng rưỡi
-280	cuộc thứ nhất hết 5 phút gọi trong giờ_hành_chính và từ số máy có đông người ngồi xung_quanh
-281	tốc_độ tối_đa 120 km g
-282	tới mùa mưa làm không kịp thì coi như gặp tai_họa lớn
-283	chuyện bị lộ từ năm 2000 khi ubnd xã sơn_trà làm lễ khánh_thành nhà bia liệt_sĩ nhiều người dân ngỡ_ngàng khi thấy tên ông khuyên khắc nét trên bảng_vàng danh_dự tại dòng số 93 giữa danh_sách các anh_hùng liệt_sĩ
-284	đến lúc này *e* buộc thu phải nói thật từ hai tháng trước ngày thọ đọc được tin nhắn lần đầu thu liên_tục bị một số máy lạ nhắn vào máy với những lời_lẽ yêu_đương đắm_đuối
-285	hùng đến và tất_nhiên phải chờ ở phòng khách
-286	dọn_dẹp mang bánh_đa cơm cháy thuốc_lá những món khoái_khẩu của con vào phòng bà ra ngoài ngồi_bệt dưới đất lắng_nghe những câu lảm_nhảm không đầu không cuối
-287	chính điều này sẽ dẫn đến thắng_lợi trong vụ_kiện của tập_thể các nạn_nhân
-288	người này cho biết bà sinh bị ốm cách đây một năm
-289	chúng_tôi quay lại nhà và gặp vợ_chồng người em của ông ta là tám_nhiều đang lui_cui trong bếp
-290	ngay sau khi ống vỡ 15 chàng yết_kiêu đội thợ lặn của công_ty hồng_lĩnh đã có_mặt khảo_sát
-291	tin bài liên_quan kỳ 2 tìm người vô_danh
-292	*e* không biết vì_sao vào chiến_trường rồi hai anh_chị lại không khăng_khít với nhau nữa
-293	thấy chúng_tôi ngần_ngừ chị_ta nói các anh không tin thì *t* ra bảng thông_báo mà xem bảng giá cũng thế thôi mà còn lâu mới nhận được
-294	đó là ước_mơ trở_thành bác_sĩ kỹ_sư của mấy đứa con nhỏ đã tan_tành khi việc học hết phổ_thông cũng đã quá tầm tay vì cha phá_sản và bị *e* tống_giam
-295	khi chúng_tôi đến thăm võ_sư minh_sang năm nay đã 75 tuổi nhưng *e* trông *t* vẫn rất hồng_hào khỏe_mạnh
-296	ông chín râu một lão_nông có tài sạ lúa giỏi nhất nhì thôn hồ_tôm tâm_sự cha ông nói muốn giàu nuôi cá muốn khá nuôi heo còn muốn nghèo nuôi vịt thiệt đúng là không sai
-297	cuộc_sống vật_vờ trên hè phố bán thân nuôi miệng hình_ảnh họ với người_đời là sự khinh_khi tủi_nhục
-298	rời quân_ngũ sau bảy năm 1971 1977 vào_sinh_ra_tử nơi chiến_trường quân_khu 5 ác_liệt ông quí về quê làm_ruộng với thương_tật 4 4
-299	anh hòa kiên_quyết nói chỉ có một nguyện_vọng
-300	bị_cáo nguyễn_thiện_luân trình_bày về xuất_xứ bút_tích ông để lại trên các công_văn xin vay tiền của lã_thị_kim_oanh
-301	hôm đó tùng không đi chơi
-302	một lần cha đi vắng mẹ năm bùi_thị_năm đưa bibi từ phnom_penh về tận tân_châu châu_đốc nói là về quê ngoại
-303	kịch_bản cho sự trở_về
-304	hỏi về vết_thương cả hai tóm_tắt anh thanh bị cụt tay trong đợt tổng_tấn_công mùa xuân năm 1968
-305	*e* đưa người đẹp đi mà không được nhận về chỉ bù lại là những đồng_tiền ngoại giúp nhiều gia_đình khá lên
-306	khi ra hà_nội làm_việc ông cũng có một cô bồ
-307	thứ_trưởng bộ tài_nguyên & môi_trường đặng_hùng_võ cho biết dự_thảo nghị_định đã thiết_kế văn_phòng đăng_ký quyền sử_dụng đất ở hai cấp thuộc sở và thuộc phòng tài_nguyên & môi_trường cấp tỉnh và huyện
-308	nỗi bất_lực của chủ rừng
-309	thời_gian rảnh vy chăm_sóc một đứa bé vn 6 tuổi tên trang con của một phụ_nữ việt lỡ có_thai khi hành_nghề mại_dâm tại thái_lan theo lời vy hiện *t* không biết *e* đang sống ở đâu
-310	cũng may là toàn trại hôm đó chỉ có 33 người thoát chết được 14 người trong đó có bốn người bị_thương
-311	chỉ còn mỗi da và mũi là chính_hiệu vn
-312	thắng_lợi đã đến gần chúng_ta rồi
-313	họ là những tay cá_độ bóng_đá đang gọi đến chủ kèo để bắt độ
-314	nhưng rồi những ngày_tháng buồn ấy qua đi khi nghề mây_tre đan bén rễ đến nơi này và nó đang phát_triển như chẻ nan ấy bà_cụ thiết 86 tuổi mẹ anh hương tươi_cười góp chuyện
-315	*e* có gấu không
-316	khi dư_luận xôn_xao về vẻ đẹp kỳ_thú của hang_động mà người dân địa_phương gọi là tiên_sơn động nhiều người tò_mò muốn biết ai là người đầu_tiên phát_hiện khám_phá hang_động cổ_xưa này
-317	khi xưa 16 tuổi mình còn dám tình_nguyện nhập_ngũ để đi đánh mỹ giờ có gì *t* phải sợ chứ
-318	cũng có người ra đây tìm trứng_nhàu
-319	ngoài_ra còn đủ thứ cá tép rau củ kể_cả củi tràm cũng thu_hoạch được
-320	vườn thú hà_nội có 87 nhân_viên nuôi thú trong đó 2_/3 là nữ
-321	*e* nghe nói v.h_. có lên dầu_giây làm_việc vào tối thứ_sáu rạng sáng thứ_bảy phải không
-322	làm không nổi thì đề_xuất với huyện tỉnh cho phương_tiện cơ_giới
-323	nhưng thật tai_ác khoảng hai tháng sau cũng đúng lúc đang ăn cơm thì điện_thoại của thu lại có tin nhắn
-324	và một người lính đã được *e* chọn_lựa cho nhiệm_vụ tuyệt_mật này
-325	sáng ra *e* vác rựa đi làm buổi trưa *e* xách thuốc trong vai theo hai chú dẫn đường đi thăm bệnh cho một đồng_chí cán_bộ
-326	gọi cho hãng hậu nói tôi có người_nhà đi trên taxi đó vào giờ này *e* lấy khách từ đây
-327	hàng trăm bài viết đã được anh kiên chị hiền và các cộng_tác_viên biên_dịch đưa lên mạng
-328	trong khi đó số người nhiễm hiv tại vn vẫn tiếp_tục gia_tăng
-329	nước_mắt chồng xa
-330	nhưng trong đó chỉ duy_nhất cửa ở cấp tỉnh được *e* lập chỉnh_lý và quản_lý hồ_sơ địa_chính gốc còn cửa ở cấp huyện chỉ giữ các bản_sao
-331	kết_quả 10 ngày liền không có thư khủng_bố
-332	trên cầu khung_cảnh khá xô_bồ vài chiếc xe với những gương_mặt say_xỉn ghé vào ngã_giá với các cô gái
-333	ba chiếc còn lại đành phải lắp máy suda của tiệp_khắc có dáng_dấp hơi giống máy các nước phương tây sản_xuất
-334	các cặp vợ_chồng tuổi_tác chênh_lệch nhau quá lớn thường từ 10 20 tuổi
-335	website chametainang.net hoạt_động song_hành chính là hiện_thực_hóa ý_tưởng đã đoạt giải vàng cuộc thi sáng_tạo tài_năng kinh_doanh trẻ năm 2003 của kim_ngọc_minh
-336	mỗi ngày phượng đều có chương_trình lên_lớp giảng_dạy tiếng việt đến ba nơi cục dân_chính đl tổ_chức eden cục giáo_dục đl
-337	trước cơn bão linda số 5 1997 trên quần_đảo nam_du có hàng ngàn ngư_phủ đi thúng
-338	tiếng máy_bộ_đàm trong nhà vẫn vang lên đứt_quãng
-339	trong câu_chuyện của họ có hình_ảnh của những tai_nạn giao_thông thảm_khốc từng xảy ra trên đường đèo hiểm_nguy này
-340	anh hai_địa nhất_định không tiết_lộ nhiệm_vụ chỉ một_mực yêu_cầu giải về trung_ương trực_tiếp gặp anh ba_duẩn
-341	tôi hỏi trước đây cuộc_sống của thảo như_thế_nào
-342	*e* biết làm_sao được ngoài việc làm hết_sức mình
-343	ở đây được 12 ngày thì đón chị về nhà tên hồng
-344	tối 1 4 chúng_tôi có_mặt tại quốc_lộ 51 hướng đi bà_rịa vũng_tàu bằng xe_tải nặng 54n-7
-345	chúng_mình đang sống trong những ngày căng_thẳng tột_bậc
-346	vừa tới nơi *e* đã nghe người phụ_trách khu_vực nữ lđ chị azit kéo ngay một lđ vn để mắng vốn với người đại_diện công_ty tối_qua một cô gái đi ra ngoài ktx không xin_phép
-347	hiểu chị hiền anh kiên đều làm_việc tự_nguyện không treo quảng_cáo trên website tự dịch bài và dẫn nguồn rõ_ràng cẩn_thận chị trang tình_nguyện hỗ_trợ tiền đặt máy_chủ cho lamchame.com
-348	nay *e* còn lại mỗi mình tôi
-349	ông ngọ lúng_túng cái này đề_nghị hđxx cho thẩm_định ở một hội_đồng chuyên_môn hoặc một cơ_quan có trách_nhiệm như ngân_hàng
-350	hôm_qua trong cảnh hoang_tàn sau trận bom mọi người gồng_gánh ra đi anh đạt đăm_đăm nhìn mình nửa_đùa_nửa_thật hỏi có ai biết cảnh này không nhỉ
-351	tuấn và hồng cũng là nhân_chứng của sự kỳ_thị và sợ_hãi trong cộng_đồng
-352	hơn_nữa trong công_ty tư_nhân việc thăng chức phó lên trưởng không thay_đổi nhiều về quyền và lợi
-353	đứa trẻ lên năm thì chị ta lấy một người chồng cũng từng có một đời vợ và con riêng
-354	đấy là phòng giá cao nhất 3,_5 triệu tháng
-355	con ông ở với mẹ
-356	chúng_tôi đến xóm chài phường hưng_phú quận cái_răng tp cần_thơ tìm nhóm lặn thuê của anh chương_ngọc_dương
-357	tuy_nhiên với 253 km đường_biên chúng_tôi không_thể chặn hết được
-358	đoàn xe rời thị_xã phôn_sa_vẳn trong niềm lưu_luyến của đông_đảo bà_con đứng tiễn
-359	tôi chưa kịp bước lên bờ thì một người thấp đậm béo khỏe mặt tròn chạy thẳng xuống tàu ôm_chầm lấy tôi *e* hoan_hô
-360	nơi mình ở lại vừa qua một trận bom chiều hôm_kia hai chiếc moran hai thân quần mãi rồi phóng rocket xuống
-361	trằn_trọc cả đêm vì thương con tôi quyết_định tìm con đường thoát
-362	bữa cơm kết_thúc chóng_vánh
-363	được sự động_viên khích_lệ của mọi người an lại tập xếp hình bằng giấy ban_đầu *e* chẳng ra hình_thù gì hết nhưng lần_lần những chiếc thuyền cũng thành hình những chuỗi hạt đeo cổ thành dạng
-364	kết_quả là kim không biết
-365	xe dừng các anh_chị_em ccv mỗi người một việc
-366	bà liễu tỏ thái_độ hết_sức thoải_mái vui_vẻ và không chờ ông phong trả_lời bà đi thẳng lên nhà
-367	nhưng những dòng nhật_ký của anh là câu_chuyện chân_thực và đầy thuyết_phục về một thế_hệ họ đã sống cho lý_tưởng cống_hiến tuổi xuân một_cách đầy lãng_mạn
-368	mẹ tôi nói rằng cây cầu quan_trọng chính vì điều đó
-369	cảm_hứng ấy sự suy_tưởng hòa_quyện trong niềm vui lớn ấy cứ_thế quán_xuyến suốt 76 câu_thơ của toàn bài
-370	bãi đào vàng phước_thành vẫn còn là nơi bỏ_ngỏ bởi cho đến giờ chưa có ai vào đó kể_cả các cán_bộ chức_năng
-371	tuy_nhiên *e* cũng phải nhìn_nhận rằng những chính_sách này vẫn còn một_số điểm hạn_chế chưa đáp_ứng được đầy_đủ nguyện_vọng của bà_con
-372	còn với những người thợ khoan hầm sông_đà sự_kiện như_thế đã từng diễn ra và giờ_đây trước_mắt họ lại có những công_trình mới đang vẫy_gọi
-373	những ngày tuyệt_vời ấy tiếc thay lại chỉ có 29 ngày ngắn_ngủi
-374	cách_mạng miền nam còn dài
-375	phải sống nó cũng là con_người được *e* mang_nặng_đẻ_đau cũng có tên có tuổi như mọi người
-376	cụ y. không *e* con_cái anh con_nuôi luôn mồm đòi bán nhà
-377	biết_bao_nhiêu cuộc_đời đã chấm_dứt để cho cuộc_đời khác được tươi xanh
-378	ông hồi_tưởng về ngày đầu_tiên đặt_chân đến vùng_đất phú_mỹ
-379	thế à nếu liên về *e* bảo *t* gọi ngay cho chị thảo ngọc_hà nhá
-380	bây_giờ chúng_tôi phải rào lại bằng kẽm gai giám_đốc lâm_trường tánh_linh bùi_văn_thu than
-381	đây là bức thư robert_whitehurst anh_trai của fred gửi cho bà doãn_ngọc_trâm mẹ của chị thùy_trâm
-382	hai người ở với nhau hòa_hợp chân_thành và hoàn_toàn vì tình_cảm
-383	*e* giải_quyết cái gốc này như_thế_nào
-384	ký_ức thời trai_trẻ ngang_dọc sông_hồ của ông cứ miên_man hiện về theo những con sông cồn_cào chảy xiết
-385	đi qua hàng_loạt dãy hầm đang trơ ra những bao cát thượng_tá bình nói loong_chẹng là khu_vực cố_thủ quan_trọng nhất của vàng_pao do mỹ giúp_đỡ xây_dựng năm 1965 với 16.000 tay súng ngầm rải_rác quanh các ngọn núi trong khu_vực
-386	tôi khâm_phục sức chịu_đựng của các nạn_nhân và tôi sẽ làm tất_cả vì công_lý
-387	phú buồn lắm cậu không khóc nhưng hỏi lại tại_sao con không có tay
-388	nếu câu_chuyện ganh_đua quyền_lợi cá_nhân như bản fax nặc_danh làm các thám_tử thấy nhẹ_nhàng và đơn_giản thì đơn hàng vừa nhận khiến họ thấy rất nặng_nề
-389	anh đưa cho bà toàn_bộ nội_dung các tin nhắn anh có từ máy của thu toàn_bộ danh_sách các cuộc gọi lạ từ những buồng điện_thoại công_cộng ở đường nguyễn_chí_thanh cùng ngày giờ địa_chỉ cho bà
-390	1 tỉ vnd và 4 triệu usd
-391	tốt_nghiệp khóa học *e* sẽ còn nhiều phần_thưởng nữa thậm_chí là xe_hơi
-392	thương con năm 1990 ông đưa cô về hà_nội xin vào trường nguyễn_đình_chiểu học chữ_nổi
-393	bà kể lấy vợ xong ổng tập_kết ra bắc rồi lại đi b
-394	họ nhận_định tuấn và đào đã thỏa_thuận cùng bỏ trốn nhằm ép bố_mẹ đào muốn con về phải cho tuấn tiền
-395	kỳ 1 xác_minh một truyền_thuyết
-396	anh ta đã buôn_bán thú rừng hơn 10 năm qua ở thị_trấn này ai cũng biết *t*
-397	khi *t* chuẩn_bị đứng_dậy tình_cờ đào nhìn thấy bố_mẹ ngồi ăn gần đó
-398	bà chưa gặp fred khi nào gặp fred bà sẽ bắt_đầu biết rằng chúng_tôi đã thực_hiện việc này như thế_nào
-399	trong bóng_tối chập_choạng cuối ngày bà_cụ 86 tuổi mù một mắt không thấy rõ nổi khách ở đâu
-400	từ phong_trào thành bão lớn
-401	sau 25 năm làm_việc trong tư_cách một nhà làm phim và một nhà nhiếp_ảnh tôi sẽ nói với cậu rằng thường_thường câu_chuyện mà người_ta bắt_đầu sẽ không nhất_thiết đúng như câu_chuyện người_ta sẽ kết_thúc
-402	chúng_tôi chưa kịp làm được việc gì để động_viên thì nó đã phẫn_chí mà chết bỏ lại vợ trẻ đã mang thai
-403	bao_giờ cũng vậy giữa hoàn_cảnh nào cũng vậy chị cũng vẫn giữ trọn trong lòng những kỷ_niệm êm_ấm của gia_đình ta
-404	nếu so với vút gạo bằng tay thì máy vút nhanh gấp 48 lần anh kiệm đưa tay chỉ chiếc máy vút gạo làm bún hết_sức đơn_giản của mình
-405	tức_là mình không cần ra_tay mà dắt đường cho kẻ khác xử_lý kẻ_thù của mình
-406	bác_sĩ có hỏi nhưng lúc đó *e* đâu biết ảnh_hưởng chất_độc da_cam là gì
-407	*e* ngồi được một lúc thì có mấy thanh_niên tới
-408	năm năm làm anh lính thông_tin hữu_tuyến quí và đồng_đội chỉ uống nước suối ăn rau rừng với bữa cơm bữa cháo
-409	sao *e* lại lưu_lạc tận đây
-410	cuối_cùng thọ nói nếu do *e* nhầm hay đứa nào trêu_chọc thì từ mai hai vợ_chồng sẽ đổi điện_thoại cho nhau
-411	tuy_nhiên thành_lũy trong lòng đất càng vững_vàng hơn bao_giờ hết
-412	ai muốn giữ nghề truyền_thống được tạo điều_kiện vay vốn
-413	*e* học chữ và học chuyên_môn
-414	từ đó đến nay thông_điệp của kẻ khủng_bố đều là gửi thư qua bưu_điện nội_dung không khác những lần trước
-415	một cụ_già 80 tuổi hỏi các chú đã lấy mộ trong rừng tre chưa
-416	học_sinh trong ấp trong xã đi học về đều ghé thăm chị an xem chị xếp hình và trở_thành bạn của chị an
-417	cửa khép hờ vẳng tiếng thều_thào chửi tục và sặc_sụa mùi khét
-418	hơn 12 g trưa 22 10 nhiều bà_con đã về đến hội_trường của xã bình_minh
-419	liền sau đó hai cú dậm chỏ của cọp dữ từ trên cao khiến rắn lì đòn ngã vật ra giữa sàn
-420	chính người trong cuộc trịnh_thanh_lâm giám_đốc marketing của microsoft cũng nhớ lại hồi xưa khi bước chân vào guồng_máy làm_việc mang tính quốc_tế *e* mới thấy mình còn thiếu nhiều kỹ_năng để giải_quyết những công_việc cụ_thể
-421	trên bàn bày sẵn bánh_kẹo bia nước_ngọt
-422	nhưng giấy_tờ mua_bán thế nào
-423	gió_chướng thổi mạnh chiếc ghe cào như muốn rung lên
-424	theo ông thị_trường nguồn nhân_lực cao_cấp của vn tuy nhỏ nhưng nhu_cầu tìm_kiếm một nhà quản_lý giỏi thật_sự là rất lớn và hầu_hết các công_ty tập_đoàn quốc_tế đang làm_ăn tại vn đều đang rất khát nguồn nhân_lực này
-425	tuấn đã vài lần rủ đào hít cùng cho đỡ nhớ nhà đỡ căng_thẳng
-426	tiến_sĩ ni lại đưa chúng_tôi len_lỏi vào khu rừng tràm sinh_thái
-427	cô chỉ cho tôi biết làm thế_nào để được yên_ổn
-428	ông đoàn_hữu_đấu chủ_nhiệm hội người vn tại tỉnh champasak cho biết các gia_đình việt_kiều đa_số có cuộc_sống ổn_định họ đầu_tư nhiều cho việc học của con_cái
-429	nếu người_ta nhầm thì *e* cũng phải bóc mới biết chứ
-430	những người trên chiếc ghe đặc_dụng neo gần đó với đầy_đủ các loại máy_móc cung_cấp oxy cho người lặn bên dưới hồi_hộp theo_dõi
-431	và nguy_hiểm nhất vẫn là vấn_đề qui_hoạch
-432	theo dự_kiến hôm_nay 24-3 hđxx sẽ chuyển sang thẩm_vấn nội_dung cố_ý làm trái gây hậu_quả nghiêm_trọng của các bị_cáo
-433	anh bình nói hôm trước tôi và anh_em phải dùng thang dây tụt xuống 15 m mới có_thể vào quay cung vua thủy_tề
-434	14 g 30 ngày 27 5 chúng_tôi tìm đến ngôi nhà_thờ ấy
-435	đêm moa lạnh dù ban_ngày *e* nắng gắt từ đây chỉ cách rừng vài kilômet gió thổi ù_ù
-436	theo thông_tin từ chi_cục quản_lý thị_trường qltt giá gia_cầm từ gốc được *e* bán 10.000 đ kg về đến lạng_sơn giá tăng lên gấp đôi
-437	*e* được biết hiện ubnd tp đang chỉ_đạo các cơ_quan liên_quan tập_trung nhiều biện_pháp để hoàn_thành dự_án hệ_thống cấp nước sông sài_gòn giai_đoạn 1 công_suất 300.000 m3 ngày và dự_kiến cấp nước trước ngày 30 4 2004
-438	lòng hồ tạo nên hàng chục hòn đảo lớn nhỏ chìm_nổi theo mùa nước lên xuống
-439	nhìn từ xa hòn đảo nhỏ của bà bảy_lê mọc lên xanh_rì trông thật mát_mắt
-440	lần khác cũng vì sinh_nhai mà một thợ lặn đã phải bỏ_mạng
-441	cô bán hàng
-442	đã là một siêu_sao trên bầu_trời nghệ_thuật thái_lan nhưng vẫn không quên con đường đầu_tiên đưa cô đến đỉnh vinh_quang như hôm_nay nong_tum
-443	*e* không biết *e* bị_thương ngày nào
-444	tiếng miền nam gọi khẩn_thiết đã giục_giã ra khơi những con tàu lớn hơn
-445	hôm_qua *e* vô_danh vì sự khắc_nghiệt của nhiệm_vụ
-446	những công_ty nào đưa lao_động vn sang đl qua công_ty trung_hữu
-447	ngày giỗ người_thân đâu thể không tươm_tất
-448	trả_lời chúng_tôi những câu hỏi đó không hề tước_đoạt đi tình mẹ của bà nhưng có_thể chúng sẽ làm cho những lời chị viết trở_nên sâu_sắc hơn
-449	không một tiếng kêu_gào trong cơn mưa như trút nước thảm_kịch xảy ra trong tích_tắc
-450	người_ta nói tế_bào con_người có_thể tái_sinh được cho_đến 120 tuổi
-451	sự vồn_vã của hoàng làm chiếc thúng chòng_chành muốn lật úp khiến tôi xanh mặt
-452	chúng_tôi ngồi trong một quán cà_phê ở khu_vực này và cảm_nhận không_khí cá_độ đang nóng hừng_hực
-453	nằm cách xa thị_trấn vĩnh_an vĩnh_cửu đồng_nai chừng 35 cây_số đường rừng đất_đỏ làng bè này thuộc ấp 4 xã mã_đà sống tách_biệt lẻ_loi
-454	cường nói thọ hãy kể địa_chỉ nhà một_số người cùng công_ty thu
-455	bến_tre cho thuyền ra do anh tư_thắng phụ_trách
-456	thư yêu_cầu hai người viết giấy nhận tội quan_hệ bất_chính vi_phạm luật hôn_nhân gia_đình
-457	viết đơn vào đảng niềm vui thì ít mà bực_dọc thì nhiều
-458	làm việc này tuy âm_thầm nhưng vui rất vui chẳng có gì để buồn
-459	tuy_nhiên tất_cả kiểu ngụy_trang đó chỉ che được mắt người chứ không giấu được mũi chó
-460	bà loan nghĩ chắc nó rất tinh_ranh
-461	*e* xem lại tên tuổi ảnh thì ông này không phải ông chương mà là ông học phó văn_phòng của ông chương
-462	đến nay các ngành chức_năng chưa lường được việc này sẽ đến đâu và chưa có giải_pháp tháo_gỡ
-463	dân trong vùng này thưa và toàn là cơ_sở lâu năm tuyệt_đối trung_thành với cách_mạng
-464	thì_ra tiếng của anh chạy xe tên thành người gốc việt được sinh ra trên đất bạn
-465	anh của luận là an đang đập bao ở một căn chòi khác thường_xuyên bị đau rát nơi bộ_phận sinh_dục
-466	đại_ca của trẻ_em đường_phố
-467	tôi chỉ tay vào quả bóng *e* em chơi loại bóng nào
-468	ông đến có khi mặc sắc_phục có khi mặc thường_phục không xua_đuổi người hiếu_kỳ không tra_hỏi người trong cuộc không can_ngăn phóng_viên báo_chí chụp hình ông lầm_lũi đạp trên những đống đổ_nát
-469	thanh quyết_định khai_thác ở chính anh ta qua một kịch_bản hùng đến chơi điện_thoại nhà bà loan đổ chuông
-470	nhưng còn người đi trên biển trên mặt_nước xanh phẳng_lì đang trải ra trước_mắt kia
-471	mình như một đứa con không gia_đình lâu ngày tìm về mẹ nhưng người mẹ_ghẻ còn bận nâng_niu những đứa con riêng nên thờ_ơ lạnh_nhạt với đứa con chồng
-472	nhờ vậy anh đã biết nhiều hơn về cuộc_sống của trẻ lang_thang và anh đã không_thể dứt áo ra đi
-473	nguyễn_kỳ_sơn chỉ là một trong hàng chục_vạn người lính đã nằm_xuống cho độc_lập tự_do của tổ_quốc anh cũng chỉ là một liệt_sĩ bình_thường như hàng ngàn người lính đã hi_sinh nay vẫn chưa tìm thấy thân_xác
-474	gia_đình sạt_nghiệp đến giờ nợ vẫn chưa trả hết
-475	*e* đào sâu xuống chừng 4 5 m thì miệng thí trổ ngang
-476	nhiều người ở thái không hiểu hết ý_nghĩa và giá_trị của việc nhập quốc_tịch quan_trọng đến mức nào đối_với các việt_kiều nhất_là những người có độ tuổi 60 70
-477	chúng_tôi cầu_cứu các nơi nhưng đều tuyệt_vọng
-478	*e* chợt nhớ hà_nội đang ở thời_kỳ tiền sea_games nên
-479	nhà_khoa_học tiến_sĩ trung_tâm nghiên_cứu khoa_học năng_lượng và vật_liệu inrs-energie_et_materiaux varennes quebec canada
-480	ai cũng mong đến tết để nhận lương dồn một lần mang về
-481	cứ ra_vào hợp_lý là qua được anh h. chồng chị m. hùng_hồn tuyên_bố như thế
-482	em_út theo anh cả vào miền nam
-483	mỗi tháng đi học_việc cô chỉ nhận được có 5.000 đài_tệ thôi mà mừng_rỡ sang khoe với tôi là sắp có tiền gửi về quê rồi
-484	dù_là_vậy nghe ở đâu có người nghèo thiếu nơi_ăn_chốn_ở là ông tám_on lại có_mặt và lăn_lưng vào với niềm vui làm việc thiện
-485	ông nên chấm_dứt và giải_quyết cuộc tình này sao cho êm_ấm
-486	khu_tập_thể thấp lè_tè dưới chân những cây trứng_cá mỗi căn_hộ tập_thể có diện_tích không quá 20 m2 là nơi ngả_lưng cho bốn người thợ khoan suốt mấy năm qua
-487	để minh_chứng lời_nói của mình anh vội móc điện_thoại_di_động trong túi ra và gọi cho một người bạn ở khác ấp để tìm cho được nơi có điện
-488	hết biển rồi *e* hòa vào đại_dương mênh_mông
-489	việc ông chương giấu hùng đang có vợ chẳng_qua vì xấu_hổ chuyện quan_hệ bất_chính mà thôi
-490	từ website lamchame.com của anh kiên chị hiền chúng_tôi biết đến những không_gian mạng khác hết_sức sôi_động của các ông bố bà mẹ
-491	anh trần_mạnh_hoài giám_đốc công_ty xây_lắp & vật_tư xây_dựng bộ nn & ptnt *e* là người trong nghề xây_dựng tôi biết các đơn_vị thanh_tra rất khó_khăn khi muốn tìm ra cơ_sở kết_luận công_trình kém chất_lượng
-492	bởi giá hồi đó không phải là giá vì không ai cho phép *t* chắc_chắn là có cái gì bên trong nữa
-493	người thợ_mộc năm xưa giờ đã là giám_đốc một công_ty thiết_kế và trang_trí nội_thất khá lớn ở khonkaen cũng là một người hoạt_động rất tích_cực trong ban đại_diện việt_kiều ở đây
-494	rồi cũng chính cụ công dẫn rơ_châm_kiến lên rừng tìm cây_gỗ dầu thật to thật đẹp đốn về để đẽo tượng nhà_mồ cho rơ_châm_buh
-495	rễ cây điên_điển có nốt sần cố_định đạm còn thân cây là nguồn phân_xanh rất tốt cho đất
-496	xe_tải và ôtô đi về liên_tục lâu_lâu mới lác_đác vài chiếc xe_máy chở hàng chạy về hướng lâm_đồng
-497	hiền kể tôi thấy tên mình có trong danh_sách 90 người trúng_tuyển vào ngành bưu_điện năm 2002 nhưng chờ mãi vẫn không được *e* gọi đi làm
-498	mười_minh tướng cao trắng_trẻo út_sương lại thấp và đen có người thắc_mắc má giải_thích thằng_mười cãi cha cãi mẹ tướng tá vậy mà đi lấy con_nhỏ chà cái
-499	biết_bao người đã tình_nguyện hiến_dâng cả cuộc_đời mình vì bốn chữ độc_lập tự_do
-500	sau khi thổi được bùn các anh mới phát_hiện có hàng trăm bao cát chèn hai bên đường_ống
-501	con chó này gắn_bó với cụ tám năm nay nhưng thiếu tiền mua thuốc cho cụ bà ông đành bán
-502	nhưng nợ vẫn không đòi được
-503	từ vùng cát duy_nghĩa tôi ngược về vùng núi tiên_sơn tiên_phước trên con đường núi gập_ghềnh khúc_khuỷu
-504	nhưng rồi đà_lạt ra_đời lại không nằm ở dankia mà bên suối lat hồ xuân_hương nay
-505	tôi ngó vào trang vở những con chữ tròn_trịa nhảy_múa trước mặt tôi mắt tôi cay_cay khi đọc dòng chữ hôm_nay cháu rất vui vì được bác đến thăm và giới_thiệu cho cháu một địa_chỉ học máy_tính và ngoại_ngữ
-506	sau khi nghe nhà_cái ra kèo mới tay cá_độ này đã bỏ ra một số tiền gần bằng với kèo ban_đầu để hòng gỡ lại
-507	đáng nể nhất là khu nao_quang nằm cách trung_tâm huyện bảo_lâm 25 km với hàng trăm hecta cà_phê chè_lá lấn chỗ của từng ấy hecta rừng
-508	với 12 ha mỗi năm đỗi thu 5 7 tấn tôm doanh_thu trên 1 tỉ lãi_ròng 500 700_triệu đồng
-509	bộ không có chủ_trương này bộ_trưởng bộ nn & ptnt khẳng_định mà *e* chỉ là đề_nghị của dn và nếu *e* xem_xét thấy đúng thì *e* giao người phụ_trách lĩnh_vực ký
-510	minh bảo tôi lên net đến các viện nghiên_cứu để xin tài_liệu làm_quen với các nhà_khoa_học để xin chỉ_dẫn chuyên_môn cho công_ty và website
-511	đường đi còn lắm gian_lao th còn phải bước tiếp chặng đường gian_khổ đó
-512	chúng_tôi đến cù_lao tân_lộc thốt_nốt tp cần_thơ gặp thợ lặn nguyễn_văn_mộng người được mệnh_danh thủy_thần đất cù_lao
-513	một cơn gió bất_ngờ ào đến
-514	vì lý_do bảo_mật đời tư khách_hàng một_số nhân_vật của loạt bài viết trong cuộc_đời dưới vành mũ thám_tử đã được thay_đổi tên họ
-515	thế_là năm sau dân cùng với các chiến_sĩ biên_phòng ra_sức khai vỡ những vùng gò đồi quanh làng rồi đắp đập đào mương đưa nước vào cấy vụ lúa đầu hồi năm 2000
-516	và hằng năm cứ tới kỳ hè bà lại mua vé khứ_hồi để mai được trở về sống với gia_đình ở sơn_tây
-517	ông chương ngớ ra và nói thật_ra chúng_tôi chưa bàn đến chuyện đó và tôi cũng chưa nghĩ đến chuyện đó
-518	nhặt và gọi
-519	năm nay đầu trên xóm dưới lắc_đầu ngao_ngán bỏ luôn vụ dưa_hấu
-520	bắt xe_buýt đi một vòng tùng lập_tức quay lại ký_túc_xá trong trang_phục khác
-521	miếng đất giá tương_đối 1,_6 công nằm hun_hút trong một cánh đồng đầy gai được ông chủ đất cùng đi rao giá 220 triệu đồng
-522	chẳng_mấy_khi *e* có đồng_tiền cầm trong tay
-523	người nghèo khi nhận nhà đều cảm_ơn ông khuyên họ hãy cố_gắng làm_ăn chăm_lo gia_đình hạnh_phúc là đáp ơn tôi rồi
-524	chúng_ta bắt_đầu cuộc hành_trình tìm_kiếm của mình giữa cuộc_sống hôm_nay bộn_bề tấp_nập ngổn_ngang
-525	có_thể những người này đã làm được giấy_tờ khác nhưng biết_đâu một ngày nào đó họ lại muốn lấy lại chúng như một kỷ_niệm
+gửi bài viết cho tuổi_trẻ từ sydney nhưng là một người nhật làm báo đã gần 40 năm hãng truyền_hình asahi ông kitamura
+trước khi lên đường ra hà_nội dự giải thể_thao hiền đã gửi bài dự thi mùa_hè xanh mãi trong tôi do báo tuổi_trẻ tổ_chức
+tuy_nhiên sau ba chữ này là những con chữ bị bút xóa đè lên và có đóng dấu kèm
+*e* lôi_cuốn cùng với cảm_giác vừa thương vừa sờ_sợ vừa căm thứ tệ_nạn diễn ra đầy khắp chúng_tôi quen_mặt bà vợ khi đi chôn xác con xác chồng
+ông ngọ lúng_túng cái này đề_nghị hđxx cho thẩm_định ở một hội_đồng chuyên_môn hoặc một cơ_quan có trách_nhiệm như ngân_hàng
+nếu *e* tuyển cán_bộ tôi sẽ lưu_ý trường_hợp của hiền
+cò k nguyên là đảng_viên sau khi bị *e* khai_trừ khỏi đảng y đi làm thợ_nề rồi gia_nhập đường_dây làm tb giả
+sau nửa năm được các bác_sĩ tư_vấn tâm_lý và uống thuốc bổ_sung hormon nữ nhà_vô_địch quyết_định ký giấy xác_nhận và đặt mình dưới lưỡi dao phẫu_thuật của các bác_sĩ
+đó cũng là câu hỏi mà nhà_văn nguyên_ngọc đi tìm câu trả_lời
+vì_vậy toàn cũng không xác_nhận thư đến thuê thám_tử và cũng không ký hợp_đồng với nhu
+tôi đang ngồi chờ một trận đánh cùng một đơn_vị lính mỹ
+chính_sách đối_với người việt ở nước_ngoài mạnh_dạn thông_thoáng và toàn_diện hơn
+dân đá gà miền bắc chỉ biết hắn có hộ_khẩu thường_trú tại hà_nội chứ không ai biết chính_xác hắn làm nghề gì
+ông tư_cậm nguyên chính_trị_viên xã_đội nhuận_đức những năm đánh mỹ nói chắc ngày nào tụi mỹ càn vô nhuận_đức thì thế nào bên kia trái_đất cũng có những bà mẹ bà vợ khóc con khóc chồng
+80 triệu đồng ủng_hộ bệnh_nhân nghèo
+sáng 2 9 chúng_tôi cũng tổ_chức lễ độc_lập chủ_tịch tỉnh đứng lên đọc các văn_bản được tổ_chức gửi xuống đọc các tin_tức trên báo_chí
+hai đứa nếu hợp thì học chung
+trong huyện hưng_nguyên hưng_long là xã nóng nhất
+trước khi rời trạm bên vn mỗi người được *e* phát một bao gạo 15 kg lúc này chiếc ruột_tượng vốn theo ông từ lúc *e* còn ở tiểu_đoàn 202 trung_đoàn xe_tăng được phát_huy công_dụng
+ngay hải luận tay được giới giang_hồ phù_dung mệnh_danh là trùm của các trùm ma_túy cũng sinh_thành trong một gia_đình đàng_hoàng
+ông võ kêu_gọi chúng_ta cần thay_đổi trong quan_điểm không nên để hệ_thống hành_chính ôm về mình nhiều quá bởi ôm càng nhiều thì sai càng nhiều
+toàn_bộ lực_lượng du_kích củ_chi những năm 1966 1969 gần_như phải ở dưới địa_đạo nhiều hơn trên mặt_đất
+cứ vài_ba ngày *e* thấy thiếu đi một đứa
+lớp luyện chữ của vợ_chồng tuấn lý ở hàng_mành được bố_trí ngay trong gian thờ tổ_tiên của gia_đình
+từ ngôi mộ tươi anh_em phát_hiện cả một nghĩa_trang nằm theo hình bậc_thang từ thấp lên cao theo tầng 8 mộ tầng 19 mộ tầng 21 mộ tầng 25 mộ
+tiến_sĩ nguyễn_thắng là giám_đốc marketing khu_vực đông_dương của nokia
+nghĩa việt_kiều kiếp_kiếp *e* không quên
+sau đó được những người trong làng đi làm_ăn buôn_bán trong và ngoài tỉnh như tiền_giang đồng_tháp trà_vinh giới_thiệu ông tám_on tìm_hiểu và sẵn_lòng giúp nhà cho những người nghèo thật_sự biết lo làm_ăn
+đối_với các loại xe tải_trọng cao và dài như xe chở container đặc_biệt là loại container dài 40ft chẳng_hạn thì hết_sức nguy_hiểm vì cua gắt nếu đi vào làn kiểm_soát thứ tư
+những giác_đấu_sĩ
+miền nam gọi súng
+và niềm mong_ước lớn_lao nhất là hòa_bình độc_lập để mình lại trở_về sống trọn trong lòng mẹ
+an lại dùng miệng nhai ống hút cứ ngắn dần ngắn dần rồi mất_hút vào miệng an
+khán_đài lại hô vang trước sự gục ngã của skindeoymp
+du_kích địa_đạo phát_hiện và chờ khi người nông_dân vừa qua là giật nút chai cắt dây cứu người
+lặng_thinh hồi lâu chị lại tiếp lúc đó mình thấy đau lắm lo_lắng cho mình và cho cả những nkt
+công_trình đường trương_định nối dài tp.hcm vừa xây_dựng khoảng hơn hai tuần nay do công_ty chi_nhánh bạch_đằng thi_công đã gây ra rất nhiều phiền_phức cho người dân khu_vực
+cái duyên_dáng nhu_mì bỗng tiêu_tan thay bằng những tiếng rít ghê như rắn
+tôi đã kể với đại_tướng tất_cả cuộc_đời tôi
+anh đưa cho chúng_tôi xem một xấp tài_liệu dày_cộp về luật nghiệp_dư và tỏ ra khá bức_xúc có người nói người chơi muay_thái nghiệp_dư sẽ rất an_toàn nhờ được bảo_hộ toàn_thân
+wb giới_thiệu mô_hình xóa_đói_giảm_nghèo của vn cho các nước đang phát_triển
+thế_là cảnh thanh_niên đàn_ông mặt_mày đỏ_gay đi_lại ngật_ngưỡng không thấy xuất_hiện nữa
+bọn tôi dồn sức chuyển xác ra giờ trong bãi chẳng còn ai
+mấy người trong xóm niên có chiêu đánh thuốc chỉ thả lượng hạt thàn_mát vừa đủ phía thượng_nguồn khi hạ_nguồn đã căng ngang dải đăng lưới
+lý_do nếu sau_này vợ_chồng ông học vỡ_lở xô_xát ông học sẽ ngờ ông chương mật_báo với vợ ông học chuyện ông có bồ_nhí
+có khi điện_thoại reo vào lúc nửa_đêm tôi vừa bị mất giấy_tờ ở đoạn đường nhờ *e* tìm giúp
+những chiếc tàu xưa chẳng còn
+đến kỳ cửa_biển bị *e* lấp cát là nỗi ám_ảnh của dân ngư chài ven biển
+trên đường hồng_bàng q_.5 khi mở một nắp hố_ga lên anh đội_trưởng liền bảo đóng lại vì nước triều còn cao quá
+chắc là tất_cả đã hi_sinh
+đoàn bảo đây chỉ là một chiến_công nhỏ so với các bậc đàn_anh trong phòng cảnh_sát hình_sự nhưng đã động_viên tôi rất nhiều
+trung_tâm kredtrakarn nơi chúng_tôi trò_chuyện nằm bên dòng sông chao_phraya êm_đềm
+năm 2002 hiền đoạt giải đặc_biệt 10 triệu đồng của báo hoa_học_trò ở cuộc thi nét bút kỷ_niệm viết về vết sẹo trong đời mình
+không biết từ phương nào từng đàn chim bay về ngọn núi trước mặt tôi
+được tin anh bình vẫn chưa tin vì chuyện quá lạ
+*e* kết_luận theo hướng này thì thu có biết kẻ quấy_rối là ai
+nhiều lần cố đến gần đường_ống anh bị lực nước đánh dạt ra lộn nhiều vòng rồi trồi lên
+một ngày với công_nhân thoát nước
+nó nói chết nó cũng không chỉ đường đâu
+giờ g đã điểm gậy_gộc nước lửa sẵn_sàng để tách chúng nếu xảy ra song hổ đấu
+con đường ư
+trước tình_thế đó chúng_tôi đã gọi điện_thoại_di_động về cơ_quan xin ứng_cứu
+*e* vứt hết xuống biển
+*e* gặp hai người bạn quý của vn
+như dự_đoán của thanh mấy hôm sau hùng gặp bà loan thưa chuyện
+ăn của sông không dễ bao_giờ đáy sông tối đen mờ_mịt nước lạnh căm_căm
+an có tên đầy_đủ là trần_thị_thúy_an năm nay đã 20 tuổi nhưng cơ_thể chỉ lớn chưa bằng một đứa trẻ lên 10
+qua sự sắp_xếp của cha hùng chúng_tôi đã có được cuộc nói_chuyện với một_số nạn_nhân
+các phương_tiện vận_chuyển hầu_hết là đặc_chủng hoặc giấy_phép đặc_biệt
+hậu_quả là chú ước phải mang vết sẹo trên bàn_tay phải suốt cuộc_đời
+tp.hcm vay 500_tỉ đồng triển_khai gấp các dự_án cấp nước
+đây là một khu_phố có rất nhiều đường ăn_thông các tuyến phố khác nhau như quang_trung trần_hưng_đạo liên_trì nguyễn_du đồng_thời cũng có nhiều ngõ_cụt
+vợ_chồng anh lộc chị bình đã nản nhưng phú quyết không chịu bỏ học cậu cứ bắt bố tập viết
+như các mặt_hàng nông_sản thực_phẩm nói_chung chưa có căn_cứ pháp_lý để chứng_minh thực_phẩm nhập lậu vào tỉnh lạng_sơn
+bà_cụ nín thở gập lưng bưng thau nước vai vắt cái khăn mặt vào căn phòng sực mùi xú_uế
+điều này khiến đối_phương lầm tưởng là nó sắp thua liền tăng tiền cọc theo cửa trên
+trận đấu diễn ra gay_cấn đội nhà vừa ghi được bàn thắng thì niềm phấn_khích của tay cá_độ này được dồn vào cái ly và *e* ném thẳng xuống đất kèm theo những tiếng chửi thề
+quả_là một đoạn văn hay và đầy tính giáo_dục
+máy chạy những hạt sạn muối đúng chuẩn ào_ào lọt ra từ chiếc máy
+đang lúc nói chuyện với ba_nghĩa thì trong nhà có tiếng máy_bộ_đàm khọt_khẹt vang lên
+lúc này hai đầu đoạn ống chỗ bị bể đã dài ra gần 2 m chứ không phải hơn 1 m như trước nữa anh trần_duy_khang cán_bộ phòng kỹ_thuật chi_nhánh cấp_nước tđ bh nói
+vợ_chồng ama_công đã ngoài 70
+bài_học lớn nhất của thám_tử cường trong vụ_việc này là không phải lúc_nào cũng dựa hoàn_toàn vào thông_tin nhận_định và sự hợp_tác của khách_hàng
+người cn cúi xuống cầm cái ky vét hầm chui hẳn vào lòng ống cống để nạo chuyển lên trên từng xẻng bùn người ở trên kéo lên đổ vào thùng
+hai người con lớn đã đi lấy chồng và cũng theo nghề đập bao
+anh của luận là an đang đập bao ở một căn chòi khác thường_xuyên bị đau rát nơi bộ_phận sinh_dục
+anh_chàng dắt mối tâm_sự ngày nào em cũng dắt khách đi coi đất đến mỏi chân nhìn họ bán đất lời *t* thấy đã lắm
+những vắt cơm đã bốc mùi nhưng anh_em cứ chia nhau từng miếng nhỏ
+ngày 5 2 1969 nguyễn_văn_thiệu tuyên_bố đặt ngoài vòng pháp_luật những người đòi hòa_bình trung_lập và truy_bắt những người công_khai lãnh_đạo phong_trào
+mọi người ra đi hẹn sẽ trở_về gấp để đón bọn mình ra khỏi khu_vực nguy_hiểm mà mọi người nghi là gián_điệp đã chỉ_điểm này
+nhưng nếu nghĩ theo thời_gian đó mà trách_nhiệm của chính_phủ quân_đội và 37 công_ty hóa_học sản_xuất chất_độc da_cam của mỹ cũng sẽ phai_nhạt thì thật_là hoàn_toàn sai_lầm
+ở quê *e* mần cả tuần chưa được nửa từng nớ rồi bà quả_quyết *e* bắt rứa chứ *e* bắt nữa tui vẫn cứ đi bán báo
+từ một gia_đình hạng nghèo nhất xã anh thanh được vay vốn xóa_đói_giảm_nghèo chăn_nuôi và gầy_dựng dần
+gia_đình công_chức *e* kinh_tế khá sống hòa_thuận
+lũ_ống xuất_hiện kèm theo lở núi đổ ào xuống trại
+chúng_tôi đều đã vào tuổi thất_thập_cổ_lai_hi kỷ_vật cũng không_thể đi theo mãi nhiều cựu_chiến_binh đều nói như vậy và lựa_chọn cách xin được gửi lại bảo_tàng nơi gìn_giữ cẩn_trọng nhất
+những trang đầu đều là những con chữ rời_rạc không mấy hấp_dẫn nhưng càng về sau các con chữ trở_nên tròn_trịa mềm_mại và đều hơn
+thám_tử khoa hỏi *e* làm cách nào để tìm được nhà bà sinh
+địch đánh_phá ác_liệt lắm cả vùng u_minh mênh_mông là vậy mà hầu_như không còn chỗ an_toàn lúc về kinh_năm là nơi cuối_cùng
+người khỏe trai_tráng người già trẻ_em phụ_nữ đều có_thể tham_gia
+tôi quay nhìn đại_tướng lắp_bắp mãi mới nói được mấy tiếng báo_cáo báo_cáo đại_tướng tôi tôi không biết chữ
+một_số người đã xin được giấy_phép ubnd xã xuân_hải để đổ đất nâng mặt_bằng nhưng khi tiến_hành thì *t* bị cư_dân ở địa_phương ngăn_cản quyết_liệt
+cách làm này sẽ góp_phần hạn_chế thái_độ như lời thủ_tướng phan_văn_khải là vô_cảm của cán_bộ quản_lý nhà_nước trước người dân
+người sĩ_quan tham_mưu nhắc đồng_chí thanh bình_tĩnh nói đi
+ngày ấy chúng_tôi gọi là rủ nhau đi làm cách_mạng
+cuối_cùng toàn phân_tích thiệt_hơn xét về tình chị biết nhu không phải là gã đàn_ông trăng_hoa
+*t* rất tiếc tôi rất có lỗi tôi không hỏi địa_chỉ gia_đình chị ở hà_nội phố nào số nhà bao_nhiêu
+chàng thám_tử thư_sinh
+cách đây hai năm có một chàng thanh_niên vừa ra trường từ phố núi xuống thành_phố tìm việc_làm
+đối_với họ đáy biển là một nguồn sống thiết_thân
+áo trắng xuống_đường kỳ 1 xé hiến_chương vũng_tàu và buộc nguyễn_khánh từ_chức
+ở hoàn_cảnh nào thì cũng vậy
+*e* đi như_vậy có thánh mà đuổi được chứ *e* bỏ khỉ sống lên xe_khách nó kêu chí_chóe và xộc mùi hôi_rình *e* làm cách chi qua được kiểm_lâm
+kể chuyện về bom_loọng thiếu_tá nghị nhớ lại giữa mùa khô năm nay được dân bản vàng_tồng và loong_khảo chỉ cho ba ngôi mộ anh_em liền tổ_chức hành_quân
+thế còn con vật chị yêu_thích nhất
+hành_động của chúng_tôi đòi quyền công_bằng cho người dân vn bị *e* nhiễm chất_độc da_cam đã diễn ra từ nhiều năm qua
+những vị khách khó_tính này đòi_hỏi sạn muối phải khai_thác tại duy_trung và đảm_bảo tiêu_chuẩn bởi đây là loại vật_liệu dùng cho thi_công công_trình trọng_yếu với yêu_cầu kỹ_thuật cao
+thế nhưng cái nghĩa_địa rộng trên 7.000 m2 ở ấp long_châu 1 xã thạnh_mỹ_tây huyện châu_phú an_giang mang tên từ_thiện mà ông đã tốn biết_bao công_sức xây_dựng chắc_chắn sẽ tồn_tại và phát_triển
+thư hơi hụt giọng nhưng vẫn ôn_tồn hứa với toàn *t* sẽ không đến nhà_nghỉ đó và cũng không nặng_lời với chồng
+ở các tỉnh đồng_nai lâm_đồng bình_dương *e* cũng đang lâm vào tình_cảnh tương_tự
+trên đường đi thỉnh_thoảng xe phải dừng lại vì những bác xích_lô chở sắt thép cứ nhơi_nhơi cuống thép dài_ngoằng chực quất vào kẻ khác
+tôi lao vào tiếp_cận học_hỏi hầu_hết các loại_hình khảo_sát lúc ấy công_nghiệp hàng_tiêu_dùng thói_quen tiêu_xài sở_thích xem truyền_hình
+bây_giờ hai đoạn tre đã trở_thành rừng tre rồi
+sau cú đá hiểm_hóc của con gà ô tuấn cụt dâng luôn tỉ_lệ cá_cược từ năm ăn năm thua lên năm ăn một
+gió nhẹ đưa_đẩy bản hợp_xướng của hàng trăm chú muỗi
+ông dương_ngọc_vinh kể cách đây mấy năm trên đảo này có một ngôi chùa nhỏ
+*t* phá thai xong về chưa nghỉ thì *t* đã bị mẹ chồng bắt làm quần_quật việc nhà đã_vậy đêm đến *t* phải phục_vụ chồng nên một lần nữa cô phải vào viện vì đau bụng và ra máu
+anh bùi_b cho biết trong nhiều năm đi đổi chó không ít lần chó *t* bắt vào rọ phải thả ra vì những đứa con của chủ nhà về khóc_lóc không cho bán
+bà nói đây là máu_xương gây ra bởi bom_đạn mỹ mà chúng_tôi muốn gửi tặng tới tổng_thống mỹ
+mọi người đều đã xác_định là không có cách nào hơn trong tình_huống đó nhưng nỡ nào
+hồi đó vượt_biên thật cũng không nghĩ_ngợi xa_xôi gì
+đến ngày giải_phóng miền nam đã có trên 300 người con miền nam được *e* đưa ra học_tập trên đất bắc trở_thành phó_tiến_sĩ 16.000 người tốt_nghiệp đh gần 3.000 người được *e* cử đi học nước_ngoài
+sau những đêm dông như vậy thúng thường tan_tác mỗi người một nơi người may_mắn trôi vào các hòn đảo đất_liền có người trôi sang tận thái_lan hay philippines nhiều người đã nằm lại với biển sâu
+cái lớn nhất mà công_cuộc tập_hợp nhân_dân cướp chính_quyền đã đạt được chính là điều được nhấn_mạnh trong thư của nguyễn_ái_quốc toàn dân đoàn_kết
+đến 15 giờ cùng ngày dòng nước qua đường_ống đã được khóa
+*e* đơn_cử vài trường_hợp ngày 2 4 2004 xe biển_số 54n chở hàng sắt đi vedan chi cho công_an trạm 4 50.000 đồng công_an ngã ba vũng_tàu 70.000 đồng công_an quốc_lộ 51 150.000 đồng
+mảnh vườn nghèo của bà_cụ 70 nuôi một đứa cháu côi nhiễm hiv quá nhiều buồn_thảm
+có người yêu_cầu đem cao đến viện công_nghệ_sinh_học trưng_cầu giám_định
+nghe vậy thư lập_tức có_mặt
+phan_văn_xốm hay buntaphan_xômthat cũng là thế
+vào tòa_án tôi gặp lại hai chị_em bà cụ nguyễn_thị_thửa nguyễn_thị_ngại ở tây_ninh nước_mắt vẫn chảy xuôi tuổi_trẻ 17_-_4_-_2004
+diện_tích tăng lên sản_lượng khoai hằng năm mình thu về cả ngàn tấn
+tiền không mất bị_cáo khẳng_định như đinh đóng cột
+vì_vậy việc tiếp_cận với thị_trường cpc phải đưa ra một chương_trình quảng_cáo tốt và hướng các nhân_viên tiếp_thị cách tiếp_cận cũng như giới_thiệu sản_phẩm đến người tiêu_dùng một_cách phù_hợp
+hai người bạn đồng_hành này cũng cất nhà tình_thương cho người nghèo bằng gỗ dừa mỗi năm trên chục căn
+toàn phán_đoán có_thể thư đợi đúng ngày tổ_chức đám_cưới liên sẽ cho phát_tán những tờ giấy này
+vừa bước tới đầu làng tôi đã nghe mùi tanh_tưởi đến lợm_giọng bởi thứ nước tù đen_ngòm khắp nơi
+ngoài tiền mua vé xe_đò sang thái ông còn cho tôi thêm 500 đồng tiền malaysia để tiêu dọc đường vy nói
+ở côn_đảo mỗi lần chúng_tôi bị địch kéo ra đánh thì hai_địa xông ra chịu đòn thay
+đó cũng là một giá_trị quan_trọng trong việc quảng_bá thương_hiệu giá_trị mà sản_phẩm mang lại cho cộng_đồng cái chân của hoạt_động marketing chuyên_nghiệp là đây
+hôm sau nữa mỗi ngày ba bốn chiếc xe_hơi đến thăm bà cụ
+có hàng trăm cụ_già đã đến cùng tham_gia xuống_đường với con_cháu
+buổi sáng 10 11 2003 tôi ngồi ở phòng cấp_cứu 115 của bệnh_viện trưng_vương
+những người phá rừng vẫn đang ngày_đêm triệt_phá
+thế_là lớp dạy viết chữ đẹp được mở ra tuấn làm giáo_viên
+chúng em thường gọi đùa hiên là nàng tiên nhỏ
+không đồng_tình bị_cáo luân nại rằng với công_văn 999 một_mặt bộ xác_nhận dự_án đang thiếu vốn mặt_khác *t* có chủ_trương cho dn vay vốn tín_dụng
+khi nào sông hiền lúc_nào *t* trở_chứng ta đều nắm làu_làu như tâm_tính từng đứa con mình
+cả sàn đấu vang rền tiếng hô ubdul ubdul
+đất nóng nhơn_trạch
+chiến_hữu đắc_lực
+*e* phải thiết_kế thế_nào cho trọng_lượng giảm gần một_nửa mà công_suất không bị ảnh_hưởng
+thứ hai là để các bộ ngành của vn nhận_thức được rằng việc thực_hiện chính_sách sẽ luôn được sự theo_dõi đánh_giá sát_sao của dư_luận trong và ngoài nước
+ph. cũng có nụ cười rất duyên lại kèm hai lúm_đồng_tiền
+đưa các anh về với đất mẹ
+nhưng khi *t* đặt_chân đến vn tôi đã nhận ra đây không phải là cuộc_chiến chống phát_xít nhật mà là cuộc chiến_tranh của quân_đội viễn_chinh pháp diễn ra tại vn
+lan cũng không_thể trông_chờ việc con mình hưởng thừa_kế của nam vì từ nay đến đó biết_bao đổi_thay biến_cố
+tre *e* mua lần cả vườn đá *e* thuê đò qua tận đá_bạc chở về
+từ mộ này anh căn ra tìm được 13 mộ khác nằm sâu 1 m dưới lòng_đường xe_tải
+giấc mơ đời người
+quả_thật nếu những cơn lũ_quét bất_thần ập về như trước_đây hàm_tân từng gánh_chịu thì *e* không biết 31.000 dân ở la_gi và vài ngàn dân nữa ở những vùng phụ_cận sẽ ra sao
+hùng bảo thường cái cảm_giác cô_đơn làm người_ta hay nghĩ quẩn nhỡ có con sóng bạc_đầu cơn dông bất_chợt hay đàn cá_mập vây quanh
+chỉ trong ít phút lượng tiền cược trên sàn đã lên tới vài chục triệu đồng
+với vợ nhu chăm_sóc từ cái khăn quả cam đến phong kẹo_cao_su
+họ đã quan_hệ với nhau năm năm nay và hoàn_toàn vì tình_yêu
+ông tám_on và bạn_bè không chỉ lo việc thiện việc nghĩa làm cầu sửa đường cất nhà tình_thương trong xã
+suốt từ sáng đến chiều ông ấy làm việc liên_tục
+sv kéo vào trường nông_lâm_súc phòng_thủ
+ngày dài nơi xứ lạ với bao sự_cố bất_ngờ không hi_vọng tôi thay anh_em viết lại cuộc hành_trình để mong ngày trở_về làm kinh_nghiệm cho những lao_động khác nguyễn_văn_toàn xóm vạn_an vân_diên nam_đàn nghệ_an *e* tác_giả cuốn nhật_ký
+*e* gặp các mẹ các bà các cụ_già
+riêng trường_hợp ông phương ở cơ_quan tôi trước_mắt cơ_quan điều_tra chưa xác_định *e* có tham_gia vào vụ mua_dâm
+nơi đặt máy của số điện này khá kín_đáo
+với tiêu_chí đưa oxy tinh_khiết đến từng nhà hiện_nay lá_xanh đang thống_lĩnh thị_trường cung_ứng oxy tinh_khiết cho người_dân có nhu_cầu sử_dụng dịch_vụ này tại nhà khách_hàng đã tăng lên 5000 khách chỉ sau một năm hoạt_động
+năm phút sau thanh vào nhà với vai một nhân_viên cùng cơ_quan bà loan đến chở bà đi thăm người ốm
+không_những vậy công_ty của anh ninh còn làm đầu_mối đưa hàng vn đến 11 siêu_thị và các trung_tâm thương_mại ở phnom_penh đồng_thời cũng là đầu_mối phân_phối hàng về các tỉnh battambang siem_reap pray_veng và kompong_som
+nếu có trở_ngại một_chút thì đúng là lượng khách trên tuyến quốc_lộ 9 sang lào và thái khá đông song thành_ra *e* vẫn phải chờ bộ_phận làm thủ_tục ở các cửa_khẩu ít người quá
+đây là chứng_cứ đầu_tiên về thiên huyền_thoại một thời
+một anh_trai tuấn đang ngồi_tù vì tội giết người
+việc này cần cẩn_trọng vì hải không_thể dùng máy_tính trong phòng hay máy_xách_tay của tùng
+thế_là cả làng bàn_bạc chuyện xây một nhà bia tưởng_niệm để thờ_phụng chung của cả làng niềm riêng cũng là cảnh chung cả làng cùng nhau chia_sẻ nỗi đau ông nguyễn_vụ nhớ lại
+cũng có người ra đây tìm trứng_nhàu
+khi mục_đích khủng_bố ông chương là để ông chương không muốn ở hà_nội đã đạt được thì chắc_chắn họ sẽ không khủng_bố nữa mà xoay sang chiêu_thức khác
+nếu người_ta nhầm thì *e* cũng phải bóc mới biết chứ
+ông ngọc bảo vấn_đề chỉ còn là dư_luận và điều_kiện từng gia_đình thôi
+ngay cả cách trang_trí của nhà_hàng ketmany trên con đường 13 của ông chủ bùi_văn_huấn cũng không khác gì những nhà_hàng tại vn
+người lính thấy rõ nhiều người đang chạy trong rừng để trốn thoát và muốn bắt họ vì_thế họ kêu_gọi người đang bắn hãy đầu_hàng nhưng đáp lại lời kêu_gọi đầu_hàng là thêm rất nhiều viên đạn bắn vào họ
+nội_thất thiết_bị trong khoang sang_trọng hiện_đại theo phong_cách châu âu gồm điều_hòa_nhiệt_độ hệ_thống âm_thanh và ánh_sáng
+tại bệnh_viện bác_sĩ phải châm_cứu hai tháng mới cứu được mạng
+thậm_chí người từ sài_gòn vũng_tàu cần_thơ và cả những người tận ngoài bắc cũng tìm về xem
+còn hai anh_em lê_vãn_anh và lê_vãn_trãng ở vùng cát cháy duy_nghĩa duy_xuyên cũng đang cố học thật giỏi để trở_thành bác_sĩ chữa bệnh cho người nghèo và các bạn bị nhiễm chất_độc da_cam như mình
+nhưng đó chỉ là những cái tên trong muôn_vàn những anh_hùng có tên và vô_danh
+nhắm_mắt_đưa_chân mong đổi đời
+nếu cô ta biết rõ hoàn_cảnh của lan là làm ở quán hát không mua_chuộc dựa_dẫm gì chồng cô ta chẳng may có con ngoài ý_muốn và gặp khó_khăn bây_giờ
+30 phút sau long trở ra và viết đơn xin nghỉ_việc
+dân trong vùng mỹ_hiệp_sơn trồng loại khoai nhật cho năng_suất cao cũng do anh đem về trồng thí_nghiệm đầu_tiên trên ruộng nhà
+*e* xử_lý nghiêm_minh theo pháp_luật và kỷ_luật của đảng những người có hành_vi sai_trái và những người bao_che
+mọi người những ai được đọc nhật_ký của thùy sẽ không bao_giờ lấy đi của bà được điều đó
+mỗi đợt *e* mua 20 30 con có hồ_sơ từng con hẳn_hoi
+theo số_liệu từ cơ_quan quản_lý lao_động của đài_loan công_ty trung_hữu đã tiếp_nhận 330 lao_động từ các nước có khoảng 200 là nữ
+báo pháp_luật tòa đã xử khách_quan vô_tư
+chuyện kể của đồng_chí tư_mau trích từ những trang ghi_chép đi tìm ông hai_địa
+gần 8 giờ tối công_việc dọn_dẹp đường_ống coi như hoàn_tất đã
+cũng như anh ở trà_vinh có một người cũng được tuyên_dương anh_hùng
+người sĩ_quan tham_mưu dẹp mấy cái cốc và trải ra trên mặt bàn một tấm bản_đồ lớn
+theo một quan_chức sở tài_nguyên môi_trường tỉnh đồng_nai thực_tế tình_trạng qui_hoạch nhơn_trạch cho đến nay vẫn chưa ổn_định vì có rất nhiều vấn_đề phát_sinh trong quá_trình phát_triển vấn_đề ô_nhiễm môi_trường
+xem tivi về thấy trời mưa lớn nó nằm nói với em làm nghề này dễ bị sập hầm mưa_lũ làm núi lở sập trại lắm
+xe vừa rời cửa_khẩu quốc_tế nậm_cắn *t* đã thấy lãnh_đạo huyện biên_giới kỳ_sơn và hàng trăm em học_sinh cầm cờ hai nước việt lào đang đứng chờ mặc cho trời đang nắng nóng
+phiên chợ bắt_đầu từ 12 g 18 g trong ngày thời_điểm sôi_động nhất vào khoảng 16 g 17 g bởi đây là lúc các lái_buôn tập_trung về chợ sau một ngày đi thu_mua chó
+điều đáng nói hơn tất_cả các loại mũ nhập lậu đều vi_phạm nghiêm_trọng quyền sở_hữu_trí_tuệ
+nhà xã_hội_học nguyễn_thị_oanh một người từng làm_việc với nhiều tổ_chức quốc_tế chia_sẻ người việt có tính thụ_động
+có_vẻ đắt nhưng hỏi ra một người con vào thăm mẹ nói thật với tôi vẫn kinh_tế chán
+trung_tâm cho họ tiền thuê nhà một tháng 200.000 đồng tư_vấn cặn_kẽ để giữ sức_khỏe và tránh lây_nhiễm cho đứa con 18 tháng
+trước giờ *e* phân rác ra thỉnh_thoảng cũng thấy
+à cũng lâu lắm rồi tôi không quan_tâm
+và còn một_số chi_tiết không rõ_ràng về gia_đình quá_khứ của hải
+vậy nên trên tờ báo_tường của các anh_chị tôi đọc thấy một câu_thơ thật hay gần bùn mà thấy trời xanh
+và ngày về
+đợi lúc chồng ngủ nhi đã chép được số điện_thoại của l
+tại pakse có bảy xóm người việt
+chàng này chưa được_lòng bà_ngoại
+vừa nói_chuyện với chúng_tôi vợ mười vừa cân mấy con thú của một người đàn_ông bẫy được mang đến bán
+kỳ_quan giữa lòng đất thép
+hồi trước mỗi lần lấy mẫu bệnh phải mang đến các trường đh phân_tích quả_là bất_tiện với anh
+con thuyền trở_nên chật_chội và đằm hẳn xuống bởi hơn 20 tạ hàng được *e* mò lên từ đáy biển
+thậm_chí lực_lượng khai_thác cát còn hăm_dọa đưa cần_cẩu vào giật sập nhà dân nên *e* đã xảy_ra nhiều trận chiến
+ngày_mai mẹ sẽ mua tay giả cho con để con đi học
+hiện mọi kế_hoạch phương_án hoạt_động mới của công_ty tạm dừng triển_khai cho đến khi có ý_kiến của ban lãnh_đạo
+chị quay sang bảo tôi đi em mình qua new đi
+ông bắt_đầu nghĩ đến phương_cách làm_sao để người dân sống ổn_định không lệ_thuộc mà chủ_động quản_lý thiên_nhiên để sinh ra nguồn lợi nuôi sống mình
+cô ta không có âm_mưu xui nam bỏ vợ hay muốn chính_thức lấy nam
+ra tù bà tiếp_tục tham_gia đảng_bộ cộng_sản địa_phương và tích_cực tham_gia các phong_trào đấu_tranh của đảng cộng_sản pháp trong cuộc đấu_tranh tại vn
+màu xanh của những tán cây rừng ven các tuyến đường chạy vào những cụm rừng của huyện bảo_lâm bao_bọc thị_xã bảo_lộc tỉnh lâm_đồng đã làm giảm_sút niềm tin của chúng_tôi về nạn phá rừng mà người dân phản_ảnh
+đó là người đàn_ông tốt_bụng nhất mà tôi gặp trong suốt một năm ở malaysia
+một thành_viên trong ban huấn_luyện cho biết ban_đầu các võ_sĩ vn đã lắc_đầu_lè_lưỡi khi được xem các trận đấu chuyên_nghiệp của võ_sĩ thái
+lan đang bế_tắc
+gái bán_dâm chủ_yếu trong lứa tuổi 18 30 phần_lớn là ít học nghèo_khó còn lại khoảng 15% lười lao_động đua_đòi ăn_diện và tự_nguyện đi vào con đường bán_dâm
+ở trạm_xá xã hưng_long đối_diện với căn nhà tử_tội hải luận kẻ cầm_đầu đường_dây mua_bán 2.354 bánh heroin công_an địa_phương đang căng_thẳng với một lớp cai_nghiện tập_trung
+tôi bỏ nghề từ lâu rồi *e* qua ông bình mà mua
+nhiều ngàn tỉ đồng đã được chi cho những thạc_sĩ tiến_sĩ người việt được đào_tạo ở nước_ngoài nhưng người về như bóng chim tăm cá
+từ năm 1961 1965 cuộc chiến_tranh du_kích của nhân_dân củ_chi phát_triển mạnh gây cho địch những tổn_thất nặng góp_phần làm thất_bại cuộc chiến_tranh đặc_biệt của mỹ
+vợ lợi vừa mới sinh đứa con đầu_lòng tròn một tháng tuổi
+*e* nhận được báo_cáo
+theo chân anh đã có thêm gần 200 hộ kéo ra khai_hoang hết 200 ha cồn giá *e* tạo thành một khu nuôi tôm sầm_uất giữa đầm cầu_hai
+*e* là hình_ảnh của những ngày chị cố lê đôi chân tật_nguyền để đến trường trên quãng đường đất_đỏ mịt_mù
+mọi người phải có_mặt lúc 6 giờ
+mấy ngày sau đó tôi được chứng_kiến cảnh bà g kéo theo một nhóm người nào xẻng búa bạt đi dựng lều ngay trên đất lâm_trường
+thời_điểm rừng bị phá bạo nhất cách đây vài năm khi giá cà_phê lên cao anh_em bảo_vệ rừng cứ phải chạy theo_đuôi
+phát_hiện một tàu chở hàng lậu
+vậy là nước lại về với sông
+nhiều ngư_phủ cho tôi biết với kinh_nghiệm của họ khi dông gió kéo tới họ tìm cách hạ buồm thật lẹ túm_tụm vào nhau ba bốn thúng cột lại cùng nhau sẽ an_toàn khó bị lật hơn
+nơi đây ngày nào yersin đã đề_nghị xây_dựng một trung_tâm nghỉ_dưỡng độc_đáo nhất đông_dương trên cao_nguyên
+những anh_hùng trên đất thép
+không còn cách gì hơn lân lại thắp nhang khấn tiếp xin người chiến_sĩ vô_danh cho anh_em được làm lễ hỏa_thiêu vì đường rừng về nước xa_xôi chúng_em chỉ có_thể mang hài_cốt về mà không_thể đưa cả thi_hài
+kế_hoạch là ông chương sẽ cho hàng_xóm biết tin công_ty trong nam có kế_hoạch rút ông về
+từ đây mọi việc_làm suy_nghĩ bình_thường của tùng tùng đều có thói_quen xem_xét lại
+nong_tum bảo với tôi muay_thái đã là máu là thịt không có nó tôi chẳng có ngày hôm_nay
+ngày đầu_tiên khi tôi đến và đề_nghị được cùng đi với họ đến công_viên hè_phố để tiếp_cận những cô_gái hoa đêm ban_đầu không ai đồng_ý nhưng cuối_cùng họ đồng_ý với một nguyên_tắc không nêu tên không chụp ảnh
+*e* biết làm vàng ở rừng sâu là cực
+nhiều người ngạc_nhiên trước sức nghĩ và sức viết của cây_bút cao_niên này
+ngoài_ra đáng_lẽ đổ cát lấp đường_ống theo tiêu_chuẩn về xây_dựng hệ_thống thoát nước thì lấp đất đơn_vị thi_công
+lận_đận vì bài báo
+hơn thế tôi còn được biết anh vẫn lặng_lẽ góp_phần phụng_dưỡng nhiều bà mẹ ở vn nhưng điều ấy anh không bao_giờ nói
+khổ nhất phải kể đến gia_đình anh song ngoài bốn sào ruộng bị nước_mặn xóa_sổ căn nhà cao_ráo ngày_trước chỉ cách lộ chục mét giờ *e* muốn ra_vào phải chèo xuồng
+thông_qua họ thanh biết hùng được *e* đánh_giá là cán_bộ trẻ có năng_lực tiền_đồ
+*e* vẫn không lấy tiền ngay
+khi thám_tử tuấn về đến hà_nội hoàn_thành vai sinh_viên hải thì công_ty điều_tra & bảo_vệ v cũng hoàn_tất hợp_đồng với chị hằng
+bảy con_người ai cũng mải_mê luôn tay chẻ vót nan đan sản_phẩm
+theo dự_kiến trận đấu sẽ diễn ra trong bốn hiệp mỗi hiệp 3 phút nhưng mới đến hiệp thứ hai thì minh_sang đã phát_hiện được tử_huyệt của đối_phương là không thủ kín mặt khi ra đòn đá
+dưới mắt những học_trò tuổi 16 20 vào những năm 1968 1970 thì rõ_ràng sài_gòn quê_hương mình đang bị người mỹ chiếm_đóng
+ubnd tp đã chính_thức kết_luận hoan_nghênh và biểu_dương những việc_làm tốt của họ
+kỳ sau những trùm đầu_nậu
+tôi nhớ lời anh chủ_tịch xã bùi_văn_luyến nhắc đi nhắc lại coi_bộ *e* nhỏ nhưng quan_trọng lắm
+em bị dị_tật ở mặt và luôn mặc_cảm với chính mình thế_nhưng sau khi tham_gia khóa học em viết chữ đẹp được thầy hiệu_trưởng tuyên_dương trước toàn trường
+không ai chờ sự có_mặt của mình cả
+bà già nói không lan vừa ra ngoài
+đêm đến mới bắt_đầu chuyển hàng xuống tàu nhưng không phải chúng_tôi chuyển mà toàn là cán_bộ khoảng hơn chục người cấp đại_tá có cả tướng
+tướng người thấp mập và để một chòm râu dưới cằm nên nguyễn_khánh được giới báo_chí đặt cho biệt_danh tướng râu dê
+hai_mươi năm 1984 2004 anh đã trải qua mọi cực_khổ giữa vùng rừng các tỉnh xiêng_khoảng bô_li_khăm_xay khăm_muộn
+những con đường ra biển
+đây là nơi được bộ_đội phathet_lào quân_tình_nguyện vn và phía đối_phương là lính_đánh_thuê thái_lan cùng cố_vấn mỹ trước năm 1975 thừa_nhận là một điện_biên_phủ thu nhỏ trong thung_lũng hẹp giữa bao quanh vô_số dãy núi cao ngất_ngưởng
+anh hải người đưa chúng_tôi đi trong những ngày ở thái_lan bảo biệt_thự này của một việt_kiều làm nghề nuôi heo đấy
+nhưng rồi biết tin có nhiều phế_liệu hằng ngày trên sông hàm_luông đoạn từ chợ_lách ra cửa_biển có tới 40 ghe_tàu lớn_nhỏ của dân chài từ thượng_nguồn an_phú an_giang đổ xuống trục_vớt
+hết bốn tiếng buổi sáng thì gọi cơm_hộp uống nước văn_phòng *e* và làm đến 6 g chiều thì đi thẳng một_mạch về nhà *e*
+ông chương chưa từng về quê kim và cũng không biết người_thân nào của kim ngoài bố cô đã mất
+trên thế_giới rất ít công_ty chuyên về lĩnh_vực này và chỉ có ads là chuyên về thị_trường nghiên_cứu
+em tôi không_thể nào tưởng_tượng được ngày này chị đã làm gì
+như thấy thiếu điều gì ông lại chạy vào bụi cây lấy ra trên chục ống_bơ sữa bò bên trong ống_bơ đó là một hòn đá được *e* buộc lủng_lẳng bằng sợi dây chỉ
+tính thông_minh lại tò_mò anh kiệm bắt_đầu đi đến các xưởng cơ_khí để quan_sát các loại máy_móc rồi về nhà suy_nghĩ và cầm bút vẽ phác_họa ra cái máy vút gạo
+lúc này các anh mới nghỉ_tay ăn vội miếng cơm và đợi bộ_phận kỹ_thuật làm đoạn kiềng ống mang đến
+mắt thư sắc buốt như dao mặt tím thâm lại trong hai hàm_răng nghiến bạnh quai_hàm
+thông_tin từ một_số lái_buôn gia_súc cho biết để hợp_thức_hóa ngay khi hàng vượt qua biên_giới chủ hàng lập_tức nhờ các xã vùng_biên xác_nhận đó là gia_súc nội_địa
+tất_nhiên là chúng không tin
+các đường_dây điện_thoại nóng của công_ty thoát nước của các báo reo liên_tục với nhiều ý_kiến phàn_nàn nhiều ý_kiến gay_gắt
+chú hổ do chính bàn_tay các bà_đỡ vườn thú hà_nội đã ra_đời
+chiếc máy_ảnh cũ hiệu rolleiflex của đại_tá thái_doãn_mẫn 83 tuổi được sử_dụng từ năm 1966 đến ngày đất_nước hoàn_toàn giải_phóng
+màn_kịch ấy hơi vụng
+tổ chiến_đấu của phạm_văn_cội không nao_núng vừa lẩn giặc vừa tìm thế đánh trả
+phóng_sự điều_tra thú rừng vẫn chảy máu
+trưởng_phòng pháp_chế chi_cục kl hà_tĩnh đặng_hữu_cư cho biết nạn buôn thú quí này bắt_đầu rộ từ năm 2003 phát mạnh năm 2004 nhất_là từ khi dân buôn_lậu ở biên_giới trung_quốc cần nhập tê_tê với giá 450.000 600.000 đồng kg
+bạn_trai đào tên tuấn đã bỏ học mở cửa_hàng điện_thoại_di_động đtdđ
+nhưng khi hàng đã chui vào thị_trường thì *e* chịu
+bằng biết thêm bà sinh bán hoa_quả ở chợ tân_định và bà đã sang_tên sạp hàng cho người khác hơn một tháng trước khi *t* mất
+những mất_mát quả_là không_thể đong đếm
+nhặt và trả đã đủ để vui
+*e* phải nhanh_chóng đưa súng_đạn vào cho bà_con trong đó
+đâu phải chỉ có một nỗi buồn của vết_thương rỉ máu của con tim đó đâu
+muay_thái vào vn và biến_cách thành võ tự_do từng bị chính_quyền cũ cấm_đoán vì quá dã_man
+năm 2004 cô lại nhận giải ba của báo thanh_niên viết về chiến_dịch mùa_hè xanh
+tùng sẽ thấy *t* bị *e* khinh_thường sẽ không tin ai và không nghe ai
+hiện_nay hàng ngàn hộ dân trong vùng đồng_tháp_mười như long_an đồng_tháp tiền_giang đang áp_dụng thành_công mô_hình trên và thu được kết_quả rất khả_quan
+năm 1975 ngày vui toàn_thắng cũng là ngày người dân tân_an nhìn khắp làng bùi_ngùi cả làng có 52 nóc nhà nhưng có đến 50 gia_đình liệt_sĩ và hai gia_đình có công với cách_mạng
+để tiếp_cận họ chúng_tôi phải đi bộ gần 1,_5 km men theo bìa rừng
+thượng_tá bình thắp thêm một ngọn nến nhỏ đủ hai người ngồi trò_chuyện tiếp
+còn em vẫn khỏe thôi
+ngoài_ra những chiếc xe ben ngược chiều phóng bạt_mạng như muốn lao vào xe cấp_cứu
+có_lẽ *e* là bà ta
+khi nào hoàn_thành nhiệm_vụ *e* báo_cáo cho tôi biết
+ngay từ những trang đầu_tiên ta gặp một con_số năm 1959 và một tên người đồng_chí võ_bẩm
+anh cũng từng có ý_tưởng mở lớp dạy viết chữ đẹp từ lâu rồi
+cái chết sau một hợp_đồng bảo_hiểm
+*e* chưa kể đến những chuyện đau_lòng khi gặp phải những người chồng hung_bạo bệnh_hoạn
+khi khách về nước rồi cả thẻ học lẫn xe_đạp *e* chúng đem đi bán
+với công_việc này những nhân_viên cấp dưới sẽ được chia 2,5% trong tổng số tiền độ thu được
+ông nói nhiều đồng_đội đi cùng thấy chiếc ruột_tượng tiện_lợi bèn nảy ra sáng_kiến lấy chiếc quần dài bỏ gạo vào rồi túm hai đầu ống lại
+thế nhưng đường vẫn ngập lênh_láng
+hùng cho biết đây là lần đầu_tiên hùng có bạn đi cùng thúng hàng chục năm rồi anh mới xóa được cái cảm_giác cô_độc giữa biển_khơi
+*e* phải nghe các anh cn thoát nước nói thì mới thấy được có nguyên_nhân từ ứng_xử của con_người
+đến mờ sáng *t* vừa chạm đỉnh núi nậm_ngừm
+rùi đồng_bào bị lũ_lụt hỏa_hoạn người thương_binh ấy cũng lặn_lội đi vận_động
+ngày thứ năm gặp cái lều nát của dân sơn_tràng thấy có mấy vắt cơm thừa treo lại ai cũng sáng mắt ra
+cho đến giờ nói thiệt với tay_nghề này tôi đi đâu cũng sống khỏe quyên rất tự_tin bảo như_vậy
+jimmy chưa giỏi tiêu tiền việt nhưng *t* đã tính được so với số thu_nhập khoảng trên 10.000 đồng ngày thì không phải là nhỏ khoản kia
+trước mặt chúng_tôi là một ô cửa_sổ chắc là phòng_thường_trực nhưng bên trong không có ai
+sai_phạm tại trạm 20 được các cơ_quan_chức_năng ở đồng_nai thống_nhất chuyển sang xử_lý nội_bộ
+hắn thường hay bê gà đi khắp các sới bằng chiếc ôtô hiệu camry trị_giá vài chục ngàn usd của mình
+chị bảo các anh phải ở lại đây đã chưa được đi đâu hết
+các đđv đến để cung_cấp kiến_thức thông_tin phòng_chống hiv aids và cả phương_tiện như bao_cao_su bơm kim_tiêm cho những người bán_dâm trên đường_phố
+thời_giá những năm 1990 khoảng 600.000 đồng một sườn nhà
+ngoài việc dạy tiếng hoa và các kiến_thức phổ_thông khác phượng còn muốn trao_đổi kinh_nghiệm của một người đi trước hướng_dẫn người đi sau về nếp sinh_hoạt trong gia_đình xã_hội và phong_tục tập_quán của người đl
+nhà nào đổ chuông thì nhà đó l ở
+khu_ủy tăng_cường một tiểu_đoàn xuống đánh một_số trận giữ vững khu căn_cứ
+bắt_đầu từ tháng tám hằng năm từng đoàn cửu_vạn người lào người việt trong đường_dây buôn thú từ malaysia qua thái_lan lào đổ_bộ vào vùng rừng cửa_khẩu cầu_treo hà_tĩnh rồi tràn lên đường 8
+đến nay cả làng có sáu bà_mẹ vn anh_hùng
+vay được bao_nhiêu tiền anh đều đổ vào mua vật_liệu
+và tôi phải quay về phòng
+vì trời mưa cháu không đi nhà_trẻ được
+sau 25 năm làm_việc trong tư_cách một nhà làm phim và một nhà nhiếp_ảnh tôi sẽ nói với cậu rằng thường_thường câu_chuyện mà người_ta bắt_đầu sẽ không nhất_thiết đúng như câu_chuyện người_ta sẽ kết_thúc
+bà năm đứng trong phòng ban_giám_hiệu nước_mắt chan_hòa tự nuốt những lời_lẽ hùng_hổ những hốt_hoảng của người_đời vào lòng
+đó là ông nguyễn_minh_phụng ở huyện miền núi tiên_phước quảng_nam
+một đống cây luồng được cắt sẵn thành từng đoạn chất đống choán hơn nửa cái sân rộng
+xe rồ máy rồi lao thẳng vào miệng hầm bỏ lại đằng sau ánh_sáng trời đầy trong xanh
+công_việc bận_rộn làm mình quên đi những chuyện bực_bội nhưng rồi nó vẫn lại đâm nhói vào suy_nghĩ như những cây gai nhức_nhối
+xong mọi việc ông chương gọi điện cho con nói ba đang sửa nhà cũ để bán hiện *t* đã chuyển nhà mới địa_chỉ rất khó tìm điện_thoại cố_định không có nếu *e* liên_hệ thì *e* *e* qua máy di_động
+cuốn nhật_ký khép lại bằng những dòng như thế và theo giấy báo_tử anh đã hi_sinh đúng một tuần sau đó ngày 25 8 1972 tại xã triệu_thành mặt_trận phía đông sát thành_cổ_quảng_trị
+thế nhưng tới khi *t* đến gần được tàu lại càng nguy_hiểm hơn
+ông hỏi kim em muốn về nam với anh không
+rồi anh chỉ góc sân bãi vỏ khô thâm như bồ_kết chính là vỏ quả thàn_mát đã bóc
+tuy_nhiên con vật nào cũng vậy cả thôi *e* phải hiểu chúng chăm_sóc chúng đúng mức thì dù có dữ_dằn chúng cũng sẽ trở_nên thân_thiện và đáng yêu hơn
+thế nhưng cũng không_thể chờ_đợi hùng nói *t* đã điều_tra thì ai tôi cũng có quyền nghi
+đau_lòng lắm nhưng rồi mình cũng phải ráng
+họ lớn lên khi chiến_tranh đã đi qua nhưng *t*-1 vẫn chọn màu áo công_an để vào đời
+mệnh_đề là đơn_vị nhỏ nhất của hoạt_động tư_duy
+tôi vẫn chưa hết ngạc_nhiên thì anh nghiêm lại đưa vào miệng an một mẩu giấy_bóng cắt ra từ bao sachi_snack khoai_tây hiệu kinh_đô an lại nhai lại dùng răng và lưỡi đưa lên đẩy xuống
+năm mỹ 9 tuổi cũng là năm cha_anh bỏ bặt vợ và bầy con nhỏ lấy vợ mới rồi đi biệt_xứ
+lãi_ròng là những niềm vui
+chỉ đến khi nghe gọi tên bà mới ngẩng lên và nói được đúng một câu ngắn_ngủi tôi cầu_mong nhà_nước cầu_xin mọi người hãy làm gì giúp cháu tôi được đến trường
+ông chương cho biết nơi ông làm_việc là ở phường láng_thượng quận cầu_giấy hà_nội nơi ông sống là một căn nhà ở phường kim_giang quận thanh_xuân
+diễn_đàn tạm khép lại nhưng cuộc đấu_tranh cho những điều mình tin_tưởng thì chưa dừng lại
+lạ là khi tôi đề_nghị phân_cấp mấy anh tổng_công_ty nghe phân_cấp là chạy ông bình nói
+cho đến nay đã có hơn 300 du_học_sinh trong đó có bốn tiến_sĩ đã thành_danh bằng con đường đông_du mà ông khởi_xướng
+bốn bức tường toàn tranh về các loài thú
+bà susan hứa sẽ giúp tôi học tới thạc_sĩ mai xúc_động thứ_sáu tuần này 3 8 tôi lại bay sang bên đó tiếp_tục kỳ học mới
+phú dùng bốn ngón của hai bàn_chân mở nắp bút và kẹp vào kẽ chân phải rồi mải_mê viết
+10_triệu đô và 0 đô
+sát nhà anh đợi là nhà bà nguyễn_thị_tồn
+mẹ và những đứa con mất_trí
+tôi hiểu
+trong anh_em mình tau mà chết thì tội_nghiệp mẹ tau lắm
+và giờ đây tôi đã biết
+thu nói *t* không loại_trừ
+đứng trên bờ đê bao quanh khu bảo_tồn nhìn chếch về phía góc trái rừng tràm *e* có_thể thấy một khu đồng_ruộng bằng_phẳng mạ non đang lên xanh_rì
+quán bán đầy_đủ các loại thú rừng ướp_lạnh
+để làm được như mục_tiêu đề ra không phải đợi đến tháng an_toàn giao_thông tháng chín hằng năm mới hành_động mà phải xem mỗi tháng mỗi ngày đều là an_toàn giao_thông tp
+đây cũng là lý_do xuất_hiện nhiều cô gái gia_đình khá vẫn thích lấy chồng ngoại
+chiếc xe lại phải len_lỏi qua những ngả đường để chuẩn_bị đưa về bệnh_viện chợ_rẫy quận 5
+có nhà chết hết chẳng còn ai thờ_phụng
+số_lượng heo nái của trang_trại anh đã đạt 4.000 con
+thợ_săn k_. xã phù_long có thâm_niên năm năm trong nghề săn chim cũng cho rằng mỗi dịp chim về đảo tháng chín tháng mười chính là cơ_hội tốt để kiếm tiền
+đó là siêu_thị máy_tính lớn nhất phnom_penh có diện_tích khoảng 500 m2 ở tầng trệt và 500 m2 ở tầng 1 làm kho chứa hàng_hóa trong tòa nhà cao sáu tầng này
+nhân_dân vn đang khắc_phục hậu_quả chiến_tranh
+một hôm đợi lan ra ngoài thắng áo trắng quần xanh cắp cặp và cầm tờ bảng_biểu to_tướng ghi danh_sách tên_tuổi địa_chỉ những gia_đình bên cạnh nhà lan
+vậy thì sự lầm_than hôm_nay của nhóm công_nhân bảo_vệ cái thiện kia minh_chứng cho điều gì
+các thành_viên trong ban điều_hành wmc đến từ 50 quốc_gia
+cửa_hàng cô đang làm_việc trên đường hai_bà_trưng vắng như sân bóng_đá thành_long mấy ngày tổ_chức giải bóng_đá nữ vừa_qua đoạn đường trước cửa_hàng đang được *e* đào lên để đặt đường_ống
+nhờ chất_lượng đào_tạo và sự liên_kết chặt_chẽ với các nhà_hàng khách_sạn tất_cả những em từng học nghề ở koto nay đều đã có việc_làm ổn_định
+đường_ống dẫn nước phi 800 dưới lòng rạch cá_trê thuộc phường bình_khánh q. 2 tp.hcm bị vỡ lúc 6 giờ ngày 8 8 nước phun lên thành cột cao
+khi nào phụp với nhau hai đoạn địa_đạo thông nhau thì miệng thí được *e* lấp lại
+trong cảnh khó nghèo quá làm ra lúa bán rẻ tính_toán không đủ tiền công phân_bón anh nghĩ *t* đem gạo ra chế_biến để bán may_ra khá hơn
+giọng ông chương rất yếu ờ thì anh tính đến cái tuổi này rồi ai mà chẳng từng có vợ
+viết phấn đã thành_thạo phú đòi cha mua bút_chì
+thoáng chốc chiếc uoat rẽ qua khu_vực cánh_đồng_chum chạy giữa khoảng đồng mù bụi nhằm hướng rừng phu_phả_xay đi vào mũi phu_cút
+thủ_phạm là người khá gần thu và chỉ nằm trong diện những người được thu cho biết mất máy điện_thoại_di_động
+*e* không biết chủ hàng trung_quốc lãi bao_nhiêu chỉ biết qua đến lạng_sơn giá_trị của chiếc mũ đã tăng lên gấp rưỡi
+cũng có những hộ mới về năm 1999 2000
+vẫn hđxx *e* vậy *e* có chủ_trương để bị_cáo ký xác_nhận không
+và điều đó thì chúng_ta cần phải học
+với tấm lưới rách mỗi chiều nó đóng_góp cho bữa ăn gia_đình vài con cá_đối nước_lợ
+rừng lai_châu mùa khô sáng_rực cả đêm khói bụi bay mù_mịt vì lửa cháy rừng
+giá nấu thuê 5 10triệu đồng nồi tùy ở thân_sơ và cam_kết chủ thợ
+vn đã sản_xuất được nhiều chi_tiết quan_trọng khá phức_tạp như bệ đỡ giá chuyển đệm không_khí
+điều mà ba_hạo làm gsts hào cũng bất_ngờ là anh đã nghĩ cách kết_hợp biện_pháp sinh_học và thủ_công để diệt bọ_hà
+khi vợ biết đưa lên viện 108 quân_đội thì ung_thư dạ_dày của mình đã chạy sang gan
+thấy cảnh mẹ_con người_ta ríu_rít đưa nhau đến trường mà thèm
+đó chỉ là một trong hàng ngàn trường_hợp không nhờ cấp_cứu đã *e*
+lên 6 tuổi phú đi_lại vững_vàng nhưng vẫn hay bị ngã *t* không có tay đỡ nên đầu cứ cày xuống đất làm rách xước xây_xẩm mặt_mày
+nhưng khi chị thưa thì đầu dây bên kia có tiếng dạ đứt_quãng rồi im_lặng không trả_lời
+ban_ngày dưới nắng xuân ấm_áp nhiều gia_đình đua nhau đến đây chụp ảnh kỷ_niệm
+mở tương_lai cho hàng trăm học_trò nghèo
+và khi bản_thân hoặc người_thân nhiễm hiv vì *e* tự cho là kết_quả của liên_quan đến tệ_nạn vi_phạm đạo_đức nên *e* không bao_giờ công_khai sự_thật nhiễm_bệnh được
+chính những hòn đảo này đã giúp chủ của chúng có cuộc_sống đỡ vất_vả hơn so với những người sống ngay trên bè cá
+các anh có_thể nhờ ông ấy dẫn đường
+khi xuống nước tất_cả cùng bám chung vào một sợi dây dài hơn trăm mét
+ông phong về canada lấy bà liễu và cũng chỉ nhớ câu_chuyện ở thái_bình như một trong những kỷ_niệm trên tình_trường của đời trai phong_tình
+giờ_đây vy kể lại nhưng tay_trái có vết xăm hình ngôi sao trên cổ_tay của cô vẫn nắm chặt lại thật khủng_khiếp
+gần như tuyệt_vọng anh sáu cho ghe quay vào đảo
+tuy_nhiên gần đây tân_lộc còn có tên gọi mới đảo đài_loan
+hiện_thời muốn đánh pháp nhật ta chỉ cần một điều toàn dân đoàn_kết
+thế nhưng những khung_cảnh lạ ở đất_nước mà mẹ phạm được sinh_ra đã giúp anh có một cái nhìn rộng hơn về cuộc_đời
+một người đàn_ông chở năm chú chó đáp vào điểm mua của ông chính
+không dưới 20 công_ty thuộc cỡ bự khắp nơi cũng đang dòm_ngó hợp_đồng này
+đó có_thể là một chữ_ký một lời góp_ý cũng có_thể là cả một cuộc đấu_tranh bền_bỉ như con ong hút mật mỗi ngày để nói lên tiếng_nói đủ lớn thức_tỉnh lương_tâm và trách_nhiệm
+anh tăng đã bám_trụ ở đấy hơn 15 năm
+người nghèo khi nhận nhà đều cảm_ơn ông khuyên họ hãy cố_gắng làm_ăn chăm_lo gia_đình hạnh_phúc là đáp ơn tôi rồi
+nam càng gắn_bó hơn với mẹ_con lan
+lúc này ông chiến_đấu ở ấp bàu_cạp chung ấp với anh_hùng du_kích phạm_văn_cội
+tôi giật_mình và bàng_hoàng chợt nhận ra con đường mình đang đi là ngõ_cụt
+hai năm sau tai_nạn hiền vẫn đi thi_tuyển công_chức ngành bưu_điện
+rời quân_ngũ sau bảy năm 1971 1977 vào_sinh_ra_tử nơi chiến_trường quân_khu 5 ác_liệt ông quí về quê làm_ruộng với thương_tật 4 4
+anh hiền bảo anh thanh mấy năm nay vất_vả sức yếu lắm rồi mắt mờ tóc rụng hết
+từ đây các phương_án khắc_phục đã được vạch ra và phương_pháp dùng kiềng ốp bó điểm bể đã được chọn
+có tiền anh tức_tốc tìm đến các bãi phế_liệu lục tìm mua ống sắt phi 76 ruột xoắn và nhiều sắt thép phế_liệu khác rồi đón xe_khách ra đà_nẵng tìm đến chợ_trời bán đồ cũ mua một môtơ
+chính chủ_tịch huyện bảo_lâm ông lương_văn_minh khi trao_đổi với chúng_tôi vào sáng 11 10 cũng thừa_nhận đi vòng_vòng ở ngoài *e* thật_tình không thấy gì đâu nhưng vô trong thì toàn là những rẫy cà_phê 3 4 5 tuổi *e*
+từ đó đến nay ba hiền do không chịu nổi cú sốc đã đi làm_ăn biệt_tăm trong năm năm qua
+cà_phê cá_độ bóng_đá
+ai cũng đầm_đìa nước_mắt
+vậy nguyên_nhân gốc từ đâu
+như_vậy bản_thân nam cũng có_thể chấm_dứt mối quan_hệ này nếu việc đó không gây tác_động lớn đến tình_cảm danh_dự tiền_bạc của anh
+tên ông là nguyễn_ngọc_vinh ảnh tiến_sĩ thượng_tá công_an đang công_tác tại phân_viện khoa_học hình_sự bộ công_an tại tp hcm
+nó làm tôi đau_đớn y_như lúc vớt xác đứa em_trai dưới sông lên
+một khó_khăn hi_hữu xảy ra dịch sars hoành_hành ở trung_quốc nên các chuyên_gia không_thể sang đúng thời_hạn
+giờ thì ông thanh bại chân mất sức_lao_động đời_sống khó_khăn lắm
+mới 16 tuổi năm 1971 nguyễn_văn_quí tình_nguyện nhập_ngũ
+chị hoa *e* từ ngày 18 1 đến 24 4 chị bị dắt đến chín chủ nhà khác nhau nhưng chẳng ở với chủ nào được
+anh phê_bình hay mạt_sát tôi đấy
+nhúm ruột việt trên đất isan kỳ cuối không xa nữa đường về nhà
+chu_văn_thiệp lâm_xuân nghĩa_hoàn tân_kỳ nghệ_an nằm trong số sáu người bị *e* bắt 19 ngày *t* được *e* chuộc ra khỏi tù
+tôi đã nhiều lần tới bảo_tàng chứng_tích chiến_tranh tại tp hcm và cứ mỗi lần tới gian trưng_bày hình_ảnh quân_đội mỹ sử_dụng chất diệt cỏ trong chiến_tranh vn tim tôi lại se_thắt
+biết_bao vụ tai_nạn thương_tâm đã xảy ra do đám xe chở thú này gây nên
+ngọn lửa được nhóm lên thi_hài người lính tan biến rất nhanh chỉ còn lại bộ hài_cốt trọn_vẹn
+các ban ngành địa_phương có biện_pháp giúp người dân nâng cao trình_độ dân_trí đời_sống kinh_tế ngăn_chặn có hiệu_quả tình_trạng môi_giới lừa_đảo
+củ khoai cứ tuột khỏi tay mẹ vì nó không có gì bấu_víu được vào người mẹ chị bình vợ anh lộc nói thêm
+mặt_khác có những tác_giả đã phát_hiện những đề_tài mới hay nhưng thể_hiện chưa có chất phóng_sự bài viết khô chỉ mang tính_cách kể lại khái_quát nội_dung vụ_việc đặt vấn_đề rồi thôi
+có phải thùy học được những điều đó từ gia_đình không
+tình_hình trong ấy thế_nào
+ba nhóm trong vai sinh_viên lao_công đi tìm nhà lập_tức tràn vào tất_cả ngõ_ngách của con phố này
+cô gái xởi_lởi cho ngay tên và địa_chỉ phòng_khám của bác_sĩ này
+hơn khó_khăn hơn cực_nhọc hở hường
+hôm_nay thì *e* đang lựa đây
+như_vậy tuấn đang ở hà_nội và vẫn sử_dụng điện_thoại liên_hệ với gia_đình
+không đủ chuyến ra hà_nội ông thành liên_hệ với ba đại_lý hạt quốc và chính thêm được hơn 400 con
+khu tam_giác sắt của phong_trào svhs sài_gòn
+chúng_tôi ra về nhớ lại lời ông chủ quán đặc_sản như_ý tại đồng_xoài thường thì phải quen_mặt đầu_nậu mới giao hàng
+buông súng người thái_mỹ cố quên những mất_mát cầm lấy cây cuốc
+anh hai_địa nhất_định không tiết_lộ nhiệm_vụ chỉ một_mực yêu_cầu giải về trung_ương trực_tiếp gặp anh ba_duẩn
+cách an_táng này người_ta thường gọi bằng từ xóc_chéo *e* thấy thương_tâm lắm chú
+người gọi đến xin gặp ông và cũng chỉ nói một câu mày phải cút khỏi hà_nội ngay
+hôm xong nhà anh_em trong hội_đồng có tổ_chức một cuộc họp tại đây dân trong vùng thấy tự_nhiên nhiều xe an_ninh thái đậu trong khu nhà tôi ai cũng nghĩ là cảnh_sát đến bắt
+*e* hút chưa xong điếu thuốc thì đám thanh_niên trong ấp cũng kéo đến vì nghe tin anh có khách thế_nào cũng giỡn mặt với điện
+tìm và trả
+cụ chia tài_sản với con gom được hơn 50 triệu giao cho giám_đốc ngọc
+một thành_viên đoàn thanh_tra cho biết chậm nhất đến ngày 26 10 2003 sẽ có kết_quả chính_thức của cuộc thanh_tra để tỉnh có biện_pháp xử_lý kiên_quyết những trường_hợp vi_phạm
+có lớp_học cao_hứng cuối giờ trưa học_trò kéo cả lớp đi đạp nữ_sinh chơi luôn áo_dài như_thế
+con đường xẻ dọc biển đông
+một buổi chiều đang đi trên đường nguyễn_trãi thám_tử hậu chợt thấy có đôi trai_gái đi ra từ hiệu giặt là có hình_dáng giống đào tuấn
+chính điều này sẽ dẫn đến thắng_lợi trong vụ_kiện của tập_thể các nạn_nhân
+cô nhân_viên lắc_đầu hết rồi em ạ
+lối_thoát cho cả ba bên
+mô đất đó chính là một ngôi mộ liệt_sĩ đang bị san bằng
+tôi không hình_dung được khu_vực mình đang đứng là rừng bởi giờ_đây cây rừng chỉ còn gốc
+*e* đi ngang quán_ăn mà nước_miếng cứ túa ra bụng réo chịu không nổi m nhớ lại tuổi_thơ dữ_dội của mình
+chúng_tôi hỏi chị hãi nhất con vật nào ở vườn thú này
+vợt tennis babolat bán_chạy nhất hiện_nay ở sài_gòn còn puma với nike thì anh biết rồi đấy
+khi sang mỹ tôi gặp rất nhiều khó_khăn nhất_là trong giao_tiếp và đi_lại cô kể
+bà chuyển sang chiếm đất lâm_trường và cho thuê với giá vài triệu đồng ha năm
+giờ_đây những con người ấy dường_như không dám nhìn thẳng mặt nhau bởi nỗi đau của những ngày cũ cứ ào tới
+tuy_nhiên ông nguyễn_thanh_đoàn phó_chủ_tịch liên_đoàn muay_thái châu_á lại đưa ra một quan_điểm khác chúng_tôi chỉ cho_phép phát_triển muay_thái ở mức_độ nghiệp_dư
+những lúc như thế này thì việc lý_thú nhất vẫn là việc bắt muỗi bằng ngọn đèn làm bằng vỏ hộp coca_cola_mỹ
+lúc này vào rừng bảo_lâm *e* có_thể nghe thấy các hoạt_động môi_giới mua_bán rẫy đất rừng làm trang_trại với diện_tích ít_nhất cũng 10 ha
+có thư được gửi trực_tiếp đến ông có thư được gửi qua các hội chữ_thập_đỏ địa_phương *e* tập_hợp lại giờ *e* đã thành một chồng dày
+phó chủ_tịch xã bình_minh lê_công_cuộc nói đa_phần 210 hộ dân nhận quà của bạn_đọc lần này thật_sự họ chẳng còn cái gì để ăn cả
+tiếp_cận
+tiến_sĩ cháy
+có tay cửu_vạn một_mình làm hai vác chạy phăm_phăm ra đường
+yêu nước hay không cốt là ở tấm lòng
+chắc l rất cảnh_giác nên nói ngay không nhà tôi không ở phường k
+khi bà nhu gọi lại cho ông qua số điện_thoại đó thì *t* nghe thấy giọng nữ trả_lời
+trung_ương nhận_định tình_hình bến_bãi trong này như anh hai_địa ra báo_cáo là chưa cụ_thể chưa bảo_đảm
+đây là trận đầu_tiên đi vào lịch_sử khi quân_dân củ_chi buộc xe_tăng địch bỏ_xác tại chiến_trường bằng lựu_đạn
+chính vì_thế mà vào buổi tiền sea_games họ có_vẻ khó lẩn hơn những cánh di_động khác
+khi biết ngôi nhà mình ở vào năm tới sẽ bị giải_tỏa cuộc_sống gia_đình nghèo sẽ gặp khó_khăn thế_là hằng tìm cách cứu kinh_tế gia_đình
+cũng may mà anh đại đã thắng kiện đó chắc là một niềm an_ủi và là một khẳng_định để anh và các đồng_nghiệp người thân tin rằng các anh không đơn_độc trong việc theo_đuổi niềm_tin về lẽ_phải của mình
+các chiến_sĩ du_kích già như chín_ảnh út_kang tư_cậm lâu_lâu ngồi lại buồn_thiu tuổi của tụi tui anh_em hi_sinh hết rồi
+hoặc những ca sản_phụ khó sinh trên đường chở đến bệnh_viện nước_ối tràn ra đầy băng_ca
+nghe vậy nhưng vẫn phấp_phỏng khi biết đây là chiếc máy_bay vừa được đại_tu từ thiết_bị còn lại của bảy chiếc máy_bay hỏng đang trùm mền lòng_dạ tôi
+và đến nay những mét hầm cuối_cùng cũng đã về đích
+ngày 16 5 tức 10 ngày sau đoàn sẽ có_mặt

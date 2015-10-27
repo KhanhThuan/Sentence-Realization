@@ -1,8 +1,11 @@
 package jp.ac.jaist.srealizer.utils;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
@@ -73,6 +76,18 @@ public class CommonUtils {
 				System.out.println();
 			}*/
 			return x;
+		}
+		public static void copy(String source, String dest) throws IOException, IOException{
+			BufferedReader	br = new BufferedReader(new InputStreamReader(new FileInputStream(source),"UTF-8"));
+			BufferedWriter	bw= new BufferedWriter(new OutputStreamWriter(new FileOutputStream(dest),"UTF-8"));
+
+			String s  = null;
+			while((s = br.readLine()) != null){
+				bw.write(s);
+				bw.newLine();
+			}
+			br.close();
+			bw.close();
 		}
 		public static void main(String[] args){
 			List<double[] > al = new ArrayList<double[]>();

@@ -42,8 +42,8 @@ public class LinearizationDependencyTree {
 		bw1.flush();
 		bw1.close();
 		int count = Properties.getProperties().getCounter();
-		copy(getCandFileName(), Properties.getProperties().getMode() + "data/views/" + count + ".cand");
-		copy(getCandFileName(), Properties.getProperties().getMode() + "data/views/" + count+ ".ref");
+	//	copy(getCandFileName(), Properties.getProperties().getMode() + "data/views/" + count + ".cand");
+	//	copy(getCandFileName(), Properties.getProperties().getMode() + "data/views/" + count+ ".ref");
 
 		return setNBest(getCandFileName());
 		

@@ -2,6 +2,7 @@ package jp.ac.jaist.realizer.data.builder;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -746,6 +747,7 @@ public class ModelBuilder {
 						root = nodeMaps.get(rootIndex);
 						root.setNodes(nodeMaps);
 						root.setSentence(wholeSentence.toString().trim());
+						root.setStacksSentence(propsStack);
 						bwSKylm.write(root.getSentence() + "\n");
 						tree.addSentence(root);
                         
@@ -1120,6 +1122,14 @@ public class ModelBuilder {
 		}
 	
 		
+	}
+	public static void initFolder() {
+		String[] folders = {"data/builder","data/dependency-tree/test","data/dependency-tree/train","results/builtin-eval","results/mteval"};
+		for(String s : folders){
+			File f = new File(s);
+			if(!f.exists()) f.mkdirs();
+		}
+	
 	}
 	
 }

@@ -446,14 +446,14 @@ line format:
 			      int count = 0;
 			      String prevIndex = null;
 			      while((line = inFile_refs.readLine()) != null){
-			    	  String[] s = line.split("\t");
+			    	  String[] s = line.trim().split("\t");
 			    	  String curIndex = s[0].trim();
-			    	  if(prevIndex == null || !prevIndex.equals(curIndex)){
+			    	  if(s.length == 1 || prevIndex == null || !prevIndex.equals(curIndex)){
 			    		  count++;
 			    		  refSentences.add(new ArrayList<String>());
 
 			    	  }
-			    	 refSentences.get(count-1).add(normalize(s[1].trim(),textNormMethod));
+			    	 refSentences.get(count-1).add(s.length == 1 ? normalize(s[0].trim(),textNormMethod) : normalize(s[1].trim(),textNormMethod));
 			    	  
 			    	 prevIndex = curIndex;
 				         
