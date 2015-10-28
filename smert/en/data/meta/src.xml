@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mteval SYSTEM "ftp://jaguar.ncsl.nist.gov/mt/resources/mteval-xml-v1.3.dtd"><mteval>
+<srcset setid="example_set" srclang="Eng"  ><doc docid="doc1" genre="nw">
+	<p>
+		<seg id="1">impressionist and modern paintings not tracked by salomon are ranked even higher at 74 % by sotheby &apos;s
+		</seg>
+	</p>
+	<p>
+		<seg id="2">salomon moreover gets its data on art appreciation from sotheby &apos;s whose prices go up with clients like mr. paul in its thrall
+		</seg>
+	</p>
+	<p>
+		<seg id="3">the percentages omit from consideration the many paintings that go begging at auction
+		</seg>
+	</p>
+	<p>
+		<seg id="4">art indexes track winners not losers
+		</seg>
+	</p>
+	<p>
+		<seg id="5">but art that has fallen sharply in value is rarely put up for sale
+		</seg>
+	</p>
+	<p>
+		<seg id="6">also at any of sotheby &apos;s auctions of old masters roughly one-third to one-fifth of what is offered does n&apos;t sell at any price
+		</seg>
+	</p>
+	<p>
+		<seg id="7">it &apos;s not that there are n&apos;t any bids but the bids do n&apos;t meet the minimum reserve prices set by the sellers
+		</seg>
+	</p>
+	<p>
+		<seg id="8">in january the preti painting that now hangs at centrust was expected to bring no more than 700,000 at auction until mr. paul came along with his 1.15 million
+		</seg>
+	</p>
+	<p>
+		<seg id="9">mr. hall of the colnaghi gallery says 1.15 million would have been an impossible price for anyone to ask for a preti four years ago
+		</seg>
+	</p>
+	<p>
+		<seg id="10">the painting is 10 feet wide seven feet high
+		</seg>
+	</p>
+	<p>
+		<seg id="11">rather it just shows things have changed
+		</seg>
+	</p>
+	<p>
+		<seg id="12">mr. paul boasts that he spotted bargains in old masters just before they took an upward turn
+		</seg>
+	</p>
+	<p>
+		<seg id="13">they went up 51 % last year and they &apos;ll do it again this year he declares
+		</seg>
+	</p>
+	<p>
+		<seg id="14">they were a sleeper
+		</seg>
+	</p>
+	<p>
+		<seg id="15">everybody was out buying monets
+		</seg>
+	</p>
+	<p>
+		<seg id="16">sotheby &apos;s vice president diana levitt says the auction house has been assisting mr. paul in selling the paintings
+		</seg>
+	</p>
+	<p>
+		<seg id="17">mr. paul claims to have sold three paintings at more than a 10 % profit
+		</seg>
+	</p>
+	<p>
+		<seg id="18">that is n&apos;t 51 % and the claim is n&apos;t documented
+		</seg>
+	</p>
+	<p>
+		<seg id="19">he furthermore denies that he relied too heavily on sotheby &apos;s or mr. wachter
+		</seg>
+	</p>
+	<p>
+		<seg id="20">mr. paul says he had not one but four advisers and that he never bid impulsively
+		</seg>
+	</p>
+	<p>
+		<seg id="21">after all he had the counsel of curators from the most reputable museums in the world
+		</seg>
+	</p>
+	<p>
+		<seg id="22">he says he expects to sell the collection including the controversial rubens carefully and prudently just as it was put together
+		</seg>
+	</p>
+	<p>
+		<seg id="23">but in art-world parlance mr. paul &apos;s holdings are burnt
+		</seg>
+	</p>
+	<p>
+		<seg id="24">after a few years you can argue there has been natural appreciation says susan theran the publisher of leonard &apos;s annual price index of art auctions
+		</seg>
+	</p>
+	<p>
+		<seg id="25">but quick turnover in artwork is like pawning your jewelry you end up with 50 %
+		</seg>
+	</p>
+	<p>
+		<seg id="26">people hold out and try to get a bargain
+		</seg>
+	</p>
+	<p>
+		<seg id="27">sotheby &apos;s defends itself and mr. paul in the matter
+		</seg>
+	</p>
+	<p>
+		<seg id="28">mr. wachter says mr. paul was a quick study who worked intensely and bought the best pictures available at the moment
+		</seg>
+	</p>
+	<p>
+		<seg id="29">sotheby &apos;s she says is wearing both hats
+		</seg>
+	</p>
+	<p>
+		<seg id="30">i ca n&apos;t see why there would be a conflict of interest says sotheby &apos;s ms. levitt
+		</seg>
+	</p>
+	<p>
+		<seg id="31">frequently clients express interest in paintings but do n&apos;t end up bidding she adds so we do n&apos;t know who the potential buyer will be
+		</seg>
+	</p>
+	<p>
+		<seg id="32">mr. paul in selling off his paintings is seeking at least a 15 % return on the bank &apos;s investment so as to prove that the venture was sound
+		</seg>
+	</p>
+	<p>
+		<seg id="33">mr. paul says that he has feelers out over much of the globe and that potential buyers from as far away as japan and italy have examined the collection
+		</seg>
+	</p>
+	<p>
+		<seg id="34">because of the pressure on centrust to sell dealers and collectors have been trying to get the paintings at bargain-basement prices
+		</seg>
+	</p>
+	<p>
+		<seg id="35">but so far mr. paul and his advisers are holding fast
+		</seg>
+	</p>
+	<p>
+		<seg id="36">one dealer martin zimet of french &amp; co. in new york says he would have loved to buy a jan davids de heem painting from the bank
+		</seg>
+	</p>
+	<p>
+		<seg id="37">i tried to steal the picture to buy it attractively and sotheby &apos;s would n&apos;t do it
+		</seg>
+	</p>
+	<p>
+		<seg id="38">they were protecting his interests
+		</seg>
+	</p>
+	<p>
+		<seg id="39">meanwhile mr. paul and centrust executives are getting squeamish about opulence
+		</seg>
+	</p>
+	<p>
+		<seg id="40">mr. paul has been characterized as the great gatsby or something complains karen e. brinkman an executive vice president of centrust
+		</seg>
+	</p>
+	<p>
+		<seg id="41">the media she says have distorted his personal life
+		</seg>
+	</p>
+	<p>
+		<seg id="42">mr. paul nods in agreement
+		</seg>
+	</p>
+	<p>
+		<seg id="43">i do n&apos;t think i have a life style that is frankly so flamboyant he says
+		</seg>
+	</p>
+	<p>
+		<seg id="44">mr. paul says yes the ceiling in his executive suite is gold-leaf inlay
+		</seg>
+	</p>
+	<p>
+		<seg id="45">the offices are done in hardwood and oriental rugs leatherbound books and of course a 12 million rubens
+		</seg>
+	</p>
+	<p>
+		<seg id="46">but he implores that the splendor be played down
+		</seg>
+	</p>
+	<p>
+		<seg id="47">do n&apos;t say it &apos;s a gold ceiling
+		</seg>
+	</p>
+	<p>
+		<seg id="48">just say the offices are tastefully appointed he says
+		</seg>
+	</p>
+	<p>
+		<seg id="49">otherwise the regulators will take it for decadence and nowadays everything &apos;s got to be pristine
+		</seg>
+	</p>
+	<p>
+		<seg id="50">figures do n&apos;t include taxes or transaction costs
+		</seg>
+	</p>
+	<p>
+		<seg id="51">companies listed below reported quarterly profit substantially different from the average of analysts &apos; estimates
+		</seg>
+	</p>
+	<p>
+		<seg id="52">the companies are followed by at least three analysts and had a minimum five-cent change in actual earnings per share
+		</seg>
+	</p>
+	<p>
+		<seg id="53">estimated and actual results involving losses are omitted
+		</seg>
+	</p>
+	<p>
+		<seg id="54">the percent difference compares actual profit with the 30-day estimate where at least three analysts have issues forecasts in the past 30 days
+		</seg>
+	</p>
+	<p>
+		<seg id="55">otherwise actual profit is compared with the 300-day estimate
+		</seg>
+	</p>
+	<p>
+		<seg id="56">during its centennial year the wall street journal will report events of the past century that stand as milestones of american business history
+		</seg>
+	</p>
+	<p>
+		<seg id="57">creative accounting mostly by conglomerates forced cpas to change their way of setting standards to be followed by corporations reporting financial results standards that had become all too flexible
+		</seg>
+	</p>
+	<p>
+		<seg id="58">the new financial accounting standards board fasb was created in 1972 to replace the accounting principles board of the american institute of certified public accountants
+		</seg>
+	</p>
+	<p>
+		<seg id="59">all of the former board &apos;s members were cpas provoking conflict-of-interest criticism because they were writing rules while handling clients &apos; books at the same time
+		</seg>
+	</p>
+	<p>
+		<seg id="60">the new board &apos;s seven-member structure kept four cpas but the others were from industry and academia
+		</seg>
+	</p>
+	<p>
+		<seg id="61">francis m. wheat a former securities and exchange commission member headed the panel that had studied the issues for a year and proposed the fasb on march 30 1972
+		</seg>
+	</p>
+	<p>
+		<seg id="62">the former board had produced 21 opinions and 1,000 critics in its 12-year life its chairman had conceded
+		</seg>
+	</p>
+	<p>
+		<seg id="63">the climate was right for the new fasb
+		</seg>
+	</p>
+	<p>
+		<seg id="64">in the late 1960s some cpas failed to correct such abuses as clients picking permissive rules that hyped earnings and stock prices
+		</seg>
+	</p>
+	<p>
+		<seg id="65">and in november 1970 congress had passed a special act to overrule one board rule
+		</seg>
+	</p>
+	<p>
+		<seg id="66">also james needham an sec commissioner in april 1972 had warned that the industry might face a federal agency writing accounting rules if they rejected the fasb idea
+		</seg>
+	</p>
+	<p>
+		<seg id="67">keepers of the books dubbed figure filberts loathed the threat
+		</seg>
+	</p>
+	<p>
+		<seg id="68">the fasb had its initial meeting on march 28 1973
+		</seg>
+	</p>
+	<p>
+		<seg id="69">on dec. 13 1973 it issued its first rule it required companies to disclose foreign currency translations in u.s. dollars
+		</seg>
+	</p>
+	<p>
+		<seg id="70">the fasb since then has issued 102 rules and some still rile industry
+		</seg>
+	</p>
+	<p>
+		<seg id="71">since late 1987 for example it has put off a rule dealing with deferred income taxes because of the continuing controversy over the issue
+		</seg>
+	</p>
+	<p>
+		<seg id="72">amcast industrial corp. said it plans to repurchase 500,000 shares or about 7 % of its shares outstanding in open market transactions
+		</seg>
+	</p>
+	<p>
+		<seg id="73">the metal products concern currently has 7.2 million common shares outstanding
+		</seg>
+	</p>
+	<p>
+		<seg id="74">amcast previously had said it planned to repurchase shares but did n&apos;t disclose when or how many shares it intended to buy back
+		</seg>
+	</p>
+	<p>
+		<seg id="75">the company named dillon read &amp; co. as its exclusive agent for the stock buy-back program
+		</seg>
+	</p>
+	<p>
+		<seg id="76">a seat on the chicago board of trade was sold for 390,000 down 5,000 from the previous sale last tuesday
+		</seg>
+	</p>
+	<p>
+		<seg id="77">seats currently are quoted at 353,500 bid 405,000 asked
+		</seg>
+	</p>
+	<p>
+		<seg id="78">the record price for a full membership on the exchange is 550,000 set aug. 31 1987
+		</seg>
+	</p>
+	<p>
+		<seg id="79">an associate member seat was sold for 228,000 up 8,000 from the previous sale oct. 4
+		</seg>
+	</p>
+	<p>
+		<seg id="80">associate member seats currently are quoted at 225,000 bid 256,000 asked
+		</seg>
+	</p>
+	<p>
+		<seg id="81">the record price for associate membership is 275,000 set aug. 30 1988
+		</seg>
+	</p>
+	<p>
+		<seg id="82">cae said the fixed price for the first of the ah-64 apache combat mission simulators is 19 million
+		</seg>
+	</p>
+	<p>
+		<seg id="83">it is scheduled for delivery in late 1991
+		</seg>
+	</p>
+	<p>
+		<seg id="84">the price of the second simulator ranges between 16.4 million and 18 million cae said depending on when the army exercises its option
+		</seg>
+	</p>
+	<p>
+		<seg id="85">cae is a toronto-based maker of commercial and military aircraft simulators and training equipment
+		</seg>
+	</p>
+	<p>
+		<seg id="86">helionetics inc. said it agreed to team with a unit of minneapolis-based honeywell inc. to provide power amplifiers for a new military sonar system being proposed by honeywell
+		</seg>
+	</p>
+	<p>
+		<seg id="87">total value of the contract could be 100 million helionetics said and work on the project would be about evenly divided
+		</seg>
+	</p>
+	<p>
+		<seg id="88">as previously reported helionetics emerged from chapter 11 bankruptcy-law protection in february
+		</seg>
+	</p>
+	<p>
+		<seg id="89">the conversion increased total equity capital by about 38.5 million to a total of 156.8 million
+		</seg>
+	</p>
+	<p>
+		<seg id="90">union federal a federally insured savings bank has 2.4 billion in assets
+		</seg>
+	</p>
+	<p>
+		<seg id="91">david d. lung was appointed president and chief operating officer of this maker of building materials for manufactured homes and recreational vehicles
+		</seg>
+	</p>
+	<p>
+		<seg id="92">as president mr. lung 42 years old succeeds his father mervin d. lung 66 who founded the company in 1959
+		</seg>
+	</p>
+	<p>
+		<seg id="93">mervin lung remains chairman and chief executive officer
+		</seg>
+	</p>
+	<p>
+		<seg id="94">david lung has been with patrick since 1970 and has served as vice president for administration and purchasing since 1987
+		</seg>
+	</p>
+	<p>
+		<seg id="95">general dynamics services co. a unit of general dynamics corp. won a 48.2 million army contract to establish maintenance facilities for tracked vehicles in pakistan
+		</seg>
+	</p>
+	<p>
+		<seg id="96">grumman corp. was given a 15 million navy contract for aircraft-electronics improvements
+		</seg>
+	</p>
+	<p>
+		<seg id="97">hughes aircraft co. a unit of general motors corp. got a 10.3 million air force contract for airborne-radar equipment
+		</seg>
+	</p>
+	<p>
+		<seg id="98">reynolds metals co. said third-quarter net income dropped nearly 10 % to 123.7 million or 2.10 a share from 137.2 million or 2.56 a share a year earlier
+		</seg>
+	</p>
+	<p>
+		<seg id="99">the latest earnings reflect an increase of about 5.5 million in common shares outstanding
+		</seg>
+	</p>
+	<p>
+		<seg id="100">revenue rose 3 % to 1.52 billion from 1.48 billion
+		</seg>
+	</p>
+	<p>
+		<seg id="101">reynolds is the third big aluminum company since friday to report disappointing earnings
+		</seg>
+	</p>
+	<p>
+		<seg id="102">the no. 1 domestic aluminum producer aluminum co. of america friday said its earnings fell 3.2 % to 219 million or 2.46 a share
+		</seg>
+	</p>
+	<p>
+		<seg id="103">and alcan aluminium ltd. yesterday reported net income slid 30 % to 180 million or 77 cents a share from 258 million or 1.07 a share
+		</seg>
+	</p>
+	<p>
+		<seg id="104">analysts on average had been expecting about 2.70 for alcoa and 1 for alcan
+		</seg>
+	</p>
+	<p>
+		<seg id="105">the nation &apos;s no. 2 aluminum company said earnings were hurt by lower prices for certain fabricated aluminum products which typically follow price fluctuations of primary ingots
+		</seg>
+	</p>
+	<p>
+		<seg id="106">the base metal price has dropped 30.3 % from a year earlier to 78 cents a pound
+		</seg>
+	</p>
+	<p>
+		<seg id="107">much of the price decline has been blamed on a slowing economy and the third quarter is typically the industry &apos;s slowest period
+		</seg>
+	</p>
+	<p>
+		<seg id="108">but william o. bourke chairman and chief executive officer said the ingot price appears to have bottomed out
+		</seg>
+	</p>
+	<p>
+		<seg id="109">he said shipments are continuing at a healthy pace and the company has no excess inventory
+		</seg>
+	</p>
+	<p>
+		<seg id="110">aluminum shipments of 329,600 metric tons were nearly equal to the year-earlier period the company said
+		</seg>
+	</p>
+	<p>
+		<seg id="111">nevertheless the company said that in the latest quarter there were increased material and labor costs including a new employee profit-sharing plan
+		</seg>
+	</p>
+	<p>
+		<seg id="112">in composite trading on the new york stock exchange reynolds closed at 55.375 up 1.25
+		</seg>
+	</p>
+	<p>
+		<seg id="113">no strikeout but certainly no home run
+		</seg>
+	</p>
+	<p>
+		<seg id="114">that &apos;s how the stock-picking game is shaping up for the months ahead according to money managers and a few brokers
+		</seg>
+	</p>
+	<p>
+		<seg id="115">yesterday &apos;s 88-point recovery from friday &apos;s megadrop in the dow jones industrials had many brokerage houses proclaiming that stocks are a good bargain again
+		</seg>
+	</p>
+	<p>
+		<seg id="116">but quite a few money managers are n&apos;t buying it
+		</seg>
+	</p>
+	<p>
+		<seg id="117">weakening corporate earnings they say are no prescription for a bull market
+		</seg>
+	</p>
+	<p>
+		<seg id="118">the stock market ai n&apos;t going to do much of anything for a while says john neff of wellington management who runs the 8.3 billion windsor fund
+		</seg>
+	</p>
+	<p>
+		<seg id="119">he suspects that friday &apos;s market decline may have a second leg perhaps a 10 % to 15 % drop later on
+		</seg>
+	</p>
+	<p>
+		<seg id="120">after sitting with 20 % of his fund in cash before friday &apos;s sell-off mr. neff says he bought a narrow list of stocks yesterday
+		</seg>
+	</p>
+	<p>
+		<seg id="121">with flat corporate profits on the horizon for 1990 money managers say price-earnings multiples that look cheap today might go on being cheap for a long time
+		</seg>
+	</p>
+	<p>
+		<seg id="122">this is not a grossly overvalued market but it &apos;s not cheap either says george collins president of the mutual fund company t. rowe price associates in baltimore
+		</seg>
+	</p>
+	<p>
+		<seg id="123">bulls say the market is an incredible bargain priced at only about 12 times estimated 1989 earnings for stocks in the standard &amp; poor &apos;s 500 index
+		</seg>
+	</p>
+	<p>
+		<seg id="124">before the 1987 crash the p\/e was more than 20
+		</seg>
+	</p>
+	<p>
+		<seg id="125">the common view says abby cohen strategist for drexel burnham lambert is that there will be mild economic growth modest profit expansion and things are going to be hunky-dory
+		</seg>
+	</p>
+	<p>
+		<seg id="126">our view is that we may see a profit decline
+		</seg>
+	</p>
+	<p>
+		<seg id="127">some think investors should sell into rallies
+		</seg>
+	</p>
+	<p>
+		<seg id="128">the market is going to wind down says gerald w. perritt a chicago money manager
+		</seg>
+	</p>
+	<p>
+		<seg id="129">things are a little less overpriced after friday &apos;s jolt in the market
+		</seg>
+	</p>
+	<p>
+		<seg id="130">he expects stocks to decline an additional 5 % to 30 % with the dow perhaps bottoming out between 2000 and 2100 between now and june
+		</seg>
+	</p>
+	<p>
+		<seg id="131">he found 85 still overvalued and 15 fairly valued
+		</seg>
+	</p>
+	<p>
+		<seg id="132">nicholas parks a new york money manager expects the market to decline about 15 %
+		</seg>
+	</p>
+	<p>
+		<seg id="133">i &apos;ve been two-thirds in cash since july and i continue to think that having a defensive position is appropriate he says
+		</seg>
+	</p>
+	<p>
+		<seg id="134">companies that piled on debt in leveraged buy-outs during the past two years will continue to surface as business problems
+		</seg>
+	</p>
+	<p>
+		<seg id="135">generalizations about value are n&apos;t useful says new york money manager john lefrere of delta capital management
+		</seg>
+	</p>
+	<p>
+		<seg id="136">there are still bulls out there
+		</seg>
+	</p>
+	<p>
+		<seg id="137">we &apos;re doing a little buying in some stocks that have really been smashed down
+		</seg>
+	</p>
+	<p>
+		<seg id="138">many brokerage house officials also are optimistic
+		</seg>
+	</p>
+	<p>
+		<seg id="139">yesterday goldman sachs merrill lynch and dean witter all increased the proportion of assets they recommend investors commit to stocks
+		</seg>
+	</p>
+	<p>
+		<seg id="140">dean witter now recommends 85 % goldman 65 % and merrill lynch 50 %
+		</seg>
+	</p>
+	<p>
+		<seg id="141">some investors say friday &apos;s sell-off was a good thing because it deflated a lot of crazy takeover speculation
+		</seg>
+	</p>
+	<p>
+		<seg id="142">it was a healthy cleansing says michael holland who runs salomon brothers asset management in new york
+		</seg>
+	</p>
+	<p>
+		<seg id="143">from here out these investors see a return to old-fashioned investing based on a company &apos;s ability to show profit growth
+		</seg>
+	</p>
+	<p>
+		<seg id="144">the fundamentals are pretty strong mr. dreman says
+		</seg>
+	</p>
+	<p>
+		<seg id="145">i do n&apos;t see this as a bear market at all
+		</seg>
+	</p>
+	<p>
+		<seg id="146">it &apos;s a recognition that there was much too much fluff in the lbo market
+		</seg>
+	</p>
+	<p>
+		<seg id="147">friday &apos;s big fall was just a blunder by the stock market says john connolly chief strategist for dean witter
+		</seg>
+	</p>
+	<p>
+		<seg id="148">many investors have nagging worries however
+		</seg>
+	</p>
+	<p>
+		<seg id="149">newspapers are full of headlines about companies defaulting on their debts and banks writing off real estate loans
+		</seg>
+	</p>
+	<p>
+		<seg id="150">that hurts investors &apos; confidence in the economy and stocks
+		</seg>
+	</p>
+	<p>
+		<seg id="151">not even all the brokerage firms see clear sailing ahead
+		</seg>
+	</p>
+	<p>
+		<seg id="152">disappointing profits are likely to get worse in the next two quarters says mary farrell a market strategist at painewebber
+		</seg>
+	</p>
+	<p>
+		<seg id="153">she thinks the market could drop about 10 % in the next few months then recover and go higher
+		</seg>
+	</p>
+	<p>
+		<seg id="154">companies with steady earnings growth could do well she says while others with high debt or poor earnings could see their shares decline far more than 10 %
+		</seg>
+	</p>
+	<p>
+		<seg id="155">the turmoil on wall street may benefit some retailers attempting to lead leveraged buy-outs of their specialty and department-store chains investment bankers and retailers said
+		</seg>
+	</p>
+	<p>
+		<seg id="156">managers at five chains have said in recent weeks that they intend to bid for their companies
+		</seg>
+	</p>
+	<p>
+		<seg id="157">hooker is based in sydney australia
+		</seg>
+	</p>
+	<p>
+		<seg id="158">the pricing will become more realistic which should help management said bruce rosenthal a new york investment banker with nathan s. jonas &amp; co
+		</seg>
+	</p>
+	<p>
+		<seg id="159">investors are n&apos;t going to be throwing money at any of the proposed lbos but doing deals on the basis of ridiculous assumptions never made sense either
+		</seg>
+	</p>
+	<p>
+		<seg id="160">earlier this year bankers and other investors were willing to provide financing because they assumed there would be major gains in both profitability and sales mr. rosenthal added
+		</seg>
+	</p>
+	<p>
+		<seg id="161">those days are over now he believes
+		</seg>
+	</p>
+	<p>
+		<seg id="162">competition from third parties who have cash and are prepared to buy has always existed and will continue added mr. rosenthal
+		</seg>
+	</p>
+	<p>
+		<seg id="163">but when prices were crazy it was even harder to do an lbo
+		</seg>
+	</p>
+	<p>
+		<seg id="164">bankers believed in the greater-fool theory that says somebody else is always willing to pay more
+		</seg>
+	</p>
+	<p>
+		<seg id="165">this is no longer true today
+		</seg>
+	</p>
+	<p>
+		<seg id="166">at saks fifth avenue paul leblang senior vice president marketing agreed that lower prices will help his management team in their proposed lbo
+		</seg>
+	</p>
+	<p>
+		<seg id="167">having to take on less debt would certainly be an advantage said mr. leblang
+		</seg>
+	</p>
+	<p>
+		<seg id="168">it would also help us in our search for equity partners
+		</seg>
+	</p>
+	<p>
+		<seg id="169">to make an lbo work now we are going to need more than just junk bonds
+		</seg>
+	</p>
+	<p>
+		<seg id="170">none believe the proposed management lbos will be easy to complete especially at b. altman &amp; co. which is under chapter 11 bankruptcy protection
+		</seg>
+	</p>
+	<p>
+		<seg id="171">further many institutions today holding troubled retailers &apos; debt securities will be reticent to consider additional retailing investments
+		</seg>
+	</p>
+	<p>
+		<seg id="172">it &apos;s called bad money driving out good money said one retailing observer
+		</seg>
+	</p>
+	<p>
+		<seg id="173">institutions that usually buy retail paper have to be more concerned
+		</seg>
+	</p>
+	<p>
+		<seg id="174">however the lower prices these retail chains are now expected to bring should make it easier for managers to raise the necessary capital and pay back the resulting debt
+		</seg>
+	</p>
+	<p>
+		<seg id="175">in addition the fall selling season has generally been a good one especially for those retailers dependent on apparel sales for the majority of their revenues
+		</seg>
+	</p>
+	<p>
+		<seg id="176">retailers who had good track records of producing profits will have a better chance to buy back their companies
+		</seg>
+	</p>
+	<p>
+		<seg id="177">prices for retail chains are lower today than they were last week which will help management said gilbert harrison chairman of financo inc. an investment-banking firm specializing in retailing acquisitions
+		</seg>
+	</p>
+	<p>
+		<seg id="178">but the hurdle of financing still has to be resolved
+		</seg>
+	</p>
+	<p>
+		<seg id="179">potential bondholders will either look for greater equity participation on behalf of management or insist the equity component of the deals be substantially greater than in the past
+		</seg>
+	</p>
+	<p>
+		<seg id="180">sony corp. won a pretrial order blocking u.s. sales of justin products inc. &apos;s my own line of portable audio players for children
+		</seg>
+	</p>
+	<p>
+		<seg id="181">judge john e. sprizzo issued the order in manhattan federal court where sony has accused the tiny company of illegally knocking off the my first sony line
+		</seg>
+	</p>
+	<p>
+		<seg id="182">the judge held that the combination of colors used for the sony products is distinctive and subject to protection under new york state law rather than federal law
+		</seg>
+	</p>
+	<p>
+		<seg id="183">the legal fight was the subject of a wall street journal story yesterday
+		</seg>
+	</p>
+	<p>
+		<seg id="184">justin &apos;s attorney charles e. baxley said justin would ask an appeals court to set aside the order temporarily pending an expedited appeal
+		</seg>
+	</p>
+	<p>
+		<seg id="185">he also repeated justin &apos;s denial of sony &apos;s charges
+		</seg>
+	</p>
+	<p>
+		<seg id="186">their likelihood of reversing us is very slim said lewis h. eslinger sony &apos;s attorney who said he doubts justin will go ahead with a trial
+		</seg>
+	</p>
+	<p>
+		<seg id="187">continental mortgage &amp; equity trust said it will resume dividend payments with a 10-cent-a-share payout on nov. 6 to shares of record oct. 25
+		</seg>
+	</p>
+	<p>
+		<seg id="188">the dallas real estate investment trust last paid a dividend on dec. 31 1987 when shareholders received 1 a share
+		</seg>
+	</p>
+	<p>
+		<seg id="189">a federal appeals court struck down a natural-gas regulation that had prevented pipeline companies from passing to customers part of 1 billion in costs from controversial take-or-pay contracts
+		</seg>
+	</p>
+	<p>
+		<seg id="190">a majority of old contracts were renegotiated by the deadline and settled at steep discounts
+		</seg>
+	</p>
+	<p>
+		<seg id="191">but pipeline companies estimate they still face 2.4 billion in liabilities from unresolved disputes including 1 billion they fear they wo n&apos;t be able to pass on to customers
+		</seg>
+	</p>
+	<p>
+		<seg id="192">according to industry lawyers the ruling gives pipeline companies an important second chance to resolve remaining disputes and take advantage of the cost-sharing mechanism
+		</seg>
+	</p>
+	<p>
+		<seg id="193">the court left open whether ferc could reimpose a new deadline later
+		</seg>
+	</p>
+	<p>
+		<seg id="194">the court ordered ferc to justify within 60 days not only its cost-sharing deadline but other major elements of its proposed regulation for introducing more competition into natural-gas transportation
+		</seg>
+	</p>
+	<p>
+		<seg id="195">the court also questioned a crediting mechanism that could be used to resolve take-or-pay liabilities
+		</seg>
+	</p>
+	<p>
+		<seg id="196">the complex regulation known in the industry as order 500 has been hotly contested by all sides including natural-gas producers pipelines local distribution companies and consumers
+		</seg>
+	</p>
+	<p>
+		<seg id="197">the court &apos;s decision would allow ferc to change some of its provisions but ensures it will be reviewed again quickly by the court
+		</seg>
+	</p>
+	<p>
+		<seg id="198">medusa corp. said it voluntarily prepaid 7 million on its original 75 million term loan bringing the total debt reduction for the year to 18 million
+		</seg>
+	</p>
+	<p>
+		<seg id="199">after the payment the cleveland company owes 57 million on the loan
+		</seg>
+	</p>
+	<p>
+		<seg id="200">the cement producer said the payment was made from excess cash flow
+		</seg>
+	</p>
+	<p>
+		<seg id="201">national income realty trust said it will resume dividend payments with a 12-cent-a-share dividend to be paid nov. 6 to shares of record oct. 25
+		</seg>
+	</p>
+	<p>
+		<seg id="202">the mortgage and equity real estate investment trust last paid a dividend on aug. 1 1988 when holders received 75 cents a share
+		</seg>
+	</p>
+	<p>
+		<seg id="203">despite continuing troubles with problem properties and nonperforming loans the dallas trust said it has rebuilt reserves abandoned properties with little potential and experienced improved operating results from joint ventures
+		</seg>
+	</p>
+	<p>
+		<seg id="204">among other things the restructured facilities will substantially reduce the group &apos;s required amortization of the term loan portion of the credit facilities through september 1992 mlx said
+		</seg>
+	</p>
+	<p>
+		<seg id="205">certain details of the restructured facilities remain to be negotiated
+		</seg>
+	</p>
+	<p>
+		<seg id="206">the agreement is subject to completion of a definitive amendment and appropriate approvals
+		</seg>
+	</p>
+	<p>
+		<seg id="207">mlx has filed a registration statement with the securities and exchange commission covering a proposed offering of 120 million in long-term senior subordinated notes and warrants
+		</seg>
+	</p>
+	<p>
+		<seg id="208">dow jones &amp; co. said it acquired a 15 % interest in datatimes corp. a subsidiary of oklahoma publishing co. oklahoma city that provides electronic research services
+		</seg>
+	</p>
+	<p>
+		<seg id="209">terms were n&apos;t disclosed
+		</seg>
+	</p>
+	<p>
+		<seg id="210">customers of either datatimes or dow jones news\/retrieval are able to access the information on both services
+		</seg>
+	</p>
+	<p>
+		<seg id="211">dow jones is the publisher of the wall street journal
+		</seg>
+	</p>
+	<p>
+		<seg id="212">the convenience-food company said it sold the bakeries to mills family bakery for an undisclosed amount
+		</seg>
+	</p>
+	<p>
+		<seg id="213">it said the sales were part of a 1983 federal trade commission consent order
+		</seg>
+	</p>
+	<p>
+		<seg id="214">a year earlier flowers had fiscal first-quarter net income of 8 million or 23 cents a share on revenue of 170.4 million
+		</seg>
+	</p>
+	<p>
+		<seg id="215">raw-steel production by the nation &apos;s mills decreased 0.8 % last week to 1,828,000 tons from 1,843,000 tons the previous week the american iron and steel institute said
+		</seg>
+	</p>
+	<p>
+		<seg id="216">last week &apos;s output rose 1.4 % from the 1,802,000 tons produced a year earlier
+		</seg>
+	</p>
+	<p>
+		<seg id="217">the industry used 82.2 % of its capability last week compared with 82.8 % the previous week and 84 % a year ago
+		</seg>
+	</p>
+	<p>
+		<seg id="218">the capability utilization rate is a calculation designed to indicate at what percent of its production capability the industry is operating in a given week
+		</seg>
+	</p>
+	<p>
+		<seg id="219">selwyn b. kossuth was named executive director of the commission effective early november
+		</seg>
+	</p>
+	<p>
+		<seg id="220">mr. kossuth 52 years old succeeds ermanno pascutto 36 who resigned to join hong kong &apos;s securities and futures commission
+		</seg>
+	</p>
+	<p>
+		<seg id="221">mr. kossuth was vice president and director corporate finance of nesbitt thomson deacon inc. a toronto investment dealer
+		</seg>
+	</p>
+	<p>
+		<seg id="222">dun &amp; bradstreet corp. &apos;s market data retrieval unit said it acquired school and college construction reports service from intelligence for education inc
+		</seg>
+	</p>
+	<p>
+		<seg id="223">terms were n&apos;t disclosed
+		</seg>
+	</p>
+	<p>
+		<seg id="224">the service supplies weekly reports on school and college construction plans
+		</seg>
+	</p>
+	<p>
+		<seg id="225">market data retrieval is a compiler of educational information and provides related services
+		</seg>
+	</p>
+	<p>
+		<seg id="226">closely held intelligence in education of larchmont n.y. is an educational publisher and consultant
+		</seg>
+	</p>
+	<p>
+		<seg id="227">a battle is raging in venice over plans to have the 1,200-year-old italian city be the site for a universal exposition in 2000
+		</seg>
+	</p>
+	<p>
+		<seg id="228">the plans include a subway system a congress center floating trees fanciful fountains and as many as 60,000 additional tourists a day
+		</seg>
+	</p>
+	<p>
+		<seg id="229">expo enthusiasts argue that holding the fair would attract businesses create jobs and help renovate abandoned sections of town
+		</seg>
+	</p>
+	<p>
+		<seg id="230">but opponents fear overcrowding
+		</seg>
+	</p>
+	<p>
+		<seg id="231">this city already has too many tourists and it ca n&apos;t hold them all says pierluigi beggiato the president of the venice hoteliers association
+		</seg>
+	</p>
+	<p>
+		<seg id="232">about 40 italian businesses including fiat s.p a. and ing c. olivetti &amp; co. have formed a consortium to lobby for holding the expo in venice
+		</seg>
+	</p>
+	<p>
+		<seg id="233">three gambling casinos have opened in poland
+		</seg>
+	</p>
+	<p>
+		<seg id="234">the three establishments two in warsaw and one in krakow accept only foreign currency and are joint ventures between polish firms and western companies
+		</seg>
+	</p>
+	<p>
+		<seg id="235">not all poles are pleased
+		</seg>
+	</p>
+	<p>
+		<seg id="236">what do we want casinos for when we have n&apos;t got anything in the shops one housewife asked
+		</seg>
+	</p>
+	<p>
+		<seg id="237">algeria plans to increase natural-gas sales to europe and the u.s.
+		</seg>
+	</p>
+	<p>
+		<seg id="238">it also said the union had agreed to meet the company for further talks tomorrow
+		</seg>
+	</p>
+	<p>
+		<seg id="239">the union has demanded a 37.6 % increase in the minimum wage while de beers &apos;s final offer was an increase of 17 %
+		</seg>
+	</p>
+	<p>
+		<seg id="240">a 35-nation environmental conference opened in sofia bulgaria
+		</seg>
+	</p>
+	<p>
+		<seg id="241">the gathering is expected to focus on curbing the fouling of rivers and lakes limiting damage from industrial accidents and improving the handling of harmful chemicals
+		</seg>
+	</p>
+	<p>
+		<seg id="242">the u.s. and canada joined every european country except albania at the meeting
+		</seg>
+	</p>
+	<p>
+		<seg id="243">the swedish publishers of a new estonian-language newspaper rushed an extra edition across the baltic on oct. 10 after the first run sold out in one day
+		</seg>
+	</p>
+	<p>
+		<seg id="244">he said 13,000 more copies were sent to estonia because of strong sales
+		</seg>
+	</p>
+	<p>
+		<seg id="245">the swedish publishing company bonniers owns 51 % of are paev and the estonian management company minor owns 49 %
+		</seg>
+	</p>
+	<p>
+		<seg id="246">angel gurria mexico &apos;s top debt negotiator said the country &apos;s creditor banks are responding positively to mexico &apos;s debt-reduction package
+		</seg>
+	</p>
+	<p>
+		<seg id="247">mr. gurria &apos;s optimism contrasts with some bankers &apos; views that the deal may require a lot of arm twisting by the u.s. treasury in order to succeed
+		</seg>
+	</p>
+	<p>
+		<seg id="248">the other two options consist of swapping loans for bonds with 6.25 % interest rates or providing fresh loans
+		</seg>
+	</p>
+	<p>
+		<seg id="249">the accord which covers 52.7 billion of mexico &apos;s medium and long-term debt is expected to go into effect in early
+		</seg>
+	</p>
+	<p>
+		<seg id="250">china &apos;s top film actress liu xiaoqing paid 4,555 in back taxes and fines in shandong province the people &apos;s daily reported
+		</seg>
+	</p>
+	<p>
+		<seg id="251">the amount is equal to about 30 years earnings for the average peasant who makes 145 a year
+		</seg>
+	</p>
+	<p>
+		<seg id="252">china will spend 9.45 million for urgent maintenance on tibet &apos;s potala palace former home of the dalai lama the china news service said
+		</seg>
+	</p>
+	<p>
+		<seg id="253">the dalai lama who was just awarded the nobel peace prize lives in exile in india
+		</seg>
+	</p>
+	<p>
+		<seg id="254">american business computer corp. said it privately placed 1,035,000 common shares at 2.50 a share
+		</seg>
+	</p>
+	<p>
+		<seg id="255">the placement was made through gray seifert securities new york to institutional investors
+		</seg>
+	</p>
+	<p>
+		<seg id="256">proceeds will be used to commercialize recently patented technology and support the company &apos;s international expansion
+		</seg>
+	</p>
+	<p>
+		<seg id="257">the company develops and markets products for the food service industry
+		</seg>
+	</p>
+	<p>
+		<seg id="258">the r.h. macy &amp; co department-store chain is n&apos;t for sale
+		</seg>
+	</p>
+	<p>
+		<seg id="259">in yesterday &apos;s edition it was incorrectly included with a list of new york chains up for sale
+		</seg>
+	</p>
+	<p>
+		<seg id="260">korean car exports have slid about 40 % so far this year but auto makers here are n&apos;t panicking
+		</seg>
+	</p>
+	<p>
+		<seg id="261">they are enjoying domestic sales that are more than making up for lost overseas sales
+		</seg>
+	</p>
+	<p>
+		<seg id="262">south korean consumers are expected to buy almost 500,000 passenger cars this year up 60 % from 1988
+		</seg>
+	</p>
+	<p>
+		<seg id="263">we are very lucky to easily change an export loss to domestic plus says hong tu pyo managing director of domestic marketing for hyundai motor co
+		</seg>
+	</p>
+	<p>
+		<seg id="264">as it is waiting lists of a month are n&apos;t unusual for popular models
+		</seg>
+	</p>
+	<p>
+		<seg id="265">demand is so strong that all of the domestic makers hyundai kia motors corp. daewoo motor co. and even upstart ssangyong motor co. plan to build more factories
+		</seg>
+	</p>
+	<p>
+		<seg id="266">industry analysts predict that by 1995 south korea will be building three million cars a year about half of that for export
+		</seg>
+	</p>
+	<p>
+		<seg id="267">it &apos;s an optimistic move in a industry already facing world-wide overcapacity
+		</seg>
+	</p>
+	<p>
+		<seg id="268">but south korean auto makers are confident that the export market will bounce back and that demand in korea will stay strong
+		</seg>
+	</p>
+	<p>
+		<seg id="269">currently only one in 38 south koreans owns a car up from one in 200 a decade ago
+		</seg>
+	</p>
+	<p>
+		<seg id="270">in the year 2000 it will be one car per family
+		</seg>
+	</p>
+	<p>
+		<seg id="271">at that point domestic sales will slow down says kim yoon kwon director of marketing for daewoo motor
+		</seg>
+	</p>
+	<p>
+		<seg id="272">the reason for the tremendous demand is simple south koreans suddenly have a lot more money
+		</seg>
+	</p>
+	<p>
+		<seg id="273">we never thought we &apos;d own a car says kwang ok kyong who just bought a daewoo lemans on a five-year loan
+		</seg>
+	</p>
+	<p>
+		<seg id="274">she and her husband started a small printing business and need the car for work as well as for weekend jaunts
+		</seg>
+	</p>
+	<p>
+		<seg id="275">pay raises of 60 % over the past three years have given many south koreans the money to enjoy the things they were supplying the rest of the world
+		</seg>
+	</p>
+	<p>
+		<seg id="276">the success of newcomer ssangyong motor shows the strength of the auto market and its growing diversity
+		</seg>
+	</p>
+	<p>
+		<seg id="277">a part of the construction-oriented conglomerate ssangyong group it took over the dying dong-a motor co. in 1986
+		</seg>
+	</p>
+	<p>
+		<seg id="278">ssangyong began making variations of the jeep-like korando vehicle
+		</seg>
+	</p>
+	<p>
+		<seg id="279">dong-a had had a technology agreement with jeep maker american motors corp. now a part of chrysler corp
+		</seg>
+	</p>
+	<p>
+		<seg id="280">the most popular style is the stretched family which resembles a ford bronco or chevy blazer
+		</seg>
+	</p>
+	<p>
+		<seg id="281">the four-wheel-drive vehicles start at 15,000 a family can cost over 25,000
+		</seg>
+	</p>
+	<p>
+		<seg id="282">ssangyong which has only about 3 % of the domestic market will sell about 18,000 of its models this year twice as many as last year
+		</seg>
+	</p>
+	<p>
+		<seg id="283">it sees sales rising 45 % to 26,000 units next year
+		</seg>
+	</p>
+	<p>
+		<seg id="284">the company plans to expand plant capacity 50 % by 1991
+		</seg>
+	</p>
+	<p>
+		<seg id="285">by then it also hopes to begin producing a passenger car based on the volvo 240 and selling for about 20,000
+		</seg>
+	</p>
+	<p>
+		<seg id="286">hyundai and daewoo seem unconcerned about the ssangyong threat but kia the scrappy no.3 auto maker is selling four-wheel-drive vehicles through its asia unit
+		</seg>
+	</p>
+	<p>
+		<seg id="287">it plans to sell 1,700 units in 1989
+		</seg>
+	</p>
+	<p>
+		<seg id="288">kia the only korean car maker that has seen its overseas sales grow in 1989 aims at korea &apos;s common man
+		</seg>
+	</p>
+	<p>
+		<seg id="289">its advantage has been the peppy little pride sold as the ford festiva in the u.s.
+		</seg>
+	</p>
+	<p>
+		<seg id="290">at 3.8 million won or 5,700 the econobox is the lowest-priced car in south korea
+		</seg>
+	</p>
+	<p>
+		<seg id="291">along with two larger models the company claims 18 % of the domestic market
+		</seg>
+	</p>
+	<p>
+		<seg id="292">ford motor co. and japan &apos;s mazda motor corp. have equity interests in kia
+		</seg>
+	</p>
+	<p>
+		<seg id="293">kia is the most aggressive of the korean big three in offering financing
+		</seg>
+	</p>
+	<p>
+		<seg id="294">loans for as long as five years make the cars very accessible with monthly payments as low as 80,000 won or 120
+		</seg>
+	</p>
+	<p>
+		<seg id="295">daewoo motor a 50-50 joint venture with general motors corp. and the daewoo group conglomerate is the only auto maker that appears to be hurting
+		</seg>
+	</p>
+	<p>
+		<seg id="296">moreover daewoo &apos;s domestic sales have grown half as fast as sales of its rivals
+		</seg>
+	</p>
+	<p>
+		<seg id="297">the big problem for daewoo which holds about 21 % of the market is the long series of labor disruptions it suffered this year
+		</seg>
+	</p>
+	<p>
+		<seg id="298">but daewoo is expanding too
+		</seg>
+	</p>
+	<p>
+		<seg id="299">in fact a sister company daewoo shipbuilding and heavy machinery plans to build 240,000 minicars by the mid-1990s
+		</seg>
+	</p>
+	<p>
+		<seg id="300">hyundai the korean market leader with a 58 % share also plans to jump into minicars at the same time
+		</seg>
+	</p>
+	<p>
+		<seg id="301">it has a similar project for 200,000 cars a year
+		</seg>
+	</p>
+	<p>
+		<seg id="302">kia is reportedly also considering such a plan
+		</seg>
+	</p>
+	<p>
+		<seg id="303">even giant samsung group is rumored in the korean press to be considering getting into the auto-making business a company spokesman had no comment
+		</seg>
+	</p>
+	<p>
+		<seg id="304">robert p. bulseco 44 years old was named president and chief administrative officer of this regional commercial bank
+		</seg>
+	</p>
+	<p>
+		<seg id="305">both posts had been vacant
+		</seg>
+	</p>
+	<p>
+		<seg id="306">robert robie 51 was named to the new positions of vice chairman and chief credit officer
+		</seg>
+	</p>
+	<p>
+		<seg id="307">many skittish mutual fund investors picked up the phone yesterday but decided not to cash in their chips after all
+		</seg>
+	</p>
+	<p>
+		<seg id="308">fidelity investments the nation &apos;s largest fund company said phone volume was more than double its typical level but still half that of oct. 19 1987
+		</seg>
+	</p>
+	<p>
+		<seg id="309">net outflows from fidelity &apos;s stock funds stood at less than 300 million or below 15 % of the 2 billion cash position of the firm &apos;s stock portfolios
+		</seg>
+	</p>
+	<p>
+		<seg id="310">much of the money was switched into the firm &apos;s money market funds
+		</seg>
+	</p>
+	<p>
+		<seg id="311">outflows since the close of trading friday remain below one-third their level of two years ago fidelity said
+		</seg>
+	</p>
+	<p>
+		<seg id="312">other mutual fund companies reported even lighter withdrawal requests
+		</seg>
+	</p>
+	<p>
+		<seg id="313">and some investors at fidelity and elsewhere even began buying stock funds during the day
+		</seg>
+	</p>
+	<p>
+		<seg id="314">this time we do n&apos;t have that at all
+		</seg>
+	</p>
+	<p>
+		<seg id="315">of course the relative calm could be jolted if the market plunges again
+		</seg>
+	</p>
+	<p>
+		<seg id="316">and any strong surge in redemptions could force some funds to dump stocks to raise cash as some did during black monday
+		</seg>
+	</p>
+	<p>
+		<seg id="317">but funds generally are better prepared this time around
+		</seg>
+	</p>
+	<p>
+		<seg id="318">as a group their cash position of 10.2 % of assets in august the latest figure available is 14 % higher than two years earlier
+		</seg>
+	</p>
+	<p>
+		<seg id="319">many fund managers have boosted their cash levels in recent weeks
+		</seg>
+	</p>
+	<p>
+		<seg id="320">the biggest flurry of investor activity came early in the day
+		</seg>
+	</p>
+	<p>
+		<seg id="321">vanguard group inc. saw heavy exchanges from stock funds into money market funds after the telephone lines opened at 8:30 a.m
+		</seg>
+	</p>
+	<p>
+		<seg id="322">in the first hour the real nervous folks came along a spokesman said
+		</seg>
+	</p>
+	<p>
+		<seg id="323">but the horrendous pace of call volume in the first half-hour slowed considerably
+		</seg>
+	</p>
+	<p>
+		<seg id="324">at scudder stevens &amp; clark inc. phone calls came in at 40 % more than the normal pace through early afternoon
+		</seg>
+	</p>
+	<p>
+		<seg id="325">most of that increase came in the first hour after the phone lines opened at 8 a.m
+		</seg>
+	</p>
+	<p>
+		<seg id="326">as stocks rose in fact some investors changed course and reversed their sell orders
+		</seg>
+	</p>
+	<p>
+		<seg id="327">many funds allow investors to void orders before the close of trading
+		</seg>
+	</p>
+	<p>
+		<seg id="328">because mutual fund trades do n&apos;t take effect until the market close in this case at 4 p.m. these shareholders effectively stayed put
+		</seg>
+	</p>
+	<p>
+		<seg id="329">but by 3:15 p.m. with the market comfortably ahead for the day mr. sherman was preparing to undo his switch
+		</seg>
+	</p>
+	<p>
+		<seg id="330">it &apos;s a nice feeling to know that things stabilized said mr. sherman the 51-year-old co-owner of a discount department store
+		</seg>
+	</p>
+	<p>
+		<seg id="331">but some investors continued to switch out of high-risk high-yield junk funds despite yesterday &apos;s rebound from that market &apos;s recent price declines
+		</seg>
+	</p>
+	<p>
+		<seg id="332">much of the money has been switched into money market funds fund executives say
+		</seg>
+	</p>
+	<p>
+		<seg id="333">instead of selling bonds to meet redemptions however some funds have borrowed from banks to meet withdrawal requests
+		</seg>
+	</p>
+	<p>
+		<seg id="334">this avoids knocking down prices further
+		</seg>
+	</p>
+	<p>
+		<seg id="335">the 1.1 billion t. rowe price high yield fund was among the funds that borrowed during the campeau crisis says george j. collins president of t. rowe price associates inc
+		</seg>
+	</p>
+	<p>
+		<seg id="336">that way mr. collins says we did n&apos;t have to sell securities in a sloppy market
+		</seg>
+	</p>
+	<p>
+		<seg id="337">when the market stabilized he added the firm sold the bonds and quickly paid the loans back
+		</seg>
+	</p>
+	<p>
+		<seg id="338">tom herman contributed to this article
+		</seg>
+	</p>
+	<p>
+		<seg id="339">amcore financial inc. said it agreed to acquire central of illinois inc. in a stock swap
+		</seg>
+	</p>
+	<p>
+		<seg id="340">shareholders of central a bank holding company based in sterling ill. will receive amcore stock equal to 10 times central &apos;s 1989 earnings amcore said
+		</seg>
+	</p>
+	<p>
+		<seg id="341">for the first nine months of 1989 central earned 2 million
+		</seg>
+	</p>
+	<p>
+		<seg id="342">amcore also a bank holding company has assets of 1.06 billion
+		</seg>
+	</p>
+	<p>
+		<seg id="343">central &apos;s assets are 240 million
+		</seg>
+	</p>
+	<p>
+		<seg id="344">during its centennial year the wall street journal will report events of the past century that stand as milestones of american business history
+		</seg>
+	</p>
+	<p>
+		<seg id="345">soft contact lenses won federal blessing on march 18 1971 and quickly became eye openers for their makers
+		</seg>
+	</p>
+	<p>
+		<seg id="346">the food and drug administration that day said bausch &amp; lomb could start selling them in the u.s.
+		</seg>
+	</p>
+	<p>
+		<seg id="347">the cornflake-size product was more comfortable and less prone to falling out than hard contact lenses which had been around since 1939
+		</seg>
+	</p>
+	<p>
+		<seg id="348">bausch &amp; lomb sold the softies under a sublicense from national patent development which had gained the rights from the czechoslovakia academy of sciences
+		</seg>
+	</p>
+	<p>
+		<seg id="349">otto wichterle a czech invented them in 1962
+		</seg>
+	</p>
+	<p>
+		<seg id="350">the plastic lens wraps itself over the cornea absorbing eye moisture while permitting oxygen to pass through
+		</seg>
+	</p>
+	<p>
+		<seg id="351">but the new lens became the eye of a storm
+		</seg>
+	</p>
+	<p>
+		<seg id="352">in september 1971 california officials seized bootlegged lenses made by unlicensed companies after some showed traces of bacteria
+		</seg>
+	</p>
+	<p>
+		<seg id="353">in october doctors were debating the product &apos;s safety some claiming it caused infections
+		</seg>
+	</p>
+	<p>
+		<seg id="354">and there were senate hearings on the questions in july 1972
+		</seg>
+	</p>
+	<p>
+		<seg id="355">the product overcame the bad publicity and kept evolving
+		</seg>
+	</p>
+	<p>
+		<seg id="356">the early soft lenses which cost 300 a set were expected to last for a year
+		</seg>
+	</p>
+	<p>
+		<seg id="357">in 1983 extended wear versions designed to be worn for 30 days at a time wree offered
+		</seg>
+	</p>
+	<p>
+		<seg id="358">eighteen months ago a disposable seven-day model bowed a year &apos;s supply costs about 500
+		</seg>
+	</p>
+	<p>
+		<seg id="359">last month the fda and contact lens institute cautioned users that serious eye infections could result from wearing lenses more than seven days at a stretch
+		</seg>
+	</p>
+	<p>
+		<seg id="360">today 20 million of the 25 million americans using contact lenses are using the soft type
+		</seg>
+	</p>
+	<p>
+		<seg id="361">including the accesory eye care products contacts account for 2 billion in annual retail sales
+		</seg>
+	</p>
+	<p>
+		<seg id="362">although bausch remains the leader among the six majors johnson &amp; johnson with its new disposables is coming on fast
+		</seg>
+	</p>
+	<p>
+		<seg id="363">the roller-coaster stock market is making life tougher for small companies trying to raise money
+		</seg>
+	</p>
+	<p>
+		<seg id="364">in the wake of friday &apos;s plunge and yesterday &apos;s rebound some companies are already postponing deals and others wish they could
+		</seg>
+	</p>
+	<p>
+		<seg id="365">as in other jittery times many small businesses expect a particularly rough time raising funds as investors shun risky deals seeking safety in bigger companies
+		</seg>
+	</p>
+	<p>
+		<seg id="366">even if stock prices fully recover from friday &apos;s sharp decline the unsettled conditions will frighten many investors
+		</seg>
+	</p>
+	<p>
+		<seg id="367">the more variables that indicate risk the more the investor is going to drive a hard bargain
+		</seg>
+	</p>
+	<p>
+		<seg id="368">earlier this month staples inc. a newton mass. office-supplies discounter said it would accelerate expansion plans nationwide and offer more of its stock to the public
+		</seg>
+	</p>
+	<p>
+		<seg id="369">at the time its shares were selling above their initial offering price of 19 and bankers believed staples would sell new stock without a hitch
+		</seg>
+	</p>
+	<p>
+		<seg id="370">but with the company &apos;s shares standing at 15 yesterday a new offering seems unlikely company officials say
+		</seg>
+	</p>
+	<p>
+		<seg id="371">business however continues to be robust and the stock market has n&apos;t affected the concern &apos;s expansion plans says todd krasnow a senior executive
+		</seg>
+	</p>
+	<p>
+		<seg id="372">other companies figure they ca n&apos;t avoid the market
+		</seg>
+	</p>
+	<p>
+		<seg id="373">we have capital requirements says mr. linsert so we have to go ahead with a planned 1.5 billion private placement
+		</seg>
+	</p>
+	<p>
+		<seg id="374">unless the market goes right back up he says it may take us six to nine months to find the money instead of three
+		</seg>
+	</p>
+	<p>
+		<seg id="375">and the columbia md. company may have to settle for a lower price he adds
+		</seg>
+	</p>
+	<p>
+		<seg id="376">life is particularly nerve-racking for companies that had planned to go public this week
+		</seg>
+	</p>
+	<p>
+		<seg id="377">hand-holding is becoming an investment-banking job requirement
+		</seg>
+	</p>
+	<p>
+		<seg id="378">robertson stephens &amp; co. a san francisco investment banking concern has a client that looked forward to making its initial public offering yesterday
+		</seg>
+	</p>
+	<p>
+		<seg id="379">as the market dropped friday robertson stephens slashed the value of the offering by 7 %
+		</seg>
+	</p>
+	<p>
+		<seg id="380">yesterday when similar securities rebounded it bumped the valuation up again
+		</seg>
+	</p>
+	<p>
+		<seg id="381">as of late yesterday the ipo was still on
+		</seg>
+	</p>
+	<p>
+		<seg id="382">for many the situation is especially discouraging because the market for ipos was showing signs of strengthening after several years of weakness
+		</seg>
+	</p>
+	<p>
+		<seg id="383">but the tunnel &apos;s just gotten longer
+		</seg>
+	</p>
+	<p>
+		<seg id="384">he calculates that the recent market slide translated into a 5 % to 7 % reduction in ipo proceeds to companies
+		</seg>
+	</p>
+	<p>
+		<seg id="385">many companies are hesitating
+		</seg>
+	</p>
+	<p>
+		<seg id="386">exabyte corp. had been planning to sell 10 % of its stock this week in an ipo that would raise up to 28.5 million
+		</seg>
+	</p>
+	<p>
+		<seg id="387">but now peter behrendt president says we &apos;re making decisions on a day-to-day basis
+		</seg>
+	</p>
+	<p>
+		<seg id="388">debt-free and profitable the boulder colo. computer-products concern could borrow funds if it decides against an ipo now he says
+		</seg>
+	</p>
+	<p>
+		<seg id="389">knowledgeware inc. an atlanta computer-software concern says it is still planning to go ahead with its ipo this week or next unless conditions change
+		</seg>
+	</p>
+	<p>
+		<seg id="390">it &apos;s a wait-and-see situation right now says terry mcgowan president
+		</seg>
+	</p>
+	<p>
+		<seg id="391">delayed financings also would affect the operations of many companies
+		</seg>
+	</p>
+	<p>
+		<seg id="392">sierra tucson cos. a tucson ariz. operator of addiction-treatment centers has a planned doubling of capacity riding on an ipo scheduled for next week
+		</seg>
+	</p>
+	<p>
+		<seg id="393">william o&apos;donnell president says he still thinks the ipo will succeed
+		</seg>
+	</p>
+	<p>
+		<seg id="394">if it does n&apos;t he says the company would have to change its expansion timetable
+		</seg>
+	</p>
+	<p>
+		<seg id="395">but the market turmoil could be partially beneficial for some small businesses
+		</seg>
+	</p>
+	<p>
+		<seg id="396">james g. zafris president of danvers savings bank danvers mass. says the market turmoil is an absolute non-event for small business
+		</seg>
+	</p>
+	<p>
+		<seg id="397">for small companies he says interest rates are far more important than what happens on stock exchanges
+		</seg>
+	</p>
+	<p>
+		<seg id="398">mr. zafris thinks rates are heading down helping small companies
+		</seg>
+	</p>
+	<p>
+		<seg id="399">peter drake biotechnology analyst for vector securities international chicago thinks market uncertainty may encourage small companies to form more strategic alliances with big corporations
+		</seg>
+	</p>
+	<p>
+		<seg id="400">partly because the 1987 market crash made it harder for them to find financing many high-technology concerns have made such alliances recently
+		</seg>
+	</p>
+	<p>
+		<seg id="401">some even see a silver lining in the dark clouds
+		</seg>
+	</p>
+	<p>
+		<seg id="402">alan wells president of bollinger wells lett &amp; co. a new york merger specialist thinks panicky investors may lose their enthusiasm for leveraged buy-out and giant takeover deals
+		</seg>
+	</p>
+	<p>
+		<seg id="403">instead they could turn to investing in smaller deals involving smaller companies he says
+		</seg>
+	</p>
+	<p>
+		<seg id="404">this will add to the appeal of small business he says where investors often have a degree of influence
+		</seg>
+	</p>
+	<p>
+		<seg id="405">bay said a substantial part of its debt outstanding is in default as a result of inability to sell certain properties quickly and lower-than-expected prices for sales made
+		</seg>
+	</p>
+	<p>
+		<seg id="406">the company said its real estate portfolio is highly leveraged while about two-thirds of its investments are n&apos;t income-producing
+		</seg>
+	</p>
+	<p>
+		<seg id="407">thus it is coming up short on a big bet that quick sales at higher prices would enable it to keep up with mortgage and other debt payments
+		</seg>
+	</p>
+	<p>
+		<seg id="408">according to its latest annual report about a quarter of the company &apos;s holdings are in massachusetts in the midst of a real-estate slump
+		</seg>
+	</p>
+	<p>
+		<seg id="409">the company said it had a net loss in its fourth quarter ended june 30 of 36.2 million or 9.33 a share on revenue of 13.1 million
+		</seg>
+	</p>
+	<p>
+		<seg id="410">a year earlier the company had a loss of 10.8 million or 3.04 a share on revenue of 10.8 million
+		</seg>
+	</p>
+	<p>
+		<seg id="411">for the year it had a net loss of 62 million or 15.97 a share on revenue of 44.3 million
+		</seg>
+	</p>
+	<p>
+		<seg id="412">in the previous year it had a loss of 22.5 million or 6.52 a share on revenue of 41.1 million
+		</seg>
+	</p>
+	<p>
+		<seg id="413">book value per share which is based on investments at cost was a negative 6.69 a share
+		</seg>
+	</p>
+	<p>
+		<seg id="414">a year earlier fair-market value per share was 26.02 and book value was 9.43 a share
+		</seg>
+	</p>
+	<p>
+		<seg id="415">annualized interest rates on certain investments as reported by the federal reserve board on a weekly-average basis 1989 and wednesday october 4 1989
+		</seg>
+	</p>
+	<p>
+		<seg id="416">c-yields adjusted for constant maturity
+		</seg>
+	</p>
+	<p>
+		<seg id="417">trw inc. reported a 12 % decline in third-quarter net income but the company said that excluding unusual gains in both quarters operating profit rose 16 %
+		</seg>
+	</p>
+	<p>
+		<seg id="418">the electronics automotive and aerospace concern said third-quarter net was 60 million or 98 cents a share down from 68 million or 1.11 a share a year earlier
+		</seg>
+	</p>
+	<p>
+		<seg id="419">share earnings are reported on a fully diluted basis by company tradition
+		</seg>
+	</p>
+	<p>
+		<seg id="420">the latest quarter included a gain of 11 cents a share as a partial reversal of the recall charge because the reserve established last year exceeded the actual recall costs
+		</seg>
+	</p>
+	<p>
+		<seg id="421">sales for the quarter rose 8.3 % to 1.79 billion from 1.65 billion with all three major product groups reporting gains
+		</seg>
+	</p>
+	<p>
+		<seg id="422">automotive sales jumped 16 % to 791 million mainly because of higher sales of air bags and other passenger restraint systems trw said
+		</seg>
+	</p>
+	<p>
+		<seg id="423">the group had an operating profit of 65 million against a loss of 13 million a year earlier
+		</seg>
+	</p>
+	<p>
+		<seg id="424">however excluding the year-earlier charge for recall of steering gear operating profit in the latest quarter declined 14 % reflecting higher start-up and product development expenses in passenger-restraint systems
+		</seg>
+	</p>
+	<p>
+		<seg id="425">materials and production costs also rose trw said
+		</seg>
+	</p>
+	<p>
+		<seg id="426">the information systems segment had a 44 % jump sales to 196 million
+		</seg>
+	</p>
+	<p>
+		<seg id="427">an acquisition accounted for half the sales rise trw said
+		</seg>
+	</p>
+	<p>
+		<seg id="428">operating profit rose threefold to 18 million from 6 million
+		</seg>
+	</p>
+	<p>
+		<seg id="429">for the nine months trw &apos;s net was 199 million or 3.22 a share down 3 % from 205 million or 3.33 a share a year earlier
+		</seg>
+	</p>
+	<p>
+		<seg id="430">sales rose 2.9 % to 5.42 billion from 5.27 billion
+		</seg>
+	</p>
+	<p>
+		<seg id="431">in fact kazuo ishiguro &apos;s the remains of the day knopf 245 pages 18.95 is both an homage to traditional english forms and a dramatic critique of them
+		</seg>
+	</p>
+	<p>
+		<seg id="432">as the narrator stevens the solitary butler of darlington hall mulls over such hallowed terms as greatness dignity service and loyalty we see how pious cant subverts the soul
+		</seg>
+	</p>
+	<p>
+		<seg id="433">stevens &apos;s dutiful conflation of the public and private realms like his beloved master &apos;s destroys all it was designed to preserve
+		</seg>
+	</p>
+	<p>
+		<seg id="434">such armor crushes the soldier
+		</seg>
+	</p>
+	<p>
+		<seg id="435">the mask cuts to the quick
+		</seg>
+	</p>
+	<p>
+		<seg id="436">it &apos;s 1956 the year the suez crisis marked the final end of empire
+		</seg>
+	</p>
+	<p>
+		<seg id="437">we call this land of ours great britain and there may be those who believe this a somewhat immodest practice
+		</seg>
+	</p>
+	<p>
+		<seg id="438">yet i would venture that the landscape of our country alone would justify the use of this lofty adjective
+		</seg>
+	</p>
+	<p>
+		<seg id="439">it is the very lack of obvious drama or spectacle that sets the beauty of our land apart
+		</seg>
+	</p>
+	<p>
+		<seg id="440">what is pertinent is the calmness of that beauty its sense of restraint
+		</seg>
+	</p>
+	<p>
+		<seg id="441">it is as though the land knows of its own beauty of its own greatness and feels no need to shout it
+		</seg>
+	</p>
+	<p>
+		<seg id="442">an effusive landscape
+		</seg>
+	</p>
+	<p>
+		<seg id="443">an ill-mannered mountain
+		</seg>
+	</p>
+	<p>
+		<seg id="444">his answer is one possessed of a dignity in keeping with his position
+		</seg>
+	</p>
+	<p>
+		<seg id="445">such dignity has to do crucially with a butler &apos;s ability not to abandon the professional being he inhabits
+		</seg>
+	</p>
+	<p>
+		<seg id="446">he will not be shaken out by external events however surprising alarming or vexing
+		</seg>
+	</p>
+	<p>
+		<seg id="447">continentals are unable to be butlers because they are as a breed incapable of the emotional restraint which only the english race are capable of
+		</seg>
+	</p>
+	<p>
+		<seg id="448">despite his racial advantage to be a great butler is a heroic calling one &apos;s pantry is not unlike general &apos;s headquarters during a battle
+		</seg>
+	</p>
+	<p>
+		<seg id="449">you see i know my father would have wished me to carry on just now
+		</seg>
+	</p>
+	<p>
+		<seg id="450">we note the imperial public word used to deny private rage and sorrow
+		</seg>
+	</p>
+	<p>
+		<seg id="451">that stevens himself is not grotesque or repellent but funny and sad and enlightening is entirely the author &apos;s triumph
+		</seg>
+	</p>
+	<p>
+		<seg id="452">this employer embodies all that i find noble and admirable
+		</seg>
+	</p>
+	<p>
+		<seg id="453">i will hereafter devote myself to serving him
+		</seg>
+	</p>
+	<p>
+		<seg id="454">this is loyalty intelligently bestowed
+		</seg>
+	</p>
+	<p>
+		<seg id="455">in the end after meeting with the former housekeeper stevens sits by the seashore at dusk thinking of her and of his employer and declares i trusted
+		</seg>
+	</p>
+	<p>
+		<seg id="456">i trusted in his lordship &apos;s wisdom
+		</seg>
+	</p>
+	<p>
+		<seg id="457">i ca n&apos;t even say i made my own mistakes
+		</seg>
+	</p>
+	<p>
+		<seg id="458">really one has to ask oneself what dignity is there in that
+		</seg>
+	</p>
+	<p>
+		<seg id="459">the loyal servant has come full circle
+		</seg>
+	</p>
+	<p>
+		<seg id="460">what is greatness
+		</seg>
+	</p>
+	<p>
+		<seg id="461">what is dignity
+		</seg>
+	</p>
+	<p>
+		<seg id="462">we understand such rueful wisdom must be retrospective the owl of minerva only spreads her wings at dusk
+		</seg>
+	</p>
+	<p>
+		<seg id="463">but as the remains of the day so eloquently demonstrates with quiet virtuosity such wisdom can be movingly embodied in art
+		</seg>
+	</p>
+	<p>
+		<seg id="464">mr. locke teaches english and comparative literature at columbia university
+		</seg>
+	</p>
+	<p>
+		<seg id="465">ugi corp. said its amerigas subsidiary completed the previously announced sale of its air separation plant and related assets in waukesha wis. to aga gas inc. cleveland
+		</seg>
+	</p>
+	<p>
+		<seg id="466">the price was n&apos;t disclosed
+		</seg>
+	</p>
+	<p>
+		<seg id="467">the transaction is part of ugi &apos;s continuing program to shed amerigas &apos;s industrial gas interests and expand the subsidiary &apos;s propane business
+		</seg>
+	</p>
+	<p>
+		<seg id="468">since june amerigas has netted more than 100 million from industrial gas divestitures and reinvested more than 50 million to acquire three propane distributors
+		</seg>
+	</p>
+	<p>
+		<seg id="469">ugi is a gas and electric utility and distributes propane nationally through its amerigas subsidiary
+		</seg>
+	</p>
+	<p>
+		<seg id="470">stanislav ovcharenko who represents the soviet airline aeroflot here has some visions that are wild even by the current standards of perestroika
+		</seg>
+	</p>
+	<p>
+		<seg id="471">in his office overlooking the runway of shannon airport mr. ovcharenko enthusiastically throws out what he calls just ideas
+		</seg>
+	</p>
+	<p>
+		<seg id="472">first he suggests gpa group ltd. the international aircraft leasing company based in ireland could lease some of its boeing jetliners to the soviet airline
+		</seg>
+	</p>
+	<p>
+		<seg id="473">then aer lingus the irish flag carrier could teach aeroflot pilots to fly the boeings and the fleet could be based here at shannon airport
+		</seg>
+	</p>
+	<p>
+		<seg id="474">that &apos;s not all he says
+		</seg>
+	</p>
+	<p>
+		<seg id="475">aer rianta the irish airport authority could build a cargo terminal in the soviet union
+		</seg>
+	</p>
+	<p>
+		<seg id="476">aeroflot could lease some of its cargo planes to aer lingus through gpa for a joint-venture cargo airline
+		</seg>
+	</p>
+	<p>
+		<seg id="477">and then there is his notion of an irish-soviet charter airline to ferry armenians to los angeles via shannon
+		</seg>
+	</p>
+	<p>
+		<seg id="478">have the freedoms of glasnost gone to mr. ovcharenko &apos;s head
+		</seg>
+	</p>
+	<p>
+		<seg id="479">hardly
+		</seg>
+	</p>
+	<p>
+		<seg id="480">the irish-soviet aviation connection is alive and well here at shannon airport
+		</seg>
+	</p>
+	<p>
+		<seg id="481">gpa is indeed talking about leasing western planes to aeroflot and even about buying soviet-built tupolev 204s
+		</seg>
+	</p>
+	<p>
+		<seg id="482">aer lingus is in discussions with the soviet carrier about a cargo venture and other possibilities
+		</seg>
+	</p>
+	<p>
+		<seg id="483">aer rianta already has so many ventures with aeroflot that its chief executive is studying russian
+		</seg>
+	</p>
+	<p>
+		<seg id="484">unlikely as it may seem tiny politically neutral ireland has penetrated the mighty soviet airline bureaucracy
+		</seg>
+	</p>
+	<p>
+		<seg id="485">and as aeroflot struggles to boost its service standards upgrade its fleet and pursue commercial opportunities the irish aviation industry seems poised to benefit
+		</seg>
+	</p>
+	<p>
+		<seg id="486">irish and soviet people are similar says mr. ovcharenko
+		</seg>
+	</p>
+	<p>
+		<seg id="487">they look the same
+		</seg>
+	</p>
+	<p>
+		<seg id="488">they &apos;re very friendly
+		</seg>
+	</p>
+	<p>
+		<seg id="489">moreover he says irish companies are small but spunky
+		</seg>
+	</p>
+	<p>
+		<seg id="490">we have to study their experience very well he says
+		</seg>
+	</p>
+	<p>
+		<seg id="491">we must find any way to get business
+		</seg>
+	</p>
+	<p>
+		<seg id="492">the two groups have been working together since the late 1970s long before soviet joint ventures were the rage in the west
+		</seg>
+	</p>
+	<p>
+		<seg id="493">aeroflot carried about 125 million passengers last year and shannon airport the airline &apos;s largest transit airport outside the soviet union saw 1,400 aeroflot flights and 250,000 passengers pass through
+		</seg>
+	</p>
+	<p>
+		<seg id="494">an apartment complex down the road is the crew-rest and staging area for more than 130 aeroflot pilots and flight attendants
+		</seg>
+	</p>
+	<p>
+		<seg id="495">the airport &apos;s biggest supplier of aircraft fuel is the soviet union
+		</seg>
+	</p>
+	<p>
+		<seg id="496">tankers from the latvian port of ventspils each year unload 25 million gallons of fuel into a special tank farm at the airport
+		</seg>
+	</p>
+	<p>
+		<seg id="497">aeroflot thus pays its landing fees ground-handling and catering bills with fuel preserving its hard currency
+		</seg>
+	</p>
+	<p>
+		<seg id="498">that is n&apos;t all
+		</seg>
+	</p>
+	<p>
+		<seg id="499">last year the irish airport authority in a joint venture with aeroflot opened four hard-currency duty-free shops at moscow &apos;s sheremetyevo airport
+		</seg>
+	</p>
+	<p>
+		<seg id="500">aer rianta now manages duty-free sales on all aeroflot international flights out of moscow
+		</seg>
+	</p>
+	<p>
+		<seg id="501">duty-free shops in leningrad &apos;s pulkova airport opened in july and hard-currency shops in leningrad hotels and on the soviet-finnish frontier are coming soon
+		</seg>
+	</p>
+	<p>
+		<seg id="502">aer rianta is talking about similar joint ventures in tashkent and in sochi a black sea resort and even has a computer-assembly project cooking with the georgian city of tbilisi
+		</seg>
+	</p>
+	<p>
+		<seg id="503">aeroflot &apos;s international fleet of 285 planes is being repainted and refurbished at shannon airport
+		</seg>
+	</p>
+	<p>
+		<seg id="504">the round-trip fare to havana is 410 irish punts 578
+		</seg>
+	</p>
+	<p>
+		<seg id="505">jamaica costs 504 punts
+		</seg>
+	</p>
+	<p>
+		<seg id="506">a formal blessing of sorts was bestowed on this friendship in april when mikhail and raisa gorbachev stopped here for talks with irish prime minister charles haughey
+		</seg>
+	</p>
+	<p>
+		<seg id="507">new trade accords were signed
+		</seg>
+	</p>
+	<p>
+		<seg id="508">it all started with geography
+		</seg>
+	</p>
+	<p>
+		<seg id="509">when it opened in 1939 shannon was the first landfall in europe for thirsty airplanes flying from north america
+		</seg>
+	</p>
+	<p>
+		<seg id="510">in fact aer lingus started ferrying russians from shannon to new york when washington stripped aeroflot of its u.s. landing rights
+		</seg>
+	</p>
+	<p>
+		<seg id="511">today aer rianta is making a heap of money from its soviet friendship
+		</seg>
+	</p>
+	<p>
+		<seg id="512">and with those contacts in place it could be relatively simple to add aer lingus and gpa to the team
+		</seg>
+	</p>
+	<p>
+		<seg id="513">then perhaps mr. ovcharenko &apos;s ideas would n&apos;t sound like so much blarney
+		</seg>
+	</p>
+	<p>
+		<seg id="514">britain &apos;s industrial production rose 1.5 % in august from july and was up 0.9 % from august 1988 according to provisional data from the central statistical office
+		</seg>
+	</p>
+	<p>
+		<seg id="515">the latest figures compare with july &apos;s 4.5 % month-to-month rise and 11.3 % year-to-year fall
+		</seg>
+	</p>
+	<p>
+		<seg id="516">when nucor corp. begins shipping steel from the world &apos;s first thin-slab plant this month it will begin testing the competitive mettle of its giant competitors
+		</seg>
+	</p>
+	<p>
+		<seg id="517">the new technology which creates a very thin piece of steel radically reduces the costs of making flat-rolled sheets
+		</seg>
+	</p>
+	<p>
+		<seg id="518">we &apos;ve had the russians and chinese and people from india visiting us mr. iverson beams
+		</seg>
+	</p>
+	<p>
+		<seg id="519">everyone in the world is watching us very closely
+		</seg>
+	</p>
+	<p>
+		<seg id="520">especially his neighbors the major u.s. steelmakers
+		</seg>
+	</p>
+	<p>
+		<seg id="521">already usx corp. and armco inc. are studying nucor &apos;s technology to see if they can adopt it
+		</seg>
+	</p>
+	<p>
+		<seg id="522">says the chief executive officer of a major midwest steel company it &apos;s damn worrisome
+		</seg>
+	</p>
+	<p>
+		<seg id="523">the once-staid steel industry is about to be turned topsy-turvy by a 1990s technology revolution
+		</seg>
+	</p>
+	<p>
+		<seg id="524">new efficient and sophisticated processes make it easier for smaller less cash-rich companies to make steel at a fraction of what big steel paid decades ago
+		</seg>
+	</p>
+	<p>
+		<seg id="525">it also enables minimills finally to get a toehold in the flat-rolled steel market the major steelmakers &apos; largest most prized and until now untouchable market
+		</seg>
+	</p>
+	<p>
+		<seg id="526">but such thin-slab technology is only the beginning
+		</seg>
+	</p></doc></srcset></mteval>

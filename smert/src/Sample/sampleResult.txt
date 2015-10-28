@@ -1,0 +1,344 @@
+  Labeled   attachment score: 1249 / 1536 * 100 = 81.32 %
+  Unlabeled attachment score: 1384 / 1536 * 100 = 90.10 %
+  Label accuracy score:       1309 / 1536 * 100 = 85.22 %
+
+  ================================================================================
+
+  Evaluation of the results in sample.ws.DEP.CONLL
+  vs. gold standard sample.gold:
+
+  Legend: '.S' - the beginning of a sentence, '.E' - the end of a sentence
+
+  Number of non-scoring tokens: 224
+
+  The overall accuracy and its distribution over CPOSTAGs
+
+  -----------+-------+-------+------+-------+------+-------+-------
+  Accuracy   | words | right |   %  | right |   %  | both  |   %
+             |       | head  |      |  dep  |      | right |
+  -----------+-------+-------+------+-------+------+-------+-------
+  total      |  1536 |  1384 |  90% |  1309 |  85% |  1249 |  81%
+  -----------+-------+-------+------+-------+------+-------+-------
+  N          |   561 |   513 |  91% |   479 |  85% |   459 |  82%
+  V          |   370 |   326 |  88% |   302 |  82% |   288 |  78%
+  R          |   140 |   132 |  94% |   121 |  86% |   120 |  86%
+  A          |   113 |   102 |  90% |    99 |  88% |    96 |  85%
+  E          |   107 |    90 |  84% |    83 |  78% |    76 |  71%
+  P          |    70 |    64 |  91% |    67 |  96% |    62 |  89%
+  C          |    65 |    55 |  85% |    54 |  83% |    50 |  77%
+  M          |    58 |    55 |  95% |    54 |  93% |    52 |  90%
+  L          |    27 |    27 | 100% |    27 | 100% |    27 | 100%
+  T          |    12 |     9 |  75% |    10 |  83% |     8 |  67%
+  LBKT       |     4 |     4 | 100% |     4 | 100% |     4 | 100%
+  RBKT       |     4 |     4 | 100% |     4 | 100% |     4 | 100%
+  X          |     3 |     1 |  33% |     3 | 100% |     1 |  33%
+  S          |     1 |     1 | 100% |     1 | 100% |     1 | 100%
+  I          |     1 |     1 | 100% |     1 | 100% |     1 | 100%
+  -----------+-------+-------+------+-------+------+-------+-------
+
+
+  The overall error rate and its distribution over CPOSTAGs
+
+  -----------+-------+-------+------+-------+------+-------+-------
+  Error      | words | head  |   %  |  dep  |   %  | both  |   %
+  Rate       |       | err   |      |  err  |      | wrong |
+  -----------+-------+-------+------+-------+------+-------+-------
+  total      |  1536 |   152 |  10% |   227 |  15% |    92 |   6%
+  -----------+-------+-------+------+-------+------+-------+-------
+  N          |   561 |    48 |   9% |    82 |  15% |    28 |   5%
+  V          |   370 |    44 |  12% |    68 |  18% |    30 |   8%
+  R          |   140 |     8 |   6% |    19 |  14% |     7 |   5%
+  A          |   113 |    11 |  10% |    14 |  12% |     8 |   7%
+  E          |   107 |    17 |  16% |    24 |  22% |    10 |   9%
+  P          |    70 |     6 |   9% |     3 |   4% |     1 |   1%
+  C          |    65 |    10 |  15% |    11 |  17% |     6 |   9%
+  M          |    58 |     3 |   5% |     4 |   7% |     1 |   2%
+  L          |    27 |     0 |   0% |     0 |   0% |     0 |   0%
+  T          |    12 |     3 |  25% |     2 |  17% |     1 |   8%
+  LBKT       |     4 |     0 |   0% |     0 |   0% |     0 |   0%
+  RBKT       |     4 |     0 |   0% |     0 |   0% |     0 |   0%
+  X          |     3 |     2 |  67% |     0 |   0% |     0 |   0%
+  S          |     1 |     0 |   0% |     0 |   0% |     0 |   0%
+  I          |     1 |     0 |   0% |     0 |   0% |     0 |   0%
+  -----------+-------+-------+------+-------+------+-------+-------
+
+
+  Precision and recall of DEPREL
+
+  ----------------+------+---------+--------+------------+---------------
+  deprel          | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  adv             |  117 |      99 |    109 |      84.62 |         90.83
+  amod            |   54 |      44 |     55 |      81.48 |         80.00
+  cnd             |    1 |       1 |      1 |     100.00 |        100.00
+  conj            |   33 |      30 |     36 |      90.91 |         83.33
+  coord           |   33 |      30 |     32 |      90.91 |         93.75
+  dep             |   49 |      29 |     36 |      59.18 |         80.56
+  det             |   98 |      97 |     98 |      98.98 |         98.98
+  dir             |    5 |       2 |      5 |      40.00 |         40.00
+  dob             |  110 |      90 |    121 |      81.82 |         74.38
+  iob             |    3 |       0 |      1 |       0.00 |          0.00
+  loc             |   40 |      26 |     42 |      65.00 |         61.90
+  mnr             |    9 |       5 |      7 |      55.56 |         71.43
+  nmod            |  303 |     280 |    314 |      92.41 |         89.17
+  pmod            |    2 |       1 |      3 |      50.00 |         33.33
+  pob             |   91 |      87 |     99 |      95.60 |         87.88
+  prd             |    5 |       4 |      5 |      80.00 |         80.00
+  prp             |   24 |      17 |     20 |      70.83 |         85.00
+  punct           |    8 |       8 |      8 |     100.00 |        100.00
+  root            |  100 |      92 |    100 |      92.00 |         92.00
+  sub             |  126 |     117 |    122 |      92.86 |         95.90
+  tmp             |   37 |      31 |     37 |      83.78 |         83.78
+  tpc             |    2 |       2 |      3 |     100.00 |         66.67
+  vmod            |  283 |     214 |    279 |      75.62 |         76.70
+  x               |    3 |       3 |      3 |     100.00 |        100.00
+
+
+  Precision and recall of DEPREL + ATTACHMENT
+
+  ----------------+------+---------+--------+------------+---------------
+  deprel          | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  adv             |  117 |      98 |    109 |      83.76 |         89.91
+  amod            |   54 |      44 |     55 |      81.48 |         80.00
+  cnd             |    1 |       1 |      1 |     100.00 |        100.00
+  conj            |   33 |      30 |     36 |      90.91 |         83.33
+  coord           |   33 |      26 |     32 |      78.79 |         81.25
+  dep             |   49 |      28 |     36 |      57.14 |         77.78
+  det             |   98 |      94 |     98 |      95.92 |         95.92
+  dir             |    5 |       2 |      5 |      40.00 |         40.00
+  dob             |  110 |      88 |    121 |      80.00 |         72.73
+  iob             |    3 |       0 |      1 |       0.00 |          0.00
+  loc             |   40 |      24 |     42 |      60.00 |         57.14
+  mnr             |    9 |       3 |      7 |      33.33 |         42.86
+  nmod            |  303 |     271 |    314 |      89.44 |         86.31
+  pmod            |    2 |       1 |      3 |      50.00 |         33.33
+  pob             |   91 |      87 |     99 |      95.60 |         87.88
+  prd             |    5 |       4 |      5 |      80.00 |         80.00
+  prp             |   24 |      15 |     20 |      62.50 |         75.00
+  punct           |    8 |       8 |      8 |     100.00 |        100.00
+  root            |  100 |      92 |    100 |      92.00 |         92.00
+  sub             |  126 |     106 |    122 |      84.13 |         86.89
+  tmp             |   37 |      27 |     37 |      72.97 |         72.97
+  tpc             |    2 |       2 |      3 |     100.00 |         66.67
+  vmod            |  283 |     197 |    279 |      69.61 |         70.61
+  x               |    3 |       1 |      3 |      33.33 |         33.33
+
+
+  Precision and recall of binned HEAD direction
+
+  ----------------+------+---------+--------+------------+---------------
+  direction       | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  to_root         |  100 |      92 |    100 |      92.00 |         92.00
+  left            | 1062 |    1044 |   1064 |      98.31 |         98.12
+  right           |  374 |     357 |    372 |      95.45 |         95.97
+  self            |    0 |       0 |      0 |        NaN |           NaN
+
+
+  Precision and recall of binned HEAD distance
+
+  ----------------+------+---------+--------+------------+---------------
+  distance        | gold | correct | system | recall (%) | precision (%) 
+  ----------------+------+---------+--------+------------+---------------
+  to_root         |  100 |      92 |    100 |      92.00 |         92.00
+  1               |  845 |     814 |    864 |      96.33 |         94.21
+  2               |  274 |     243 |    282 |      88.69 |         86.17
+  3-6             |  250 |     209 |    237 |      83.60 |         88.19
+  7-...           |   67 |      46 |     53 |      68.66 |         86.79
+
+
+  Frame confusions (gold versus system; *...* marks the head token)
+
+    9  *pob* nmod / *pob* nmod nmod 
+    6  *vmod* / *vmod* vmod 
+    5  *vmod* vmod / *vmod* 
+
+
+  5 focus words where most of the errors occur:
+
+           | any  | head | dep  | both
+  ---------+------+------+------+------
+  có / V   |    7 |    6 |    5 |    4
+  ông / N  |    4 |    4 |    2 |    2
+  vào / E  |    4 |    2 |    4 |    2
+  thì / C  |    4 |    2 |    2 |    0
+  ngày / N |    4 |    2 |    3 |    1
+  ---------+------+------+------+------
+
+
+  one-token preceeding contexts where most of the errors occur:
+
+  CPOS | any  | head | dep  | both  ||  word               | any  | head | dep  | both
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+  V   |   88 |   21 |   82 |   15  ||  , / ,              |   16 |   12 |    9 |    5
+  N   |   72 |   55 |   46 |   29  ||  là / V             |    6 |    1 |    6 |    1
+  R   |   28 |   21 |   21 |   14  ||  có / V             |    5 |    2 |    5 |    2
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+
+
+  two-token preceeding contexts where most of the errors occur:
+
+  CPOS | any  | head | dep  | both  ||  word               | any  | head | dep  | both
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+  N+V |   29 |   10 |   28 |    9  ||  .S + Còn / C       |    2 |    2 |    1 |    1
+  N+N |   28 |   24 |   13 |    9  ||  : / : + " / "      |    2 |    1 |    2 |    1
+  V+V |   19 |    9 |   14 |    4  ||  là / V + những / L |    2 |    1 |    2 |    1
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+
+
+  one-token following contexts where most of the errors occur:
+
+  CPOS | any  | head | dep  | both  ||  word               | any  | head | dep  | both
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+  N   |  102 |   52 |   86 |   36  ||  . / .              |   15 |    7 |   13 |    5
+  V   |   59 |   33 |   43 |   17  ||  , / ,              |   12 |    7 |    9 |    4
+  E   |   23 |   10 |   19 |    6  ||  lại / R            |    4 |    2 |    3 |    1
+      |      |      |      |       ||  đã / R             |    4 |    3 |    2 |    1
+      |      |      |      |       ||  trong / E          |    4 |    2 |    4 |    2
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+
+
+  two-token following contexts where most of the errors occur:
+
+  CPOS | any  | head | dep  | both  ||  word               | any  | head | dep  | both
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+  N+N |   32 |   14 |   27 |    9  ||  . / . + .E         |   15 |    7 |   13 |    5
+  N+V |   24 |   17 |   19 |   12  ||  chống / V + Mỹ / N |    2 |    0 |    2 |    0
+  E+N |   19 |    8 |   16 |    5  ||  : / : + " / "      |    2 |    2 |    1 |    1
+  ----+------+------+------+-------++---------------------+------+------+------+-----
+
+
+  Sentence with the highest number of word errors:
+   Sentence 26 line 443, 4 head errors, 8 dependency errors, 8 word errors
+
+
+  Sentence with the highest number of head errors:
+   Sentence 82 line 1483, 6 head errors, 5 dependency errors, 7 word errors
+
+
+  Sentence with the highest number of dependency errors:
+   Sentence 26 line 443, 4 head errors, 8 dependency errors, 8 word errors
+
+
+  Specific errors, 10 most frequent errors:
+  =========================================
+
+   1. correct head (before the focus word), dependency "dob" instead of "vmod" : 20 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+       |      | N    |      |      |      |  16
+  V    |      |      |      |      |      |  16
+  -----+------+------+------+------+------+------
+
+   2. head one word before the correct head (before the focus word), correct dependency : 12 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+  N    |      |      |      |      |      |   8
+  -----+------+------+------+------+------+------
+
+   3. correct head (before the focus word), dependency "vmod" instead of "nmod" : 9 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+       |      | V    |      |      |      |   8
+  -----+------+------+------+------+------+------
+
+   4. correct head (before the focus word), dependency "vmod" instead of "adv" : 9 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+       |      | R    |      |      |      |   9
+  V    |      | R    |      |      |      |   8
+  -----+------+------+------+------+------+------
+
+   5. correct head (before the focus word), dependency "nmod" instead of "vmod" : 7 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+       |      | V    |      |      |      |   7
+  N    |      | V    |      |      |      |   3
+  -----+------+------+------+------+------+------
+
+   6. head two words after the correct head (before the focus word), correct dependency : 7 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+       |      |      |      | V    |      |   4
+  -----+------+------+------+------+------+------
+
+   7. correct head (before the focus word), dependency "vmod" instead of "dep" : 7 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+       |      | V    |      |      |      |   6
+  -----+------+------+------+------+------+------
+
+   8. correct head (before the focus word), dependency "vmod" instead of "dob" : 6 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+  V    |      |      |      |      |      |   5
+  -----+------+------+------+------+------+------
+
+   9. head one word after the correct head (before the focus word), correct dependency : 6 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+  N    |      |      |      |      |      |   3
+  -----+------+------+------+------+------+------
+
+  10. head = 0 instead of before the focus word, dependency "root" instead of "vmod" : 5 times
+  -----+------+------+------+------+------+------
+    Before    |    Focus    |   After     | Count
+  CPOS   word | CPOS   word | CPOS   word |
+  -----+------+------+------+------+------+------
+       |      | V    |      |      |      |   5
+  R    |      | V    |      |      |      |   3
+  -----+------+------+------+------+------+------
+
+
+  Local contexts involved in several frequent errors:
+  ===================================================
+
+
+  -----+------+------+------+------+------
+    Before    |    Focus    |   After     
+  CPOS   word | CPOS   word | CPOS   word 
+  -----+------+------+------+------+------
+       |      | V    |      |      |      
+  -----+------+------+------+------+------
+   3. correct head (before the focus word), dependency "vmod" instead of "nmod" : 8 times
+   5. correct head (before the focus word), dependency "nmod" instead of "vmod" : 7 times
+   7. correct head (before the focus word), dependency "vmod" instead of "dep" : 6 times
+  10. head = 0 instead of before the focus word, dependency "root" instead of "vmod" : 5 times
+
+  -----+------+------+------+------+------
+    Before    |    Focus    |   After     
+  CPOS   word | CPOS   word | CPOS   word 
+  -----+------+------+------+------+------
+  N    |      |      |      |      |      
+  -----+------+------+------+------+------
+   2. head one word before the correct head (before the focus word), correct dependency : 8 times
+   9. head one word after the correct head (before the focus word), correct dependency : 3 times
+
+  -----+------+------+------+------+------
+    Before    |    Focus    |   After     
+  CPOS   word | CPOS   word | CPOS   word 
+  -----+------+------+------+------+------
+  V    |      |      |      |      |      
+  -----+------+------+------+------+------
+   1. correct head (before the focus word), dependency "dob" instead of "vmod" : 16 times
+   8. correct head (before the focus word), dependency "vmod" instead of "dob" : 5 times
+

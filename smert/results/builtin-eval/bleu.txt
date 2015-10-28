@@ -1,0 +1,67 @@
+
+	========================================================
+	\tSummary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13599 / 13599 = 1.0000
+BLEU_precision(2) = 10890 / 13073 = 0.8330
+BLEU_precision(3) = 9363 / 12547 = 0.7462
+BLEU_precision(4) = 8014 / 12023 = 0.6666
+BLEU_precision = 0.8023
+Length of candidate corpus = 13599
+Effective length of reference corpus = 13599
+BLEU_BP = 1.0000
+  => BLEU = 0.8023
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13599 / 13599 = 1.0000
+BLEU_precision(2) = 5097 / 13073 = 0.3899
+BLEU_precision(3) = 2662 / 12547 = 0.2122
+BLEU_precision(4) = 491 / 12023 = 0.0408
+BLEU_precision = 0.2411
+Length of candidate corpus = 13599
+Effective length of reference corpus = 13599
+BLEU_BP = 1.0000
+  => BLEU = 0.2411
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13373 / 13373 = 1.0000
+BLEU_precision(2) = 4966 / 12847 = 0.3865
+BLEU_precision(3) = 2553 / 12321 = 0.2072
+BLEU_precision(4) = 438 / 11798 = 0.0371
+BLEU_precision = 0.2335
+Length of candidate corpus = 13373
+Effective length of reference corpus = 13376
+BLEU_BP = 0.9998
+  => BLEU = 0.2335
+
+ 
+	========================================================
