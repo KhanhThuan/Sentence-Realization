@@ -1,3 +1,4 @@
+
 import java.io.*;
 import java.net.*;
 import java.util.Date;
@@ -73,6 +74,12 @@ class RecieveFromClientThread implements Runnable
 					pwPrintWriter.println( FontUtil.UTF2NCR(results.get(0)));//send message to client with PrintWriter
 					pwPrintWriter.flush();//flush the PrintWriter
 					//System.out.println("Please enter something to send back to client..");
+					try{
+						File f = new File("data/dependency-tree/test/"+ t +"test_tree.DEP.CONLL");
+						f.delete();
+					}catch(Exception e){
+						
+					}
 				String[] deletedFiles ={"test.txt","test.txt.DEP.CONLL","test.txt.TAGGED.CONLL","test.txt.TAGGED"};
 				for(String fstr: deletedFiles){
 					File f = new File("src/Sample/"+ t  + fstr);

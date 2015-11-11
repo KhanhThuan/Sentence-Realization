@@ -6,7 +6,7 @@
 -m	BLEU 4 closest          # evaluation metric and its options
 -maxIt	15                      # maximum MERT iterations
 -ipi	20                      # number of intermediate initial points per iteration
--cmd	SDecoder_cmd.bat          # file containing commands to run decoder, change to ./SDecoder_cmd.sh for mac or linux system.
+-cmd	./SDecoder_cmd.sh          # file containing commands to run decoder, change to ./SDecoder_cmd.sh for mac or linux system.
 -decOut	nbest.out               # file prodcued by decoder
 -dcfg	SDecoder_cfg.txt        # decoder config file
 -N	10                      # size of N-best list generated each iteration
