@@ -1,0 +1,199 @@
+
+	========================================================
+	\tSummary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13599 / 13599 = 1.0000
+BLEU_precision(2) = 10890 / 13073 = 0.8330
+BLEU_precision(3) = 9363 / 12547 = 0.7462
+BLEU_precision(4) = 8014 / 12023 = 0.6666
+BLEU_precision = 0.8023
+Length of candidate corpus = 13599
+Effective length of reference corpus = 13599
+BLEU_BP = 1.0000
+  => BLEU = 0.8023
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13599 / 13599 = 1.0000
+BLEU_precision(2) = 5097 / 13073 = 0.3899
+BLEU_precision(3) = 2662 / 12547 = 0.2122
+BLEU_precision(4) = 491 / 12023 = 0.0408
+BLEU_precision = 0.2411
+Length of candidate corpus = 13599
+Effective length of reference corpus = 13599
+BLEU_BP = 1.0000
+  => BLEU = 0.2411
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13373 / 13373 = 1.0000
+BLEU_precision(2) = 4966 / 12847 = 0.3865
+BLEU_precision(3) = 2553 / 12321 = 0.2072
+BLEU_precision(4) = 438 / 11798 = 0.0371
+BLEU_precision = 0.2335
+Length of candidate corpus = 13373
+Effective length of reference corpus = 13376
+BLEU_BP = 0.9998
+  => BLEU = 0.2335
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13564 / 13564 = 1.0000
+BLEU_precision(2) = 5089 / 13038 = 0.3903
+BLEU_precision(3) = 2683 / 12512 = 0.2144
+BLEU_precision(4) = 585 / 11988 = 0.0488
+BLEU_precision = 0.2528
+Length of candidate corpus = 13564
+Effective length of reference corpus = 13565
+BLEU_BP = 0.9999
+  => BLEU = 0.2528
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13392 / 13392 = 1.0000
+BLEU_precision(2) = 5120 / 12866 = 0.3979
+BLEU_precision(3) = 2689 / 12341 = 0.2179
+BLEU_precision(4) = 590 / 11816 = 0.0499
+BLEU_precision = 0.2565
+Length of candidate corpus = 13392
+Effective length of reference corpus = 13392
+BLEU_BP = 1.0000
+  => BLEU = 0.2565
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13792 / 13792 = 1.0000
+BLEU_precision(2) = 5333 / 13266 = 0.4020
+BLEU_precision(3) = 2796 / 12740 = 0.2195
+BLEU_precision(4) = 621 / 12217 = 0.0508
+BLEU_precision = 0.2588
+Length of candidate corpus = 13792
+Effective length of reference corpus = 13792
+BLEU_BP = 1.0000
+  => BLEU = 0.2588
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 14139 / 14139 = 1.0000
+BLEU_precision(2) = 5385 / 13613 = 0.3956
+BLEU_precision(3) = 2820 / 13087 = 0.2155
+BLEU_precision(4) = 607 / 12564 = 0.0483
+BLEU_precision = 0.2533
+Length of candidate corpus = 14139
+Effective length of reference corpus = 14139
+BLEU_BP = 1.0000
+  => BLEU = 0.2533
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 13057 / 13057 = 1.0000
+BLEU_precision(2) = 4937 / 12531 = 0.3940
+BLEU_precision(3) = 2523 / 12007 = 0.2101
+BLEU_precision(4) = 486 / 11484 = 0.0423
+BLEU_precision = 0.2433
+Length of candidate corpus = 13057
+Effective length of reference corpus = 13057
+BLEU_BP = 1.0000
+  => BLEU = 0.2433
+
+ 
+	========================================================
+<=====================================================>
+		Summary
+train:499 sentences
+NGRAM SMOOTH Method: Add one Smoothing
+Pre/Post sept: 0.7
+Mean Optimal: false
+=> Optimizing Lambda: [0.04975277907319677,0.2,6.915585479814105E13]
+test:526 sentences
+=> Bleu Summary:
+Evaluating set of 1'th candidate realization ...
+BLEU_precision(1) = 14131 / 14131 = 1.0000
+BLEU_precision(2) = 5466 / 13605 = 0.4018
+BLEU_precision(3) = 2855 / 13079 = 0.2183
+BLEU_precision(4) = 618 / 12555 = 0.0492
+BLEU_precision = 0.2563
+Length of candidate corpus = 14131
+Effective length of reference corpus = 14131
+BLEU_BP = 1.0000
+  => BLEU = 0.2563
+
+ 
+	========================================================

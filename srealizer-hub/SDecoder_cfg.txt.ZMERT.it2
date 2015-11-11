@@ -1,0 +1,7 @@
+cands_file=cand_database_.txt
+cands_per_sen=50
+top_n=10
+
+RD 0.1
+Word Model 0.2
+Headword Model 0.05

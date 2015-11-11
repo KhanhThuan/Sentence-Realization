@@ -1,0 +1,4 @@
+RD		|||	0.1	Opt	-Inf	+Inf	-1	+1
+Word Model	|||	0.2	Opt	-Inf	+Inf	-1	+1
+Headword Model	||| -0.1	Opt	-Inf	+Inf	-1	+1
+normalization = none
