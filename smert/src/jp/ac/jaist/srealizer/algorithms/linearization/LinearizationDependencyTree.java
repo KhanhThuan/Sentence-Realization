@@ -92,8 +92,12 @@ public class LinearizationDependencyTree {
 			        
 				  }
 				  Candidate candidate = new Candidate();
-				  double[] feats = new double[3];
+				 
 			  	  String[] nums = s[2].trim().split("[\\s]+");
+			 	  double[] feats = new double[nums.length];
+			 	  for(int i = 0; i < nums.length; i++)
+			  		 feats[i] = Double.parseDouble(nums[i]);
+			 	  
 			  	  double score = 0.0;
 			  	 
 			  	  String[] indicies = s[0].trim().split("-");
